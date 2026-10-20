@@ -1,0 +1,9 @@
+pilot: 249 articles, 374 titles (incl. redirects), 1122 series, 1113 still to fetch
+  fetched 250 / 1113 new series, 447 s elapsed, about 26 min left
+  fetched 500 / 1113 new series, 866 s elapsed, about 18 min left
+  fetched 750 / 1113 new series, 1237 s elapsed, about 10 min left
+  fetched 1000 / 1113 new series, 1597 s elapsed, about 3 min left
+done: 1113 new requests in 1759 s
+en articles: 148 | fetched: 148 | series files missing: 0 | median share of views on current title: 1.000 | articles with <90% on current title: 4
+hi articles: 70 | fetched: 70 | series files missing: 0 | median share of views on current title: 0.999 | articles with <90% on current title: 6
+kn articles: 31 | fetched: 31 | series files missing: 0 | median share of views on current title: 1.000 | articles with <90% on current title: 5

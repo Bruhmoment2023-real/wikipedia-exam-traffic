@@ -1,0 +1,938 @@
+# Syllabus topic -> English Wikipedia article. Hand-curated on 2026-10-13 from the CBSE curriculum
+# documents in data/syllabus/ (2020-21 and 2024-25). Only topic NAMES are taken from the syllabus.
+# Line syntax:   topic                      (article title = topic, rule R1 "exact")
+#                topic => Article title     (rule R2 "named concept, different wording")
+#                topic => ~Article title    (rule R3 "article broader/narrower than topic" -> ambiguous=1)
+#                optional  ## kw=regex      (keyword used for the automatic check against the syllabus text)
+# Section headers:  [SUBJECT | unit]
+[X-SCI | Chemical reactions]
+Chemical equation
+Chemical reaction
+Decomposition reaction => Chemical decomposition ## kw=decomposition
+Displacement reaction => Single displacement reaction ## kw=displacement
+Double displacement reaction => Salt metathesis reaction ## kw=double displacement
+Precipitation => Precipitation (chemistry) ## kw=precipitation
+Neutralization => Neutralization (chemistry) ## kw=neutrali[sz]ation
+Oxidation and reduction => Redox ## kw=oxidation and reduction
+Rancidity
+Corrosion
+[X-SCI | Acids, bases and salts]
+Acid
+Base => Base (chemistry) ## kw=bases
+Salt => Salt (chemistry) ## kw=salts
+pH scale => pH ## kw=ph scale
+Indicator => pH indicator ## kw=indicator
+Sodium hydroxide
+Bleaching powder => Calcium hypochlorite
+Baking soda => Sodium bicarbonate
+Washing soda => Sodium carbonate
+Plaster of Paris => ~Plaster
+Chlor-alkali process => Chloralkali process ## kw=chlor
+[X-SCI | Metals and non-metals]
+Metal ## kw=metals
+Non-metal => Nonmetal ## kw=non.?metals
+Reactivity series
+Ionic compounds => Ionic bonding ## kw=ionic compounds
+Metallurgical processes => Metallurgy ## kw=metallurg
+Alloy
+Galvanization ## kw=galvani
+Amphoteric oxides => Amphoterism ## kw=amphoteric
+Roasting => Roasting (metallurgy) ## kw=roasting
+Calcination
+Electrolytic refining => ~Electrolysis ## kw=electroly
+[X-SCI | Carbon compounds]
+Covalent bonding => Covalent bond ## kw=covalent bond
+Homologous series
+Functional groups => Functional group ## kw=functional group
+Hydrocarbons => Hydrocarbon ## kw=hydro ?carbons
+Alkane ## kw=alkanes
+Alkene ## kw=alkenes
+Alkyne ## kw=alkynes
+Ethanol
+Ethanoic acid => Acetic acid ## kw=ethanoic acid
+Soap ## kw=soaps
+Detergent ## kw=detergents
+Saponification
+Esterification => Ester ## kw=ester
+Allotropes of carbon ## kw=allotrop
+Catenation
+Isomers => Isomer ## kw=isomer
+Micelle
+Addition reaction ## kw=addition
+Substitution reaction ## kw=substitution
+Combustion
+[X-SCI | Periodic classification of elements]
+Periodic table => Periodic table ## kw=periodic table
+Dobereiner's triads => Döbereiner's triads ## kw=dobereiner
+Newlands' law of octaves => ~History of the periodic table ## kw=law of octaves
+Mendeleev => Dmitri Mendeleev ## kw=mendeleev
+Gradation in properties => Periodic trends ## kw=gradation in properties
+Valency => Valence (chemistry) ## kw=valency
+Atomic number
+[X-SCI | Life processes]
+Nutrition
+Photosynthesis
+Respiration => Cellular respiration ## kw=respiration
+Digestive system => Human digestive system ## kw=nutrition
+Transport in animals => Circulatory system ## kw=transport
+Excretion
+Nephron
+Stomata => Stoma ## kw=stomata
+Transpiration
+Heart
+Xylem
+Phloem
+Autotrophic nutrition => Autotroph ## kw=autotroph
+Heterotrophic nutrition => Heterotroph ## kw=heterotroph
+Anaerobic respiration
+Kidney
+Lymph
+Breathing => Respiratory system ## kw=respirat
+[X-SCI | Control and coordination]
+Nervous system
+Neuron
+Reflex action => Reflex arc ## kw=reflex action
+Human brain
+Plant hormones => Plant hormone ## kw=plant hormones
+Tropic movements => Tropism ## kw=tropic movements
+Phototropism
+Chemical coordination => Endocrine system ## kw=chemical co.?ordination
+Animal hormones => Hormone ## kw=hormones
+Synapse
+Auxin
+Insulin
+[X-SCI | Reproduction]
+Asexual reproduction ## kw=asexual
+Sexual reproduction ## kw=sexual
+Fission => Fission (biology) ## kw=fission
+Budding
+Vegetative propagation => Vegetative reproduction ## kw=vegetative
+Pollination
+Human reproductive system ## kw=reproduct
+Family planning => Birth control ## kw=family planning
+Menstruation => Menstrual cycle ## kw=menstrua
+Fertilisation ## kw=fertili[sz]ation
+Regeneration => Regeneration (biology) ## kw=regeneration
+Fragmentation => Fragmentation (reproduction) ## kw=fragmentation
+Spore formation => Spore ## kw=spore
+Germination
+Placenta
+Puberty
+[X-SCI | Heredity and evolution]
+Heredity
+Mendel's laws of inheritance => Mendelian inheritance ## kw=laws for inheritance
+Mendel => Gregor Mendel ## kw=mendel
+Sex determination => Sex-determination system ## kw=sex determination
+Evolution
+Speciation
+Homologous organs => Homology (biology) ## kw=homolog
+Natural selection
+Dominant and recessive traits => Dominance (genetics) ## kw=dominan
+Fossil ## kw=fossils
+[X-SCI | Light]
+Reflection of light => Reflection (physics) ## kw=reflection of light
+Spherical mirrors => Curved mirror ## kw=spherical mirrors
+Refraction
+Refractive index
+Spherical lens => Lens ## kw=spherical lens
+Laws of refraction => Snell's law ## kw=laws of refraction
+Focal length
+Magnification
+Power of a lens => Optical power ## kw=power of a lens
+Human eye
+Myopia => Near-sightedness ## kw=defects of vision
+Hypermetropia => Far-sightedness ## kw=defects of vision
+Presbyopia ## kw=defects of vision
+Dispersion of light => Dispersion (optics) ## kw=dispersion
+Prism => Prism (optics) ## kw=prism
+Scattering of light => Rayleigh scattering ## kw=scattering of light
+Tyndall effect
+Atmospheric refraction
+Rainbow
+[X-SCI | Electricity]
+Electric current
+Potential difference => Voltage ## kw=potential difference
+Ohm's law ## kw=ohm.s law
+Resistance => Electrical resistance and conductance ## kw=resistance
+Resistivity => Electrical resistivity and conductivity ## kw=resistivity
+Series and parallel combination of resistors => Series and parallel circuits ## kw=series combination
+Heating effect of electric current => Joule heating ## kw=heating effect
+Electric power
+Electric charge
+[X-SCI | Magnetic effects of current]
+Magnetic field
+Solenoid
+Fleming's left hand rule => Fleming's left-hand rule for motors ## kw=fleming.s left
+Electric motor
+Electromagnetic induction
+Fleming's right hand rule => Fleming's right-hand rule ## kw=fleming.s right
+Electric generator
+Direct current
+Alternating current
+Electric fuse => Fuse (electrical) ## kw=fuse
+Electromagnet
+Right-hand thumb rule => Right-hand rule ## kw=right.?hand thumb
+Earthing => Ground (electricity) ## kw=earth
+Short circuit ## kw=short.?circuit
+Domestic electric circuits => ~Electrical wiring ## kw=domestic electric circuits
+[X-SCI | Sources of energy]
+Fossil fuels => Fossil fuel ## kw=fossil fuels
+Solar energy
+Biogas ## kw=bio.?gas
+Wind energy => Wind power ## kw=wind
+Hydro energy => Hydroelectricity ## kw=water and tidal energy|hydro
+Tidal energy => Tidal power ## kw=tidal
+Nuclear energy => Nuclear power ## kw=nuclear energy
+Renewable energy ## kw=renewable
+Geothermal energy ## kw=geo.?thermal
+Non-renewable sources => Non-renewable resource ## kw=non.?renewable
+[X-SCI | Our environment and natural resources]
+Ecosystem ## kw=eco.?system
+Food chain ## kw=food chains?
+Food web ## kw=food webs?
+Ozone depletion
+Biodegradable substances => Biodegradation ## kw=biodegradable
+Biological magnification => Biomagnification ## kw=magnification
+Trophic level ## kw=trophic
+Ozone layer ## kw=ozone
+Water harvesting => Rainwater harvesting ## kw=water harvesting
+Sustainability of natural resources => Sustainable development ## kw=sustainab
+Chipko movement ## kw=people.s participation
+Big dams => Dam ## kw=big dams
+Natural resources => Natural resource ## kw=natural resources
+[X-MAT | Number systems]
+Real numbers => Real number ## kw=real numbers?
+Euclid's division lemma => Euclidean division ## kw=euclid
+Fundamental theorem of arithmetic
+Irrational numbers => Irrational number ## kw=irrational
+Rational numbers => Rational number ## kw=rational
+HCF => Greatest common divisor ## kw=hcf
+LCM => Least common multiple ## kw=lcm
+Irrationality of root 2 => Square root of 2 ## kw=irrationality
+[X-MAT | Algebra]
+Polynomials => Polynomial ## kw=polynomials?
+Zeros of a polynomial => Zero of a function ## kw=zeros of a polynomial
+Division algorithm for polynomials => Polynomial long division ## kw=division algorithm for polynomials
+Pair of linear equations in two variables => System of linear equations ## kw=pair of linear equations
+Linear equation ## kw=linear equations?
+Cross multiplication method => ~Cramer's rule ## kw=cross multiplication
+Quadratic equations => Quadratic equation ## kw=quadratic equations?
+Quadratic formula
+Discriminant
+Completing the square
+Arithmetic progressions => Arithmetic progression ## kw=arithmetic progressions?
+[X-MAT | Coordinate geometry]
+Coordinate geometry => Analytic geometry ## kw=coordinate geometry
+Cartesian coordinates => Cartesian coordinate system ## kw=coordinate
+Distance formula => Euclidean distance ## kw=distance formula
+Section formula
+Mid-point => Midpoint ## kw=section formula
+Centroid ## kw=area of a triangle|centroid
+[X-MAT | Geometry]
+Similar triangles => Similarity (geometry) ## kw=similar triangles
+Basic proportionality theorem => Intercept theorem ## kw=divided in the same ratio|proportionality
+Pythagoras theorem => Pythagorean theorem ## kw=square on the hypotenuse|pythagoras
+Circle ## kw=circles?
+Tangent to a circle => Tangent lines to circles ## kw=tangents? to a circle
+Tangent ## kw=tangent
+Constructions => Straightedge and compass construction ## kw=constructions
+[X-MAT | Trigonometry]
+Trigonometry
+Trigonometric ratios => Trigonometric functions ## kw=trigonometric ratios
+Trigonometric identities => List of trigonometric identities ## kw=trigonometric identities
+sin2A + cos2A = 1 => Pythagorean trigonometric identity ## kw=sin ?2 ?a
+Heights and distances => ~Elevation (ballistics) ## kw=heights and distances
+[X-MAT | Mensuration]
+Areas related to circles => Area of a circle ## kw=area of a circle|areas related to circles
+Sector of a circle => Circular sector ## kw=sectors?
+Segment of a circle => Circular segment ## kw=segments?
+Surface areas => Surface area ## kw=surface areas?
+Volumes => Volume ## kw=volumes?
+Frustum of a cone => Frustum ## kw=frustum
+Cone ## kw=cones?
+Cylinder ## kw=cylinders?
+Sphere ## kw=spheres?
+[X-MAT | Statistics and probability]
+Statistics
+Mean => Arithmetic mean ## kw=mean
+Median
+Mode => Mode (statistics) ## kw=mode
+Cumulative frequency graph => Ogive (statistics) ## kw=cumulative frequency
+Probability
+[X-SST | History]
+Rise of nationalism in Europe => Nationalism ## kw=nationalism in europe
+French Revolution
+Making of Germany => Unification of Germany ## kw=germany
+Making of Italy => Unification of Italy ## kw=italy
+Mazzini => Giuseppe Mazzini ## kw=mazzini|italy
+Bismarck => Otto von Bismarck ## kw=bismarck|germany
+Garibaldi => Giuseppe Garibaldi ## kw=garibaldi|italy
+Treaty of Vienna => Congress of Vienna ## kw=vienna|nationalism in europe
+Revolutions of 1848 => Revolutions of 1848 ## kw=1848|age of revolutions
+Napoleonic Code ## kw=napoleon|nationalism in europe
+Zollverein ## kw=zollverein|nationalism in europe
+Romanticism ## kw=romantic
+Nationalism in India => Indian independence movement ## kw=nationalism in india
+Non-cooperation movement => Non-cooperation movement (1919–1922) ## kw=non.?cooperation
+Civil disobedience / Salt March => Salt March ## kw=civil disobedience
+Jallianwala Bagh => Jallianwala Bagh massacre ## kw=jallianwala|nationalism in india
+Rowlatt Act ## kw=rowlatt|nationalism in india
+Khilafat => Khilafat Movement ## kw=khilafat
+Simon Commission ## kw=simon|civil disobedience
+Satyagraha
+Quit India Movement ## kw=quit india
+Poona Pact ## kw=poona|civil disobedience
+Mahatma Gandhi ## kw=gandhi
+Champaran Satyagraha ## kw=champaran|satyagraha
+Chauri Chaura => Chauri Chaura incident ## kw=chauri|non.?cooperation
+Swadeshi movement ## kw=swadeshi|nationalism in india
+Making of a global world => Globalization ## kw=global world
+Silk routes => Silk Road ## kw=silk|pre.?modern world
+Great Depression
+Bretton Woods => Bretton Woods system ## kw=bretton|post.?war
+Rinderpest ## kw=rinderpest|global world
+Corn Laws ## kw=corn law|nineteenth century
+Indentured labour => Indian indenture system ## kw=indentured|global world
+Age of industrialisation => Industrial Revolution ## kw=industriali[sz]ation
+East India Company ## kw=east india|industriali[sz]ation
+Spinning jenny ## kw=spinning|industriali[sz]ation
+Print culture => Printing press ## kw=print culture
+Gutenberg => Johannes Gutenberg ## kw=gutenberg|print
+Vernacular Press Act ## kw=vernacular|print
+[X-SST | Geography]
+Resources => Resource ## kw=resources
+Soil ## kw=soils?
+Alluvial soil => Alluvium ## kw=soil
+Laterite ## kw=soil
+Soil erosion ## kw=soil erosion
+Land degradation
+Agenda 21 ## kw=agenda|resource planning
+Deforestation ## kw=forest
+Project Tiger ## kw=project tiger|conservation of forest
+Biodiversity ## kw=bio.?diversity
+Multi-purpose river projects => Dam ## kw=multi.?purpose
+Narmada Bachao Andolan ## kw=narmada|multi.?purpose
+Agriculture => Agriculture in India ## kw=agriculture
+Shifting cultivation => Shifting cultivation ## kw=types of farming|farming
+Kharif => Kharif crop ## kw=cropping pattern|kharif
+Rabi => Rabi crop ## kw=cropping pattern|rabi
+Zaid => Zaid crops ## kw=cropping pattern|zaid
+Green Revolution => Green Revolution in India ## kw=technological and institutional reforms|green revolution
+Plantation ## kw=types of farming|plantation
+Rice ## kw=major crops|rice
+Wheat ## kw=major crops|wheat
+Millets => Millet ## kw=major crops|millet
+Tea ## kw=major crops|\btea\b
+Coffee ## kw=major crops|coffee
+Sugarcane ## kw=major crops|sugar
+Cotton ## kw=major crops|cotton
+Jute ## kw=major crops|jute
+Minerals => Mineral ## kw=minerals?
+Iron ore ## kw=ferrous|iron ore
+Bauxite ## kw=non.?ferrous|bauxite
+Manganese ## kw=ferrous|manganese
+Mica ## kw=non.?metallic|mica
+Coal ## kw=conventional|coal
+Petroleum ## kw=conventional|petroleum
+Natural gas ## kw=conventional|natural gas
+Manufacturing industries => Manufacturing ## kw=manufacturing
+Textile industry => Textile industry in India ## kw=textile|agro.?based
+Iron and steel industry => Iron and steel industry in India ## kw=iron and steel|mineral.?based
+Information technology industry => Information technology in India ## kw=information technology
+Golden Quadrilateral ## kw=roadways|golden
+Railways => Indian Railways ## kw=railways
+Pipelines => Pipeline transport ## kw=pipelines
+Major seaports => Ports in India ## kw=sea ?ports|waterways
+Tourism => Tourism in India ## kw=tourism
+International trade
+Hirakud Dam ## kw=hirakud|dams
+Bhakra Dam ## kw=bhakra|dams
+Sardar Sarovar Dam ## kw=sardar sarovar|dams
+Tehri Dam ## kw=tehri|dams
+Joint Forest Management ## kw=joint forest|community and conservation
+[X-SST | Political science]
+Power sharing => ~Consociationalism ## kw=power.?sharing
+Belgium ## kw=belgium
+Sri Lanka => Sri Lankan Civil War ## kw=sri lanka
+Majoritarianism ## kw=majoritarianism|sri lanka
+Federalism
+Federalism in India ## kw=india a federal country|federalism
+Decentralisation => Decentralization ## kw=decentrali[sz]ation
+Panchayati raj ## kw=decentrali[sz]ation|panchayat
+Linguistic states => States Reorganisation Act, 1956 ## kw=linguistic states|language policy
+Language policy => Languages of India ## kw=language policy
+Union List ## kw=federal|union list
+State List ## kw=federal|state list
+Concurrent List ## kw=federal|concurrent list
+Gender and politics => Feminism ## kw=gender
+Caste and politics => Caste system in India ## kw=caste
+Communalism => ~Communalism (South Asia) ## kw=communalism
+Secular state => Secularism in India ## kw=secular
+Political parties => Political party ## kw=political parties
+Indian National Congress ## kw=national parties|national political parties
+Bharatiya Janata Party ## kw=national parties|national political parties
+Bahujan Samaj Party ## kw=national parties|national political parties
+Communist Party of India (Marxist) ## kw=national parties|national political parties
+Election Commission of India ## kw=political parties|election commission
+Multi-party system ## kw=how many parties|party system
+Two-party system ## kw=how many parties|party system
+Coalition government ## kw=coalition|political parties
+Outcomes of democracy => Democracy ## kw=outcomes of democracy
+[X-SST | Economics]
+Development => Human Development Index ## kw=development
+National income => Gross domestic product ## kw=income
+Per capita income ## kw=income
+Infant mortality ## kw=income and other criteria|development
+Literacy => Literacy in India ## kw=income and other criteria|development
+Primary sector => Primary sector of the economy ## kw=primary
+Secondary sector => Secondary sector of the economy ## kw=secondary
+Tertiary sector => Tertiary sector of the economy ## kw=tertiary
+Unemployment => Unemployment ## kw=employment
+Disguised unemployment => ~Underemployment ## kw=employment
+MGNREGA => National Rural Employment Guarantee Act, 2005 ## kw=employment|nrega
+Organised and unorganised sectors => Informal economy ## kw=un.?organi[sz]ed
+Public sector ## kw=public and private|public sector
+Private sector ## kw=public and private|private sector
+Money
+Barter ## kw=double coincidence|money
+Reserve Bank of India ## kw=modern forms of money|reserve bank
+Credit ## kw=credit
+Self-help groups => Self-help group (finance) ## kw=self.?help groups
+Collateral => Collateral (finance) ## kw=terms of credit|collateral
+Demand deposits => Demand deposit ## kw=modern forms of money|deposits
+Globalisation and the Indian economy => Economic liberalisation in India ## kw=globali[sz]ation
+Multinational corporations => Multinational corporation ## kw=production across countries|multinational
+Foreign investment => Foreign direct investment ## kw=foreign trade|investment
+World Trade Organisation => World Trade Organization ## kw=world trade organi[sz]ation
+Trade barriers => Trade barrier ## kw=foreign trade|barrier
+Special economic zone ## kw=globali[sz]ation
+Consumer rights => Consumer protection ## kw=consumer
+Right to Information => Right to Information Act, 2005 ## kw=consumer|information
+Bureau of Indian Standards ## kw=consumer
+Public distribution system ## kw=development|public
+[XII-PHY | Electrostatics]
+Coulomb's law ## kw=coulomb.s law
+Electric field
+Electric dipole => Electric dipole moment ## kw=electric dipole
+Gauss's theorem => Gauss's law ## kw=gauss
+Electric flux
+Electric potential
+Electric potential energy ## kw=potential energy
+Equipotential surfaces => Equipotential ## kw=equipotential
+Capacitor ## kw=capacitors?
+Capacitance
+Dielectric ## kw=dielectrics?
+Van de Graaff generator ## kw=van de graaff
+[XII-PHY | Current electricity]
+Drift velocity
+Electromotive force => Electromotive force ## kw=emf
+Internal resistance
+Kirchhoff's laws => Kirchhoff's circuit laws ## kw=kirchhoff
+Wheatstone bridge
+Potentiometer => Potentiometer (measuring instrument) ## kw=potentiometer
+Mobility => Electron mobility ## kw=mobility
+[XII-PHY | Magnetic effects of current and magnetism]
+Biot-Savart law => Biot–Savart law ## kw=biot
+Ampere's law => Ampère's circuital law ## kw=ampere.s law
+Lorentz force => Lorentz force ## kw=force on a moving charge
+Cyclotron
+Moving coil galvanometer => Galvanometer ## kw=galvanometer
+Ammeter
+Voltmeter
+Magnetic dipole moment => Magnetic moment ## kw=magnetic dipole
+Diamagnetic substances => Diamagnetism ## kw=dia
+Paramagnetic substances => Paramagnetism ## kw=para.? ?,? ?dia|para.?magnetic|para
+Ferromagnetic substances => Ferromagnetism ## kw=ferro
+Earth's magnetic field ## kw=earth.s magnetic field
+Hysteresis ## kw=hysteresis|ferro
+Toroid => Toroidal inductors and transformers ## kw=toroid
+[XII-PHY | Electromagnetic induction and alternating currents]
+Faraday's laws => Faraday's law of induction ## kw=faraday
+Lenz's law ## kw=lenz
+Eddy currents => Eddy current ## kw=eddy
+Self and mutual induction => Inductance ## kw=mutual induction
+LC oscillations => LC circuit ## kw=lc oscillations
+LCR series circuit => RLC circuit ## kw=lcr
+Reactance => Electrical reactance ## kw=reactance
+Impedance => Electrical impedance ## kw=impedance
+Resonance => Electrical resonance ## kw=resonance
+Power factor
+Transformer
+AC generator => Alternator ## kw=ac generator
+Magnetic flux ## kw=magnetic flux|electromagnetic induction
+[XII-PHY | Electromagnetic waves]
+Displacement current
+Electromagnetic waves => Electromagnetic radiation ## kw=electromagnetic waves
+Electromagnetic spectrum
+Maxwell's equations ## kw=maxwell|displacement current
+X-rays => X-ray ## kw=x.?rays
+Microwaves => Microwave ## kw=microwaves
+Infrared
+Ultraviolet
+Radio waves => Radio wave ## kw=radio ?waves
+Gamma rays => Gamma ray ## kw=gamma
+[XII-PHY | Optics]
+Total internal reflection
+Optical fibres => Optical fiber ## kw=optical fib
+Lens maker's formula => ~Lens ## kw=lens ?maker
+Microscope => Optical microscope ## kw=microscopes?
+Astronomical telescope => Telescope ## kw=telescopes?
+Refracting telescope ## kw=refracting
+Reflecting telescope ## kw=reflecting
+Huygens principle => Huygens–Fresnel principle ## kw=huygen
+Wavefront ## kw=wave ?front
+Interference => Wave interference ## kw=interference
+Young's double slit experiment => Double-slit experiment ## kw=young.s double
+Diffraction
+Polarisation => Polarization (waves) ## kw=polari[sz]
+Brewster's law => Brewster's angle ## kw=brewster
+Coherent sources => Coherence (physics) ## kw=coherent
+Resolving power => Angular resolution ## kw=resolving power
+Polaroids => Polarizer ## kw=polaroid
+[XII-PHY | Dual nature of radiation and matter]
+Photoelectric effect
+Photon ## kw=particle nature of light|photon
+Matter waves => Matter wave ## kw=matter waves
+Davisson-Germer experiment => Davisson–Germer experiment ## kw=davisson
+Work function ## kw=einstein.s photoelectric|work function
+[XII-PHY | Atoms and nuclei]
+Alpha-particle scattering experiment => Rutherford scattering experiments ## kw=alpha.?particle scattering
+Bohr model
+Hydrogen spectrum => Hydrogen spectral series ## kw=hydrogen spectrum
+Nucleus => Atomic nucleus ## kw=nucleus
+Binding energy => Nuclear binding energy ## kw=binding energy
+Mass-energy relation => Mass–energy equivalence ## kw=mass.?energy
+Radioactivity => Radioactive decay ## kw=radioactiv
+Nuclear fission
+Nuclear fusion ## kw=fusion
+Half-life ## kw=decay law|half.?life
+Alpha decay ## kw=alpha
+Beta decay ## kw=beta
+[XII-PHY | Electronic devices]
+Semiconductor ## kw=semiconductors?
+p-n junction => P–n junction ## kw=p.?n junction|junction
+Semiconductor diode => Diode ## kw=diode
+Rectifier
+Zener diode
+LED => Light-emitting diode ## kw=led
+Photodiode
+Solar cell
+Transistor
+Logic gates => Logic gate ## kw=logic gates
+Energy bands => Electronic band structure ## kw=energy bands
+Intrinsic and extrinsic semiconductors => Doping (semiconductor) ## kw=extrinsic
+Amplitude modulation ## kw=amplitude modulation|modulation
+[XII-CHE | Solid state]
+Crystal lattices and unit cells => Crystal structure ## kw=unit cell
+Bravais lattice ## kw=unit cell|lattice
+Point defects => Crystallographic defect ## kw=point defects
+Close packing => Close-packing of equal spheres ## kw=packing
+Amorphous and crystalline solids => Amorphous solid ## kw=amorphous
+[XII-CHE | Solutions]
+Solution => Solution (chemistry) ## kw=solutions
+Molarity => Molar concentration ## kw=concentration
+Molality ## kw=concentration|molality
+Raoult's law ## kw=raoult
+Henry's law ## kw=henry|solubility of gases
+Colligative properties
+Osmotic pressure
+Depression of freezing point => Freezing-point depression ## kw=depression of freezing point
+Elevation of boiling point => Boiling-point elevation ## kw=elevation of boiling point
+Van't Hoff factor => Van 't Hoff factor ## kw=van.?t hoff
+Azeotrope ## kw=azeotrop|raoult
+Osmosis ## kw=osmo
+Reverse osmosis ## kw=osmo
+[XII-CHE | Electrochemistry]
+Electrochemistry
+Galvanic cell ## kw=galvanic cells?
+Nernst equation
+Standard electrode potential
+Electrolytic cell ## kw=electrolytic
+Kohlrausch's law => Molar conductivity ## kw=kohlrausch
+Laws of electrolysis => Faraday's laws of electrolysis ## kw=electrolysis
+Lead accumulator => Lead–acid battery ## kw=lead accumulator
+Fuel cells => Fuel cell ## kw=fuel cells?
+Dry cell ## kw=dry cell
+Standard hydrogen electrode ## kw=electrode potential
+Daniell cell ## kw=galvanic|daniell
+Gibbs energy and EMF => Gibbs free energy ## kw=gibbs
+[XII-CHE | Chemical kinetics]
+Chemical kinetics
+Rate of a reaction => Reaction rate ## kw=rate of a reaction
+Rate law => Rate equation ## kw=rate law
+Arrhenius equation
+Activation energy
+Collision theory
+Catalyst => Catalysis ## kw=catalys
+Molecularity
+[XII-CHE | Surface chemistry]
+Adsorption
+Colloids => Colloid ## kw=colloid
+Emulsion ## kw=emulsions?
+Brownian movement => Brownian motion ## kw=brownian
+Electrophoresis
+Enzyme catalysis
+[XII-CHE | Isolation of elements]
+Froth flotation ## kw=concentration
+Ellingham diagram ## kw=principles and methods of extraction|ellingham
+Zone refining => Zone melting ## kw=refining
+[XII-CHE | p-block elements]
+Ammonia
+Nitric acid
+Sulphuric acid => Sulfuric acid ## kw=sulphuric acid
+Ozone
+Phosphorus
+Noble gases => Noble gas ## kw=group ?-? ?18
+Halogens => Halogen ## kw=group ?-? ?17|halogens
+Interhalogen compounds => Interhalogen ## kw=interhalogen
+Haber process ## kw=ammonia
+Ostwald process ## kw=nitric acid
+Contact process ## kw=sulphuric acid
+[XII-CHE | d- and f-block elements]
+Transition metals => Transition metal ## kw=transition metals
+Lanthanoids => Lanthanide ## kw=lanthan
+Actinoids => Actinide ## kw=actin
+Lanthanoid contraction => Lanthanide contraction ## kw=lanthan\w+ contraction
+Potassium permanganate => Potassium permanganate ## kw=kmno
+Potassium dichromate => Potassium dichromate ## kw=k ?2 ?cr ?2 ?o ?7
+[XII-CHE | Coordination compounds]
+Coordination compounds => Coordination complex ## kw=coordination compounds
+Ligands => Ligand ## kw=ligands
+Crystal field theory ## kw=cft|crystal field
+Valence bond theory ## kw=vbt|valence bond
+Werner's theory => Alfred Werner ## kw=werner
+Chelation ## kw=ligands|chelat
+Linkage isomerism ## kw=isomerism
+Spectrochemical series ## kw=cft|crystal field
+Denticity ## kw=ligands
+[XII-CHE | Haloalkanes and haloarenes]
+Haloalkanes => Haloalkane ## kw=haloalkanes
+Haloarenes => Aryl halide ## kw=haloarenes
+SN1 reaction ## kw=substitution reactions|mechanism of substitution
+SN2 reaction ## kw=substitution reactions|mechanism of substitution
+Grignard reagent ## kw=haloalkanes
+Elimination reaction ## kw=haloalkanes
+Markovnikov's rule ## kw=haloalkanes
+Wurtz reaction ## kw=haloalkanes
+Sandmeyer reaction ## kw=haloarenes
+Finkelstein reaction ## kw=haloalkanes
+Optical rotation ## kw=optical rotation
+Chirality => Chirality (chemistry) ## kw=optical rotation
+Enantiomer ## kw=optical rotation
+Racemic mixture ## kw=optical rotation
+DDT ## kw=ddt
+Chloroform => Chloroform ## kw=trichloromethane
+Freons => Chlorofluorocarbon ## kw=freons
+[XII-CHE | Alcohols, phenols and ethers]
+Alcohols => Alcohol (chemistry) ## kw=alcohols
+Phenols => Phenol ## kw=phenols
+Ethers => Ether ## kw=ethers
+Williamson ether synthesis ## kw=ethers
+Reimer-Tiemann reaction => Reimer–Tiemann reaction ## kw=phenols
+Kolbe reaction => Kolbe–Schmitt reaction ## kw=phenols
+Lucas test => Lucas' reagent ## kw=identification of primary, secondary
+Hydroboration-oxidation => Hydroboration–oxidation reaction ## kw=alcohols
+Methanol
+[XII-CHE | Aldehydes, ketones and carboxylic acids]
+Aldehydes => Aldehyde ## kw=aldehydes
+Ketones => Ketone ## kw=ketones
+Carboxylic acids => Carboxylic acid ## kw=carboxylic acids
+Aldol condensation ## kw=alpha hydrogen|aldehydes
+Cannizzaro reaction ## kw=aldehydes
+Clemmensen reduction ## kw=aldehydes
+Wolff-Kishner reduction => Wolff–Kishner reduction ## kw=aldehydes
+Tollens' test => Tollens' reagent ## kw=aldehydes
+Fehling's test => Fehling's solution ## kw=aldehydes
+Rosenmund reduction ## kw=aldehydes
+Hell-Volhard-Zelinsky reaction => Hell–Volhard–Zelinsky halogenation ## kw=carboxylic acids
+Nucleophilic addition ## kw=nucleophilic addition
+Haloform reaction ## kw=aldehydes
+Friedel-Crafts reaction => Friedel–Crafts reaction ## kw=haloarenes|aldehydes
+[XII-CHE | Amines]
+Amines => Amine ## kw=amines
+Gabriel synthesis ## kw=amines
+Hofmann bromamide reaction => Hofmann rearrangement ## kw=amines
+Carbylamine reaction ## kw=amines
+Diazonium salts => Diazonium compound ## kw=diazonium
+Hinsberg test => Hinsberg reaction ## kw=identification of primary, secondary
+Aniline ## kw=amines
+Coupling reaction => Azo coupling ## kw=diazonium
+[XII-CHE | Biomolecules]
+Carbohydrates => Carbohydrate ## kw=carbohydrates
+Glucose
+Fructose
+Sucrose
+Starch
+Cellulose
+Glycogen
+Proteins => Protein ## kw=proteins
+Amino acids => Amino acid ## kw=amino acids
+Peptide bond
+Enzymes => Enzyme ## kw=enzymes
+Vitamins => Vitamin ## kw=vitamins
+Nucleic acids => Nucleic acid ## kw=nucleic acids
+DNA
+RNA
+Denaturation of proteins => Denaturation (biochemistry) ## kw=denaturation
+Monosaccharides => Monosaccharide ## kw=monosaccha
+Polysaccharides => Polysaccharide ## kw=polysaccha
+Structure of proteins => Protein structure ## kw=structure of proteins
+Zwitterion ## kw=amino acids
+[XII-CHE | Polymers]
+Polymers => Polymer ## kw=polymers?
+Polymerisation => Polymerization ## kw=polymeri[sz]ation
+Nylon
+Bakelite
+Natural rubber => Natural rubber ## kw=rubber
+Vulcanisation => Vulcanization ## kw=rubber
+Polythene => Polyethylene ## kw=polythene
+Biodegradable polymers => Biodegradable polymer ## kw=biodegradable
+[XII-CHE | Chemistry in everyday life]
+Analgesics => Analgesic ## kw=analgesics
+Antibiotics => Antibiotic ## kw=antibiotics
+Antiseptics => Antiseptic ## kw=antiseptics
+Antacids => Antacid ## kw=antacids
+Tranquilizers => Tranquilizer ## kw=tranquili[sz]ers
+Artificial sweetening agents => Sugar substitute ## kw=sweetening
+Preservatives => Food preservation ## kw=preservatives
+Antihistamines => Antihistamine ## kw=antihistamines
+[XII-BIO | Reproduction]
+Flower structure => Flower ## kw=flower structure
+Pollen ## kw=pollen
+Double fertilization ## kw=double fertili[sz]ation
+Ovule ## kw=gametophytes|ovule
+Apomixis
+Polyembryony
+Endosperm
+Stamen ## kw=flower structure|gametophytes
+Parthenocarpy
+Seed ## kw=seeds?
+Fruit ## kw=fruits?
+Outbreeding devices => Self-incompatibility ## kw=outbreeding
+Spermatogenesis
+Oogenesis
+Implantation => Implantation (embryology) ## kw=implantation
+Pregnancy
+Parturition => Childbirth ## kw=parturition
+Lactation
+Testis => Testicle ## kw=testis
+Ovary
+Blastocyst ## kw=blastocyst
+Sexually transmitted diseases => Sexually transmitted infection ## kw=sexually transmitted
+IVF => In vitro fertilisation ## kw=ivf
+Amniocentesis
+Infertility
+Assisted reproductive technologies => Assisted reproductive technology ## kw=assisted reproductive
+Medical termination of pregnancy => Abortion ## kw=medical termination
+[XII-BIO | Genetics and evolution]
+Punnett square ## kw=mendelian inheritance
+Co-dominance => ~Dominance (genetics) ## kw=co.?dominance
+Blood groups => ABO blood group system ## kw=blood groups
+Pleiotropy
+Polygenic inheritance => ~Quantitative trait locus ## kw=polygenic
+Chromosome theory of inheritance => Boveri–Sutton chromosome theory ## kw=chromosome theory
+Linkage => Genetic linkage ## kw=linkage
+Crossing over => Chromosomal crossover ## kw=crossing over
+Sex linked inheritance => Sex linkage ## kw=sex.?linked
+Mutation ## kw=mutation|mendelian disorders
+Pedigree analysis => Pedigree chart ## kw=pedigree|mendelian disorders
+Haemophilia ## kw=ha?emophilia
+Sickle cell anaemia => Sickle cell disease ## kw=mendelian disorders|sickle
+Phenylketonuria ## kw=mendelian disorders
+Thalassemia
+Down's syndrome => Down syndrome ## kw=down.?s syndrome
+Turner's syndrome => Turner syndrome ## kw=turner
+Klinefelter's syndrome => Klinefelter syndrome ## kw=klinefelter
+Colour blindness => Color blindness ## kw=colou?r blindness
+DNA replication
+Transcription => Transcription (biology) ## kw=transcription
+Translation => Translation (biology) ## kw=translation
+Genetic code
+Lac operon
+Human genome project => Human Genome Project ## kw=human genome project|genome
+DNA fingerprinting => DNA profiling ## kw=dna finger ?printing
+Central dogma => Central dogma of molecular biology ## kw=central dogma
+Search for genetic material: Griffith => Griffith's experiment ## kw=search for genetic material
+Search for genetic material: Hershey-Chase => Hershey–Chase experiment ## kw=search for genetic material
+Meselson-Stahl experiment => Meselson–Stahl experiment ## kw=dna replication
+DNA packaging => Nucleosome ## kw=dna packaging
+Messenger RNA ## kw=transcription
+Transfer RNA ## kw=translation
+Operon ## kw=lac operon
+Origin of life => Abiogenesis ## kw=origin of life
+Miller-Urey experiment => Miller–Urey experiment ## kw=origin of life
+Darwin's contribution => Darwinism ## kw=darwin
+Hardy-Weinberg principle => Hardy–Weinberg principle ## kw=hardy
+Adaptive radiation
+Human evolution
+Lamarckism ## kw=biological evolution|evolution
+Convergent evolution ## kw=evidences for biological evolution|evolution
+Genetic drift
+Gene flow ## kw=gene flow
+[XII-BIO | Biology and human welfare]
+Malaria
+Typhoid => Typhoid fever ## kw=typhoid
+Pneumonia
+Common cold
+Amoebiasis
+Ascariasis
+Filariasis
+Ringworm => Dermatophytosis ## kw=ring ?worm
+Dengue => Dengue fever ## kw=dengue
+Chikungunya ## kw=chikungun[iy]a
+Immunology => Immune system ## kw=immunology
+Vaccines => Vaccine ## kw=vaccines
+Antibody ## kw=immunology
+Allergy ## kw=immunology
+Autoimmunity ## kw=immunology
+AIDS => HIV/AIDS ## kw=aids
+Cancer
+Drug and alcohol abuse => Substance abuse ## kw=drug and alcohol abuse
+Plasmodium ## kw=malaria
+Lymphocyte ## kw=immunology
+Innate immunity => Innate immune system ## kw=immunology
+Plant breeding
+Tissue culture => Plant tissue culture ## kw=tissue culture
+Single cell protein => Single-cell protein ## kw=single cell protein
+Biofortification
+Animal husbandry
+Apiculture => Beekeeping ## kw=apiculture
+Sewage treatment
+Biocontrol agents => Biological pest control ## kw=biocontrol
+Biofertilizers => Biofertilizer ## kw=biofertili[sz]ers
+Penicillin ## kw=antibiotics
+Fermentation ## kw=industrial production|household food processing
+Mycorrhiza ## kw=biofertili[sz]ers
+Activated sludge ## kw=sewage treatment
+Rhizobium ## kw=biofertili[sz]ers
+[XII-BIO | Biotechnology]
+Biotechnology
+Genetic engineering
+Recombinant DNA technology => Recombinant DNA ## kw=recombinant dna
+Restriction enzyme ## kw=genetic engineering|recombinant dna
+Polymerase chain reaction ## kw=genetic engineering|recombinant dna
+Gel electrophoresis ## kw=genetic engineering|recombinant dna
+Cloning vector ## kw=genetic engineering|recombinant dna
+Plasmid ## kw=genetic engineering|recombinant dna
+Bioreactor ## kw=genetic engineering|recombinant dna
+Bt crops => Bt cotton ## kw=bt crops
+Gene therapy
+RNA interference ## kw=genetically modified organisms|bt crops
+Genetically modified organisms => Genetically modified organism ## kw=genetically modified organisms
+Biopiracy
+Human insulin => Insulin (medication) ## kw=human insulin
+Transgenic animals => Genetically modified animal ## kw=transgenic animals
+ELISA ## kw=gene therapy|molecular diagnosis|vaccine production
+DNA ligase ## kw=genetic engineering|recombinant dna
+Agrobacterium tumefaciens ## kw=genetic engineering|recombinant dna
+[XII-BIO | Ecology and environment]
+Ecology ## kw=ecolog
+Mutualism => Mutualism (biology) ## kw=mutualism
+Predation
+Parasitism
+Competition => Competition (biology) ## kw=competition
+Commensalism ## kw=population interactions
+Population growth => Population dynamics ## kw=growth
+Logistic growth => Logistic function ## kw=population attributes|growth
+Adaptations => Adaptation ## kw=adaptations
+Productivity => Primary production ## kw=productivity
+Decomposition
+Energy flow => Energy flow (ecology) ## kw=energy flow
+Ecological pyramids => Ecological pyramid ## kw=pyramids
+Ecological succession ## kw=ecological succession
+Nutrient cycles => Nutrient cycle ## kw=nutrient cycl
+Carbon cycle ## kw=carbon
+Phosphorus cycle ## kw=nutrient cycl|phosphorous
+Biodiversity hotspots => Biodiversity hotspot ## kw=hotspots
+Endangered organisms => Endangered species ## kw=endangered
+Extinction
+Red Data Book => IUCN Red List ## kw=red data book
+National parks => National park ## kw=national parks
+Biosphere reserves => Man and the Biosphere Programme ## kw=biosphere reserves
+Species-area relationship => Species–area relationship ## kw=patterns|biodiversity
+Sacred groves => Sacred grove ## kw=sacred groves|biodiversity conservation
+Ramsar sites => Ramsar Convention ## kw=ramsar
+Air pollution
+Water pollution
+Eutrophication ## kw=water pollution
+Global warming => Climate change ## kw=global warming|green ?house effect
+Greenhouse effect ## kw=green ?house effect
+Biochemical oxygen demand ## kw=sewage treatment|water pollution
+Solid waste management => Municipal solid waste ## kw=solid waste
+Radioactive waste management => Radioactive waste ## kw=radioactive waste
+Montreal Protocol ## kw=ozone
+[XII-MAT | Relations and functions]
+Relations => Binary relation ## kw=relations
+Equivalence relations => Equivalence relation ## kw=equivalence
+One to one functions => Injective function ## kw=one to one
+Onto functions => Surjective function ## kw=onto
+Bijection ## kw=one to one and onto
+Composite functions => Function composition ## kw=composite functions
+Inverse of a function => Inverse function ## kw=inverse of a function
+Binary operations => Binary operation ## kw=binary operations
+Inverse trigonometric functions
+[XII-MAT | Algebra]
+Matrices => Matrix (mathematics) ## kw=matrices
+Transpose of a matrix => Transpose ## kw=transpose
+Symmetric matrices => Symmetric matrix ## kw=symmetric
+Skew symmetric matrices => Skew-symmetric matrix ## kw=skew
+Multiplication of matrices => Matrix multiplication ## kw=multiplication
+Invertible matrices => Invertible matrix ## kw=invertible
+Determinants => Determinant ## kw=determinants?
+Adjoint of a matrix => Adjugate matrix ## kw=adjoint
+Minors and cofactors => Minor (linear algebra) ## kw=minors
+Identity matrix ## kw=identity
+Elementary row and column operations => Elementary matrix ## kw=elementary
+[XII-MAT | Calculus]
+Continuity => Continuous function ## kw=continuity
+Differentiability => Differentiable function ## kw=differentiability
+Derivative ## kw=derivatives?
+Chain rule
+Derivatives of implicit functions => Implicit function ## kw=implicit
+Logarithmic differentiation
+Rolle's theorem ## kw=rolle
+Mean value theorem ## kw=mean value
+Second order derivatives => Second derivative ## kw=second order
+Maxima and minima
+Increasing and decreasing functions => Monotonic function ## kw=increasing
+Integration as inverse of differentiation => Antiderivative ## kw=inverse process of differentiation
+Integrals => Integral ## kw=integrals?
+Integration by parts ## kw=by parts
+Integration by substitution ## kw=substitution
+Integration by partial fractions => Partial fraction decomposition ## kw=partial fractions
+Fundamental theorem of calculus
+Differential equations => Differential equation ## kw=differential equations?
+Method of separation of variables => Separation of variables ## kw=separation of variables
+Homogeneous differential equations => Homogeneous differential equation ## kw=homogeneous
+Linear differential equation ## kw=linear differential equation
+Exponential function ## kw=exponential
+Logarithmic function => Logarithm ## kw=logarithmic
+Parametric forms => Parametric equation ## kw=parametric
+Definite integral as limit of a sum => Riemann sum ## kw=limit of a sum
+[XII-MAT | Vectors and three-dimensional geometry]
+Vectors => Euclidean vector ## kw=vectors
+Scalar (dot) product => Dot product ## kw=dot
+Vector (cross) product => Cross product ## kw=cross
+Scalar triple product => Triple product ## kw=triple product
+Direction cosines => Direction cosine ## kw=direction cosines
+Unit vector ## kw=unit
+Position vector => Position (geometry) ## kw=position vector
+Skew lines
+Coplanar lines => Coplanarity ## kw=coplanar
+Collinear vectors => Collinearity ## kw=collinear
+Equation of a plane => Plane (mathematics) ## kw=plane
+Equation of a line => Line (geometry) ## kw=equation of a line
+Projection of a vector => Vector projection ## kw=projection
+[XII-MAT | Linear programming and probability]
+Linear programming
+Feasible region ## kw=feasible
+Conditional probability
+Bayes' theorem ## kw=baye
+Random variable
+Probability distribution
+Binomial distribution
+Bernoulli trials => Bernoulli trial ## kw=bernoulli
+Independent events => Independence (probability theory) ## kw=independent events
+Mean of random variable => Expected value ## kw=mean of random variable|mean and variance
+Variance ## kw=variance
+Total probability => Law of total probability ## kw=total probability

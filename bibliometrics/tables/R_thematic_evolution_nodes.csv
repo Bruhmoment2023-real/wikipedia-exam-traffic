@@ -1,0 +1,20 @@
+"name","group","label","slice","color","id","sum","freq"
+"high school students","2005-2018","high school students--2005-2018","1","#FF7F0080",0,0.0804195804195804,101
+"information evaluation","2005-2018","information evaluation--2005-2018","1","#A6562880",1,0.013986013986014,51
+"information seeking","2005-2018","information seeking--2005-2018","1","#E41A1C80",2,0.227272727272727,298
+"information sources","2005-2018","information sources--2005-2018","1","#F781BF80",3,0.118881118881119,172
+"university students","2005-2018","university students--2005-2018","1","#66C2A580",4,0.0699300699300699,94
+"wikipedia","2005-2018","wikipedia--2005-2018","1","#377EB880",5,0.451048951048951,337
+"wikipedia page views","2005-2018","wikipedia page views--2005-2018","1","#FC8D6280",6,0.0384615384615385,25
+"chatgpt","2019-2024","chatgpt--2019-2024","2","#4DAF4A80",7,0.432291666666667,322
+"information seeking","2019-2024","information seeking--2019-2024","2","#E41A1C80",8,0.169270833333333,189
+"stack overflow","2019-2024","stack overflow--2019-2024","2","#984EA380",9,0.0625,42
+"wikipedia","2019-2024","wikipedia--2019-2024","2","#377EB880",10,0.3359375,347
+"algorithmic bias","2025-2026","algorithmic bias--2025-2026","3","#8DA0CB80",11,0.00970873786407767,14
+"chatgpt","2025-2026","chatgpt--2025-2026","3","#4DAF4A80",12,0.537216828478964,379
+"generative ai","2025-2026","generative ai--2025-2026","3","#E78AC380",13,0.197411003236246,231
+"information seeking","2025-2026","information seeking--2025-2026","3","#E41A1C80",14,0.058252427184466,43
+"large language models","2025-2026","large language models--2025-2026","3","#984EA380",15,0.106796116504854,215
+"perceived usefulness","2025-2026","perceived usefulness--2025-2026","3","#A6D85480",16,0.0258899676375405,10
+"ai overviews","2025-2026","ai overviews--2025-2026","3","#FFD92F80",17,0.00647249190938511,16
+"google trends","2025-2026","google trends--2025-2026","3","#377EB880",18,0.058252427184466,29

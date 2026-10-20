@@ -1,0 +1,162 @@
+{
+ "central_papers": 28,
+ "backward_candidates": 1064,
+ "forward_candidates": 1263,
+ "snowball_screened": 2327,
+ "snowball_duplicates": 10,
+ "snowball_excluded_reasons": {
+  "offtopic_fails_inclusion_rule": 1534,
+  "type_excluded": 274,
+  "no_openalex_record": 157,
+  "offtopic_exclusion_term_in_title": 125,
+  "year_out_of_range": 122,
+  "language_not_english": 44,
+  "paratext_or_container_record": 11
+ },
+ "snowball_included": 50,
+ "backward_included": 17,
+ "forward_included": 33,
+ "forward_log": [
+  [
+   "W4235537536",
+   "10.1002/asi.21142",
+   "forward citers collected: 122"
+  ],
+  [
+   "W2079239760",
+   "10.5210/fm.v15i3.2830",
+   "forward citers collected: 93"
+  ],
+  [
+   "W2116190778",
+   "10.1197/jamia.m3059",
+   "forward citers collected: 150"
+  ],
+  [
+   "W2124563368",
+   "10.2196/jmir.4069",
+   "forward citers collected: 118"
+  ],
+  [
+   "W1427012839",
+   "10.1016/j.iheduc.2015.08.004",
+   "forward citers collected: 83"
+  ],
+  [
+   "W2109365886",
+   "10.1002/asi.23162",
+   "forward citers collected: 68"
+  ],
+  [
+   "W4414535549",
+   "10.1177/26339137251372599",
+   "forward citers collected: 0"
+  ],
+  [
+   "W7131314544",
+   "10.48550/arxiv.2602.18455",
+   "forward citers collected: 0"
+  ],
+  [
+   "W4396674231",
+   "10.1038/s41598-024-61221-0",
+   "forward citers collected: 44"
+  ],
+  [
+   "W4414472860",
+   "10.1287/isre.2023.0332",
+   "forward citers collected: 5"
+  ],
+  [
+   "W2994720866",
+   "10.48550/arxiv.1912.06939",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2070272165",
+   "10.1371/journal.pcbi.1003581",
+   "forward citers collected: 150"
+  ],
+  [
+   "W4406051438",
+   "10.1002/asi.24975",
+   "forward citers collected: 2"
+  ],
+  [
+   "W7212264744",
+   "10.1007/s43681-026-01373-z",
+   "forward citers collected: 0"
+  ],
+  [
+   "W4415335859",
+   "10.48550/arxiv.2503.02879",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2210190034",
+   "10.1371/journal.pone.0141892",
+   "forward citers collected: 20"
+  ],
+  [
+   "W2122458119",
+   "10.1371/journal.pcbi.1004239",
+   "forward citers collected: 123"
+  ],
+  [
+   "W2257386165",
+   "10.1140/epjds/s13688-016-0083-3",
+   "forward citers collected: 29"
+  ],
+  [
+   "W2346262149",
+   "10.1016/j.biocon.2016.03.037",
+   "forward citers collected: 75"
+  ],
+  [
+   "W2041137300",
+   "10.1038/srep01801",
+   "forward citers collected: 150"
+  ],
+  [
+   "W4414520451",
+   "10.1108/dta-02-2025-0151",
+   "forward citers collected: 0"
+  ],
+  [
+   "W4379795066",
+   "10.2196/43901",
+   "forward citers collected: 2"
+  ],
+  [
+   "W2590878907",
+   "10.1145/3038912.3052716",
+   "forward citers collected: 68"
+  ],
+  [
+   "W4224246449",
+   "10.3389/fonc.2022.855534",
+   "forward citers collected: 15"
+  ],
+  [
+   "W4386002539",
+   "10.1016/j.jort.2023.100681",
+   "forward citers collected: 28"
+  ],
+  [
+   "W2620867994",
+   "10.1609/icwsm.v11i1.14883",
+   "forward citers collected: 54"
+  ],
+  [
+   "W2012967345",
+   "10.1371/journal.pone.0071226",
+   "forward citers collected: 150"
+  ],
+  [
+   "W2766568549",
+   "10.3233/sji-160320",
+   "forward citers collected: 6"
+  ]
+ ],
+ "final_corpus": 760
+}

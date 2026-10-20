@@ -1,0 +1,12 @@
+{
+  "title": "Did students stop looking things up? Exam-season Wikipedia traffic for Indian school-syllabus topics before and after ChatGPT",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "license": "MIT",
+  "description": "Code, data and results for a difference-in-differences study of exam-season Wikipedia page views for 711 CBSE syllabus articles against traffic-matched controls, 2016-2026, before and after the release of ChatGPT."
+}

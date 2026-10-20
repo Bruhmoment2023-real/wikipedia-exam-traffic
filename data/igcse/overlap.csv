@@ -1,0 +1,869 @@
+en_title,subject,kw,igcse_physics,igcse_biology,igcse_chemistry
+Chemical equation,X-SCI,chemical equation,False,True,False
+Chemical reaction,X-SCI,chemical reaction,False,True,True
+Chemical decomposition,X-SCI,decomposition,False,True,True
+Single displacement reaction,X-SCI,displacement,True,False,True
+Salt metathesis reaction,X-SCI,double displacement,False,False,False
+Precipitation (chemistry),X-SCI,precipitation,False,False,True
+Neutralization (chemistry),X-SCI,neutrali[sz]ation,False,False,False
+Redox,X-SCI,oxidation and reduction,False,False,True
+Rancidification,X-SCI,rancidity,False,False,False
+Corrosion,X-SCI,corrosion,False,False,True
+Acid,X-SCI,acid,False,True,True
+Base (chemistry),X-SCI,bases,False,True,True
+Salt (chemistry),X-SCI,salts,False,False,True
+PH,X-SCI,ph scale,False,False,False
+PH indicator,X-SCI,indicator,False,True,True
+Sodium hydroxide,X-SCI,sodium hydroxide,False,False,True
+Calcium hypochlorite,X-SCI,bleaching powder,False,False,False
+Sodium bicarbonate,X-SCI,baking soda,False,False,False
+Sodium carbonate,X-SCI,washing soda,False,False,False
+Plaster,X-SCI,plaster of paris,False,False,False
+Chloralkali process,X-SCI,chlor,False,True,True
+Metal,X-SCI,metals,True,False,True
+Nonmetal,X-SCI,non.?metals,False,False,False
+Reactivity series,X-SCI,reactivity series,False,False,True
+Ionic bonding,X-SCI,ionic compounds,False,False,True
+Metallurgy,X-SCI,metallurg,False,False,False
+Alloy,X-SCI,alloy,False,False,True
+Galvanization,X-SCI,galvani,False,False,True
+Amphoterism,X-SCI,amphoteric,False,False,True
+Roasting (metallurgy),X-SCI,roasting,False,False,True
+Calcination,X-SCI,calcination,False,False,False
+Electrolysis,X-SCI,electroly,False,False,True
+Covalent bond,X-SCI,covalent bond,False,False,True
+Homologous series,X-SCI,homologous series,False,False,True
+Functional group,X-SCI,functional group,False,False,True
+Hydrocarbon,X-SCI,hydro ?carbons,False,False,False
+Alkane,X-SCI,alkanes,False,False,True
+Alkene,X-SCI,alkenes,False,False,True
+Alkyne,X-SCI,alkynes,False,False,False
+Ethanol,X-SCI,ethanol,False,True,True
+Acetic acid,X-SCI,ethanoic acid,False,False,True
+Soap,X-SCI,soaps,False,False,False
+Detergent,X-SCI,detergents,False,False,True
+Saponification,X-SCI,saponification,False,False,False
+Ester,X-SCI,ester,False,True,True
+Allotropes of carbon,X-SCI,allotrop,False,False,False
+Catenation,X-SCI,catenation,False,False,False
+Isomer,X-SCI,isomer,False,False,True
+Micelle,X-SCI,micelle,False,False,False
+Addition reaction,X-SCI,addition,True,True,True
+Substitution reaction,X-SCI,substitution,False,False,True
+Combustion,X-SCI,combustion,False,True,True
+Periodic table,X-SCI,periodic table,False,False,True
+Döbereiner's triads,X-SCI,dobereiner,False,False,False
+History of the periodic table,X-SCI,law of octaves,False,False,False
+Dmitri Mendeleev,X-SCI,mendeleev,False,False,False
+Periodic trends,X-SCI,gradation in properties,False,False,False
+Valence (chemistry),X-SCI,valency,False,False,False
+Atomic number,X-SCI,atomic number,True,False,True
+Nutrition,X-SCI,nutrition,False,True,False
+Photosynthesis,X-SCI,photosynthesis,False,True,True
+Cellular respiration,X-SCI,respiration,False,True,False
+Human digestive system,X-SCI,nutrition,False,True,False
+Circulatory system,X-SCI,transport,False,True,False
+Excretion,X-SCI,excretion,False,True,False
+Nephron,X-SCI,nephron,False,True,False
+Stoma,X-SCI,stomata,False,True,False
+Transpiration,X-SCI,transpiration,False,True,False
+Heart,X-SCI,heart,False,True,False
+Xylem,X-SCI,xylem,False,True,False
+Phloem,X-SCI,phloem,False,True,False
+Autotroph,X-SCI,autotroph,False,False,False
+Heterotroph,X-SCI,heterotroph,False,False,False
+Anaerobic respiration,X-SCI,anaerobic respiration,False,True,False
+Kidney,X-SCI,kidney,False,True,False
+Lymph,X-SCI,lymph,False,True,False
+Respiratory system,X-SCI,respirat,False,True,True
+Nervous system,X-SCI,nervous system,False,True,False
+Neuron,X-SCI,neuron,False,True,False
+Reflex arc,X-SCI,reflex action,False,True,False
+Human brain,X-SCI,human brain,False,False,False
+Plant hormone,X-SCI,plant hormones,False,False,False
+Tropism,X-SCI,tropic movements,False,False,False
+Phototropism,X-SCI,phototropism,False,True,False
+Endocrine system,X-SCI,chemical co.?ordination,False,False,False
+Hormone,X-SCI,hormones,False,True,False
+Synapse,X-SCI,synapse,False,True,False
+Auxin,X-SCI,auxin,False,True,False
+Insulin,X-SCI,insulin,False,True,False
+Asexual reproduction,X-SCI,asexual,False,True,False
+Sexual reproduction,X-SCI,sexual,False,True,False
+Fission (biology),X-SCI,fission,True,False,False
+Budding,X-SCI,budding,False,False,False
+Vegetative reproduction,X-SCI,vegetative,False,False,False
+Pollination,X-SCI,pollination,False,True,False
+Human reproductive system,X-SCI,reproduct,False,True,False
+Birth control,X-SCI,family planning,False,False,False
+Menstrual cycle,X-SCI,menstrua,False,True,False
+Fertilisation,X-SCI,fertili[sz]ation,False,False,False
+Regeneration (biology),X-SCI,regeneration,True,False,False
+Fragmentation (reproduction),X-SCI,fragmentation,False,False,False
+Spore,X-SCI,spore,False,False,False
+Germination,X-SCI,germination,False,True,False
+Placenta,X-SCI,placenta,False,True,False
+Puberty,X-SCI,puberty,False,True,False
+Heredity,X-SCI,heredity,False,False,False
+Mendelian inheritance,X-SCI,laws for inheritance,False,False,False
+Gregor Mendel,X-SCI,mendel,False,False,True
+Sex-determination system,X-SCI,sex determination,False,False,False
+Evolution,X-SCI,evolution,False,True,False
+Speciation,X-SCI,speciation,False,False,False
+Homology (biology),X-SCI,homolog,False,False,True
+Natural selection,X-SCI,natural selection,False,True,False
+Dominance (genetics),X-SCI,dominan,False,True,False
+Fossil,X-SCI,fossils,False,False,False
+Reflection (physics),X-SCI,reflection of light,True,False,False
+Curved mirror,X-SCI,spherical mirrors,False,False,False
+Refraction,X-SCI,refraction,True,True,False
+Refractive index,X-SCI,refractive index,True,False,False
+Lens,X-SCI,spherical lens,False,False,False
+Snell's law,X-SCI,laws of refraction,False,False,False
+Focal length,X-SCI,focal length,True,False,False
+Magnification,X-SCI,magnification,False,True,False
+Optical power,X-SCI,power of a lens,False,False,False
+Human eye,X-SCI,human eye,False,False,False
+Myopia,X-SCI,defects of vision,False,False,False
+Farsightedness,X-SCI,defects of vision,False,False,False
+Presbyopia,X-SCI,defects of vision,False,False,False
+Dispersion (optics),X-SCI,dispersion,True,False,False
+Prism (optics),X-SCI,prism,True,False,False
+Rayleigh scattering,X-SCI,scattering of light,False,False,False
+Tyndall effect,X-SCI,tyndall effect,False,False,False
+Atmospheric refraction,X-SCI,atmospheric refraction,False,False,False
+Rainbow,X-SCI,rainbow,False,False,False
+Electric current,X-SCI,electric current,True,False,True
+Voltage,X-SCI,potential difference,True,False,False
+Ohm's law,X-SCI,ohm.s law,False,False,False
+Electrical resistance and conductance,X-SCI,resistance,True,True,True
+Electrical resistivity and conductivity,X-SCI,resistivity,False,False,False
+Series and parallel circuits,X-SCI,series combination,False,False,False
+Joule heating,X-SCI,heating effect,False,False,False
+Electric power,X-SCI,electric power,False,False,False
+Electric charge,X-SCI,electric charge,True,False,False
+Magnetic field,X-SCI,magnetic field,True,False,False
+Solenoid,X-SCI,solenoid,True,False,False
+Fleming's left-hand rule for motors,X-SCI,fleming.s left,False,False,False
+Electric motor,X-SCI,electric motor,True,False,False
+Electromagnetic induction,X-SCI,electromagnetic induction,True,False,False
+Fleming's right-hand rule,X-SCI,fleming.s right,False,False,False
+Electric generator,X-SCI,electric generator,False,False,False
+Direct current,X-SCI,direct current,True,False,False
+Alternating current,X-SCI,alternating current,True,False,False
+Fuse (electrical),X-SCI,fuse,True,True,False
+Electromagnet,X-SCI,electromagnet,True,False,False
+Right-hand rule,X-SCI,right.?hand thumb,False,False,False
+Ground (electricity),X-SCI,earth,True,False,False
+Short circuit,X-SCI,short.?circuit,False,False,False
+Electrical wiring,X-SCI,domestic electric circuits,False,False,False
+Fossil fuel,X-SCI,fossil fuels,True,True,True
+Solar energy,X-SCI,solar energy,False,False,False
+Biogas,X-SCI,bio.?gas,False,False,False
+Wind power,X-SCI,wind,True,True,True
+Hydroelectricity,X-SCI,water and tidal energy|hydro,False,False,False
+Tidal power,X-SCI,tidal,True,False,False
+Nuclear power,X-SCI,nuclear energy,False,False,False
+Renewable energy,X-SCI,renewable,False,False,True
+Geothermal energy,X-SCI,geo.?thermal,False,False,False
+Non-renewable resource,X-SCI,non.?renewable,False,False,False
+Ecosystem,X-SCI,eco.?system,False,False,False
+Food chain,X-SCI,food chains?,False,False,False
+Food web,X-SCI,food webs?,False,False,False
+Ozone depletion,X-SCI,ozone depletion,False,False,False
+Biodegradation,X-SCI,biodegradable,False,True,False
+Biomagnification,X-SCI,magnification,False,True,False
+Trophic level,X-SCI,trophic,False,True,True
+Ozone layer,X-SCI,ozone,False,False,False
+Rainwater harvesting,X-SCI,water harvesting,False,False,False
+Sustainable development,X-SCI,sustainab,False,True,False
+Chipko movement,X-SCI,people.s participation,False,False,False
+Dam,X-SCI,big dams,False,False,False
+Natural resource,X-SCI,natural resources,False,True,False
+Real number,X-MAT,real numbers?,False,False,False
+Euclidean division,X-MAT,euclid,False,False,False
+Fundamental theorem of arithmetic,X-MAT,fundamental theorem of arithmetic,False,False,False
+Irrational number,X-MAT,irrational,False,False,False
+Rational number,X-MAT,rational,False,False,False
+Greatest common divisor,X-MAT,hcf,False,False,False
+Least common multiple,X-MAT,lcm,False,False,False
+Square root of 2,X-MAT,irrationality,False,False,False
+Polynomial,X-MAT,polynomials?,False,False,False
+Zero of a function,X-MAT,zeros of a polynomial,False,False,False
+Polynomial long division,X-MAT,division algorithm for polynomials,False,False,False
+System of linear equations,X-MAT,pair of linear equations,False,False,False
+Linear equation,X-MAT,linear equations?,False,False,False
+Cramer's rule,X-MAT,cross multiplication,False,False,False
+Quadratic equation,X-MAT,quadratic equations?,False,False,False
+Quadratic formula,X-MAT,quadratic formula,False,False,False
+Discriminant,X-MAT,discriminant,False,False,False
+Completing the square,X-MAT,completing the square,False,False,False
+Arithmetic progression,X-MAT,arithmetic progressions?,False,False,False
+Analytic geometry,X-MAT,coordinate geometry,False,False,False
+Cartesian coordinate system,X-MAT,coordinate,False,False,False
+Euclidean distance,X-MAT,distance formula,False,False,False
+Section formula,X-MAT,section formula,False,False,False
+Midpoint,X-MAT,section formula,False,False,False
+Centroid,X-MAT,area of a triangle|centroid,False,False,False
+Similarity (geometry),X-MAT,similar triangles,False,False,False
+Intercept theorem,X-MAT,divided in the same ratio|proportionality,False,False,False
+Pythagorean theorem,X-MAT,square on the hypotenuse|pythagoras,False,False,False
+Circle,X-MAT,circles?,False,False,False
+Tangent lines to circles,X-MAT,tangents? to a circle,False,False,False
+Tangent,X-MAT,tangent,True,False,True
+Straightedge and compass construction,X-MAT,constructions,True,False,False
+Trigonometry,X-MAT,trigonometry,True,False,False
+Trigonometric functions,X-MAT,trigonometric ratios,False,False,False
+List of trigonometric identities,X-MAT,trigonometric identities,False,False,False
+Pythagorean trigonometric identity,X-MAT,sin ?2 ?a,False,False,False
+Elevation (ballistics),X-MAT,heights and distances,False,False,False
+Area of a circle,X-MAT,area of a circle|areas related to circles,False,False,False
+Circular sector,X-MAT,sectors?,False,False,False
+Circular segment,X-MAT,segments?,False,False,False
+Surface area,X-MAT,surface areas?,False,False,False
+Volume,X-MAT,volumes?,False,False,False
+Frustum,X-MAT,frustum,False,False,False
+Cone,X-MAT,cones?,False,False,False
+Cylinder,X-MAT,cylinders?,False,False,False
+Sphere,X-MAT,spheres?,False,False,False
+Statistics,X-MAT,statistics,True,True,True
+Arithmetic mean,X-MAT,mean,True,True,True
+Median,X-MAT,median,False,False,False
+Mode (statistics),X-MAT,mode,True,True,True
+Ogive (statistics),X-MAT,cumulative frequency,False,False,False
+Probability,X-MAT,probability,False,True,False
+Nationalism,X-SST,nationalism in europe,False,False,False
+French Revolution,X-SST,french revolution,False,False,False
+Unification of Germany,X-SST,germany,False,False,False
+Unification of Italy,X-SST,italy,False,False,False
+Giuseppe Mazzini,X-SST,mazzini|italy,False,False,False
+Otto von Bismarck,X-SST,bismarck|germany,False,False,False
+Giuseppe Garibaldi,X-SST,garibaldi|italy,False,False,False
+Congress of Vienna,X-SST,vienna|nationalism in europe,False,False,False
+Revolutions of 1848,X-SST,1848|age of revolutions,False,False,False
+Napoleonic Code,X-SST,napoleon|nationalism in europe,False,False,False
+Zollverein,X-SST,zollverein|nationalism in europe,False,False,False
+Romanticism,X-SST,romantic,False,False,False
+Indian independence movement,X-SST,nationalism in india,False,False,False
+Non-cooperation movement (1919–1922),X-SST,non.?cooperation,False,False,False
+Salt March,X-SST,civil disobedience,False,False,False
+Jallianwala Bagh massacre,X-SST,jallianwala|nationalism in india,False,False,False
+Rowlatt Act,X-SST,rowlatt|nationalism in india,False,False,False
+Khilafat Movement,X-SST,khilafat,False,False,False
+Simon Commission,X-SST,simon|civil disobedience,False,False,False
+Satyagraha,X-SST,satyagraha,False,False,False
+Quit India Movement,X-SST,quit india,False,False,False
+Poona Pact,X-SST,poona|civil disobedience,False,False,False
+Mahatma Gandhi,X-SST,gandhi,False,False,False
+Champaran Satyagraha,X-SST,champaran|satyagraha,False,False,False
+Chauri Chaura incident,X-SST,chauri|non.?cooperation,False,False,False
+Swadeshi movement,X-SST,swadeshi|nationalism in india,False,False,False
+Globalization,X-SST,global world,False,False,False
+Silk Road,X-SST,silk|pre.?modern world,False,False,False
+Great Depression,X-SST,great depression,False,False,False
+Bretton Woods system,X-SST,bretton|post.?war,False,False,False
+Rinderpest,X-SST,rinderpest|global world,False,False,False
+Corn Laws,X-SST,corn law|nineteenth century,False,False,False
+Indian indenture system,X-SST,indentured|global world,False,False,False
+Industrial Revolution,X-SST,industriali[sz]ation,False,False,False
+East India Company,X-SST,east india|industriali[sz]ation,False,False,False
+Spinning jenny,X-SST,spinning|industriali[sz]ation,False,False,False
+Printing press,X-SST,print culture,False,False,False
+Johannes Gutenberg,X-SST,gutenberg|print,False,False,False
+"Vernacular Press Act, 1878",X-SST,vernacular|print,False,False,False
+Resource,X-SST,resources,True,True,True
+Soil,X-SST,soils?,False,False,False
+Alluvium,X-SST,soil,False,True,True
+Laterite,X-SST,soil,False,True,True
+Soil erosion,X-SST,soil erosion,False,False,False
+Land degradation,X-SST,land degradation,False,False,False
+Agenda 21,X-SST,agenda|resource planning,False,False,False
+Deforestation,X-SST,forest,False,True,False
+Project Tiger,X-SST,project tiger|conservation of forest,False,False,False
+Biodiversity,X-SST,bio.?diversity,False,False,False
+Narmada Bachao Andolan,X-SST,narmada|multi.?purpose,False,False,False
+Agriculture in India,X-SST,agriculture,False,False,False
+Shifting cultivation,X-SST,types of farming|farming,False,False,False
+Kharif crop,X-SST,cropping pattern|kharif,False,False,False
+Rabi crop,X-SST,cropping pattern|rabi,False,False,False
+Zaid crop,X-SST,cropping pattern|zaid,False,False,False
+Green Revolution in India,X-SST,technological and institutional reforms|green revolution,False,False,False
+Plantation,X-SST,types of farming|plantation,False,False,False
+Rice,X-SST,major crops|rice,False,False,False
+Wheat,X-SST,major crops|wheat,False,False,False
+Millet,X-SST,major crops|millet,False,False,False
+Tea,X-SST,major crops|bteab,False,False,False
+Coffee,X-SST,major crops|coffee,False,False,False
+Sugarcane,X-SST,major crops|sugar,False,False,False
+Cotton,X-SST,major crops|cotton,False,False,False
+Jute,X-SST,major crops|jute,False,False,False
+Mineral,X-SST,minerals?,False,False,False
+Iron ore,X-SST,ferrous|iron ore,False,False,False
+Bauxite,X-SST,non.?ferrous|bauxite,False,False,False
+Manganese,X-SST,ferrous|manganese,False,False,False
+Mica,X-SST,non.?metallic|mica,False,False,False
+Coal,X-SST,conventional|coal,False,False,False
+Petroleum,X-SST,conventional|petroleum,False,False,False
+Natural gas,X-SST,conventional|natural gas,False,False,False
+Manufacturing,X-SST,manufacturing,False,False,False
+Textile industry in India,X-SST,textile|agro.?based,False,False,False
+Iron and steel industry in India,X-SST,iron and steel|mineral.?based,False,False,False
+Information technology in India,X-SST,information technology,False,False,False
+Golden Quadrilateral,X-SST,roadways|golden,False,False,False
+Indian Railways,X-SST,railways,False,False,False
+Pipeline,X-SST,pipelines,False,False,False
+List of ports in India,X-SST,sea ?ports|waterways,False,False,False
+Tourism in India,X-SST,tourism,False,False,False
+International trade,X-SST,international trade,False,False,False
+Hirakud Dam,X-SST,hirakud|dams,False,False,False
+Bhakra Dam,X-SST,bhakra|dams,False,False,False
+Sardar Sarovar Dam,X-SST,sardar sarovar|dams,False,False,False
+Tehri Dam,X-SST,tehri|dams,False,False,False
+Joint Forest Management,X-SST,joint forest|community and conservation,False,False,False
+Consociationalism,X-SST,power.?sharing,False,False,False
+Belgium,X-SST,belgium,False,False,False
+Sri Lankan civil war,X-SST,sri lanka,False,False,False
+Majoritarianism,X-SST,majoritarianism|sri lanka,False,False,False
+Federalism,X-SST,federalism,False,False,False
+Federalism in India,X-SST,india a federal country|federalism,False,False,False
+Decentralization,X-SST,decentrali[sz]ation,False,False,False
+Panchayati raj,X-SST,decentrali[sz]ation|panchayat,False,False,False
+"States Reorganisation Act, 1956",X-SST,linguistic states|language policy,False,False,False
+Languages of India,X-SST,language policy,False,False,False
+Union List,X-SST,federal|union list,False,False,False
+State List,X-SST,federal|state list,False,False,False
+Concurrent List,X-SST,federal|concurrent list,False,False,False
+Feminism,X-SST,gender,False,False,False
+Caste system in India,X-SST,caste,False,False,False
+Communal violence,X-SST,communalism,False,False,False
+Secularism in India,X-SST,secular,False,False,False
+Political party,X-SST,political parties,False,False,False
+Indian National Congress,X-SST,national parties|national political parties,False,False,False
+Bharatiya Janata Party,X-SST,national parties|national political parties,False,False,False
+Bahujan Samaj Party,X-SST,national parties|national political parties,False,False,False
+Communist Party of India (Marxist),X-SST,national parties|national political parties,False,False,False
+Election Commission of India,X-SST,political parties|election commission,False,False,False
+Multi-party system,X-SST,how many parties|party system,False,False,False
+Two-party system,X-SST,how many parties|party system,False,False,False
+Coalition government,X-SST,coalition|political parties,False,False,False
+Democracy,X-SST,outcomes of democracy,False,False,False
+Human Development Index,X-SST,development,True,True,True
+Gross domestic product,X-SST,income,False,False,False
+Per capita income,X-SST,income,False,False,False
+Infant mortality,X-SST,income and other criteria|development,False,False,False
+Literacy in India,X-SST,income and other criteria|development,False,False,False
+Primary sector,X-SST,primary,True,True,False
+Secondary sector,X-SST,secondary,True,True,True
+Tertiary sector,X-SST,tertiary,False,True,False
+Unemployment,X-SST,employment,True,True,True
+Underemployment,X-SST,employment,True,True,True
+"Mahatma Gandhi National Rural Employment Guarantee Act, 2005",X-SST,employment|nrega,False,False,False
+Informal economy,X-SST,un.?organi[sz]ed,False,False,False
+Public sector,X-SST,public and private|public sector,False,False,False
+Private sector,X-SST,public and private|private sector,False,False,False
+Money,X-SST,money,False,False,False
+Barter,X-SST,double coincidence|money,False,False,False
+Reserve Bank of India,X-SST,modern forms of money|reserve bank,False,False,False
+Credit,X-SST,credit,False,False,True
+Self-help group (finance),X-SST,self.?help groups,False,False,False
+Collateral (finance),X-SST,terms of credit|collateral,False,False,False
+Demand deposit,X-SST,modern forms of money|deposits,False,False,False
+Economic liberalisation in India,X-SST,globali[sz]ation,False,False,False
+Multinational corporation,X-SST,production across countries|multinational,False,False,False
+Foreign direct investment,X-SST,foreign trade|investment,False,False,False
+World Trade Organization,X-SST,world trade organi[sz]ation,False,False,False
+Trade barrier,X-SST,foreign trade|barrier,False,False,False
+Special economic zone,X-SST,globali[sz]ation,False,False,False
+Consumer protection,X-SST,consumer,False,True,False
+"Right to Information Act, 2005",X-SST,consumer|information,False,False,False
+Bureau of Indian Standards,X-SST,consumer,False,True,False
+Public Distribution System (India),X-SST,development|public,False,False,False
+Coulomb's law,XII-PHY,coulomb.s law,False,False,False
+Electric field,XII-PHY,electric field,True,False,False
+Electric dipole moment,XII-PHY,electric dipole,False,False,False
+Gauss's law,XII-PHY,gauss,False,False,False
+Electric flux,XII-PHY,electric flux,False,False,False
+Electric potential,XII-PHY,electric potential,False,False,False
+Electric potential energy,XII-PHY,potential energy,True,False,False
+Equipotential,XII-PHY,equipotential,False,False,False
+Capacitor,XII-PHY,capacitors?,False,False,False
+Capacitance,XII-PHY,capacitance,False,False,False
+Dielectric,XII-PHY,dielectrics?,False,False,False
+Van de Graaff generator,XII-PHY,van de graaff,False,False,False
+Drift velocity,XII-PHY,drift velocity,False,False,False
+Electromotive force,XII-PHY,emf,False,False,False
+Internal resistance,XII-PHY,internal resistance,False,False,False
+Kirchhoff's circuit laws,XII-PHY,kirchhoff,False,False,False
+Wheatstone bridge,XII-PHY,wheatstone bridge,False,False,False
+Potentiometer (measuring instrument),XII-PHY,potentiometer,False,False,False
+Electron mobility,XII-PHY,mobility,False,False,False
+Biot–Savart law,XII-PHY,biot,False,True,False
+Ampère's circuital law,XII-PHY,ampere.s law,False,False,False
+Lorentz force,XII-PHY,force on a moving charge,False,False,False
+Cyclotron,XII-PHY,cyclotron,False,False,False
+Galvanometer,XII-PHY,galvanometer,False,False,False
+Ammeter,XII-PHY,ammeter,True,False,False
+Voltmeter,XII-PHY,voltmeter,True,False,False
+Magnetic moment,XII-PHY,magnetic dipole,False,False,False
+Diamagnetism,XII-PHY,dia,True,True,True
+Paramagnetism,XII-PHY,"para.? ?,? ?dia|para.?magnetic|para",False,False,False
+Ferromagnetism,XII-PHY,ferro,False,False,False
+Earth's magnetic field,XII-PHY,earth.s magnetic field,False,False,False
+Hysteresis,XII-PHY,hysteresis|ferro,False,False,False
+Toroidal inductors and transformers,XII-PHY,toroid,False,False,False
+Faraday's law of induction,XII-PHY,faraday,False,False,False
+Lenz's law,XII-PHY,lenz,False,False,False
+Eddy current,XII-PHY,eddy,False,False,False
+Inductance,XII-PHY,mutual induction,False,False,False
+LC circuit,XII-PHY,lc oscillations,False,False,False
+RLC circuit,XII-PHY,lcr,False,False,False
+Electrical reactance,XII-PHY,reactance,False,False,False
+Electrical impedance,XII-PHY,impedance,False,False,False
+Electrical resonance,XII-PHY,resonance,False,False,False
+Power factor,XII-PHY,power factor,False,False,False
+Transformer,XII-PHY,transformer,True,False,False
+Alternator,XII-PHY,ac generator,False,False,False
+Magnetic flux,XII-PHY,magnetic flux|electromagnetic induction,False,False,False
+Displacement current density,XII-PHY,displacement current,False,False,False
+Electromagnetic radiation,XII-PHY,electromagnetic waves,True,False,False
+Electromagnetic spectrum,XII-PHY,electromagnetic spectrum,True,False,False
+Maxwell's equations,XII-PHY,maxwell|displacement current,False,False,False
+X-ray,XII-PHY,x.?rays,False,False,False
+Microwave,XII-PHY,microwaves,True,False,False
+Infrared,XII-PHY,infrared,True,False,False
+Ultraviolet,XII-PHY,ultraviolet,True,False,True
+Radio wave,XII-PHY,radio ?waves,False,False,False
+Gamma ray,XII-PHY,gamma,True,False,False
+Total internal reflection,XII-PHY,total internal reflection,True,False,False
+Optical fiber,XII-PHY,optical fib,True,False,False
+Optical microscope,XII-PHY,microscopes?,False,False,False
+Telescope,XII-PHY,telescopes?,False,False,False
+Refracting telescope,XII-PHY,refracting,False,False,False
+Reflecting telescope,XII-PHY,reflecting,False,False,False
+Huygens–Fresnel principle,XII-PHY,huygen,False,False,False
+Wavefront,XII-PHY,wave ?front,False,False,False
+Wave interference,XII-PHY,interference,False,False,False
+Double-slit experiment,XII-PHY,young.s double,False,False,False
+Diffraction,XII-PHY,diffraction,True,False,False
+Polarization (waves),XII-PHY,polari[sz],False,False,False
+Brewster's angle,XII-PHY,brewster,False,False,False
+Coherence (physics),XII-PHY,coherent,True,True,True
+Angular resolution,XII-PHY,resolving power,False,False,False
+Polarizer,XII-PHY,polaroid,False,False,False
+Photoelectric effect,XII-PHY,photoelectric effect,False,False,False
+Photon,XII-PHY,particle nature of light|photon,False,False,False
+Matter wave,XII-PHY,matter waves,False,False,False
+Davisson–Germer experiment,XII-PHY,davisson,False,False,False
+Work function,XII-PHY,einstein.s photoelectric|work function,False,False,False
+Rutherford scattering experiments,XII-PHY,alpha.?particle scattering,False,False,False
+Bohr model,XII-PHY,bohr model,False,False,False
+Hydrogen spectral series,XII-PHY,hydrogen spectrum,False,False,False
+Atomic nucleus,XII-PHY,nucleus,True,True,True
+Nuclear binding energy,XII-PHY,binding energy,False,False,False
+Mass–energy equivalence,XII-PHY,mass.?energy,False,False,False
+Radioactive decay,XII-PHY,radioactiv,True,False,True
+Nuclear fission,XII-PHY,nuclear fission,True,False,False
+Nuclear fusion,XII-PHY,fusion,True,True,True
+Half-life,XII-PHY,decay law|half.?life,False,False,False
+Alpha decay,XII-PHY,alpha,True,False,False
+Beta decay,XII-PHY,beta,True,False,False
+Semiconductor,XII-PHY,semiconductors?,False,False,False
+P–n junction,XII-PHY,p.?n junction|junction,False,False,False
+Diode,XII-PHY,diode,True,False,False
+Rectifier,XII-PHY,rectifier,False,False,False
+Zener diode,XII-PHY,zener diode,False,False,False
+Light-emitting diode,XII-PHY,led,True,True,True
+Photodiode,XII-PHY,photodiode,False,False,False
+Solar cell,XII-PHY,solar cell,True,False,False
+Transistor,XII-PHY,transistor,False,False,False
+Logic gate,XII-PHY,logic gates,False,False,False
+Electronic band structure,XII-PHY,energy bands,False,False,False
+Doping (semiconductor),XII-PHY,extrinsic,False,False,False
+Amplitude modulation,XII-PHY,amplitude modulation|modulation,False,False,False
+Crystal structure,XII-CHE,unit cell,False,False,False
+Bravais lattice,XII-CHE,unit cell|lattice,False,False,False
+Crystallographic defect,XII-CHE,point defects,False,False,False
+Close-packing of equal spheres,XII-CHE,packing,False,False,False
+Amorphous solid,XII-CHE,amorphous,False,False,False
+Solution (chemistry),XII-CHE,solutions,False,True,True
+Molar concentration,XII-CHE,concentration,False,True,True
+Molality,XII-CHE,concentration|molality,False,False,False
+Raoult's law,XII-CHE,raoult,False,False,False
+Henry's law,XII-CHE,henry|solubility of gases,False,False,False
+Colligative properties,XII-CHE,colligative properties,False,False,False
+Osmotic pressure,XII-CHE,osmotic pressure,False,False,False
+Freezing-point depression,XII-CHE,depression of freezing point,False,False,False
+Boiling-point elevation,XII-CHE,elevation of boiling point,False,False,False
+Van 't Hoff factor,XII-CHE,van.?t hoff,False,False,False
+Azeotrope,XII-CHE,azeotrop|raoult,False,False,False
+Osmosis,XII-CHE,osmo,False,True,False
+Reverse osmosis,XII-CHE,osmo,False,True,False
+Electrochemistry,XII-CHE,electrochemistry,False,False,True
+Galvanic cell,XII-CHE,galvanic cells?,False,False,False
+Nernst equation,XII-CHE,nernst equation,False,False,False
+Standard electrode potential,XII-CHE,standard electrode potential,False,False,False
+Electrolytic cell,XII-CHE,electrolytic,False,False,True
+Molar conductivity,XII-CHE,kohlrausch,False,False,False
+Faraday's laws of electrolysis,XII-CHE,electrolysis,False,False,True
+Lead–acid battery,XII-CHE,lead accumulator,False,False,False
+Fuel cell,XII-CHE,fuel cells?,False,False,False
+Dry cell,XII-CHE,dry cell,False,False,False
+Standard hydrogen electrode,XII-CHE,electrode potential,False,False,False
+Daniell cell,XII-CHE,galvanic|daniell,False,False,False
+Gibbs free energy,XII-CHE,gibbs,False,False,False
+Chemical kinetics,XII-CHE,chemical kinetics,False,False,False
+Reaction rate,XII-CHE,rate of a reaction,False,False,True
+Rate equation,XII-CHE,rate law,False,False,False
+Arrhenius equation,XII-CHE,arrhenius equation,False,False,False
+Activation energy,XII-CHE,activation energy,False,False,True
+Collision theory,XII-CHE,collision theory,False,False,True
+Catalysis,XII-CHE,catalys,False,True,True
+Molecularity,XII-CHE,molecularity,False,False,False
+Adsorption,XII-CHE,adsorption,False,False,False
+Colloid,XII-CHE,colloid,False,False,False
+Emulsion,XII-CHE,emulsions?,False,False,False
+Brownian motion,XII-CHE,brownian,True,False,True
+Electrophoresis,XII-CHE,electrophoresis,False,False,False
+Enzyme catalysis,XII-CHE,enzyme catalysis,False,False,False
+Froth flotation,XII-CHE,concentration,False,True,True
+Ellingham diagram,XII-CHE,principles and methods of extraction|ellingham,False,False,False
+Zone melting,XII-CHE,refining,False,False,False
+Ammonia,XII-CHE,ammonia,False,False,True
+Nitric acid,XII-CHE,nitric acid,False,False,True
+Sulfuric acid,XII-CHE,sulphuric acid,False,False,False
+Ozone,XII-CHE,ozone,False,False,False
+Phosphorus,XII-CHE,phosphorus,False,False,True
+Noble gas,XII-CHE,group ?-? ?18,False,False,False
+Halogen,XII-CHE,group ?-? ?17|halogens,False,False,False
+Interhalogen,XII-CHE,interhalogen,False,False,False
+Haber process,XII-CHE,ammonia,False,False,True
+Ostwald process,XII-CHE,nitric acid,False,False,True
+Contact process,XII-CHE,sulphuric acid,False,False,False
+Transition metal,XII-CHE,transition metals,False,False,False
+Lanthanide,XII-CHE,lanthan,False,False,True
+Actinide,XII-CHE,actin,True,True,True
+Lanthanide contraction,XII-CHE,lanthanw+ contraction,False,False,False
+Potassium permanganate,XII-CHE,kmno,False,False,True
+Potassium dichromate,XII-CHE,k ?2 ?cr ?2 ?o ?7,False,False,False
+Coordination complex,XII-CHE,coordination compounds,False,False,False
+Ligand,XII-CHE,ligands,False,False,False
+Crystal field theory,XII-CHE,cft|crystal field,False,False,False
+Valence bond theory,XII-CHE,vbt|valence bond,False,False,False
+Alfred Werner,XII-CHE,werner,False,False,False
+Chelation,XII-CHE,ligands|chelat,False,False,False
+Linkage isomerism,XII-CHE,isomerism,False,False,False
+Spectrochemical series,XII-CHE,cft|crystal field,False,False,False
+Denticity,XII-CHE,ligands,False,False,False
+Haloalkane,XII-CHE,haloalkanes,False,False,False
+Aryl halide,XII-CHE,haloarenes,False,False,False
+SN1 reaction,XII-CHE,substitution reactions|mechanism of substitution,False,False,False
+SN2 reaction,XII-CHE,substitution reactions|mechanism of substitution,False,False,False
+Grignard reagent,XII-CHE,haloalkanes,False,False,False
+Elimination reaction,XII-CHE,haloalkanes,False,False,False
+Markovnikov's rule,XII-CHE,haloalkanes,False,False,False
+Wurtz reaction,XII-CHE,haloalkanes,False,False,False
+Sandmeyer reaction,XII-CHE,haloarenes,False,False,False
+Finkelstein reaction,XII-CHE,haloalkanes,False,False,False
+Optical rotation,XII-CHE,optical rotation,False,False,False
+Chirality (chemistry),XII-CHE,optical rotation,False,False,False
+Enantiomer,XII-CHE,optical rotation,False,False,False
+Racemic mixture,XII-CHE,optical rotation,False,False,False
+DDT,XII-CHE,ddt,False,False,False
+Chloroform,XII-CHE,trichloromethane,False,False,False
+Chlorofluorocarbon,XII-CHE,freons,False,False,False
+Alcohol (chemistry),XII-CHE,alcohols,False,False,True
+Phenol,XII-CHE,phenols,False,False,False
+Ether,XII-CHE,ethers,False,False,False
+Williamson ether synthesis,XII-CHE,ethers,False,False,False
+Reimer–Tiemann reaction,XII-CHE,phenols,False,False,False
+Kolbe–Schmitt reaction,XII-CHE,phenols,False,False,False
+Lucas' reagent,XII-CHE,"identification of primary, secondary",False,False,False
+Hydroboration–oxidation reaction,XII-CHE,alcohols,False,False,True
+Methanol,XII-CHE,methanol,False,False,False
+Aldehyde,XII-CHE,aldehydes,False,False,False
+Ketone,XII-CHE,ketones,False,False,False
+Carboxylic acid,XII-CHE,carboxylic acids,False,False,True
+Aldol condensation,XII-CHE,alpha hydrogen|aldehydes,False,False,False
+Cannizzaro reaction,XII-CHE,aldehydes,False,False,False
+Clemmensen reduction,XII-CHE,aldehydes,False,False,False
+Wolff–Kishner reduction,XII-CHE,aldehydes,False,False,False
+Tollens' reagent,XII-CHE,aldehydes,False,False,False
+Fehling's solution,XII-CHE,aldehydes,False,False,False
+Rosenmund reduction,XII-CHE,aldehydes,False,False,False
+Hell–Volhard–Zelinsky halogenation,XII-CHE,carboxylic acids,False,False,True
+Nucleophilic addition,XII-CHE,nucleophilic addition,False,False,False
+Haloform reaction,XII-CHE,aldehydes,False,False,False
+Friedel–Crafts reaction,XII-CHE,haloarenes|aldehydes,False,False,False
+Amine,XII-CHE,amines,False,False,False
+Gabriel synthesis,XII-CHE,amines,False,False,False
+Hofmann rearrangement,XII-CHE,amines,False,False,False
+Carbylamine reaction,XII-CHE,amines,False,False,False
+Diazonium compound,XII-CHE,diazonium,False,False,False
+Hinsberg reaction,XII-CHE,"identification of primary, secondary",False,False,False
+Aniline,XII-CHE,amines,False,False,False
+Azo coupling,XII-CHE,diazonium,False,False,False
+Carbohydrate,XII-CHE,carbohydrates,False,True,True
+Glucose,XII-CHE,glucose,False,True,True
+Fructose,XII-CHE,fructose,False,False,False
+Sucrose,XII-CHE,sucrose,False,True,False
+Starch,XII-CHE,starch,False,True,True
+Cellulose,XII-CHE,cellulose,False,True,False
+Glycogen,XII-CHE,glycogen,False,True,False
+Protein,XII-CHE,proteins,False,True,True
+Amino acid,XII-CHE,amino acids,False,True,False
+Peptide bond,XII-CHE,peptide bond,False,False,False
+Enzyme,XII-CHE,enzymes,False,True,True
+Vitamin,XII-CHE,vitamins,False,True,False
+Nucleic acid,XII-CHE,nucleic acids,False,False,False
+DNA,XII-CHE,dna,False,True,False
+RNA,XII-CHE,rna,True,True,True
+Denaturation (biochemistry),XII-CHE,denaturation,False,True,False
+Monosaccharide,XII-CHE,monosaccha,False,False,False
+Polysaccharide,XII-CHE,polysaccha,False,False,False
+Protein structure,XII-CHE,structure of proteins,False,False,True
+Zwitterion,XII-CHE,amino acids,False,True,False
+Polymer,XII-CHE,polymers?,False,False,False
+Polymerization,XII-CHE,polymeri[sz]ation,False,False,False
+Nylon,XII-CHE,nylon,False,False,True
+Bakelite,XII-CHE,bakelite,False,False,False
+Natural rubber,XII-CHE,rubber,False,False,False
+Vulcanization,XII-CHE,rubber,False,False,False
+Polyethylene,XII-CHE,polythene,False,False,False
+Biodegradable polymer,XII-CHE,biodegradable,False,True,False
+Analgesic,XII-CHE,analgesics,False,False,False
+Antibiotic,XII-CHE,antibiotics,False,True,False
+Antiseptic,XII-CHE,antiseptics,False,False,False
+Antacid,XII-CHE,antacids,False,False,False
+Sedative,XII-CHE,tranquili[sz]ers,False,False,False
+Sugar substitute,XII-CHE,sweetening,False,False,False
+Food preservation,XII-CHE,preservatives,False,False,False
+Antihistamine,XII-CHE,antihistamines,False,False,False
+Flower,XII-BIO,flower structure,False,False,False
+Pollen,XII-BIO,pollen,False,True,False
+Double fertilization,XII-BIO,double fertili[sz]ation,False,False,False
+Ovule,XII-BIO,gametophytes|ovule,False,False,False
+Apomixis,XII-BIO,apomixis,False,False,False
+Polyembryony,XII-BIO,polyembryony,False,False,False
+Endosperm,XII-BIO,endosperm,False,True,False
+Stamen,XII-BIO,flower structure|gametophytes,False,False,False
+Parthenocarpy,XII-BIO,parthenocarpy,False,False,False
+Seed,XII-BIO,seeds?,False,False,False
+Fruit,XII-BIO,fruits?,False,False,False
+Self-incompatibility,XII-BIO,outbreeding,False,False,False
+Spermatogenesis,XII-BIO,spermatogenesis,False,False,False
+Oogenesis,XII-BIO,oogenesis,False,False,False
+Implantation (embryology),XII-BIO,implantation,False,False,False
+Pregnancy,XII-BIO,pregnancy,False,True,False
+Childbirth,XII-BIO,parturition,False,False,False
+Lactation,XII-BIO,lactation,False,False,False
+Testicle,XII-BIO,testis,False,False,False
+Ovary,XII-BIO,ovary,False,True,False
+Blastocyst,XII-BIO,blastocyst,False,False,False
+Sexually transmitted infection,XII-BIO,sexually transmitted,False,True,False
+In vitro fertilisation,XII-BIO,ivf,False,True,False
+Amniocentesis,XII-BIO,amniocentesis,False,False,False
+Infertility,XII-BIO,infertility,False,False,False
+Assisted reproductive technology,XII-BIO,assisted reproductive,False,False,False
+Abortion,XII-BIO,medical termination,False,False,False
+Punnett square,XII-BIO,mendelian inheritance,False,False,False
+ABO blood group system,XII-BIO,blood groups,False,True,False
+Pleiotropy,XII-BIO,pleiotropy,False,False,False
+Quantitative trait locus,XII-BIO,polygenic,False,False,False
+Boveri–Sutton chromosome theory,XII-BIO,chromosome theory,False,False,False
+Genetic linkage,XII-BIO,linkage,False,True,True
+Chromosomal crossover,XII-BIO,crossing over,False,False,False
+Sex linkage,XII-BIO,sex.?linked,False,False,False
+Mutation,XII-BIO,mutation|mendelian disorders,False,False,False
+Pedigree chart,XII-BIO,pedigree|mendelian disorders,False,False,False
+Haemophilia,XII-BIO,ha?emophilia,False,False,False
+Sickle cell disease,XII-BIO,mendelian disorders|sickle,False,False,False
+Phenylketonuria,XII-BIO,mendelian disorders,False,False,False
+Thalassemia,XII-BIO,thalassemia,False,False,False
+Down syndrome,XII-BIO,down.?s syndrome,False,False,False
+Turner syndrome,XII-BIO,turner,False,False,False
+Klinefelter syndrome,XII-BIO,klinefelter,False,False,False
+Color blindness,XII-BIO,colou?r blindness,False,False,False
+DNA replication,XII-BIO,dna replication,False,False,False
+Transcription (biology),XII-BIO,transcription,False,True,False
+Translation (biology),XII-BIO,translation,False,True,False
+Genetic code,XII-BIO,genetic code,False,False,False
+Lac operon,XII-BIO,lac operon,False,False,False
+Human Genome Project,XII-BIO,human genome project|genome,False,False,False
+DNA profiling,XII-BIO,dna finger ?printing,False,False,False
+Central dogma of molecular biology,XII-BIO,central dogma,False,False,False
+Griffith's experiment,XII-BIO,search for genetic material,False,False,False
+Hershey–Chase experiment,XII-BIO,search for genetic material,False,False,False
+Meselson–Stahl experiment,XII-BIO,dna replication,False,False,False
+Nucleosome,XII-BIO,dna packaging,False,False,False
+Messenger RNA,XII-BIO,transcription,False,True,False
+Transfer RNA,XII-BIO,translation,False,True,False
+Operon,XII-BIO,lac operon,False,False,False
+Abiogenesis,XII-BIO,origin of life,False,False,False
+Miller–Urey experiment,XII-BIO,origin of life,False,False,False
+Darwinism,XII-BIO,darwin,False,False,False
+Hardy–Weinberg principle,XII-BIO,hardy,False,False,False
+Adaptive radiation,XII-BIO,adaptive radiation,False,False,False
+Human evolution,XII-BIO,human evolution,False,False,False
+Lamarckism,XII-BIO,biological evolution|evolution,False,False,False
+Convergent evolution,XII-BIO,evidences for biological evolution|evolution,False,False,False
+Genetic drift,XII-BIO,genetic drift,False,True,False
+Gene flow,XII-BIO,gene flow,False,False,False
+Malaria,XII-BIO,malaria,False,False,False
+Typhoid fever,XII-BIO,typhoid,False,False,False
+Pneumonia,XII-BIO,pneumonia,False,False,False
+Common cold,XII-BIO,common cold,False,False,False
+Amoebiasis,XII-BIO,amoebiasis,False,False,False
+Ascariasis,XII-BIO,ascariasis,False,False,False
+Filariasis,XII-BIO,filariasis,False,False,False
+Dermatophytosis,XII-BIO,ring ?worm,False,False,False
+Dengue fever,XII-BIO,dengue,False,False,False
+Chikungunya,XII-BIO,chikungun[iy]a,False,False,False
+Immune system,XII-BIO,immunology,False,False,False
+Vaccine,XII-BIO,vaccines,False,False,False
+Antibody,XII-BIO,immunology,False,False,False
+Allergy,XII-BIO,immunology,False,False,False
+Autoimmunity,XII-BIO,immunology,False,False,False
+HIV/AIDS,XII-BIO,aids,False,True,False
+Cancer,XII-BIO,cancer,True,False,True
+Substance abuse,XII-BIO,drug and alcohol abuse,False,False,False
+Plasmodium,XII-BIO,malaria,False,False,False
+Lymphocyte,XII-BIO,immunology,False,False,False
+Innate immune system,XII-BIO,immunology,False,False,False
+Plant breeding,XII-BIO,plant breeding,False,False,False
+Plant tissue culture,XII-BIO,tissue culture,False,False,False
+Single-cell protein,XII-BIO,single cell protein,False,False,False
+Biofortification,XII-BIO,biofortification,False,False,False
+Animal husbandry,XII-BIO,animal husbandry,False,False,False
+Beekeeping,XII-BIO,apiculture,False,False,False
+Sewage treatment,XII-BIO,sewage treatment,False,True,False
+Biological pest control,XII-BIO,biocontrol,False,False,False
+Biofertilizer,XII-BIO,biofertili[sz]ers,False,False,False
+Penicillin,XII-BIO,antibiotics,False,True,False
+Fermentation,XII-BIO,industrial production|household food processing,False,False,False
+Mycorrhiza,XII-BIO,biofertili[sz]ers,False,False,False
+Activated sludge,XII-BIO,sewage treatment,False,True,False
+Rhizobium,XII-BIO,biofertili[sz]ers,False,False,False
+Biotechnology,XII-BIO,biotechnology,False,True,False
+Genetic engineering,XII-BIO,genetic engineering,False,False,False
+Recombinant DNA,XII-BIO,recombinant dna,False,False,False
+Restriction enzyme,XII-BIO,genetic engineering|recombinant dna,False,False,False
+Polymerase chain reaction,XII-BIO,genetic engineering|recombinant dna,False,False,False
+Gel electrophoresis,XII-BIO,genetic engineering|recombinant dna,False,False,False
+Cloning vector,XII-BIO,genetic engineering|recombinant dna,False,False,False
+Plasmid,XII-BIO,genetic engineering|recombinant dna,False,False,False
+Bioreactor,XII-BIO,genetic engineering|recombinant dna,False,False,False
+Bt cotton,XII-BIO,bt crops,False,False,False
+Gene therapy,XII-BIO,gene therapy,False,False,False
+RNA interference,XII-BIO,genetically modified organisms|bt crops,False,False,False
+Genetically modified organism,XII-BIO,genetically modified organisms,False,False,False
+Biopiracy,XII-BIO,biopiracy,False,False,False
+Insulin (medication),XII-BIO,human insulin,False,False,False
+Genetically modified animal,XII-BIO,transgenic animals,False,False,False
+ELISA,XII-BIO,gene therapy|molecular diagnosis|vaccine production,False,False,False
+DNA ligase,XII-BIO,genetic engineering|recombinant dna,False,False,False
+Agrobacterium tumefaciens,XII-BIO,genetic engineering|recombinant dna,False,False,False
+Ecology,XII-BIO,ecolog,False,True,False
+Mutualism (biology),XII-BIO,mutualism,False,False,False
+Predation,XII-BIO,predation,False,True,False
+Parasitism,XII-BIO,parasitism,False,False,False
+Competition (biology),XII-BIO,competition,False,True,False
+Commensalism,XII-BIO,population interactions,False,False,False
+Population dynamics,XII-BIO,growth,False,True,True
+Logistic function,XII-BIO,population attributes|growth,False,False,False
+Adaptation,XII-BIO,adaptations,False,True,False
+Primary production,XII-BIO,productivity,False,False,False
+Decomposition,XII-BIO,decomposition,False,True,True
+Energy flow (ecology),XII-BIO,energy flow,False,True,False
+Ecological pyramid,XII-BIO,pyramids,False,True,False
+Ecological succession,XII-BIO,ecological succession,False,False,False
+Nutrient cycle,XII-BIO,nutrient cycl,False,True,False
+Carbon cycle,XII-BIO,carbon,False,True,True
+Phosphorus cycle,XII-BIO,nutrient cycl|phosphorous,False,False,False
+Biodiversity hotspot,XII-BIO,hotspots,False,False,False
+Endangered species,XII-BIO,endangered,False,True,False
+Extinction,XII-BIO,extinction,False,True,False
+IUCN Red List,XII-BIO,red data book,False,False,False
+National park,XII-BIO,national parks,False,False,False
+Man and the Biosphere Programme,XII-BIO,biosphere reserves,False,False,False
+Species–area relationship,XII-BIO,patterns|biodiversity,False,False,False
+Sacred grove,XII-BIO,sacred groves|biodiversity conservation,False,False,False
+Ramsar Convention,XII-BIO,ramsar,False,False,False
+Air pollution,XII-BIO,air pollution,False,False,False
+Water pollution,XII-BIO,water pollution,False,False,False
+Eutrophication,XII-BIO,water pollution,False,False,False
+Climate change,XII-BIO,global warming|green ?house effect,False,False,False
+Greenhouse effect,XII-BIO,green ?house effect,False,False,False
+Biochemical oxygen demand,XII-BIO,sewage treatment|water pollution,False,False,False
+Municipal solid waste,XII-BIO,solid waste,False,False,False
+Radioactive waste,XII-BIO,radioactive waste,False,False,False
+Montreal Protocol,XII-BIO,ozone,False,False,False
+Binary relation,XII-MAT,relations,True,True,True
+Equivalence relation,XII-MAT,equivalence,False,False,False
+Injective function,XII-MAT,one to one,False,False,False
+Surjective function,XII-MAT,onto,False,False,False
+Bijection,XII-MAT,one to one and onto,False,False,False
+Function composition,XII-MAT,composite functions,False,False,False
+Inverse function,XII-MAT,inverse of a function,False,False,False
+Binary operation,XII-MAT,binary operations,False,False,False
+Inverse trigonometric functions,XII-MAT,inverse trigonometric functions,False,False,False
+Matrix (mathematics),XII-MAT,matrices,False,False,False
+Transpose,XII-MAT,transpose,False,False,False
+Symmetric matrix,XII-MAT,symmetric,False,False,False
+Skew-symmetric matrix,XII-MAT,skew,False,False,False
+Matrix multiplication,XII-MAT,multiplication,False,True,False
+Invertible matrix,XII-MAT,invertible,False,False,False
+Determinant,XII-MAT,determinants?,False,False,False
+Adjugate matrix,XII-MAT,adjoint,False,False,False
+Minor (linear algebra),XII-MAT,minors,False,False,False
+Identity matrix,XII-MAT,identity,False,False,True
+Elementary matrix,XII-MAT,elementary,False,False,False
+Continuous function,XII-MAT,continuity,False,False,False
+Differentiable function,XII-MAT,differentiability,False,False,False
+Derivative,XII-MAT,derivatives?,False,False,False
+Chain rule,XII-MAT,chain rule,False,False,False
+Implicit function,XII-MAT,implicit,False,False,False
+Logarithmic differentiation,XII-MAT,logarithmic differentiation,False,False,False
+Rolle's theorem,XII-MAT,rolle,True,True,True
+Mean value theorem,XII-MAT,mean value,False,False,False
+Second derivative,XII-MAT,second order,False,False,False
+Maximum and minimum,XII-MAT,maxima and minima,False,False,False
+Monotonic function,XII-MAT,increasing,True,True,True
+Antiderivative,XII-MAT,inverse process of differentiation,False,False,False
+Integral,XII-MAT,integrals?,False,False,False
+Integration by parts,XII-MAT,by parts,False,False,False
+Integration by substitution,XII-MAT,substitution,False,False,True
+Partial fraction decomposition,XII-MAT,partial fractions,False,False,False
+Fundamental theorem of calculus,XII-MAT,fundamental theorem of calculus,False,False,False
+Differential equation,XII-MAT,differential equations?,False,False,False
+Separation of variables,XII-MAT,separation of variables,False,False,False
+Homogeneous differential equation,XII-MAT,homogeneous,False,False,False
+Linear differential equation,XII-MAT,linear differential equation,False,False,False
+Exponential function,XII-MAT,exponential,False,True,False
+Logarithm,XII-MAT,logarithmic,False,False,False
+Parametric equation,XII-MAT,parametric,False,False,False
+Riemann sum,XII-MAT,limit of a sum,False,False,False
+Euclidean vector,XII-MAT,vectors,True,False,False
+Dot product,XII-MAT,dot,True,True,True
+Cross product,XII-MAT,cross,True,True,True
+Triple product,XII-MAT,triple product,False,False,False
+Direction cosine,XII-MAT,direction cosines,False,False,False
+Unit vector,XII-MAT,unit,True,True,True
+Position (geometry),XII-MAT,position vector,False,False,False
+Skew lines,XII-MAT,skew lines,False,False,False
+Coplanarity,XII-MAT,coplanar,False,False,False
+Collinearity,XII-MAT,collinear,False,False,False
+Plane (mathematics),XII-MAT,plane,True,False,False
+Line (geometry),XII-MAT,equation of a line,False,False,False
+Vector projection,XII-MAT,projection,True,False,False
+Linear programming,XII-MAT,linear programming,False,False,False
+Feasible region,XII-MAT,feasible,False,False,False
+Conditional probability,XII-MAT,conditional probability,False,False,False
+Bayes' theorem,XII-MAT,baye,False,False,False
+Random variable,XII-MAT,random variable,False,False,False
+Probability distribution,XII-MAT,probability distribution,False,False,False
+Binomial distribution,XII-MAT,binomial distribution,False,False,False
+Bernoulli trial,XII-MAT,bernoulli,False,False,False
+Independence (probability theory),XII-MAT,independent events,False,False,False
+Expected value,XII-MAT,mean of random variable|mean and variance,False,False,False
+Variance,XII-MAT,variance,False,False,False
+Law of total probability,XII-MAT,total probability,False,False,False

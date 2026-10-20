@@ -1,0 +1,88 @@
+exam_year,class,event,date,verification,source
+2016,X,first_exam,2016-03-01,UNVERIFIED (from memory; no primary document found),needs a primary source before publication
+2016,XII,first_exam,2016-03-01,UNVERIFIED (from memory; no primary document found),needs a primary source before publication
+2017,X,first_exam,2017-03-09,primary (text PDF read),data/datesheets/2017_X.pdf = web.archive.org/web/20170215034528/http://cbse.nic.in/newsite/attach/date%20sheet%20of%20class%20X%20-%202017.pdf
+2017,X,science,2017-03-22,primary (text PDF read),data/datesheets/2017_X.pdf
+2017,X,mathematics,2017-04-03,primary (text PDF read),data/datesheets/2017_X.pdf
+2017,X,social_science,2017-04-08,primary (text PDF read),data/datesheets/2017_X.pdf
+2017,X,last_exam,2017-04-10,primary (text PDF read),data/datesheets/2017_X.pdf
+2017,XII,first_exam,2017-03-09,primary (text PDF read),data/datesheets/2017_XII.pdf = web.archive.org/web/20170215034533/http://cbse.nic.in/newsite/attach/datesheet%20of%20class%20XII%20exam%202017.pdf
+2017,XII,physics,2017-03-15,primary (text PDF; date inferred from line order of the extracted text),data/datesheets/2017_XII.pdf
+2017,XII,mathematics,2017-03-20,primary (text PDF; date inferred from line order of the extracted text),data/datesheets/2017_XII.pdf
+2017,XII,chemistry,2017-03-25,primary (text PDF; date inferred from line order of the extracted text),data/datesheets/2017_XII.pdf
+2017,XII,biology,2017-04-05,primary (text PDF; date inferred from line order of the extracted text),data/datesheets/2017_XII.pdf
+2017,XII,last_exam,2017-04-29,primary (text PDF read),data/datesheets/2017_XII.pdf
+2018,X,first_exam,2018-03-05,secondary (news reports found by web search on 2026-10-13),businesstoday.in/latest/economy-politics/story/cbse-class-10-12-admit-cards-date-sheet-2018-exam-101781-2018-02-07
+2018,X,mathematics,2018-03-28,secondary (news) + primary press release of 30 Mar 2018 confirms a Class X Mathematics paper leak,data/datesheets/2018_new_exam_date.pdf
+2018,X,last_exam,2018-04-04,secondary (news reports),same search
+2018,XII,first_exam,2018-03-05,secondary (news reports),same search
+2018,XII,mathematics,2018-03-21,secondary (news reports),same search
+2018,XII,last_exam,2018-04-13,primary (CBSE notification of 17 Jan 2018 moving Physical Education to 13 Apr 2018); Economics re-exam on 25 Apr 2018 after a paper leak,data/datesheets/2018_XII_revision.pdf ; data/datesheets/2018_new_exam_date.pdf
+2019,X,first_exam,2019-02-21,secondary (Careers360 reproduction of the date sheet),news.careers360.com/cbse-date-sheet-class-10-12-2019-released-check-board-exam-dates-here/amp
+2019,X,mathematics,2019-03-07,secondary (Careers360),same
+2019,X,science,2019-03-13,secondary (Careers360),same
+2019,X,social_science,2019-03-29,secondary (Careers360),same
+2019,X,last_exam,2019-03-29,secondary (Careers360),same
+2019,XII,first_exam,2019-02-15,secondary (Careers360),same
+2019,XII,physics,2019-03-05,secondary (Careers360),same
+2019,XII,mathematics,2019-03-18,secondary (Careers360),same
+2019,XII,last_exam,2019-04-03,secondary (Careers360 table; its text says 2 April),same
+2020,X,first_exam,2020-02-15,primary (scanned PDF read),data/datesheets/2020_X.pdf = web.archive.org/web/20200324024722/http://cbse.nic.in/newsite/attach/CLASS%20X_DATESHEET_2020%20EXAMS.pdf
+2020,X,science,2020-03-04,primary (scanned PDF read),data/datesheets/2020_X.pdf
+2020,X,mathematics,2020-03-12,primary (scanned PDF read),data/datesheets/2020_X.pdf
+2020,X,social_science,2020-03-18,primary (scanned PDF read),data/datesheets/2020_X.pdf
+2020,X,last_exam,2020-03-20,primary (scheduled date; scanned PDF read). Papers from 19 Mar 2020 were postponed because of COVID-19 (postponement itself is from memory - UNVERIFIED),data/datesheets/2020_X.pdf
+2020,XII,first_exam,2020-02-15,primary (scanned PDF read),data/datesheets/2020_XII.pdf = web.archive.org/web/20200220135156/http://cbse.nic.in/newsite/attach/CLASS%20XII_DATESHEET_2020%20EXAMS.pdf
+2020,XII,physics,2020-03-02,primary (scanned PDF read),data/datesheets/2020_XII.pdf
+2020,XII,chemistry,2020-03-07,primary (scanned PDF read),data/datesheets/2020_XII.pdf
+2020,XII,biology,2020-03-14,primary (scanned PDF read),data/datesheets/2020_XII.pdf
+2020,XII,mathematics,2020-03-17,primary (scanned PDF read),data/datesheets/2020_XII.pdf
+2021,X,cancelled,,Exams scheduled from 4 May 2021 (primary date sheet of 2 Feb 2021 downloaded) and then cancelled; cancellation dates are from memory - UNVERIFIED,data/datesheets/2021_X_planned.pdf
+2021,XII,cancelled,,Exams scheduled from 4 May 2021 (primary date sheet of 2 Feb 2021 downloaded) and then cancelled; cancellation dates are from memory - UNVERIFIED,data/datesheets/2021_XII_planned.pdf
+2022,X,term2_first_exam,2022-04-26,secondary (Careers360 table lists Class XII 26 Apr - 15 Jun 2022; Class X term-2 start is from memory - UNVERIFIED). Two-term year: Term 1 MCQ papers in Nov-Dec 2021 (primary date sheets of 18 Oct 2021 downloaded),school.careers360.com/boards/cbse/cbse-class-10-12-exam-date-changes-analysis ; data/datesheets/2022_term1_X.pdf
+2022,XII,term2_first_exam,2022-04-26,secondary (Careers360),same
+2022,XII,term2_last_exam,2022-06-15,secondary (Careers360),same
+2023,X,first_exam,2023-02-15,primary (scanned PDF read),data/datesheets/2023.pdf = web.archive.org/web/20221230143741/https://www.cbse.gov.in/cbsenew/documents//Date_Sheet_Session_2022_23_30122022_Updated.pdf
+2023,X,science,2023-03-04,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,X,social_science,2023-03-15,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,X,mathematics,2023-03-21,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,X,last_exam,2023-03-21,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,XII,first_exam,2023-02-15,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,XII,chemistry,2023-02-28,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,XII,physics,2023-03-06,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,XII,mathematics,2023-03-11,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,XII,biology,2023-03-16,primary (scanned PDF read),data/datesheets/2023.pdf
+2023,XII,last_exam,2023-04-05,primary (scanned PDF read),data/datesheets/2023.pdf
+2024,X,first_exam,2024-02-15,primary (scanned PDF read; revised sheet of 3 Jan 2024),data/datesheets/2024_X_rev.pdf = web.archive.org/web/20240104142137/https://www.cbse.gov.in/cbsenew/documents/DATE_SHEET_CLASS_X_Revised_03012024.pdf
+2024,X,science,2024-03-02,primary (scanned PDF read),data/datesheets/2024_X_rev.pdf
+2024,X,social_science,2024-03-07,primary (scanned PDF read),data/datesheets/2024_X_rev.pdf
+2024,X,mathematics,2024-03-11,primary (scanned PDF read),data/datesheets/2024_X_rev.pdf
+2024,X,last_exam,2024-03-13,primary (scanned PDF read),data/datesheets/2024_X_rev.pdf
+2024,XII,first_exam,2024-02-15,primary (scanned PDF read; revised sheet of 3 Jan 2024),data/datesheets/2024_XII_rev.pdf
+2024,XII,chemistry,2024-02-27,primary (scanned PDF read),data/datesheets/2024_XII_rev.pdf
+2024,XII,physics,2024-03-04,primary (scanned PDF read),data/datesheets/2024_XII_rev.pdf
+2024,XII,mathematics,2024-03-09,primary (scanned PDF read),data/datesheets/2024_XII_rev.pdf
+2024,XII,biology,2024-03-19,primary (scanned PDF read),data/datesheets/2024_XII_rev.pdf
+2024,XII,last_exam,2024-04-02,primary (scanned PDF read),data/datesheets/2024_XII_rev.pdf
+2025,X,first_exam,2025-02-15,primary (scanned PDF read),data/datesheets/2025.pdf = web.archive.org/web/20241120162446/https://www.cbse.gov.in/cbsenew/documents/Date_Sheet_Main_Exam_2025_20112024.pdf
+2025,X,science,2025-02-20,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,X,social_science,2025-02-25,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,X,mathematics,2025-03-10,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,X,last_exam,2025-03-18,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,XII,first_exam,2025-02-15,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,XII,physics,2025-02-21,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,XII,chemistry,2025-02-27,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,XII,mathematics,2025-03-08,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,XII,biology,2025-03-25,primary (scanned PDF read),data/datesheets/2025.pdf
+2025,XII,last_exam,2025-04-04,primary (scanned PDF read),data/datesheets/2025.pdf
+2026,X,first_exam,2026-02-17,primary (scanned PDF read; revised sheet of 31 Dec 2025). First year of the two-board-exam system for Class X; a second exam was scheduled later (date sheet of 23 Apr 2026 exists in the Wayback index - not read),data/datesheets/2026_X_rev.pdf = web.archive.org/web/20260101214848/https://www.cbse.gov.in/cbsenew/documents/Revised_Class_X_Date_Sheet_31122025.pdf
+2026,X,mathematics,2026-02-17,primary (scanned PDF read),data/datesheets/2026_X_rev.pdf
+2026,X,science,2026-02-25,primary (scanned PDF read),data/datesheets/2026_X_rev.pdf
+2026,X,social_science,2026-03-07,primary (scanned PDF read),data/datesheets/2026_X_rev.pdf
+2026,X,last_exam,2026-03-10,primary (scanned PDF pages 1-3 read; page 4 not read),data/datesheets/2026_X_rev.pdf
+2026,XII,first_exam,2026-02-17,primary (scanned PDF read; revised sheet of 31 Dec 2025),data/datesheets/2026_XII_rev.pdf
+2026,XII,physics,2026-02-20,primary (scanned PDF read),data/datesheets/2026_XII_rev.pdf
+2026,XII,chemistry,2026-02-28,primary (scanned PDF read),data/datesheets/2026_XII_rev.pdf
+2026,XII,mathematics,2026-03-09,primary (scanned PDF read),data/datesheets/2026_XII_rev.pdf
+2026,XII,biology,2026-03-27,primary (scanned PDF read),data/datesheets/2026_XII_rev.pdf
+2026,XII,last_exam,2026-04-09,secondary (news; pages 1-4 of the primary PDF read up to 30 Mar - page 5 not read),thehitavada.com//Encyc/2025/10/31/cbse-announces-final-datesheet-for-class-10-12.html

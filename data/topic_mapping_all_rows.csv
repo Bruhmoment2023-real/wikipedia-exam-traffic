@@ -1,0 +1,872 @@
+subject,area,unit,topic,en_title,qid,en_pageid,hi_title,kn_title,rule,ambiguous,flags,in_syllabus_2020_21,in_syllabus_2024_25,kw,en_title_mapped,en_redirected,en_missing,en_disambig
+X-SCI,SCI,Chemical reactions,Chemical equation,Chemical equation,Q182527,199040,रासायनिक समीकरण,,R1 exact title,0,,1,1,chemical\ equation,Chemical equation,0,0,0
+X-SCI,SCI,Chemical reactions,Chemical reaction,Chemical reaction,Q36534,6271,रासायनिक अभिक्रिया,ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ,R1 exact title,0,,1,1,chemical\ reaction,Chemical reaction,0,0,0
+X-SCI,SCI,Chemical reactions,Decomposition reaction,Chemical decomposition,Q192036,1533184,रासायनिक अपघटन,,"R2 named concept, different wording",0,,1,1,decomposition,Chemical decomposition,0,0,0
+X-SCI,SCI,Chemical reactions,Displacement reaction,Single displacement reaction,Q3238347,1463025,,,"R2 named concept, different wording",0,,1,1,displacement,Single displacement reaction,0,0,0
+X-SCI,SCI,Chemical reactions,Double displacement reaction,Salt metathesis reaction,Q1672062,2674010,,,"R2 named concept, different wording",0,,1,1,double displacement,Salt metathesis reaction,0,0,0
+X-SCI,SCI,Chemical reactions,Precipitation,Precipitation (chemistry),Q113796,286262,अवक्षेपण,,"R2 named concept, different wording",0,,1,1,precipitation,Precipitation (chemistry),0,0,0
+X-SCI,SCI,Chemical reactions,Neutralization,Neutralization (chemistry),Q337120,531014,उदासीनीकरण अभिक्रिया,,"R2 named concept, different wording",0,,1,1,neutrali[sz]ation,Neutralization (chemistry),0,0,0
+X-SCI,SCI,Chemical reactions,Oxidation and reduction,Redox,Q82682,66313,रेडॉक्स,ಉತ್ಕರ್ಷಣ - ಅಪಕರ್ಷಣ,"R2 named concept, different wording",0,,1,1,oxidation and reduction,Redox,0,0,0
+X-SCI,SCI,Chemical reactions,Rancidity,Rancidification,Q859029,198711,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,rancidity,Rancidity,1,0,0
+X-SCI,SCI,Chemical reactions,Corrosion,Corrosion,Q137056,155443,संक्षारण,,R1 exact title,0,,1,1,corrosion,Corrosion,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Acid,Acid,Q11158,656,अम्ल,ಆಮ್ಲ,R1 exact title,0,,1,1,acid,Acid,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Base,Base (chemistry),Q11193,140459,क्षार,ಪ್ರತ್ಯಾಮ್ಲ,"R2 named concept, different wording",0,,1,1,bases,Base (chemistry),0,0,0
+X-SCI,SCI,"Acids, bases and salts",Salt,Salt (chemistry),Q12370,27558,लवण,,"R2 named concept, different wording",0,,1,1,salts,Salt (chemistry),0,0,0
+X-SCI,SCI,"Acids, bases and salts",pH scale,PH,Q40936,24530,PH,ಪಿ ಹೆಚ್,"R2 named concept, different wording",0,,1,1,ph scale,pH,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Indicator,PH indicator,Q300951,85411,,,"R2 named concept, different wording",0,,1,1,indicator,pH indicator,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Sodium hydroxide,Sodium hydroxide,Q102769,57877,सोडियम हाइड्रॉक्साइड,,R1 exact title,0,,1,1,sodium\ hydroxide,Sodium hydroxide,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Bleaching powder,Calcium hypochlorite,Q407300,2898453,कैल्सियम हाइपोक्लोराइट,,"R2 named concept, different wording",0,,1,1,bleaching\ powder,Calcium hypochlorite,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Baking soda,Sodium bicarbonate,Q179731,155725,सोडियम बाईकार्बोनेट,ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬೋನೇಟ್,"R2 named concept, different wording",0,,1,1,baking\ soda,Sodium bicarbonate,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Washing soda,Sodium carbonate,Q190227,155726,सोडियम कार्बोनेट,ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್,"R2 named concept, different wording",0,,1,1,washing\ soda,Sodium carbonate,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Plaster of Paris,Plaster,Q274988,331731,प्लास्टर,,R3 article broader or narrower than topic,1,broader_or_narrower,1,1,plaster\ of\ paris,Plaster,0,0,0
+X-SCI,SCI,"Acids, bases and salts",Chlor-alkali process,Chloralkali process,Q139863,998456,,,"R2 named concept, different wording",0,,1,1,chlor,Chloralkali process,0,0,0
+X-SCI,SCI,Metals and non-metals,Metal,Metal,Q11426,19042,धातु,ಲೋಹ,R1 exact title,0,,1,1,metals,Metal,0,0,0
+X-SCI,SCI,Metals and non-metals,Non-metal,Nonmetal,Q19600,102193,अधातु,ಅಲೋಹಗಳು,"R2 named concept, different wording",0,,1,1,non.?metals,Nonmetal,0,0,0
+X-SCI,SCI,Metals and non-metals,Reactivity series,Reactivity series,Q371578,650995,सक्रियता श्रेणी,,R1 exact title,0,,1,1,reactivity\ series,Reactivity series,0,0,0
+X-SCI,SCI,Metals and non-metals,Ionic compounds,Ionic bonding,Q62500,14951,आयनी आबन्ध,,"R2 named concept, different wording",0,,1,1,ionic compounds,Ionic bonding,0,0,0
+X-SCI,SCI,Metals and non-metals,Metallurgical processes,Metallurgy,Q11467,19722,धातुकर्म,ಲೋಹಶಾಸ್ತ್ರ,"R2 named concept, different wording",0,,1,1,metallurg,Metallurgy,0,0,0
+X-SCI,SCI,Metals and non-metals,Alloy,Alloy,Q37756,1187,मिश्रातु,ಮಿಶ್ರ ಲೋಹ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,alloy,Alloy,0,0,0
+X-SCI,SCI,Metals and non-metals,Galvanization,Galvanization,Q690418,12858,गैल्वनीकरण,ಗ್ಯಾಲ್ವನೀಕರಣ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,galvani,Galvanization,0,0,0
+X-SCI,SCI,Metals and non-metals,Amphoteric oxides,Amphoterism,Q182677,161293,एम्फोटेरिक,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,amphoteric,Amphoterism,0,0,0
+X-SCI,SCI,Metals and non-metals,Roasting,Roasting (metallurgy),Q1228460,8920717,,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,roasting,Roasting (metallurgy),0,0,0
+X-SCI,SCI,Metals and non-metals,Calcination,Calcination,Q849523,1170793,निस्तापन,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,calcination,Calcination,0,0,0
+X-SCI,SCI,Metals and non-metals,Electrolytic refining,Electrolysis,Q64403,38257,विद्युत अपघटन,ವಿದ್ಯುದ್ವಿಭಜನೆ (ಎಲೆಕ್ಟ್ರೋಲೈಸಿಸ್),R3 article broader or narrower than topic,1,broader_or_narrower;keyword_not_in_syllabus_text,0,0,electroly,Electrolysis,0,0,0
+X-SCI,SCI,Carbon compounds,Covalent bonding,Covalent bond,Q127920,6246,सहसंयोजी आबंध,,"R2 named concept, different wording",0,,1,1,covalent bond,Covalent bond,0,0,0
+X-SCI,SCI,Carbon compounds,Homologous series,Homologous series,Q741844,1451572,समजातीय श्रेणी,ಅನೂರೂಪ ಶ್ರೇಣಿಗಳು,R1 exact title,0,,1,1,homologous\ series,Homologous series,0,0,0
+X-SCI,SCI,Carbon compounds,Functional groups,Functional group,Q170409,10911,प्रकार्यात्मक समूह,,"R2 named concept, different wording",0,,1,1,functional group,Functional group,0,0,0
+X-SCI,SCI,Carbon compounds,Hydrocarbons,Hydrocarbon,Q43648,13257,हाइड्रोकार्बन,ಹೈಡ್ರೊಕಾರ್ಬನ್ನುಗಳು,"R2 named concept, different wording",0,,1,1,hydro ?carbons,Hydrocarbon,0,0,0
+X-SCI,SCI,Carbon compounds,Alkane,Alkane,Q41581,639,अल्केन,ಆಲ್ಕೇನ್‌ಗಳು,R1 exact title,0,,1,1,alkanes,Alkane,0,0,0
+X-SCI,SCI,Carbon compounds,Alkene,Alkene,Q81406,2761,ऐल्कीन,ಆಲ್ಕೀನ್,R1 exact title,0,keyword_not_in_syllabus_text,0,0,alkenes,Alkene,0,0,0
+X-SCI,SCI,Carbon compounds,Alkyne,Alkyne,Q159226,2763,ऐल्काइन,,R1 exact title,0,,1,1,alkynes,Alkyne,0,0,0
+X-SCI,SCI,Carbon compounds,Ethanol,Ethanol,Q153,10048,इथेनॉल,ಈಥೈಲ್ ಆಲ್ಕೋಹಾಲ್,R1 exact title,0,,1,1,ethanol,Ethanol,0,0,0
+X-SCI,SCI,Carbon compounds,Ethanoic acid,Acetic acid,Q47512,19916594,एसिटिक अम्ल,ಅಸಿಟಿಕ್ ಆಮ್ಲ,"R2 named concept, different wording",0,,1,1,ethanoic acid,Acetic acid,0,0,0
+X-SCI,SCI,Carbon compounds,Soap,Soap,Q34396,57875,साबुन,ಸಾಬೂನು,R1 exact title,0,,1,1,soaps,Soap,0,0,0
+X-SCI,SCI,Carbon compounds,Detergent,Detergent,Q334637,92514,अपमार्जक,ಮಾರ್ಜಕ,R1 exact title,0,,1,1,detergents,Detergent,0,0,0
+X-SCI,SCI,Carbon compounds,Saponification,Saponification,Q335024,268331,साबुनीकरण,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,saponification,Saponification,0,0,0
+X-SCI,SCI,Carbon compounds,Esterification,Ester,Q101487,9675,एस्टर,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,ester,Ester,0,0,0
+X-SCI,SCI,Carbon compounds,Allotropes of carbon,Allotropes of carbon,Q622460,551061,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,allotrop,Allotropes of carbon,0,0,0
+X-SCI,SCI,Carbon compounds,Catenation,Catenation,Q334951,624739,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,catenation,Catenation,0,0,0
+X-SCI,SCI,Carbon compounds,Isomers,Isomer,Q127950,20648024,समावयवी,ಐಸೋಮರ್,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,isomer,Isomer,0,0,0
+X-SCI,SCI,Carbon compounds,Micelle,Micelle,Q421110,317227,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,micelle,Micelle,0,0,0
+X-SCI,SCI,Carbon compounds,Addition reaction,Addition reaction,Q212745,369482,संकलन अभिक्रिया,,R1 exact title,0,,1,1,addition,Addition reaction,0,0,0
+X-SCI,SCI,Carbon compounds,Substitution reaction,Substitution reaction,Q503396,624981,,,R1 exact title,0,,1,1,substitution,Substitution reaction,0,0,0
+X-SCI,SCI,Carbon compounds,Combustion,Combustion,Q133235,5638,दहन,ಉಷ್ಣ ವಿಕಸನ,R1 exact title,0,,1,1,combustion,Combustion,0,0,0
+X-SCI,SCI,Periodic classification of elements,Periodic table,Periodic table,Q10693,23053,आवर्त सारणी,ಆವರ್ತ ಕೋಷ್ಟಕ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,periodic table,Periodic table,0,0,0
+X-SCI,SCI,Periodic classification of elements,Dobereiner's triads,Döbereiner's triads,Q3610444,29052228,डाॅबेराइनर के त्रिक,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,dobereiner,Döbereiner's triads,0,0,0
+X-SCI,SCI,Periodic classification of elements,Newlands' law of octaves,History of the periodic table,Q14916030,619795,आवर्त सारणी का इतिहास,,R3 article broader or narrower than topic,1,broader_or_narrower;dropped_from_syllabus_by_2024_25,1,0,law of octaves,History of the periodic table,0,0,0
+X-SCI,SCI,Periodic classification of elements,Mendeleev,Dmitri Mendeleev,Q9106,60633,मेंडलीफ,ದಿಮಿತ್ರಿ ಮೆಂಡಲೀವ್,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,mendeleev,Dmitri Mendeleev,0,0,0
+X-SCI,SCI,Periodic classification of elements,Gradation in properties,Periodic trends,Q2622089,8372004,आवर्त नियम,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,gradation in properties,Periodic trends,0,0,0
+X-SCI,SCI,Periodic classification of elements,Valency,Valence (chemistry),Q171407,1645042,संयोजकता,,"R2 named concept, different wording",0,,1,1,valency,Valence (chemistry),0,0,0
+X-SCI,SCI,Periodic classification of elements,Atomic number,Atomic number,Q23809,673,परमाणु क्रमांक,ಪರಮಾಣು ಸಂಖ್ಯೆ,R1 exact title,0,,1,1,atomic\ number,Atomic number,0,0,0
+X-SCI,SCI,Life processes,Nutrition,Nutrition,Q2138622,21525,पोषण,ಪೋಷಣಶಾಸ್ತ್ರ,R1 exact title,0,,1,1,nutrition,Nutrition,0,0,0
+X-SCI,SCI,Life processes,Photosynthesis,Photosynthesis,Q11982,24544,प्रकाश-संश्लेषण,ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,photosynthesis,Photosynthesis,0,0,0
+X-SCI,SCI,Life processes,Respiration,Cellular respiration,Q912751,102871,कोशिकीय श्वसन,,"R2 named concept, different wording",0,,1,1,respiration,Cellular respiration,0,0,0
+X-SCI,SCI,Life processes,Digestive system,Human digestive system,Q9649,42193218,मानव का पाचक तंत्र,ಮಾನವನ ಪಚನ ವ್ಯವಸ್ಥೆ,"R2 named concept, different wording",0,,1,1,nutrition,Human digestive system,0,0,0
+X-SCI,SCI,Life processes,Transport in animals,Circulatory system,Q11068,57330,परिसंचरण तंत्र,ರಕ್ತಪರಿಚಲನೆಯ ವ್ಯವಸ್ಥೆ,"R2 named concept, different wording",0,,1,1,transport,Circulatory system,0,0,0
+X-SCI,SCI,Life processes,Excretion,Excretion,Q185557,255468,उत्सर्जन,ವಿಸರ್ಜನೆ,R1 exact title,0,,1,1,excretion,Excretion,0,0,0
+X-SCI,SCI,Life processes,Nephron,Nephron,Q58184,215248,नेफ्रॉन,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,nephron,Nephron,0,0,0
+X-SCI,SCI,Life processes,Stomata,Stoma,Q216635,85746,रन्ध्र (वानस्पतिकी),ಪತ್ರರಂಧ್ರ,"R2 named concept, different wording",0,,1,1,stomata,Stoma,0,0,0
+X-SCI,SCI,Life processes,Transpiration,Transpiration,Q167980,18952860,वाष्पोत्सर्जन,ಬಾಷ್ಪೀಕರಣ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,transpiration,Transpiration,0,0,0
+X-SCI,SCI,Life processes,Heart,Heart,Q1072,36808,हृदय,ಹೃದಯ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,heart,Heart,0,0,0
+X-SCI,SCI,Life processes,Xylem,Xylem,Q122811,46675,जाइलम,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,xylem,Xylem,0,0,0
+X-SCI,SCI,Life processes,Phloem,Phloem,Q185138,61899,फ्लोएम,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,phloem,Phloem,0,0,0
+X-SCI,SCI,Life processes,Autotrophic nutrition,Autotroph,Q131427,25086118,स्वपोषी,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,autotroph,Autotroph,0,0,0
+X-SCI,SCI,Life processes,Heterotrophic nutrition,Heterotroph,Q159344,97114,परपोषित,ಪರಪೋಶಕಗಳು,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,heterotroph,Heterotroph,0,0,0
+X-SCI,SCI,Life processes,Anaerobic respiration,Anaerobic respiration,Q181713,435420,अवायवीय श्वसन,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,anaerobic\ respiration,Anaerobic respiration,0,0,0
+X-SCI,SCI,Life processes,Kidney,Kidney,Q112107043,17025,,,R1 exact title,0,,1,1,kidney,Kidney,0,0,0
+X-SCI,SCI,Life processes,Lymph,Lymph,Q179422,347123,लसीका,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,lymph,Lymph,0,0,0
+X-SCI,SCI,Life processes,Breathing,Respiratory system,Q7891,66723,श्वसन तंत्र,,"R2 named concept, different wording",0,,1,1,respirat,Respiratory system,0,0,0
+X-SCI,SCI,Control and coordination,Nervous system,Nervous system,Q9404,21944,तन्त्रिका तन्त्र,ನರಮಂಡಲ,R1 exact title,0,,1,1,nervous\ system,Nervous system,0,0,0
+X-SCI,SCI,Control and coordination,Neuron,Neuron,Q43054,21120,न्यूरॉन,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,neuron,Neuron,0,0,0
+X-SCI,SCI,Control and coordination,Reflex action,Reflex arc,Q1063501,569418,,,"R2 named concept, different wording",0,,1,1,reflex action,Reflex arc,0,0,0
+X-SCI,SCI,Control and coordination,Human brain,Human brain,Q492038,490620,मानव मस्तिष्क,ಮಾನವ ಮಿದುಳು,R1 exact title,0,keyword_not_in_syllabus_text,0,0,human\ brain,Human brain,0,0,0
+X-SCI,SCI,Control and coordination,Plant hormones,Plant hormone,Q192949,256641,पादप हार्मोन,,"R2 named concept, different wording",0,,1,1,plant hormones,Plant hormone,0,0,0
+X-SCI,SCI,Control and coordination,Tropic movements,Tropism,Q239762,576334,,,"R2 named concept, different wording",0,,1,1,tropic movements,Tropism,0,0,0
+X-SCI,SCI,Control and coordination,Phototropism,Phototropism,Q863119,30876740,प्रकाशानुवर्तन,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,phototropism,Phototropism,0,0,0
+X-SCI,SCI,Control and coordination,Chemical coordination,Endocrine system,Q11078,9312,अंतःस्रावी तंत्र,,"R2 named concept, different wording",0,,1,1,chemical co.?ordination,Endocrine system,0,0,0
+X-SCI,SCI,Control and coordination,Animal hormones,Hormone,Q11364,13311,हार्मोन,ಹಾರ್ಮೋನ್,"R2 named concept, different wording",0,,1,1,hormones,Hormone,0,0,0
+X-SCI,SCI,Control and coordination,Synapse,Synapse,Q187181,5654027,रासायनिक अन्तर्ग्रथन,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,synapse,Synapse,0,0,0
+X-SCI,SCI,Control and coordination,Auxin,Auxin,Q190022,496667,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,auxin,Auxin,0,0,0
+X-SCI,SCI,Control and coordination,Insulin,Insulin,Q50265665,14895,इन्सुलिन,ಇನ್ಸುಲಿನ್,R1 exact title,0,keyword_not_in_syllabus_text,0,0,insulin,Insulin,0,0,0
+X-SCI,SCI,Reproduction,Asexual reproduction,Asexual reproduction,Q173432,2756,अलैंगिक प्रजनन,ಅಬೀಜೋತ್ಪಾದನೆ,R1 exact title,0,,1,1,asexual,Asexual reproduction,0,0,0
+X-SCI,SCI,Reproduction,Sexual reproduction,Sexual reproduction,Q182353,21304415,लैंगिक जनन,,R1 exact title,0,,1,1,sexual,Sexual reproduction,0,0,0
+X-SCI,SCI,Reproduction,Fission,Fission (biology),Q929080,30064130,द्विखण्डन,,"R2 named concept, different wording",0,,1,1,fission,Fission (biology),0,0,0
+X-SCI,SCI,Reproduction,Budding,Budding,Q845312,381434,,,R1 exact title,0,,1,1,budding,Budding,0,0,0
+X-SCI,SCI,Reproduction,Vegetative propagation,Vegetative reproduction,Q464666,332989,वानस्पतिक जनन,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,vegetative,Vegetative reproduction,0,0,0
+X-SCI,SCI,Reproduction,Pollination,Pollination,Q134624,233609,परागण,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,pollination,Pollination,0,0,0
+X-SCI,SCI,Reproduction,Human reproductive system,Human reproductive system,Q20645683,1906103,मानव प्रजनन प्रणाली,ಮಾನವನ ಸಂತಾನೋತ್ಪತ್ತಿವ್ಯೂಹ,R1 exact title,0,,1,1,reproduct,Human reproductive system,0,0,0
+X-SCI,SCI,Reproduction,Family planning,Birth control,Q122224,18978770,संततिनिरोध,ಸಂತಾನ ನಿಯಂತ್ರಣ,"R2 named concept, different wording",0,,1,1,family planning,Birth control,0,0,0
+X-SCI,SCI,Reproduction,Menstruation,Menstrual cycle,Q83864,88003,मासिक धर्म,ಋತುಚಕ್ರ,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,menstrua,Menstrual cycle,0,0,0
+X-SCI,SCI,Reproduction,Fertilisation,Fertilisation,Q14890574,46828,निषेचन,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,fertili[sz]ation,Fertilisation,0,0,0
+X-SCI,SCI,Reproduction,Regeneration,Regeneration (biology),Q193119,854081,,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,regeneration,Regeneration (biology),0,0,0
+X-SCI,SCI,Reproduction,Fragmentation,Fragmentation (reproduction),Q2274559,2005112,,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,fragmentation,Fragmentation (reproduction),0,0,0
+X-SCI,SCI,Reproduction,Spore formation,Spore,Q177332,51472,बीजाणु,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,spore,Spore,0,0,0
+X-SCI,SCI,Reproduction,Germination,Germination,Q193838,227478,अंकुरण क्रिया,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,germination,Germination,0,0,0
+X-SCI,SCI,Reproduction,Placenta,Placenta,Q1212935,67166,बीजांडासन,ಜರಾಯು (ಪ್ಲೆಸೆಂಟಾ),R1 exact title,0,keyword_not_in_syllabus_text,0,0,placenta,Placenta,0,0,0
+X-SCI,SCI,Reproduction,Puberty,Puberty,Q101065,25211041,यौवनारम्भ,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,puberty,Puberty,0,0,0
+X-SCI,SCI,Heredity and evolution,Heredity,Heredity,Q178694,13457,अनुवांशिकता,ಅನುವಂಶಿಕತೆ,R1 exact title,0,,1,1,heredity,Heredity,0,0,0
+X-SCI,SCI,Heredity and evolution,Mendel's laws of inheritance,Mendelian inheritance,Q185055,19595,मेंडेलियन वंशानुक्रम,ಮೆಂಡಲನ ನಿಯಮಗಳು,"R2 named concept, different wording",0,,1,1,laws for inheritance,Mendelian inheritance,0,0,0
+X-SCI,SCI,Heredity and evolution,Mendel,Gregor Mendel,Q37970,12562,ग्रेगर जॉन मेंडल,ಗ್ರೆಗರ್ ಮೆಂಡೆಲ್,"R2 named concept, different wording",0,,1,1,mendel,Gregor Mendel,0,0,0
+X-SCI,SCI,Heredity and evolution,Sex determination,Sex-determination system,Q594595,49414,लिंग निर्धारण प्रणाली,,"R2 named concept, different wording",0,,1,1,sex determination,Sex-determination system,0,0,0
+X-SCI,SCI,Heredity and evolution,Evolution,Evolution,Q1063,9236,क्रम-विकास,ವಿಕಾಸ,R1 exact title,0,,1,1,evolution,Evolution,0,0,0
+X-SCI,SCI,Heredity and evolution,Speciation,Speciation,Q39350,29000,जातिउद्भवन,ಜಾತೀಕರಣ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,speciation,Speciation,0,0,0
+X-SCI,SCI,Heredity and evolution,Homologous organs,Homology (biology),Q224180,142431,समजातता,,"R2 named concept, different wording",0,,1,1,homolog,Homology (biology),0,0,0
+X-SCI,SCI,Heredity and evolution,Natural selection,Natural selection,Q43478,21147,प्राकृतिक वरण,ನೈಸರ್ಗಿಕ ಆಯ್ಕೆ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,natural\ selection,Natural selection,0,0,0
+X-SCI,SCI,Heredity and evolution,Dominant and recessive traits,Dominance (genetics),Q19615136,68300,,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,1,dominan,Dominance (genetics),0,0,0
+X-SCI,SCI,Heredity and evolution,Fossil,Fossil,Q40614,10958,जीवाश्म,ಪಳೆಯುಳಿಕೆ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,fossils,Fossil,0,0,0
+X-SCI,SCI,Light,Reflection of light,Reflection (physics),Q165939,521267,परावर्तन (भौतिकी),ಪ್ರತಿಫಲನ,"R2 named concept, different wording",0,,1,1,reflection of light,Reflection (physics),0,0,0
+X-SCI,SCI,Light,Spherical mirrors,Curved mirror,Q1506584,5732433,गोलीय दर्पण,,"R2 named concept, different wording",0,,1,1,spherical mirrors,Curved mirror,0,0,0
+X-SCI,SCI,Light,Refraction,Refraction,Q72277,25948,अपवर्तन,ವಕ್ರೀಭವನ,R1 exact title,0,,1,1,refraction,Refraction,0,0,0
+X-SCI,SCI,Light,Refractive index,Refractive index,Q174102,25880,अपवर्तनांक,ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ,R1 exact title,0,,1,1,refractive\ index,Refractive index,0,0,0
+X-SCI,SCI,Light,Spherical lens,Lens,Q768575,18320,लेंस,,"R2 named concept, different wording",0,,1,1,spherical lens,Lens,0,0,0
+X-SCI,SCI,Light,Laws of refraction,Snell's law,Q208391,42964,स्नेल का नियम,,"R2 named concept, different wording",0,,1,1,laws of refraction,Snell's law,0,0,0
+X-SCI,SCI,Light,Focal length,Focal length,Q193540,82269,फोकस दूरी,,R1 exact title,0,,1,1,focal\ length,Focal length,0,0,0
+X-SCI,SCI,Light,Magnification,Magnification,Q141006600,603273,आवर्धन,,R1 exact title,0,,1,1,magnification,Magnification,0,0,0
+X-SCI,SCI,Light,Power of a lens,Optical power,Q559265,3331228,,,"R2 named concept, different wording",0,,1,1,power of a lens,Optical power,0,0,0
+X-SCI,SCI,Light,Human eye,Human eye,Q430024,1070221,मानव नेत्र,ಮಾನವನ ಕಣ್ಣು,R1 exact title,0,,1,1,human\ eye,Human eye,0,0,0
+X-SCI,SCI,Light,Myopia,Myopia,Q168403,88042,निकटदृष्टि दोष,,"R2 named concept, different wording",0,,1,1,defects of vision,Near-sightedness,1,0,0
+X-SCI,SCI,Light,Hypermetropia,Farsightedness,Q177254,404646,दूरदृष्टिता,ದೂರದೃಷ್ಟಿ,"R2 named concept, different wording",0,,1,1,defects of vision,Far-sightedness,1,0,0
+X-SCI,SCI,Light,Presbyopia,Presbyopia,Q319595,492052,,,R1 exact title,0,,1,1,defects of vision,Presbyopia,0,0,0
+X-SCI,SCI,Light,Dispersion of light,Dispersion (optics),Q182893,172333,परिक्षेपण,,"R2 named concept, different wording",0,,1,1,dispersion,Dispersion (optics),0,0,0
+X-SCI,SCI,Light,Prism,Prism (optics),Q165896,282998,प्रिज़्म,ಅಶ್ರಕ,"R2 named concept, different wording",0,,1,1,prism,Prism (optics),0,0,0
+X-SCI,SCI,Light,Scattering of light,Rayleigh scattering,Q193709,26176,रैले प्रकीर्णन,,"R2 named concept, different wording",0,,1,1,scattering of light,Rayleigh scattering,0,0,0
+X-SCI,SCI,Light,Tyndall effect,Tyndall effect,Q244040,1068627,टिण्डल प्रभाव,ಟಿಂಡಲ್ ಪರಿಣಾಮ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,tyndall\ effect,Tyndall effect,0,0,0
+X-SCI,SCI,Light,Atmospheric refraction,Atmospheric refraction,Q254634,1784072,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,atmospheric\ refraction,Atmospheric refraction,0,0,0
+X-SCI,SCI,Light,Rainbow,Rainbow,Q1052,3871014,इन्द्रधनुष,ಮಳೆಬಿಲ್ಲು,R1 exact title,0,keyword_not_in_syllabus_text,0,0,rainbow,Rainbow,0,0,0
+X-SCI,SCI,Electricity,Electric current,Electric current,Q11651,6207,विद्युत धारा,ವಿದ್ಯುತ್ ಪ್ರವಾಹ,R1 exact title,0,,1,1,electric\ current,Electric current,0,0,0
+X-SCI,SCI,Electricity,Potential difference,Voltage,Q25428,32549,विभवांतर,,"R2 named concept, different wording",0,,1,1,potential difference,Voltage,0,0,0
+X-SCI,SCI,Electricity,Ohm's law,Ohm's law,Q41591,49090,ओम का नियम,,R1 exact title,0,,1,1,ohm.s law,Ohm's law,0,0,0
+X-SCI,SCI,Electricity,Resistance,Electrical resistance and conductance,Q106603432,61577,,,"R2 named concept, different wording",0,,1,1,resistance,Electrical resistance and conductance,0,0,0
+X-SCI,SCI,Electricity,Resistivity,Electrical resistivity and conductivity,Q65402698,61580,,ವಿದ್ಯುತ್ ರೋಧ ಮತ್ತು ವಿದ್ಯುತ್ ವಾಹಕತೆ,"R2 named concept, different wording",0,,1,1,resistivity,Electrical resistivity and conductivity,0,0,0
+X-SCI,SCI,Electricity,Series and parallel combination of resistors,Series and parallel circuits,Q55738334,270770,श्रेणी और समानांतर परिपथ,,"R2 named concept, different wording",0,,1,1,series combination,Series and parallel circuits,0,0,0
+X-SCI,SCI,Electricity,Heating effect of electric current,Joule heating,Q21014200,604798,,,"R2 named concept, different wording",0,,1,1,heating effect,Joule heating,0,0,0
+X-SCI,SCI,Electricity,Electric power,Electric power,Q27137,3270043,विद्युत शक्ति,,R1 exact title,0,,1,1,electric\ power,Electric power,0,0,0
+X-SCI,SCI,Electricity,Electric charge,Electric charge,Q1111,9804,विद्युत आवेश,ವಿದ್ಯುದಾವೇಶ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,electric\ charge,Electric charge,0,0,0
+X-SCI,SCI,Magnetic effects of current,Magnetic field,Magnetic field,Q11408,36563,चुम्बकीय क्षेत्र,,R1 exact title,0,,1,1,magnetic\ field,Magnetic field,0,0,0
+X-SCI,SCI,Magnetic effects of current,Solenoid,Solenoid,Q245739,179919,परिनालिका,ಸೊಲೆನಾಯ್ಡ್,R1 exact title,0,,1,1,solenoid,Solenoid,0,0,0
+X-SCI,SCI,Magnetic effects of current,Fleming's left hand rule,Fleming's left-hand rule for motors,Q1575131,2850124,फ्लेमिंग वामहस्त नियम,,"R2 named concept, different wording",0,,1,1,fleming.s left,Fleming's left-hand rule for motors,0,0,0
+X-SCI,SCI,Magnetic effects of current,Electric motor,Electric motor,Q72313,76086,विद्युत मोटर,ವಿದ್ಯುತ್ ಮೋಟಾರ್,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,electric\ motor,Electric motor,0,0,0
+X-SCI,SCI,Magnetic effects of current,Electromagnetic induction,Electromagnetic induction,Q988780,65888,विद्युत्-चुम्बकीय प्रेरण,ವಿದ್ಯುತ್ಕಾಂತೀಯ ಪ್ರೇರಣೆ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,electromagnetic\ induction,Electromagnetic induction,0,0,0
+X-SCI,SCI,Magnetic effects of current,Fleming's right hand rule,Fleming's right-hand rule,Q2257916,2850083,फ्लेमिंग का दाहिना हाथ नियम,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,fleming.s right,Fleming's right-hand rule,0,0,0
+X-SCI,SCI,Magnetic effects of current,Electric generator,Electric generator,Q131502,82330,विद्युत जनित्र,ವಿದ್ಯುತ್ ಜನಕ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,electric\ generator,Electric generator,0,0,0
+X-SCI,SCI,Magnetic effects of current,Direct current,Direct current,Q159241,47713,दिष्ट धारा,,R1 exact title,0,,1,1,direct\ current,Direct current,0,0,0
+X-SCI,SCI,Magnetic effects of current,Alternating current,Alternating current,Q124164,42986,प्रत्यावर्ती धारा,ಪರ್ಯಾಯ(ಸರದಿಯಂತೆ ಬರುವ) ವಿದ್ಯುತ್ ಪ್ರವಾಹ,R1 exact title,0,,1,1,alternating\ current,Alternating current,0,0,0
+X-SCI,SCI,Magnetic effects of current,Electric fuse,Fuse (electrical),Q182221,683342,फ्यूज,ಎಲೆಕ್ಟ್ರಿಕ್ ಫ್ಯೂಸ್,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,fuse,Fuse (electrical),0,0,0
+X-SCI,SCI,Magnetic effects of current,Electromagnet,Electromagnet,Q178032,92377,विद्युत चुम्बक,ವಿದ್ಯುತ್ಕಾಂತ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,electromagnet,Electromagnet,0,0,0
+X-SCI,SCI,Magnetic effects of current,Right-hand thumb rule,Right-hand rule,Q1366301,221536,दक्षिणहस्त नियम,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,right.?hand thumb,Right-hand rule,0,0,0
+X-SCI,SCI,Magnetic effects of current,Earthing,Ground (electricity),Q6501125,41215,भूसम्पर्कन,,"R2 named concept, different wording",0,,1,1,earth,Ground (electricity),0,0,0
+X-SCI,SCI,Magnetic effects of current,Short circuit,Short circuit,Q206907,235898,लघु परिपथ,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,short.?circuit,Short circuit,0,0,0
+X-SCI,SCI,Magnetic effects of current,Domestic electric circuits,Electrical wiring,Q192043,1105937,विद्युत वायरिंग,,R3 article broader or narrower than topic,1,broader_or_narrower,1,1,domestic electric circuits,Electrical wiring,0,0,0
+X-SCI,SCI,Sources of energy,Fossil fuels,Fossil fuel,Q12748,48146,जीवाश्म ईंधन,ಪಳೆಯುಳಿಕೆಯ ಇಂಧನ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,fossil fuels,Fossil fuel,0,0,0
+X-SCI,SCI,Sources of energy,Solar energy,Solar energy,Q40015,27743,सौर ऊर्जा,ಸೌರ ಶಕ್ತಿ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,solar\ energy,Solar energy,0,0,0
+X-SCI,SCI,Sources of energy,Biogas,Biogas,Q171076,54838,बायोगैस,ಜೈವಿಕ ಅನಿಲ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,bio.?gas,Biogas,0,0,0
+X-SCI,SCI,Sources of energy,Wind energy,Wind power,Q43302,277289,पवन ऊर्जा,ಗಾಳಿ ಶಕ್ತಿ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,wind,Wind power,0,0,0
+X-SCI,SCI,Sources of energy,Hydro energy,Hydroelectricity,Q80638,381399,जलविद्युत ऊर्जा,ಜಲವಿದ್ಯುತ್,"R2 named concept, different wording",0,,1,1,water and tidal energy|hydro,Hydroelectricity,0,0,0
+X-SCI,SCI,Sources of energy,Tidal energy,Tidal power,Q184037,325060,ज्वारशक्ति,ಭರತಶಕ್ತಿ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,tidal,Tidal power,0,0,0
+X-SCI,SCI,Sources of energy,Nuclear energy,Nuclear power,Q12739,22153,नाभिकीय शक्ति,ಪರಮಾಣು ಶಕ್ತಿ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,nuclear energy,Nuclear power,0,0,0
+X-SCI,SCI,Sources of energy,Renewable energy,Renewable energy,Q12705,25784,अक्षय ऊर्जा,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,renewable,Renewable energy,0,0,0
+X-SCI,SCI,Sources of energy,Geothermal energy,Geothermal energy,Q127993,113728,भू-तापीय ऊर्जा,ಭೂಶಾಖದ ಶಕ್ತಿ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,geo.?thermal,Geothermal energy,0,0,0
+X-SCI,SCI,Sources of energy,Non-renewable sources,Non-renewable resource,Q936791,208999,अनवीकरणीय संसाधन,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,non.?renewable,Non-renewable resource,0,0,0
+X-SCI,SCI,Our environment and natural resources,Ecosystem,Ecosystem,Q37813,9632,पारितंत्र,ಪರಿಸರ ವ್ಯವಸ್ಥೆ,R1 exact title,0,,1,1,eco.?system,Ecosystem,0,0,0
+X-SCI,SCI,Our environment and natural resources,Food chain,Food chain,Q159462,32077676,खाद्य शृंखला,ಆಹಾರ ಸರಪಳಿ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,food chains?,Food chain,0,0,0
+X-SCI,SCI,Our environment and natural resources,Food web,Food web,Q1775153,145772,आहार जाल,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,food webs?,Food web,0,0,0
+X-SCI,SCI,Our environment and natural resources,Ozone depletion,Ozone depletion,Q183140,44183,ओजोन ह्रास,ಓಝೋನ್ ಪದರು ಸವಕಳಿ(ಸಾಮರ್ಥ್ಯ ಕುಂದು),R1 exact title,0,,1,1,ozone\ depletion,Ozone depletion,0,0,0
+X-SCI,SCI,Our environment and natural resources,Biodegradable substances,Biodegradation,Q696715,47490,जैवनिम्‍नन,,"R2 named concept, different wording",0,,1,1,biodegradable,Biodegradation,0,0,0
+X-SCI,SCI,Our environment and natural resources,Biological magnification,Biomagnification,Q2304799,1599216,,ಬಯೋಮ್ಯಾಗ್ನಿಫಿಕೇಶನ್,"R2 named concept, different wording",0,,1,1,magnification,Biomagnification,0,0,0
+X-SCI,SCI,Our environment and natural resources,Trophic level,Trophic level,Q1053008,11724761,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,trophic,Trophic level,0,0,0
+X-SCI,SCI,Our environment and natural resources,Ozone layer,Ozone layer,Q79995,22834,ओजोन परत,ಓಝೋನ್ ಪದರ,R1 exact title,0,,1,1,ozone,Ozone layer,0,0,0
+X-SCI,SCI,Our environment and natural resources,Water harvesting,Rainwater harvesting,Q2137507,1032545,वर्षा जल संचयन,ಮಳೆನೀರು ಕೊಯ್ಲು,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,water harvesting,Rainwater harvesting,0,0,0
+X-SCI,SCI,Our environment and natural resources,Sustainability of natural resources,Sustainable development,Q131201,29501,संधारणीय विकास,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,sustainab,Sustainable development,0,0,0
+X-SCI,SCI,Our environment and natural resources,Chipko movement,Chipko movement,Q1074585,504367,चिपको आन्दोलन,ಚಿಪ್ಕೊ ಚಳುವಳಿ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,people.s participation,Chipko movement,0,0,0
+X-SCI,SCI,Our environment and natural resources,Big dams,Dam,Q12323,51518,बाँध,ಕಟ್ಟೆ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,1,big dams,Dam,0,0,0
+X-SCI,SCI,Our environment and natural resources,Natural resources,Natural resource,Q188460,21675,प्राकृतिक संसाधन,ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ,"R2 named concept, different wording",0,,1,1,natural resources,Natural resource,0,0,0
+X-MAT,MAT,Number systems,Real numbers,Real number,Q12916,20646438,वास्तविक संख्या,ನೈಜ ಸಂಖ್ಯೆ,"R2 named concept, different wording",0,,1,1,real numbers?,Real number,0,0,0
+X-MAT,MAT,Number systems,Euclid's division lemma,Euclidean division,Q181054,679987,,,"R2 named concept, different wording",0,,1,1,euclid,Euclidean division,0,0,0
+X-MAT,MAT,Number systems,Fundamental theorem of arithmetic,Fundamental theorem of arithmetic,Q670235,11556,अङ्कगणित का मूलभूत प्रमेय,ಅಂಕಗಣಿತದ ಮೂಲಭೂತ ಪ್ರಮೇಯ,R1 exact title,0,,1,1,fundamental\ theorem\ of\ arithmetic,Fundamental theorem of arithmetic,0,0,0
+X-MAT,MAT,Number systems,Irrational numbers,Irrational number,Q607728,20647689,अपरिमेय संख्या,,"R2 named concept, different wording",0,,1,1,irrational,Irrational number,0,0,0
+X-MAT,MAT,Number systems,Rational numbers,Rational number,Q1244890,19727024,परिमेय संख्या,,"R2 named concept, different wording",0,,1,1,rational,Rational number,0,0,0
+X-MAT,MAT,Number systems,HCF,Greatest common divisor,Q131752,12354,महत्तम समापवर्तक,ಗರಿಷ್ಟ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ(ಗ.ಸಾ.ಅ ),"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,hcf,Greatest common divisor,0,0,0
+X-MAT,MAT,Number systems,LCM,Least common multiple,Q102761,17961,लघुतम समापवर्त्य,ಲಘುತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ (ಲ.ಸಾ.ಅ),"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,lcm,Least common multiple,0,0,0
+X-MAT,MAT,Number systems,Irrationality of root 2,Square root of 2,Q389813,341682,२ का वर्गमूल,,"R2 named concept, different wording",0,,1,1,irrationality,Square root of 2,0,0,0
+X-MAT,MAT,Algebra,Polynomials,Polynomial,Q43260,23000,बहुपद,,"R2 named concept, different wording",0,,1,1,polynomials?,Polynomial,0,0,0
+X-MAT,MAT,Algebra,Zeros of a polynomial,Zero of a function,Q214604,264210,मूल (फलन के),,"R2 named concept, different wording",0,,1,1,zeros of a polynomial,Zero of a function,0,0,0
+X-MAT,MAT,Algebra,Division algorithm for polynomials,Polynomial long division,Q1068675,314205,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,division algorithm for polynomials,Polynomial long division,0,0,0
+X-MAT,MAT,Algebra,Pair of linear equations in two variables,System of linear equations,Q11203,113087,रैखिक समीकरण निकाय,,"R2 named concept, different wording",0,,1,1,pair of linear equations,System of linear equations,0,0,0
+X-MAT,MAT,Algebra,Linear equation,Linear equation,Q484637,17570,रेखीय समीकरण,,R1 exact title,0,,1,1,linear equations?,Linear equation,0,0,0
+X-MAT,MAT,Algebra,Cross multiplication method,Cramer's rule,Q322666,166008,क्रैमर-नियम,,R3 article broader or narrower than topic,1,broader_or_narrower;dropped_from_syllabus_by_2024_25,1,0,cross multiplication,Cramer's rule,0,0,0
+X-MAT,MAT,Algebra,Quadratic equations,Quadratic equation,Q41299,25175,द्विघात समीकरण,,"R2 named concept, different wording",0,,1,1,quadratic equations?,Quadratic equation,0,0,0
+X-MAT,MAT,Algebra,Quadratic formula,Quadratic formula,Q15909572,59217,,,R1 exact title,0,,1,1,quadratic\ formula,Quadratic formula,0,0,0
+X-MAT,MAT,Algebra,Discriminant,Discriminant,Q192487,55607,,,R1 exact title,0,,1,1,discriminant,Discriminant,0,0,0
+X-MAT,MAT,Algebra,Completing the square,Completing the square,Q50704,303500,पूर्ण वर्ग बनाना,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,completing\ the\ square,Completing the square,0,0,0
+X-MAT,MAT,Algebra,Arithmetic progressions,Arithmetic progression,Q170008,168389,समान्तर श्रेढ़ी,,"R2 named concept, different wording",0,,1,1,arithmetic progressions?,Arithmetic progression,0,0,0
+X-MAT,MAT,Coordinate geometry,Coordinate geometry,Analytic geometry,Q134787,2202,वैश्‍लेषिक ज्यामिति,,"R2 named concept, different wording",0,,1,1,coordinate geometry,Analytic geometry,0,0,0
+X-MAT,MAT,Coordinate geometry,Cartesian coordinates,Cartesian coordinate system,Q62912,7706,कार्तीय निर्देशांक पद्धति,,"R2 named concept, different wording",0,,1,1,coordinate,Cartesian coordinate system,0,0,0
+X-MAT,MAT,Coordinate geometry,Distance formula,Euclidean distance,Q847073,53932,,,"R2 named concept, different wording",0,,1,1,distance formula,Euclidean distance,0,0,0
+X-MAT,MAT,Coordinate geometry,Section formula,Section formula,Q104845624,64643407,,,R1 exact title,0,,1,1,section\ formula,Section formula,0,0,0
+X-MAT,MAT,Coordinate geometry,Mid-point,Midpoint,Q1645406,437979,मध्यबिन्दु,,"R2 named concept, different wording",0,,1,1,section formula,Midpoint,0,0,0
+X-MAT,MAT,Coordinate geometry,Centroid,Centroid,Q511093,187926,केंद्रक (ज्यामितीय),,R1 exact title,0,,1,1,area of a triangle|centroid,Centroid,0,0,0
+X-MAT,MAT,Geometry,Similar triangles,Similarity (geometry),Q254465,39377,समरूपता,,"R2 named concept, different wording",0,,1,1,similar triangles,Similarity (geometry),0,0,0
+X-MAT,MAT,Geometry,Basic proportionality theorem,Intercept theorem,Q3757563,9875880,मौलिक समानुपात प्रमेय,,"R2 named concept, different wording",0,,1,1,divided in the same ratio|proportionality,Intercept theorem,0,0,0
+X-MAT,MAT,Geometry,Pythagoras theorem,Pythagorean theorem,Q11518,26513034,पाइथागोरस प्रमेय,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,square on the hypotenuse|pythagoras,Pythagorean theorem,0,0,0
+X-MAT,MAT,Geometry,Circle,Circle,Q17278,6220,वृत्त,ವೃತ್ತ,R1 exact title,0,,1,1,circles?,Circle,0,0,0
+X-MAT,MAT,Geometry,Tangent to a circle,Tangent lines to circles,Q647040,19491492,,,"R2 named concept, different wording",0,,1,1,tangents? to a circle,Tangent lines to circles,0,0,0
+X-MAT,MAT,Geometry,Tangent,Tangent,Q131251,31482,स्पर्शरेखा,,R1 exact title,0,,1,1,tangent,Tangent,0,0,0
+X-MAT,MAT,Geometry,Constructions,Straightedge and compass construction,Q115368,61229,निर्मेय,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,constructions,Straightedge and compass construction,0,0,0
+X-MAT,MAT,Trigonometry,Trigonometry,Trigonometry,Q8084,18717261,त्रिकोणमिति,,R1 exact title,0,,1,1,trigonometry,Trigonometry,0,0,0
+X-MAT,MAT,Trigonometry,Trigonometric ratios,Trigonometric functions,Q93344,30367,त्रिकोणमितीय फलन,,"R2 named concept, different wording",0,,1,1,trigonometric ratios,Trigonometric functions,0,0,0
+X-MAT,MAT,Trigonometry,Trigonometric identities,List of trigonometric identities,Q273008,25804104,त्रिकोणमितीय सर्वसमिकाओं की सूची,,"R2 named concept, different wording",0,,1,1,trigonometric identities,List of trigonometric identities,0,0,0
+X-MAT,MAT,Trigonometry,sin2A + cos2A = 1,Pythagorean trigonometric identity,Q2039117,1050741,,,"R2 named concept, different wording",0,,1,1,sin ?2 ?a,Pythagorean trigonometric identity,0,0,0
+X-MAT,MAT,Trigonometry,Heights and distances,Elevation (ballistics),Q641888,1765190,,,R3 article broader or narrower than topic,1,broader_or_narrower,1,1,heights and distances,Elevation (ballistics),0,0,0
+X-MAT,MAT,Mensuration,Areas related to circles,Area of a circle,Q4115331,1896782,चकती का क्षेत्रफल,,"R2 named concept, different wording",0,,1,1,area of a circle|areas related to circles,Area of a circle,0,0,0
+X-MAT,MAT,Mensuration,Sector of a circle,Circular sector,Q203435,1967249,,,"R2 named concept, different wording",0,,1,1,sectors?,Circular sector,0,0,0
+X-MAT,MAT,Mensuration,Segment of a circle,Circular segment,Q783081,404049,,,"R2 named concept, different wording",0,,1,1,segments?,Circular segment,0,0,0
+X-MAT,MAT,Mensuration,Surface areas,Surface area,Q1379273,27725,,,"R2 named concept, different wording",0,,1,1,surface areas?,Surface area,0,0,0
+X-MAT,MAT,Mensuration,Volumes,Volume,Q39297,32498,आयतन,,"R2 named concept, different wording",0,,1,1,volumes?,Volume,0,0,0
+X-MAT,MAT,Mensuration,Frustum of a cone,Frustum,Q846235,89405,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,frustum,Frustum,0,0,0
+X-MAT,MAT,Mensuration,Cone,Cone,Q42344,782427,शंकु,ಶಂಕು,R1 exact title,0,,1,1,cones?,Cone,0,0,0
+X-MAT,MAT,Mensuration,Cylinder,Cylinder,Q34132,859283,बेलन (ज्यामिति),ಉರುಳೆ,R1 exact title,0,,1,1,cylinders?,Cylinder,0,0,0
+X-MAT,MAT,Mensuration,Sphere,Sphere,Q12507,27859,गोला,ಗೋಳ,R1 exact title,0,,1,1,spheres?,Sphere,0,0,0
+X-MAT,MAT,Statistics and probability,Statistics,Statistics,Q12483,26685,सांख्यिकी,ಸಂಖ್ಯಾಶಾಸ್ತ್ರ,R1 exact title,0,,1,1,statistics,Statistics,0,0,0
+X-MAT,MAT,Statistics and probability,Mean,Arithmetic mean,Q19033,612,समान्तर माध्य,,"R2 named concept, different wording",0,,1,1,mean,Arithmetic mean,0,0,0
+X-MAT,MAT,Statistics and probability,Median,Median,Q226995,18837,माध्यिका,,R1 exact title,0,,1,1,median,Median,0,0,0
+X-MAT,MAT,Statistics and probability,Mode,Mode (statistics),Q188224,1432127,बहुलक (सांख्यिकी),,"R2 named concept, different wording",0,,1,1,mode,Mode (statistics),0,0,0
+X-MAT,MAT,Statistics and probability,Cumulative frequency graph,Ogive (statistics),Q48997143,55155568,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,cumulative frequency,Ogive (statistics),0,0,0
+X-MAT,MAT,Statistics and probability,Probability,Probability,Q9492,22934,प्रायिकता,ಸಂಭಾವ್ಯತೆ,R1 exact title,0,,1,1,probability,Probability,0,0,0
+X-SST,SST,History,Rise of nationalism in Europe,Nationalism,Q6235,21748,राष्ट्रवाद,ರಾಷ್ಟ್ರೀಯತೆ,"R2 named concept, different wording",0,,1,1,nationalism in europe,Nationalism,0,0,0
+X-SST,SST,History,French Revolution,French Revolution,Q6534,11188,फ़्रान्सीसी क्रान्ति,ಫ್ರೆಂಚ್ ಕ್ರಾಂತಿ,R1 exact title,0,,1,1,french\ revolution,French Revolution,0,0,0
+X-SST,SST,History,Making of Germany,Unification of Germany,Q154705,1070016,जर्मनी का एकीकरण,,"R2 named concept, different wording",0,,1,1,germany,Unification of Germany,0,0,0
+X-SST,SST,History,Making of Italy,Unification of Italy,Q51122,59642,इतालवी एकीकरण,,"R2 named concept, different wording",0,,1,1,italy,Unification of Italy,0,0,0
+X-SST,SST,History,Mazzini,Giuseppe Mazzini,Q187336,36948,ज्यूसेपे मेत्सिनी,ಮ್ಯಾಝಿನಿ,"R2 named concept, different wording",0,,1,1,mazzini|italy,Giuseppe Mazzini,0,0,0
+X-SST,SST,History,Bismarck,Otto von Bismarck,Q8442,22416,बिस्मार्क,ಒಟ್ಟೊ ವಾನ್ ಬಿಸ್ಮಾರ್ಕ್,"R2 named concept, different wording",0,,1,1,bismarck|germany,Otto von Bismarck,0,0,0
+X-SST,SST,History,Garibaldi,Giuseppe Garibaldi,Q539,21486576,जुज़ॅप्पे गारिबाल्दि,ಜೂಸೆಪ್ಪೆ ಗಾರಿಬಾಲ್ಡಿ,"R2 named concept, different wording",0,,1,1,garibaldi|italy,Giuseppe Garibaldi,0,0,0
+X-SST,SST,History,Treaty of Vienna,Congress of Vienna,Q46362,44628,वियना कांग्रेस,,"R2 named concept, different wording",0,,1,1,vienna|nationalism in europe,Congress of Vienna,0,0,0
+X-SST,SST,History,Revolutions of 1848,Revolutions of 1848,Q3588,10156432,उदारवादियों की क्रान्ति,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,1848|age of revolutions,Revolutions of 1848,0,0,0
+X-SST,SST,History,Napoleonic Code,Napoleonic Code,Q151060,46523,नेपोलियन संहिता,,R1 exact title,0,,1,1,napoleon|nationalism in europe,Napoleonic Code,0,0,0
+X-SST,SST,History,Zollverein,Zollverein,Q155707,501070,,,R1 exact title,0,,1,1,zollverein|nationalism in europe,Zollverein,0,0,0
+X-SST,SST,History,Romanticism,Romanticism,Q37068,26094,स्वच्छन्दतावाद,"ರೊಮ್ಯಾಂಟಿಸಿಸಂ(ಭಾವಪ್ರಧಾನತೆ ತತ್ವ,ಸಿದ್ದಾಂತ)",R1 exact title,0,keyword_not_in_syllabus_text,0,0,romantic,Romanticism,0,0,0
+X-SST,SST,History,Nationalism in India,Indian independence movement,Q12444025,161022,भारतीय स्वतन्त्रता आन्दोलन,ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿ,"R2 named concept, different wording",0,,1,1,nationalism in india,Indian independence movement,0,0,0
+X-SST,SST,History,Non-cooperation movement,Non-cooperation movement (1919–1922),Q1479381,590728,असहयोग आन्दोलन,ಅಸಹಕಾರ ಚಳುವಳಿ,"R2 named concept, different wording",0,,1,1,non.?cooperation,Non-cooperation movement (1919–1922),0,0,0
+X-SST,SST,History,Civil disobedience / Salt March,Salt March,Q239344,677641,दांडी मार्च,ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,civil disobedience,Salt March,0,0,0
+X-SST,SST,History,Jallianwala Bagh,Jallianwala Bagh massacre,Q208855,7208646,जलियाँवाला बाग हत्याकांड,ಜಲಿಯನ್‍ವಾಲಾ ಬಾಗ್ ಹತ್ಯಾಕಾಂಡ,"R2 named concept, different wording",0,,1,1,jallianwala|nationalism in india,Jallianwala Bagh massacre,0,0,0
+X-SST,SST,History,Rowlatt Act,Rowlatt Act,Q2006357,1048094,रॉलेट एक्ट,ರೌಲತ್ ಕಾಯ್ದೆ,R1 exact title,0,,1,1,rowlatt|nationalism in india,Rowlatt Act,0,0,0
+X-SST,SST,History,Khilafat,Khilafat Movement,Q1365432,1239367,ख़िलाफ़त आन्दोलन,ಖಿಲಾಫತ್ ಚಳವಳಿ,"R2 named concept, different wording",0,,1,1,khilafat,Khilafat Movement,0,0,0
+X-SST,SST,History,Simon Commission,Simon Commission,Q1642187,1707158,साइमन कमीशन,ಸೈಮನ್ ಆಯೋಗ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,simon|civil disobedience,Simon Commission,0,0,0
+X-SST,SST,History,Satyagraha,Satyagraha,Q194279,167148,सत्याग्रह,ಸತ್ಯಾಗ್ರಹ,R1 exact title,0,,1,1,satyagraha,Satyagraha,0,0,0
+X-SST,SST,History,Quit India Movement,Quit India Movement,Q1992677,797638,भारत छोड़ो आन्दोलन,ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ ಚಳುವಳಿ,R1 exact title,0,keyword_not_in_syllabus_text,0,0,quit india,Quit India Movement,0,0,0
+X-SST,SST,History,Poona Pact,Poona Pact,Q3764034,5380622,पुणे समझौता,ಪೂನಾ ಒಪ್ಪಂದ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,poona|civil disobedience,Poona Pact,0,0,0
+X-SST,SST,History,Mahatma Gandhi,Mahatma Gandhi,Q1001,19379,महात्मा गांधी,ಮಹಾತ್ಮ ಗಾಂಧಿ,R1 exact title,0,,1,1,gandhi,Mahatma Gandhi,0,0,0
+X-SST,SST,History,Champaran Satyagraha,Champaran Satyagraha,Q2723841,3226171,चम्पारण सत्याग्रह,ಚಂಪಾರಣ್ ಸತ್ಯಾಗ್ರಹ,R1 exact title,0,,1,1,champaran|satyagraha,Champaran Satyagraha,0,0,0
+X-SST,SST,History,Chauri Chaura,Chauri Chaura incident,Q12427290,39357977,चौरी चौरा कांड,ಚೌರಿ ಚೌರಾ ಘಟನೆ,"R2 named concept, different wording",0,,1,1,chauri|non.?cooperation,Chauri Chaura incident,0,0,0
+X-SST,SST,History,Swadeshi movement,Swadeshi movement,Q2093226,1796852,स्वदेशी आन्दोलन,ಸ್ವದೇಶಿ ಚಳುವಳಿ,R1 exact title,0,,1,1,swadeshi|nationalism in india,Swadeshi movement,0,0,0
+X-SST,SST,History,Making of a global world,Globalization,Q7181,46313,वैश्वीकरण,ಜಾಗತೀಕರಣ,"R2 named concept, different wording",0,,1,1,global world,Globalization,0,0,0
+X-SST,SST,History,Silk routes,Silk Road,Q36288,54253,रेशम मार्ग,ರೇಷ್ಮೆ ಮಾರ್ಗ,"R2 named concept, different wording",0,,1,1,silk|pre.?modern world,Silk Road,0,0,0
+X-SST,SST,History,Great Depression,Great Depression,Q8698,19283335,महामन्दी,,R1 exact title,0,only_in_2024_25_text,0,1,great\ depression,Great Depression,0,0,0
+X-SST,SST,History,Bretton Woods,Bretton Woods system,Q188532,395888,,,"R2 named concept, different wording",0,,1,1,bretton|post.?war,Bretton Woods system,0,0,0
+X-SST,SST,History,Rinderpest,Rinderpest,Q157008,501921,पशु महामारी,ರಿಂಡ್ರ್ಪೇಸ್ಟ್ ವೈರಸ್,R1 exact title,0,,1,1,rinderpest|global world,Rinderpest,0,0,0
+X-SST,SST,History,Corn Laws,Corn Laws,Q1133144,90558,,,R1 exact title,0,,1,1,corn law|nineteenth century,Corn Laws,0,0,0
+X-SST,SST,History,Indentured labour,Indian indenture system,Q16252699,7597834,,ಭಾರತೀಯ ಒಪ್ಪಂದ ವ್ಯವಸ್ಥೆ,"R2 named concept, different wording",0,,1,1,indentured|global world,Indian indenture system,0,0,0
+X-SST,SST,History,Age of industrialisation,Industrial Revolution,Q2269,14914,औद्योगिक क्रांति,ಕೈಗಾರಿಕಾ ಕ್ರಾಂತಿ,"R2 named concept, different wording",0,,1,1,industriali[sz]ation,Industrial Revolution,0,0,0
+X-SST,SST,History,East India Company,East India Company,Q83164,43281,ईस्ट इण्डिया कम्पनी,ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯ ಕಂಪನಿ,R1 exact title,0,,1,1,east india|industriali[sz]ation,East India Company,0,0,0
+X-SST,SST,History,Spinning jenny,Spinning jenny,Q49015,350375,स्पिंनिंग जेनि,,R1 exact title,0,,1,1,spinning|industriali[sz]ation,Spinning jenny,0,0,0
+X-SST,SST,History,Print culture,Printing press,Q144334,23295,मुद्रणालय,ಮುದ್ರಣ ಯಂತ್ರ,"R2 named concept, different wording",0,,1,1,print culture,Printing press,0,0,0
+X-SST,SST,History,Gutenberg,Johannes Gutenberg,Q8958,15745,योहानेस गुटेनबर्ग,ಯೋಹಾನ್ ಗೂಟೆನ್ಬರ್ಗ್,"R2 named concept, different wording",0,,1,1,gutenberg|print,Johannes Gutenberg,0,0,0
+X-SST,SST,History,Vernacular Press Act,"Vernacular Press Act, 1878",Q7921924,27171975,देशी प्रेस अधिनियम,,R1 exact title,0,,1,1,vernacular|print,Vernacular Press Act,1,0,0
+X-SST,SST,Geography,Resources,Resource,Q1554231,10368228,संसाधन,,"R2 named concept, different wording",0,,1,1,resources,Resource,0,0,0
+X-SST,SST,Geography,Soil,Soil,Q36133,37738,मृदा,ಮಣ್ಣು,R1 exact title,0,,1,1,soils?,Soil,0,0,0
+X-SST,SST,Geography,Alluvial soil,Alluvium,Q6185405,183243,जलोढ़क,ಮೆಕ್ಕಲು,"R2 named concept, different wording",0,,1,1,soil,Alluvium,0,0,0
+X-SST,SST,Geography,Laterite,Laterite,Q622845,26855026,लैटेराइट मृदा,ಮುರಕಲ್ಲು,R1 exact title,0,,1,1,soil,Laterite,0,0,0
+X-SST,SST,Geography,Soil erosion,Soil erosion,Q889503,59416,,ಮಣ್ಣಿನ ಸವಕಳಿ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,soil erosion,Soil erosion,0,0,0
+X-SST,SST,Geography,Land degradation,Land degradation,Q3497778,1436198,,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,land\ degradation,Land degradation,0,0,0
+X-SST,SST,Geography,Agenda 21,Agenda 21,Q208571,166164,एजेण्डा-21,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,agenda|resource planning,Agenda 21,0,0,0
+X-SST,SST,Geography,Deforestation,Deforestation,Q169940,8103,वनोन्मूलन,ಅರಣ್ಯನಾಶ,R1 exact title,0,,1,1,forest,Deforestation,0,0,0
+X-SST,SST,Geography,Project Tiger,Project Tiger,Q3180609,163289,प्रोजेक्ट टाइगर,ಹುಲಿ ಪರಿಯೋಜನೆ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,project tiger|conservation of forest,Project Tiger,0,0,0
+X-SST,SST,Geography,Biodiversity,Biodiversity,Q47041,45086,जैव विविधता,ಜೀವವೈವಿಧ್ಯ,R1 exact title,0,,1,1,bio.?diversity,Biodiversity,0,0,0
+X-SST,SST,Geography,Multi-purpose river projects,Dam,Q12323,51518,बाँध,ಕಟ್ಟೆ,"R2 named concept, different wording",0,,1,1,multi.?purpose,Dam,0,0,0
+X-SST,SST,Geography,Narmada Bachao Andolan,Narmada Bachao Andolan,Q2762203,3782186,नर्मदा बचाओ आंदोलन,,R1 exact title,0,,1,1,narmada|multi.?purpose,Narmada Bachao Andolan,0,0,0
+X-SST,SST,Geography,Agriculture,Agriculture in India,Q3351245,6808893,भारत में कृषि,ಭಾರತದಲ್ಲಿ ಕೃಷಿ,"R2 named concept, different wording",0,,1,1,agriculture,Agriculture in India,0,0,0
+X-SST,SST,Geography,Shifting cultivation,Shifting cultivation,Q3606870,217119,स्थानान्तरी कृषि,,"R2 named concept, different wording",0,,1,1,types of farming|farming,Shifting cultivation,0,0,0
+X-SST,SST,Geography,Kharif,Kharif crop,Q3631460,8075353,ख़रीफ़ की फ़सल,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,cropping pattern|kharif,Kharif crop,0,0,0
+X-SST,SST,Geography,Rabi,Rabi crop,Q3631367,11687693,रबी की फ़सल,,"R2 named concept, different wording",0,,1,1,cropping pattern|rabi,Rabi crop,0,0,0
+X-SST,SST,Geography,Zaid,Zaid crop,Q8064782,34471680,ज़ायद की फ़सल,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,cropping pattern|zaid,Zaid crops,1,0,0
+X-SST,SST,Geography,Green Revolution,Green Revolution in India,Q3100540,14101118,हरित क्रांति (भारत),,"R2 named concept, different wording",0,,1,1,technological and institutional reforms|green revolution,Green Revolution in India,0,0,0
+X-SST,SST,Geography,Plantation,Plantation,Q188913,142473,बाग़ान,ನೆಡುತೋಪು,R1 exact title,0,,1,1,types of farming|plantation,Plantation,0,0,0
+X-SST,SST,Geography,Rice,Rice,Q5090,36979,चावल,ಅಕ್ಕಿ,R1 exact title,0,,1,1,major crops|rice,Rice,0,0,0
+X-SST,SST,Geography,Wheat,Wheat,Q15645384,36858,गेहूँ,ಗೋಧಿ,R1 exact title,0,,1,1,major crops|wheat,Wheat,0,0,0
+X-SST,SST,Geography,Millets,Millet,Q259438,37977,ज्वार आदि मोटे अनाज,ಕಿರುಧಾನ್ಯಗಳು,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,major crops|millet,Millet,0,0,0
+X-SST,SST,Geography,Tea,Tea,Q6097,29969,चाय,ಚಹಾ,R1 exact title,0,,1,1,major crops|\btea\b,Tea,0,0,0
+X-SST,SST,Geography,Coffee,Coffee,Q8486,604727,कॉफ़ी,ಕಾಫಿ,R1 exact title,0,,1,1,major crops|coffee,Coffee,0,0,0
+X-SST,SST,Geography,Sugarcane,Sugarcane,Q36940,13873779,गन्ना,ಕಬ್ಬು,R1 exact title,0,,1,1,major crops|sugar,Sugarcane,0,0,0
+X-SST,SST,Geography,Cotton,Cotton,Q11457,36806,कपास,ಹತ್ತಿ,R1 exact title,0,,1,1,major crops|cotton,Cotton,0,0,0
+X-SST,SST,Geography,Jute,Jute,Q107211,336175,जूट,ಸೆಣಬು,R1 exact title,0,,1,1,major crops|jute,Jute,0,0,0
+X-SST,SST,Geography,Minerals,Mineral,Q7946,19053,खनिज,ಖನಿಜ,"R2 named concept, different wording",0,,1,1,minerals?,Mineral,0,0,0
+X-SST,SST,Geography,Iron ore,Iron ore,Q191552,145352,लौह अयस्क,ಕಬ್ಬಿಣದ ಅದಿರು,R1 exact title,0,,1,1,ferrous|iron ore,Iron ore,0,0,0
+X-SST,SST,Geography,Bauxite,Bauxite,Q102078,3760,बॉक्साइट,ಬಾಕ್ಸೈಟ್,R1 exact title,0,keyword_not_in_syllabus_text,0,0,non.?ferrous|bauxite,Bauxite,0,0,0
+X-SST,SST,Geography,Manganese,Manganese,Q731,19051,मैंगनीज़,ಮ್ಯಾಂಗನೀಸ್,R1 exact title,0,keyword_not_in_syllabus_text,0,0,ferrous|manganese,Manganese,0,0,0
+X-SST,SST,Geography,Mica,Mica,Q114675,21061,अभ्रक,ಅಭ್ರಕ,R1 exact title,0,,1,1,non.?metallic|mica,Mica,0,0,0
+X-SST,SST,Geography,Coal,Coal,Q24489,5987,कोयला,ಕಲ್ಲಿದ್ದಲು,R1 exact title,0,,1,1,conventional|coal,Coal,0,0,0
+X-SST,SST,Geography,Petroleum,Petroleum,Q22656,23195,शिलारस,ಪೆಟ್ರೋಲಿಯಮ್,R1 exact title,0,,1,1,conventional|petroleum,Petroleum,0,0,0
+X-SST,SST,Geography,Natural gas,Natural gas,Q40858,22131,प्राकृतिक गैस,ನಿಸರ್ಗಾನಿಲ,R1 exact title,0,,1,1,conventional|natural gas,Natural gas,0,0,0
+X-SST,SST,Geography,Manufacturing industries,Manufacturing,Q187939,39388,विनिर्माण,,"R2 named concept, different wording",0,,1,1,manufacturing,Manufacturing,0,0,0
+X-SST,SST,Geography,Textile industry,Textile industry in India,Q16056566,33400169,भारतीय वस्त्र उद्योग,ಭಾರತದಲ್ಲಿ ಜವಳಿ ಉದ್ಯಮ,"R2 named concept, different wording",0,,1,1,textile|agro.?based,Textile industry in India,0,0,0
+X-SST,SST,Geography,Iron and steel industry,Iron and steel industry in India,Q24943781,49022582,भारत में लौह इस्पात उद्योग,,"R2 named concept, different wording",0,,1,1,iron and steel|mineral.?based,Iron and steel industry in India,0,0,0
+X-SST,SST,Geography,Information technology industry,Information technology in India,Q6031253,14799281,भारत में सूचना प्रौद्योगिकी,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,information technology,Information technology in India,0,0,0
+X-SST,SST,Geography,Golden Quadrilateral,Golden Quadrilateral,Q1535037,630365,स्वर्णिम चतुर्भुज,ಚಿನ್ನದ ಚತುಷ್ಪಥ (ಚತುರ್ಭುಜಾಕೃತಿ ),R1 exact title,0,,1,1,roadways|golden,Golden Quadrilateral,0,0,0
+X-SST,SST,Geography,Railways,Indian Railways,Q819425,655887,भारतीय रेल,ಭಾರತೀಯ ರೈಲ್ವೆ,"R2 named concept, different wording",0,,1,1,railways,Indian Railways,0,0,0
+X-SST,SST,Geography,Pipelines,Pipeline,Q25471856,51111,पाइपलाइन,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,pipelines,Pipeline transport,1,0,0
+X-SST,SST,Geography,Major seaports,List of ports in India,Q7232393,14120835,भारत के बंदरगाह,ಭಾರತದ ಬಂದರುಗಳು,"R2 named concept, different wording",0,,1,1,sea ?ports|waterways,Ports in India,1,0,0
+X-SST,SST,Geography,Tourism,Tourism in India,Q3519624,283772,भारत में पर्यटन,ಭಾರತದಲ್ಲಿ ಪ್ರವಾಸೋದ್ಯಮ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,tourism,Tourism in India,0,0,0
+X-SST,SST,Geography,International trade,International trade,Q178803,14567,अंतर्राष्ट्रीय व्यापार,ಅಂತರಾಷ್ಟ್ರೀಯ ವ್ಯಾಪಾರ,R1 exact title,0,,1,1,international\ trade,International trade,0,0,0
+X-SST,SST,Geography,Hirakud Dam,Hirakud Dam,Q1940209,4780088,हीराकुद बाँध,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,hirakud|dams,Hirakud Dam,0,0,0
+X-SST,SST,Geography,Bhakra Dam,Bhakra Dam,Q83436,2131938,भाखड़ा बांध,,R1 exact title,0,,1,1,bhakra|dams,Bhakra Dam,0,0,0
+X-SST,SST,Geography,Sardar Sarovar Dam,Sardar Sarovar Dam,Q2120392,623549,सरदार सरोवर परियोजना,,R1 exact title,0,,1,1,sardar sarovar|dams,Sardar Sarovar Dam,0,0,0
+X-SST,SST,Geography,Tehri Dam,Tehri Dam,Q69091,1423113,टिहरी बाँध,,R1 exact title,0,,1,1,tehri|dams,Tehri Dam,0,0,0
+X-SST,SST,Geography,Joint Forest Management,Joint Forest Management,Q6269216,6981410,,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,joint forest|community and conservation,Joint Forest Management,0,0,0
+X-SST,SST,Political science,Power sharing,Consociationalism,Q1414948,1409458,,,R3 article broader or narrower than topic,1,broader_or_narrower,1,1,power.?sharing,Consociationalism,0,0,0
+X-SST,SST,Political science,Belgium,Belgium,Q31,3343,बेल्जियम,ಬೆಲ್ಜಿಯಂ,R1 exact title,0,,1,1,belgium,Belgium,0,0,0
+X-SST,SST,Political science,Sri Lanka,Sri Lankan civil war,Q213394,225283,श्रीलंकाई गृहयुद्ध का इतिहास,ಶ್ರೀಲಂಕಾದ ಆಂತರಿಕ ಯುದ್ಧ,"R2 named concept, different wording",0,,1,1,sri lanka,Sri Lankan Civil War,1,0,0
+X-SST,SST,Political science,Majoritarianism,Majoritarianism,Q1327574,617451,,,R1 exact title,0,,1,1,majoritarianism|sri lanka,Majoritarianism,0,0,0
+X-SST,SST,Political science,Federalism,Federalism,Q204886,11542,संघवाद,ಸಂಯುಕ್ತ ವ್ಯವಸ್ಥೆ,R1 exact title,0,,1,1,federalism,Federalism,0,0,0
+X-SST,SST,Political science,Federalism in India,Federalism in India,Q5440567,26274381,भारत में संघवाद,,R1 exact title,0,,1,1,india a federal country|federalism,Federalism in India,0,0,0
+X-SST,SST,Political science,Decentralisation,Decentralization,Q188961,49139,विकेंद्रीकरण,ವಿಕೇಂದ್ರೀಕರಣ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,decentrali[sz]ation,Decentralization,0,0,0
+X-SST,SST,Political science,Panchayati raj,Panchayati raj,Q20202367,46916744,,ಪಂಚಾಯತ್ ರಾಜ್ಯ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,decentrali[sz]ation|panchayat,Panchayati raj,0,0,0
+X-SST,SST,Political science,Linguistic states,"States Reorganisation Act, 1956",Q2305282,39307238,राज्य पुनर्गठन अधिनियम १९५६,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,linguistic states|language policy,"States Reorganisation Act, 1956",0,0,0
+X-SST,SST,Political science,Language policy,Languages of India,Q135595,275047,भारत की भाषाएँ,ಭಾರತೀಯ ಭಾಷೆಗಳು,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,language policy,Languages of India,0,0,0
+X-SST,SST,Political science,Union List,Union List,Q7885821,38572130,संघ सूची,ಕೇಂದ್ರ ಪಟ್ಟಿ,R1 exact title,0,,1,1,federal|union list,Union List,0,0,0
+X-SST,SST,Political science,State List,State List,Q7603424,3218289,राज्य सूची,,R1 exact title,0,,1,1,federal|state list,State List,0,0,0
+X-SST,SST,Political science,Concurrent List,Concurrent List,Q5159098,38572265,समवर्ती सूची,,R1 exact title,0,,1,1,federal|concurrent list,Concurrent List,0,0,0
+X-SST,SST,Political science,Gender and politics,Feminism,Q7252,11185,नारीवाद,,"R2 named concept, different wording",0,,1,1,gender,Feminism,0,0,0
+X-SST,SST,Political science,Caste and politics,Caste system in India,Q130695,7347540,भारत में जाति व्यवस्था,,"R2 named concept, different wording",0,,1,1,caste,Caste system in India,0,0,0
+X-SST,SST,Political science,Communalism,Communal violence,Q5153967,9954363,सांप्रदायिक हिंसा,ಕೋಮು ಹಿಂಸಾಚಾರ,R3 article broader or narrower than topic,1,broader_or_narrower;dropped_from_syllabus_by_2024_25,1,0,communalism,Communalism (South Asia),1,0,0
+X-SST,SST,Political science,Secular state,Secularism in India,Q19542047,2287171,भारत में धर्मनिरपेक्षता,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,secular,Secularism in India,0,0,0
+X-SST,SST,Political science,Political parties,Political party,Q7278,23996,राजनीतिक दल,ರಾಜಕೀಯ ಪಕ್ಷ,"R2 named concept, different wording",0,,1,1,political parties,Political party,0,0,0
+X-SST,SST,Political science,Indian National Congress,Indian National Congress,Q10225,149333,भारतीय राष्ट्रीय कांग्रेस,ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,national parties|national political parties,Indian National Congress,0,0,0
+X-SST,SST,Political science,Bharatiya Janata Party,Bharatiya Janata Party,Q10230,149330,भारतीय जनता पार्टी,ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,national parties|national political parties,Bharatiya Janata Party,0,0,0
+X-SST,SST,Political science,Bahujan Samaj Party,Bahujan Samaj Party,Q803681,408219,बहुजन समाज पार्टी,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,national parties|national political parties,Bahujan Samaj Party,0,0,0
+X-SST,SST,Political science,Communist Party of India (Marxist),Communist Party of India (Marxist),Q234277,408206,भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी),ಭಾರತೀಯ ಕಮ್ಯುನಿಷ್ಟ್ ಪಕ್ಷ (ಮಾರ್ಕ್ಸ್ ವಾದಿ),R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,national parties|national political parties,Communist Party of India (Marxist),0,0,0
+X-SST,SST,Political science,Election Commission of India,Election Commission of India,Q2724317,47863083,भारत निर्वाचन आयोग,ಭಾರತದ ಚುನಾವಣಾ ಆಯೋಗ,R1 exact title,0,,1,1,political parties|election commission,Election Commission of India,0,0,0
+X-SST,SST,Political science,Multi-party system,Multi-party system,Q223847,233475,बहुदलीय प्रणाली,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,how many parties|party system,Multi-party system,0,0,0
+X-SST,SST,Political science,Two-party system,Two-party system,Q233008,31605,द्विदलीय प्रणाली,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,how many parties|party system,Two-party system,0,0,0
+X-SST,SST,Political science,Coalition government,Coalition government,Q837416,6036,गठबन्धन सरकार,,R1 exact title,0,,1,1,coalition|political parties,Coalition government,0,0,0
+X-SST,SST,Political science,Outcomes of democracy,Democracy,Q7174,7959,लोकतंत्र,ಪ್ರಜಾಪ್ರಭುತ್ವ,"R2 named concept, different wording",0,,1,1,outcomes of democracy,Democracy,0,0,0
+X-SST,SST,Economics,Development,Human Development Index,Q38994,261460,मानव विकास सूचकांक,ಮಾನವ ಅಭಿವೃದ್ಧಿ ಸೂಚ್ಯಂಕ,"R2 named concept, different wording",0,,1,1,development,Human Development Index,0,0,0
+X-SST,SST,Economics,National income,Gross domestic product,Q12638,12594,सकल घरेलू उत्पाद,ರಾಷ್ಟ್ರೀಯ ಉತ್ಪನ್ನ,"R2 named concept, different wording",0,,1,1,income,Gross domestic product,0,0,0
+X-SST,SST,Economics,Per capita income,Per capita income,Q45918,23893,प्रति व्यक्ति आय,,R1 exact title,0,,1,1,income,Per capita income,0,0,0
+X-SST,SST,Economics,Infant mortality,Infant mortality,Q835884,71617,शिशु मृत्यु दर,,R1 exact title,0,,1,1,income and other criteria|development,Infant mortality,0,0,0
+X-SST,SST,Economics,Literacy,Literacy in India,Q3345045,6477751,भारत में साक्षरता,,"R2 named concept, different wording",0,,1,1,income and other criteria|development,Literacy in India,0,0,0
+X-SST,SST,Economics,Primary sector,Primary sector,Q55640,14552,प्राथमिक क्षेत्र,,"R2 named concept, different wording",0,,1,1,primary,Primary sector of the economy,1,0,0
+X-SST,SST,Economics,Secondary sector,Secondary sector,Q55639,14553,,,"R2 named concept, different wording",0,,1,1,secondary,Secondary sector of the economy,1,0,0
+X-SST,SST,Economics,Tertiary sector,Tertiary sector,Q55638,14551,तृतीयक क्षेत्र,ಸೇವಾ ವಲಯ ಮತ್ತು ವ್ಯವಹಾರ(ವ್ಯಾಪಾರ),"R2 named concept, different wording",0,,1,1,tertiary,Tertiary sector of the economy,1,0,0
+X-SST,SST,Economics,Unemployment,Unemployment,Q41171,31741,बेकारी,ನಿರುದ್ಯೋಗ,"R2 named concept, different wording",0,,1,1,employment,Unemployment,0,0,0
+X-SST,SST,Economics,Disguised unemployment,Underemployment,Q1931244,318784,,,R3 article broader or narrower than topic,1,broader_or_narrower,1,1,employment,Underemployment,0,0,0
+X-SST,SST,Economics,MGNREGA,"Mahatma Gandhi National Rural Employment Guarantee Act, 2005",Q3260656,3883186,महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम,,"R2 named concept, different wording",0,,1,1,employment|nrega,"National Rural Employment Guarantee Act, 2005",1,0,0
+X-SST,SST,Economics,Organised and unorganised sectors,Informal economy,Q944235,66499,,,"R2 named concept, different wording",0,,1,1,un.?organi[sz]ed,Informal economy,0,0,0
+X-SST,SST,Economics,Public sector,Public sector,Q294217,334803,सार्वजनिक प्रतिष्ठान,,R1 exact title,0,,1,1,public and private|public sector,Public sector,0,0,0
+X-SST,SST,Economics,Private sector,Private sector,Q591763,251540,,,R1 exact title,0,,1,1,public and private|private sector,Private sector,0,0,0
+X-SST,SST,Economics,Money,Money,Q1368,8983183,मुद्रा (विनिमय माध्यम),ಹಣ,R1 exact title,0,,1,1,money,Money,0,0,0
+X-SST,SST,Economics,Barter,Barter,Q484830,4232,वस्तु विनिमय,ವಿನಿಮಯ,R1 exact title,0,,1,1,double coincidence|money,Barter,0,0,0
+X-SST,SST,Economics,Reserve Bank of India,Reserve Bank of India,Q944085,277069,भारतीय रिज़र्व बैंक,ಭಾರತೀಯ ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,modern forms of money|reserve bank,Reserve Bank of India,0,0,0
+X-SST,SST,Economics,Credit,Credit,Q182076,1698417,,ಉದ್ದರಿ,R1 exact title,0,,1,1,credit,Credit,0,0,0
+X-SST,SST,Economics,Self-help groups,Self-help group (finance),Q2724674,17277640,,ಸ್ವ-ಸಹಾಯ ಗುಂಪು (ಹಣಕಾಸು ವ್ಯವಸ್ಥೆ),"R2 named concept, different wording",0,,1,1,self.?help groups,Self-help group (finance),0,0,0
+X-SST,SST,Economics,Collateral,Collateral (finance),Q694563,1560425,ग्रहणाधिकार (लियन),ಮೇಲಾಧಾರ (ಹಣಕಾಸು),"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,terms of credit|collateral,Collateral (finance),0,0,0
+X-SST,SST,Economics,Demand deposits,Demand deposit,Q1147172,1137531,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,modern forms of money|deposits,Demand deposit,0,0,0
+X-SST,SST,Economics,Globalisation and the Indian economy,Economic liberalisation in India,Q5333520,20965908,भारत में आर्थिक सुधार,,"R2 named concept, different wording",0,,1,1,globali[sz]ation,Economic liberalisation in India,0,0,0
+X-SST,SST,Economics,Multinational corporations,Multinational corporation,Q161726,214491,बहुराष्ट्रीय कम्पनी,ಮಲ್ಟಿನ್ಯಾಷನಲ್ ಕಾರ್ಪೋರೇಷನ್,"R2 named concept, different wording",0,,1,1,production across countries|multinational,Multinational corporation,0,0,0
+X-SST,SST,Economics,Foreign investment,Foreign direct investment,Q490513,541795,प्रत्यक्ष विदेशी निवेश,ವಿದೇಶಿ ನೇರ ಹೂಡಿಕೆ,"R2 named concept, different wording",0,,1,1,foreign trade|investment,Foreign direct investment,0,0,0
+X-SST,SST,Economics,World Trade Organisation,World Trade Organization,Q7825,33873,विश्व व्यापार संगठन,ವಿಶ್ವ ವ್ಯಾಪಾರ ಸಂಸ್ಥೆ,"R2 named concept, different wording",0,,1,1,world trade organi[sz]ation,World Trade Organization,0,0,0
+X-SST,SST,Economics,Trade barriers,Trade barrier,Q377302,441395,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,foreign trade|barrier,Trade barrier,0,0,0
+X-SST,SST,Economics,Special economic zone,Special economic zone,Q494978,83373,विशेष आर्थिक क्षेत्र,ವಿಶೇಷ ಆರ್ಥಿಕ ವಲಯ,R1 exact title,0,,1,1,globali[sz]ation,Special economic zone,0,0,0
+X-SST,SST,Economics,Consumer rights,Consumer protection,Q664183,18576029,उपभोक्ता संरक्षण,ಗ್ರಾಹಕರ ಸಂರಕ್ಷಣೆ,"R2 named concept, different wording",0,,1,1,consumer,Consumer protection,0,0,0
+X-SST,SST,Economics,Right to Information,"Right to Information Act, 2005",Q2725604,2437932,"सूचना का अधिकार अधिनियम, २००५","ಭಾರತೀಯ ಮಾಹಿತಿ ಹಕ್ಕು ಕಾಯಿದೆ, ೨೦೦೫","R2 named concept, different wording",0,,1,1,consumer|information,"Right to Information Act, 2005",0,0,0
+X-SST,SST,Economics,Bureau of Indian Standards,Bureau of Indian Standards,Q3522686,22002114,भारतीय मानक ब्यूरो,ಭಾರತೀಯ ಮಾನಕ ಬ್ಯೂರೋ,R1 exact title,0,,1,1,consumer,Bureau of Indian Standards,0,0,0
+X-SST,SST,Economics,Public distribution system,Public Distribution System (India),Q60901,25753228,सार्वजनिक वितरण प्रणाली,,R1 exact title,0,,1,1,development|public,Public distribution system,1,0,0
+XII-PHY,SCI,Electrostatics,Coulomb's law,Coulomb's law,Q83152,26288711,कूलॉम-नियम,,R1 exact title,0,,1,1,coulomb.s law,Coulomb's law,0,0,0
+XII-PHY,SCI,Electrostatics,Electric field,Electric field,Q46221,41092,विद्युत्-क्षेत्र,ವಿದ್ಯುತ್ ಕ್ಷೇತ್ರ,R1 exact title,0,,1,1,electric\ field,Electric field,0,0,0
+XII-PHY,SCI,Electrostatics,Electric dipole,Electric dipole moment,Q735135,30876071,विद्युत द्विध्रुव आघूर्ण,,"R2 named concept, different wording",0,,1,1,electric dipole,Electric dipole moment,0,0,0
+XII-PHY,SCI,Electrostatics,Gauss's theorem,Gauss's law,Q173356,74964,गाउस का नियम,,"R2 named concept, different wording",0,,1,1,gauss,Gauss's law,0,0,0
+XII-PHY,SCI,Electrostatics,Electric flux,Electric flux,Q501267,1209000,विद्युत अभिवाह,,R1 exact title,0,,1,1,electric\ flux,Electric flux,0,0,0
+XII-PHY,SCI,Electrostatics,Electric potential,Electric potential,Q55451,59615,विद्युत विभव,,R1 exact title,0,,1,1,electric\ potential,Electric potential,0,0,0
+XII-PHY,SCI,Electrostatics,Electric potential energy,Electric potential energy,Q841798,1975956,विद्युत स्थितिज ऊर्जा,,R1 exact title,0,,1,1,potential energy,Electric potential energy,0,0,0
+XII-PHY,SCI,Electrostatics,Equipotential surfaces,Equipotential,Q3175077,2866340,,,"R2 named concept, different wording",0,,1,1,equipotential,Equipotential,0,0,0
+XII-PHY,SCI,Electrostatics,Capacitor,Capacitor,Q5322,4932111,संधारित्र,,R1 exact title,0,,1,1,capacitors?,Capacitor,0,0,0
+XII-PHY,SCI,Electrostatics,Capacitance,Capacitance,Q164399,140711,धारिता,,R1 exact title,0,,1,1,capacitance,Capacitance,0,0,0
+XII-PHY,SCI,Electrostatics,Dielectric,Dielectric,Q184996,41026,परावैद्युत,,R1 exact title,0,,1,1,dielectrics?,Dielectric,0,0,0
+XII-PHY,SCI,Electrostatics,Van de Graaff generator,Van de Graaff generator,Q211736,52642,वान डी ग्राफ़ जेनरेटर,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,van de graaff,Van de Graaff generator,0,0,0
+XII-PHY,SCI,Current electricity,Drift velocity,Drift velocity,Q909891,200919,अपवाह वेग,,R1 exact title,0,,1,1,drift\ velocity,Drift velocity,0,0,0
+XII-PHY,SCI,Current electricity,Electromotive force,Electromotive force,Q185329,65894,विद्युतवाहक बल,,"R2 named concept, different wording",0,,1,1,emf,Electromotive force,0,0,0
+XII-PHY,SCI,Current electricity,Internal resistance,Internal resistance,Q2527701,861162,आन्तरिक प्रतिरोध,,R1 exact title,0,,1,1,internal\ resistance,Internal resistance,0,0,0
+XII-PHY,SCI,Current electricity,Kirchhoff's laws,Kirchhoff's circuit laws,Q187672,591253,किरचॉफ के परिपथ के नियम,,"R2 named concept, different wording",0,,1,1,kirchhoff,Kirchhoff's circuit laws,0,0,0
+XII-PHY,SCI,Current electricity,Wheatstone bridge,Wheatstone bridge,Q245133,33894,व्हीटस्टोन सेतु,ಹ್ವೀಟ್ಸ್ಟೋನ್ ಬ್ರಿಜ್,R1 exact title,0,,1,1,wheatstone\ bridge,Wheatstone bridge,0,0,0
+XII-PHY,SCI,Current electricity,Potentiometer,Potentiometer (measuring instrument),Q1716482,18140032,विभवमापी (मापक उपकरण),,"R2 named concept, different wording",0,,1,1,potentiometer,Potentiometer (measuring instrument),0,0,0
+XII-PHY,SCI,Current electricity,Mobility,Electron mobility,Q6501076,760994,,,"R2 named concept, different wording",0,,1,1,mobility,Electron mobility,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Biot-Savart law,Biot–Savart law,Q171340,75110,बायो-सेवर्ट का नियम,,"R2 named concept, different wording",0,,1,1,biot,Biot–Savart law,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Ampere's law,Ampère's circuital law,Q51500,199304,एम्पीयर का नियम,,"R2 named concept, different wording",0,,1,1,ampere.s law,Ampère's circuital law,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Lorentz force,Lorentz force,Q172137,18631,लॉरेंज बल,,"R2 named concept, different wording",0,,1,1,force on a moving charge,Lorentz force,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Cyclotron,Cyclotron,Q204469,44585,साइक्लोट्रॉन,ಸೈಕ್ಲೊಟ್ರಾನ್,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,cyclotron,Cyclotron,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Moving coil galvanometer,Galvanometer,Q179472,40365,धारामापी,ಗ್ಯಾಲ್ವನೊಮೀಟರ್,"R2 named concept, different wording",0,,1,1,galvanometer,Galvanometer,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Ammeter,Ammeter,Q166046,2866,अमीटर,,R1 exact title,0,,1,1,ammeter,Ammeter,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Voltmeter,Voltmeter,Q179741,32743,वोल्टमीटर,ವೋಲ್ಟ್ಮೀಟರ್,R1 exact title,0,,1,1,voltmeter,Voltmeter,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Magnetic dipole moment,Magnetic moment,Q242657,540979,चुम्बकीय आघूर्ण,,"R2 named concept, different wording",0,,1,1,magnetic dipole,Magnetic moment,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Diamagnetic substances,Diamagnetism,Q201048,8315,प्रतिचुम्बकत्व,,"R2 named concept, different wording",0,,1,1,dia,Diamagnetism,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Paramagnetic substances,Paramagnetism,Q188479,23750,अनुचुम्बकत्व,,"R2 named concept, different wording",0,,1,1,"para.? ?,? ?dia|para.?magnetic|para",Paramagnetism,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Ferromagnetic substances,Ferromagnetism,Q184207,11807,लौहचुम्बकत्व,,"R2 named concept, different wording",0,,1,1,ferro,Ferromagnetism,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Earth's magnetic field,Earth's magnetic field,Q6500960,146983,पृथ्वी का चुम्बकीय क्षेत्र,,R1 exact title,0,,1,1,earth.s magnetic field,Earth's magnetic field,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Hysteresis,Hysteresis,Q190837,147003,शैथिल्य,,R1 exact title,0,,1,1,hysteresis|ferro,Hysteresis,0,0,0
+XII-PHY,SCI,Magnetic effects of current and magnetism,Toroid,Toroidal inductors and transformers,Q2153925,14973487,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,toroid,Toroidal inductors and transformers,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Faraday's laws,Faraday's law of induction,Q181465,742288,फैराडे का विद्युतचुम्बकीय प्रेरण का नियम,,"R2 named concept, different wording",0,,1,1,faraday,Faraday's law of induction,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Lenz's law,Lenz's law,Q192288,187461,लेंज का नियम,,R1 exact title,0,,1,1,lenz,Lenz's law,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Eddy currents,Eddy current,Q208598,465008,भँवर धारा,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,eddy,Eddy current,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Self and mutual induction,Inductance,Q177897,165146,प्रेरकत्व,,"R2 named concept, different wording",0,,1,1,mutual induction,Inductance,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,LC oscillations,LC circuit,Q732473,602264,एलसी परिपथ,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,lc oscillations,LC circuit,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,LCR series circuit,RLC circuit,Q323477,27174683,आर एल सी परिपथ,,"R2 named concept, different wording",0,,1,1,lcr,RLC circuit,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Reactance,Electrical reactance,Q193972,140710,वैद्युत प्रतिघात,,"R2 named concept, different wording",0,,1,1,reactance,Electrical reactance,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Impedance,Electrical impedance,Q179043,41957,प्रतिबाधा,,"R2 named concept, different wording",0,,1,1,impedance,Electrical impedance,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Resonance,Electrical resonance,Q552311,3574564,,,"R2 named concept, different wording",0,,1,1,resonance,Electrical resonance,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Power factor,Power factor,Q750454,41568,शक्ति गुणांक,,R1 exact title,0,,1,1,power\ factor,Power factor,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Transformer,Transformer,Q11658,30906,ट्राँसफार्मर,ವಿದ್ಯುತ್ ಪರಿವರ್ತಕ,R1 exact title,0,,1,1,transformer,Transformer,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,AC generator,Alternator,Q58430,223352,अल्टरनेटर,ಆವರ್ತಕ (ಆಲ್ಟರ್ನೇಟರ್),"R2 named concept, different wording",0,,1,1,ac generator,Alternator,0,0,0
+XII-PHY,SCI,Electromagnetic induction and alternating currents,Magnetic flux,Magnetic flux,Q177831,65890,चुम्बकीय अभिवाह,,R1 exact title,0,,1,1,magnetic flux|electromagnetic induction,Magnetic flux,0,0,0
+XII-PHY,SCI,Electromagnetic waves,Displacement current,Displacement current density,Q853178,555119,विस्थापन धारा,,R1 exact title,0,,1,1,displacement\ current,Displacement current,1,0,0
+XII-PHY,SCI,Electromagnetic waves,Electromagnetic waves,Electromagnetic radiation,Q12969754,9426,विद्युतचुंबकीय विकिरण,ವಿದ್ಯುತ್ಕಾಂತ ತರಂಗ,"R2 named concept, different wording",0,,1,1,electromagnetic waves,Electromagnetic radiation,0,0,0
+XII-PHY,SCI,Electromagnetic waves,Electromagnetic spectrum,Electromagnetic spectrum,Q133139,10134,विद्युतचुंबकीय वर्णक्रम,,R1 exact title,0,,1,1,electromagnetic\ spectrum,Electromagnetic spectrum,0,0,0
+XII-PHY,SCI,Electromagnetic waves,Maxwell's equations,Maxwell's equations,Q51501,19737,मैक्सवेल के समीकरण,ಮ್ಯಾಕ್ಸ್ವೆಲ್ನ ಸಮೀಕರಣಗಳು,R1 exact title,0,,1,1,maxwell|displacement current,Maxwell's equations,0,0,0
+XII-PHY,SCI,Electromagnetic waves,X-rays,X-ray,Q34777,34197,ऍक्स किरण,ಕ್ಷ-ಕಿರಣ,"R2 named concept, different wording",0,,1,1,x.?rays,X-ray,0,0,0
+XII-PHY,SCI,Electromagnetic waves,Microwaves,Microwave,Q127995,20097,सूक्ष्मतरंग,,"R2 named concept, different wording",0,,1,1,microwaves,Microwave,0,0,0
+XII-PHY,SCI,Electromagnetic waves,Infrared,Infrared,Q11388,15022,अवरक्त,ಅವಗೆಂಪು,R1 exact title,0,,1,1,infrared,Infrared,0,0,0
+XII-PHY,SCI,Electromagnetic waves,Ultraviolet,Ultraviolet,Q11391,31990,पराबैंगनी,ನೇರಳಾತೀತ,R1 exact title,0,,1,1,ultraviolet,Ultraviolet,0,0,0
+XII-PHY,SCI,Electromagnetic waves,Radio waves,Radio wave,Q4262,98132,रेडियो तरंग,,"R2 named concept, different wording",0,,1,1,radio ?waves,Radio wave,0,0,0
+XII-PHY,SCI,Electromagnetic waves,Gamma rays,Gamma ray,Q11523,18616290,गामा किरण,ಗ್ಯಾಮಾ ಕಿರಣ,"R2 named concept, different wording",0,,1,1,gamma,Gamma ray,0,0,0
+XII-PHY,SCI,Optics,Total internal reflection,Total internal reflection,Q234943,30426,पूर्ण आन्तरिक परावर्तन,ಸಂಪೂರ್ಣ ಆಂತರಿಕ ಪ್ರತಿಫಲನ,R1 exact title,0,,1,1,total\ internal\ reflection,Total internal reflection,0,0,0
+XII-PHY,SCI,Optics,Optical fibres,Optical fiber,Q162,3372377,प्रकाशीय तन्तु,ಆಪ್ಟಿಕಲ್ ಫೈಬರ್,"R2 named concept, different wording",0,,1,1,optical fib,Optical fiber,0,0,0
+XII-PHY,SCI,Optics,Lens maker's formula,Lens,Q768575,18320,लेंस,,R3 article broader or narrower than topic,1,broader_or_narrower,1,1,lens ?maker,Lens,0,0,0
+XII-PHY,SCI,Optics,Microscope,Optical microscope,Q912313,117534,प्रकाशीय सूक्ष्मदर्शी,,"R2 named concept, different wording",0,,1,1,microscopes?,Optical microscope,0,0,0
+XII-PHY,SCI,Optics,Astronomical telescope,Telescope,Q4213,7070301,दूरदर्शी,ದೂರದರ್ಶಕ,"R2 named concept, different wording",0,,1,1,telescopes?,Telescope,0,0,0
+XII-PHY,SCI,Optics,Refracting telescope,Refracting telescope,Q216778,266601,अपवर्ती दूरदर्शी,,R1 exact title,0,,1,1,refracting,Refracting telescope,0,0,0
+XII-PHY,SCI,Optics,Reflecting telescope,Reflecting telescope,Q35221,266861,परावर्ती दूरदर्शी,,R1 exact title,0,,1,1,reflecting,Reflecting telescope,0,0,0
+XII-PHY,SCI,Optics,Huygens principle,Huygens–Fresnel principle,Q188321,14359,हाइगेंस का सिद्धांत,,"R2 named concept, different wording",0,,1,1,huygen,Huygens–Fresnel principle,0,0,0
+XII-PHY,SCI,Optics,Wavefront,Wavefront,Q461533,1484541,तरंगाग्र,,R1 exact title,0,,1,1,wave ?front,Wavefront,0,0,0
+XII-PHY,SCI,Optics,Interference,Wave interference,Q136980,15112,व्यतिकरण (तरंगों का),ವ್ಯತಿಕರಣ,"R2 named concept, different wording",0,,1,1,interference,Wave interference,0,0,0
+XII-PHY,SCI,Optics,Young's double slit experiment,Double-slit experiment,Q217785,8667,दो झिरी प्रयोग,,"R2 named concept, different wording",0,,1,1,young.s double,Double-slit experiment,0,0,0
+XII-PHY,SCI,Optics,Diffraction,Diffraction,Q133900,8603,विवर्तन,,R1 exact title,0,,1,1,diffraction,Diffraction,0,0,0
+XII-PHY,SCI,Optics,Polarisation,Polarization (waves),Q193760,41564,ध्रुवण (विद्युतचुम्बकीय),,"R2 named concept, different wording",0,,1,1,polari[sz],Polarization (waves),0,0,0
+XII-PHY,SCI,Optics,Brewster's law,Brewster's angle,Q662790,40815,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,brewster,Brewster's angle,0,0,0
+XII-PHY,SCI,Optics,Coherent sources,Coherence (physics),Q193147,240011,संबद्धता (भौतिकी),,"R2 named concept, different wording",0,,1,1,coherent,Coherence (physics),0,0,0
+XII-PHY,SCI,Optics,Resolving power,Angular resolution,Q740898,230428,कोणीय विभेदन,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,resolving power,Angular resolution,0,0,0
+XII-PHY,SCI,Optics,Polaroids,Polarizer,Q11942175,2722105,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,polaroid,Polarizer,0,0,0
+XII-PHY,SCI,Dual nature of radiation and matter,Photoelectric effect,Photoelectric effect,Q83213,23579,प्रकाश-विद्युत प्रभाव,ದ್ಯುತಿವಿದ್ಯುತ್ ಪರಿಣಾಮ,R1 exact title,0,,1,1,photoelectric\ effect,Photoelectric effect,0,0,0
+XII-PHY,SCI,Dual nature of radiation and matter,Photon,Photon,Q3198,23535,फोटॉन,ಫೋಟಾನ್,R1 exact title,0,,1,1,particle nature of light|photon,Photon,0,0,0
+XII-PHY,SCI,Dual nature of radiation and matter,Matter waves,Matter wave,Q193907,229104,पदार्थ तरंग,,"R2 named concept, different wording",0,,1,1,matter waves,Matter wave,0,0,0
+XII-PHY,SCI,Dual nature of radiation and matter,Davisson-Germer experiment,Davisson–Germer experiment,Q902785,1828131,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,davisson,Davisson–Germer experiment,0,0,0
+XII-PHY,SCI,Dual nature of radiation and matter,Work function,Work function,Q783800,53954,कार्य फलन,,R1 exact title,0,,1,1,einstein.s photoelectric|work function,Work function,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Alpha-particle scattering experiment,Rutherford scattering experiments,Q1648751,319834,,,"R2 named concept, different wording",0,,1,1,alpha.?particle scattering,Rutherford scattering experiments,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Bohr model,Bohr model,Q172948,4831,बोर का परमाणु मॉडल,,R1 exact title,0,,1,1,bohr\ model,Bohr model,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Hydrogen spectrum,Hydrogen spectral series,Q2613048,3071612,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,hydrogen spectrum,Hydrogen spectral series,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Nucleus,Atomic nucleus,Q37147,19916559,परमाणु नाभिक,ಬೈಜಿಕ ಕೇಂದ್ರ,"R2 named concept, different wording",0,,1,1,nucleus,Atomic nucleus,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Binding energy,Nuclear binding energy,Q6750062,3043836,,,"R2 named concept, different wording",0,,1,1,binding energy,Nuclear binding energy,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Mass-energy relation,Mass–energy equivalence,Q35875,422481,द्रव्यमान-ऊर्जा समतुल्यता,,"R2 named concept, different wording",0,,1,1,mass.?energy,Mass–energy equivalence,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Radioactivity,Radioactive decay,Q3332922,197767,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,radioactiv,Radioactive decay,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Nuclear fission,Nuclear fission,Q11429,22054,विखण्डन,ಪರಮಾಣು ವಿದಳನ ಕ್ರಿಯೆ,R1 exact title,0,,1,1,nuclear\ fission,Nuclear fission,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Nuclear fusion,Nuclear fusion,Q13082,21544,नाभिकीय संलयन,ಬೈಜಿಕ ಸಂಲಯನ,R1 exact title,0,,1,1,fusion,Nuclear fusion,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Half-life,Half-life,Q47270,13606,अर्धायु काल,ಅರ್ಧಾಯುಷ್ಯ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,decay law|half.?life,Half-life,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Alpha decay,Alpha decay,Q179856,1267,अल्फा क्षय,,R1 exact title,0,,1,1,alpha,Alpha decay,0,0,0
+XII-PHY,SCI,Atoms and nuclei,Beta decay,Beta decay,Q306786,4651,बीटा क्षय,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,beta,Beta decay,0,0,0
+XII-PHY,SCI,Electronic devices,Semiconductor,Semiconductor,Q11456,27709,अर्धचालक पदार्थ,ಅರೆವಾಹಕ,R1 exact title,0,,1,1,semiconductors?,Semiconductor,0,0,0
+XII-PHY,SCI,Electronic devices,p-n junction,P–n junction,Q176300,571755,पी एन जंक्शन,,"R2 named concept, different wording",0,,1,1,p.?n junction|junction,P–n junction,0,0,0
+XII-PHY,SCI,Electronic devices,Semiconductor diode,Diode,Q11656,8254,डायोड,ಡಯೋಡ್,"R2 named concept, different wording",0,,1,1,diode,Diode,0,0,0
+XII-PHY,SCI,Electronic devices,Rectifier,Rectifier,Q171486,60569,दिष्टकारी,,R1 exact title,0,,1,1,rectifier,Rectifier,0,0,0
+XII-PHY,SCI,Electronic devices,Zener diode,Zener diode,Q180586,97835,जेनर डायोड,ಝೀನರ್ ಡಯೋಡ್,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,zener\ diode,Zener diode,0,0,0
+XII-PHY,SCI,Electronic devices,LED,Light-emitting diode,Q25504,18290,प्रकाश उत्सर्जक डायोड,ಎಲ್.ಇ.ಡಿ,"R2 named concept, different wording",0,,1,1,led,Light-emitting diode,0,0,0
+XII-PHY,SCI,Electronic devices,Photodiode,Photodiode,Q175943,42937,फोटोडायोड,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,photodiode,Photodiode,0,0,0
+XII-PHY,SCI,Electronic devices,Solar cell,Solar cell,Q58803,2352910,सौर सेल,ಸೌರ ವಿದ್ಯುತ್ಕೋಶ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,solar\ cell,Solar cell,0,0,0
+XII-PHY,SCI,Electronic devices,Transistor,Transistor,Q5339,30011,ट्रांजिस्टर,ಟ್ರಾನ್ಸಿಸ್ಟರ್,R1 exact title,0,keyword_not_in_syllabus_text,0,0,transistor,Transistor,0,0,0
+XII-PHY,SCI,Electronic devices,Logic gates,Logic gate,Q170451,18168,लॉजिक गेट,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,logic gates,Logic gate,0,0,0
+XII-PHY,SCI,Electronic devices,Energy bands,Electronic band structure,Q806380,706247,,,"R2 named concept, different wording",0,,1,1,energy bands,Electronic band structure,0,0,0
+XII-PHY,SCI,Electronic devices,Intrinsic and extrinsic semiconductors,Doping (semiconductor),Q1130571,860861,,ಡೋಪಿಂಗ್,"R2 named concept, different wording",0,only_in_2024_25_text,0,1,extrinsic,Doping (semiconductor),0,0,0
+XII-PHY,SCI,Electronic devices,Amplitude modulation,Amplitude modulation,Q183755,1140,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,amplitude modulation|modulation,Amplitude modulation,0,0,0
+XII-CHE,SCI,Solid state,Crystal lattices and unit cells,Crystal structure,Q895901,58690,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,unit cell,Crystal structure,0,0,0
+XII-CHE,SCI,Solid state,Bravais lattice,Bravais lattice,Q865788,661808,,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,unit cell|lattice,Bravais lattice,0,0,0
+XII-CHE,SCI,Solid state,Point defects,Crystallographic defect,Q898226,7849,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,point defects,Crystallographic defect,0,0,0
+XII-CHE,SCI,Solid state,Close packing,Close-packing of equal spheres,Q1037840,901260,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,packing,Close-packing of equal spheres,0,0,0
+XII-CHE,SCI,Solid state,Amorphous and crystalline solids,Amorphous solid,Q103382,2889,अक्रिस्टलीय ठोस,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,amorphous,Amorphous solid,0,0,0
+XII-CHE,SCI,Solutions,Solution,Solution (chemistry),Q5447188,28729,विलयन,,"R2 named concept, different wording",0,,1,1,solutions,Solution (chemistry),0,0,0
+XII-CHE,SCI,Solutions,Molarity,Molar concentration,Q672821,276106,मोलर सान्द्रता,,"R2 named concept, different wording",0,,1,1,concentration,Molar concentration,0,0,0
+XII-CHE,SCI,Solutions,Molality,Molality,Q172623,229643,मोललता,,R1 exact title,0,,1,1,concentration|molality,Molality,0,0,0
+XII-CHE,SCI,Solutions,Raoult's law,Raoult's law,Q241687,38873,राउल्ट का नियम,,R1 exact title,0,,1,1,raoult,Raoult's law,0,0,0
+XII-CHE,SCI,Solutions,Henry's law,Henry's law,Q285804,238199,हेनरी का नियम,,R1 exact title,0,,1,1,henry|solubility of gases,Henry's law,0,0,0
+XII-CHE,SCI,Solutions,Colligative properties,Colligative properties,Q28784,456234,अणुसंख्य गुणधर्म,,R1 exact title,0,,1,1,colligative\ properties,Colligative properties,0,0,0
+XII-CHE,SCI,Solutions,Osmotic pressure,Osmotic pressure,Q193135,31383,परासरण दाब,,R1 exact title,0,,1,1,osmotic\ pressure,Osmotic pressure,0,0,0
+XII-CHE,SCI,Solutions,Depression of freezing point,Freezing-point depression,Q465149,607495,हिमांक अवनमन,,"R2 named concept, different wording",0,,1,1,depression of freezing point,Freezing-point depression,0,0,0
+XII-CHE,SCI,Solutions,Elevation of boiling point,Boiling-point elevation,Q913306,2184383,क्वथनांक उन्नयन,,"R2 named concept, different wording",0,,1,1,elevation of boiling point,Boiling-point elevation,0,0,0
+XII-CHE,SCI,Solutions,Van't Hoff factor,Van 't Hoff factor,Q899573,730824,,,"R2 named concept, different wording",0,,1,1,van.?t hoff,Van 't Hoff factor,0,0,0
+XII-CHE,SCI,Solutions,Azeotrope,Azeotrope,Q325401,56778,स्थिरक्वाथी मिश्रण,,R1 exact title,0,,1,1,azeotrop|raoult,Azeotrope,0,0,0
+XII-CHE,SCI,Solutions,Osmosis,Osmosis,Q54237,18600440,परासरण,ಆಸ್ಮಾಸಿಸ್,R1 exact title,0,,1,1,osmo,Osmosis,0,0,0
+XII-CHE,SCI,Solutions,Reverse osmosis,Reverse osmosis,Q272175,18589212,उत्क्रम परासरण,ಹಿಮ್ಮುಖ ಪರಾಸರಣ,R1 exact title,0,,1,1,osmo,Reverse osmosis,0,0,0
+XII-CHE,SCI,Electrochemistry,Electrochemistry,Electrochemistry,Q7877,9601,विद्युत्-रसायन,,R1 exact title,0,,1,1,electrochemistry,Electrochemistry,0,0,0
+XII-CHE,SCI,Electrochemistry,Galvanic cell,Galvanic cell,Q209440,254510,गैल्वानी सेल,,R1 exact title,0,,1,1,galvanic cells?,Galvanic cell,0,0,0
+XII-CHE,SCI,Electrochemistry,Nernst equation,Nernst equation,Q751124,75873,,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,nernst\ equation,Nernst equation,0,0,0
+XII-CHE,SCI,Electrochemistry,Standard electrode potential,Standard electrode potential,Q368639,566959,मानक इलेक्ट्रोड विभव,,R1 exact title,0,,1,1,standard\ electrode\ potential,Standard electrode potential,0,0,0
+XII-CHE,SCI,Electrochemistry,Electrolytic cell,Electrolytic cell,Q2608426,361021,,,R1 exact title,0,,1,1,electrolytic,Electrolytic cell,0,0,0
+XII-CHE,SCI,Electrochemistry,Kohlrausch's law,Molar conductivity,Q1943278,9350418,,,"R2 named concept, different wording",0,,1,1,kohlrausch,Molar conductivity,0,0,0
+XII-CHE,SCI,Electrochemistry,Laws of electrolysis,Faraday's laws of electrolysis,Q220609,742319,फैराडे का विद्युत अपघटन का नियम,,"R2 named concept, different wording",0,,1,1,electrolysis,Faraday's laws of electrolysis,0,0,0
+XII-CHE,SCI,Electrochemistry,Lead accumulator,Lead–acid battery,Q337724,201495,लेड-एसिड बैटरी,,"R2 named concept, different wording",0,,1,1,lead accumulator,Lead–acid battery,0,0,0
+XII-CHE,SCI,Electrochemistry,Fuel cells,Fuel cell,Q180253,11729,ईंधन सेल,ಇಂಧನಕೋಶ,"R2 named concept, different wording",0,,1,1,fuel cells?,Fuel cell,0,0,0
+XII-CHE,SCI,Electrochemistry,Dry cell,Dry cell,Q13559828,1178756,शुष्क सेल,ಬ್ಯಾಟರಿ,R1 exact title,0,,1,1,dry cell,Dry cell,0,0,0
+XII-CHE,SCI,Electrochemistry,Standard hydrogen electrode,Standard hydrogen electrode,Q898559,578150,,,R1 exact title,0,,1,1,electrode potential,Standard hydrogen electrode,0,0,0
+XII-CHE,SCI,Electrochemistry,Daniell cell,Daniell cell,Q749635,1858023,डेनियल सेल,,R1 exact title,0,,1,1,galvanic|daniell,Daniell cell,0,0,0
+XII-CHE,SCI,Electrochemistry,Gibbs energy and EMF,Gibbs free energy,Q334631,238181,गिब्स मुक्त ऊर्जा,,"R2 named concept, different wording",0,,1,1,gibbs,Gibbs free energy,0,0,0
+XII-CHE,SCI,Chemical kinetics,Chemical kinetics,Chemical kinetics,Q209082,359135,रासायनिक गतिकी,,R1 exact title,0,,1,1,chemical\ kinetics,Chemical kinetics,0,0,0
+XII-CHE,SCI,Chemical kinetics,Rate of a reaction,Reaction rate,Q3394849,242006,अभिक्रिया की दर,,"R2 named concept, different wording",0,,1,1,rate of a reaction,Reaction rate,0,0,0
+XII-CHE,SCI,Chemical kinetics,Rate law,Rate equation,Q904041,1677334,,,"R2 named concept, different wording",0,,1,1,rate law,Rate equation,0,0,0
+XII-CHE,SCI,Chemical kinetics,Arrhenius equation,Arrhenius equation,Q507505,47011,आरेनिअस समीकरण,,R1 exact title,0,,1,1,arrhenius\ equation,Arrhenius equation,0,0,0
+XII-CHE,SCI,Chemical kinetics,Activation energy,Activation energy,Q190474,38413,सक्रियण ऊर्जा,,R1 exact title,0,,1,1,activation\ energy,Activation energy,0,0,0
+XII-CHE,SCI,Chemical kinetics,Collision theory,Collision theory,Q907823,1427763,,,R1 exact title,0,,1,1,collision\ theory,Collision theory,0,0,0
+XII-CHE,SCI,Chemical kinetics,Catalyst,Catalysis,Q82264,5914,उत्प्रेरण,ವೇಗವರ್ಧನೆ,"R2 named concept, different wording",0,,1,1,catalys,Catalysis,0,0,0
+XII-CHE,SCI,Chemical kinetics,Molecularity,Molecularity,Q776329,1868531,,,R1 exact title,0,,1,1,molecularity,Molecularity,0,0,0
+XII-CHE,SCI,Surface chemistry,Adsorption,Adsorption,Q180254,207601,अधिशोषण,ಅಧಿಶೋಷಣೆ ಮತ್ತು ಅಧಿಶೋಷಕಗಳು,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,adsorption,Adsorption,0,0,0
+XII-CHE,SCI,Surface chemistry,Colloids,Colloid,Q181780,5346,कलिल,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,colloid,Colloid,0,0,0
+XII-CHE,SCI,Surface chemistry,Emulsion,Emulsion,Q187634,10290,पायस (इमल्शन),ಎಮಲ್ಷನ್,R1 exact title,0,,1,1,emulsions?,Emulsion,0,0,0
+XII-CHE,SCI,Surface chemistry,Brownian movement,Brownian motion,Q178036,4436,ब्राउनी गति,ಬ್ರೌನಿಯನ್ ಚಲನೆ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,brownian,Brownian motion,0,0,0
+XII-CHE,SCI,Surface chemistry,Electrophoresis,Electrophoresis,Q185098,349676,वैद्युतकणसंचलन,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,electrophoresis,Electrophoresis,0,0,0
+XII-CHE,SCI,Surface chemistry,Enzyme catalysis,Enzyme catalysis,Q2941663,7137983,,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,enzyme\ catalysis,Enzyme catalysis,0,0,0
+XII-CHE,SCI,Isolation of elements,Froth flotation,Froth flotation,Q898459,1567681,,,R1 exact title,0,,1,1,concentration,Froth flotation,0,0,0
+XII-CHE,SCI,Isolation of elements,Ellingham diagram,Ellingham diagram,Q2329753,3738185,,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,principles and methods of extraction|ellingham,Ellingham diagram,0,0,0
+XII-CHE,SCI,Isolation of elements,Zone refining,Zone melting,Q219909,171396,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,refining,Zone melting,0,0,0
+XII-CHE,SCI,p-block elements,Ammonia,Ammonia,Q4087,1365,अमोनिया,ಅಮೊನಿಯ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,ammonia,Ammonia,0,0,0
+XII-CHE,SCI,p-block elements,Nitric acid,Nitric acid,Q83320,21655,नाइट्रिक अम्ल,ನೈಟ್ರಿಕ್ ಆಮ್ಲ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,nitric\ acid,Nitric acid,0,0,0
+XII-CHE,SCI,p-block elements,Sulphuric acid,Sulfuric acid,Q4118,29247,गन्धकाम्ल,ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,sulphuric acid,Sulfuric acid,0,0,0
+XII-CHE,SCI,p-block elements,Ozone,Ozone,Q36933,22718,ओज़ोन,ಓಝೋನ್,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,ozone,Ozone,0,0,0
+XII-CHE,SCI,p-block elements,Phosphorus,Phosphorus,Q674,23318,फास्फोरस,ರಂಜಕ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,phosphorus,Phosphorus,0,0,0
+XII-CHE,SCI,p-block elements,Noble gases,Noble gas,Q19609,21140,उत्कृष्ट गैस,ಶ್ರೇಷ್ಠಾನಿಲಗಳು,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,group ?-? ?18,Noble gas,0,0,0
+XII-CHE,SCI,p-block elements,Halogens,Halogen,Q19605,13258,हैलोजन,,"R2 named concept, different wording",0,,1,1,group ?-? ?17|halogens,Halogen,0,0,0
+XII-CHE,SCI,p-block elements,Interhalogen compounds,Interhalogen,Q907670,1165416,अंतरहैलोजनी यौगिक,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,interhalogen,Interhalogen,0,0,0
+XII-CHE,SCI,p-block elements,Haber process,Haber process,Q213669,14022,हाबर प्रक्रम,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,ammonia,Haber process,0,0,0
+XII-CHE,SCI,p-block elements,Ostwald process,Ostwald process,Q591214,22830,ओस्टवाल्ड प्रक्रिया,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,nitric acid,Ostwald process,0,0,0
+XII-CHE,SCI,p-block elements,Contact process,Contact process,Q908924,1205681,संस्पर्श प्रक्रम,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,sulphuric acid,Contact process,0,0,0
+XII-CHE,SCI,d- and f-block elements,Transition metals,Transition metal,Q19588,30364,संक्रमण धातु,,"R2 named concept, different wording",0,,1,1,transition metals,Transition metal,0,0,0
+XII-CHE,SCI,d- and f-block elements,Lanthanoids,Lanthanide,Q19569,18308,लैन्थनाइड,,"R2 named concept, different wording",0,,1,1,lanthan,Lanthanide,0,0,0
+XII-CHE,SCI,d- and f-block elements,Actinoids,Actinide,Q19577,2308,ऐक्टिनाइड,,"R2 named concept, different wording",0,,1,1,actin,Actinide,0,0,0
+XII-CHE,SCI,d- and f-block elements,Lanthanoid contraction,Lanthanide contraction,Q428677,2168393,,,"R2 named concept, different wording",0,,1,1,lanthan\w+ contraction,Lanthanide contraction,0,0,0
+XII-CHE,SCI,d- and f-block elements,Potassium permanganate,Potassium permanganate,Q190865,483010,पोटैशियम परमैंगनेट,ಪೊಟ್ಯಾಶಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್,"R2 named concept, different wording",0,,1,1,kmno,Potassium permanganate,0,0,0
+XII-CHE,SCI,d- and f-block elements,Potassium dichromate,Potassium dichromate,Q239729,1177234,पोटासियम डाइक्रोमेट,,"R2 named concept, different wording",0,,1,1,k ?2 ?cr ?2 ?o ?7,Potassium dichromate,0,0,0
+XII-CHE,SCI,Coordination compounds,Coordination compounds,Coordination complex,Q238156,7304,उपसहसंयोजक यौगिक,,"R2 named concept, different wording",0,,1,1,coordination compounds,Coordination complex,0,0,0
+XII-CHE,SCI,Coordination compounds,Ligands,Ligand,Q193161,18589,,,"R2 named concept, different wording",0,,1,1,ligands,Ligand,0,0,0
+XII-CHE,SCI,Coordination compounds,Crystal field theory,Crystal field theory,Q4465748,1138578,,,R1 exact title,0,,1,1,cft|crystal field,Crystal field theory,0,0,0
+XII-CHE,SCI,Coordination compounds,Valence bond theory,Valence bond theory,Q517973,735965,संयोजक आबन्ध सिद्धान्त,,R1 exact title,0,,1,1,vbt|valence bond,Valence bond theory,0,0,0
+XII-CHE,SCI,Coordination compounds,Werner's theory,Alfred Werner,Q123014,1179565,,ಆಲ್ಪ್ರೆಡ್ ವೆರ್ನೆರ್,"R2 named concept, different wording",0,,1,1,werner,Alfred Werner,0,0,0
+XII-CHE,SCI,Coordination compounds,Chelation,Chelation,Q319827,175641,केलेशन,,R1 exact title,0,,1,1,ligands|chelat,Chelation,0,0,0
+XII-CHE,SCI,Coordination compounds,Linkage isomerism,Linkage isomerism,Q1960074,1766518,,,R1 exact title,0,,1,1,isomerism,Linkage isomerism,0,0,0
+XII-CHE,SCI,Coordination compounds,Spectrochemical series,Spectrochemical series,Q899789,3936237,,,R1 exact title,0,,1,1,cft|crystal field,Spectrochemical series,0,0,0
+XII-CHE,SCI,Coordination compounds,Denticity,Denticity,Q3023362,19751792,,,R1 exact title,0,,1,1,ligands,Denticity,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Haloalkanes,Haloalkane,Q271026,75075,हैलोएल्केन,,"R2 named concept, different wording",0,,1,1,haloalkanes,Haloalkane,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Haloarenes,Aryl halide,Q418088,648787,,,"R2 named concept, different wording",0,,1,1,haloarenes,Aryl halide,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,SN1 reaction,SN1 reaction,Q838130,240935,एसएन वन अभिक्रिया,,R1 exact title,0,,1,1,substitution reactions|mechanism of substitution,SN1 reaction,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,SN2 reaction,SN2 reaction,Q838084,241878,,,R1 exact title,0,,1,1,substitution reactions|mechanism of substitution,SN2 reaction,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Grignard reagent,Grignard reagent,Q1238028,4671895,ग्रिगनार्ड के अभिकर्मक,,R1 exact title,0,,1,1,haloalkanes,Grignard reagent,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Elimination reaction,Elimination reaction,Q725979,238527,,,R1 exact title,0,,1,1,haloalkanes,Elimination reaction,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Markovnikov's rule,Markovnikov's rule,Q392622,240949,,,R1 exact title,0,,1,1,haloalkanes,Markovnikov's rule,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Wurtz reaction,Wurtz reaction,Q898901,1711423,,,R1 exact title,0,,1,1,haloalkanes,Wurtz reaction,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Sandmeyer reaction,Sandmeyer reaction,Q898821,1792627,,,R1 exact title,0,,1,1,haloarenes,Sandmeyer reaction,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Finkelstein reaction,Finkelstein reaction,Q899304,4705983,,,R1 exact title,0,,1,1,haloalkanes,Finkelstein reaction,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Optical rotation,Optical rotation,Q530648,39774,,,R1 exact title,0,,1,1,optical rotation,Optical rotation,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Chirality,Chirality (chemistry),Q214514,1170166,काइरलता,,"R2 named concept, different wording",0,,1,1,optical rotation,Chirality (chemistry),0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Enantiomer,Enantiomer,Q494483,176304,,,R1 exact title,0,,1,1,optical rotation,Enantiomer,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Racemic mixture,Racemic mixture,Q467717,75089,,,R1 exact title,0,,1,1,optical rotation,Racemic mixture,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,DDT,DDT,Q163648,8494,डीडीटी,,R1 exact title,0,,1,1,ddt,DDT,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Chloroform,Chloroform,Q172275,82933,क्लोरोफॉर्म,,"R2 named concept, different wording",0,,1,1,trichloromethane,Chloroform,0,0,0
+XII-CHE,SCI,Haloalkanes and haloarenes,Freons,Chlorofluorocarbon,Q960800,54910,क्लोरोफ्लोरोकार्बन (सीएफसी),ಕ್ಲೋರೋ ಪ್ಲೋರೋ ಕಾರ್ಬನ್,"R2 named concept, different wording",0,,1,1,freons,Chlorofluorocarbon,0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Alcohols,Alcohol (chemistry),Q156,1014,ऐल्कोहॉल,ಆಲ್ಕೋಹಾಲ್,"R2 named concept, different wording",0,,1,1,alcohols,Alcohol (chemistry),0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Phenols,Phenol,Q130336,24085,फिनोल,,"R2 named concept, different wording",0,,1,1,phenols,Phenol,0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Ethers,Ether,Q103230,9263,ईथर,ಈಥರ್ಗಳು,"R2 named concept, different wording",0,,1,1,ethers,Ether,0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Williamson ether synthesis,Williamson ether synthesis,Q898790,485740,,,R1 exact title,0,,1,1,ethers,Williamson ether synthesis,0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Reimer-Tiemann reaction,Reimer–Tiemann reaction,Q899663,3094935,राइमर–टीमन अभिक्रिया,,"R2 named concept, different wording",0,,1,1,phenols,Reimer–Tiemann reaction,0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Kolbe reaction,Kolbe–Schmitt reaction,Q908795,1671961,,,"R2 named concept, different wording",0,,1,1,phenols,Kolbe–Schmitt reaction,0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Lucas test,Lucas' reagent,Q903442,1767428,,,"R2 named concept, different wording",0,,1,1,"identification of primary, secondary",Lucas' reagent,0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Hydroboration-oxidation,Hydroboration–oxidation reaction,Q17146784,240990,,,"R2 named concept, different wording",0,,1,1,alcohols,Hydroboration–oxidation reaction,0,0,0
+XII-CHE,SCI,"Alcohols, phenols and ethers",Methanol,Methanol,Q14982,19712,मेथेनॉल,,R1 exact title,0,,1,1,methanol,Methanol,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Aldehydes,Aldehyde,Q101497,37329,एल्डिहाइड,ಆಲ್ಡಿಹೈಡುಗಳು,"R2 named concept, different wording",0,,1,1,aldehydes,Aldehyde,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Ketones,Ketone,Q170744,16803,कीटोन,,"R2 named concept, different wording",0,,1,1,ketones,Ketone,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Carboxylic acids,Carboxylic acid,Q134856,6099,कार्बोक्सिलिक अम्ल,,"R2 named concept, different wording",0,,1,1,carboxylic acids,Carboxylic acid,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Aldol condensation,Aldol condensation,Q1027170,498255,एल्डोल संघनन,,R1 exact title,0,,1,1,alpha hydrogen|aldehydes,Aldol condensation,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Cannizzaro reaction,Cannizzaro reaction,Q621539,1734220,कैनिजारो अभिक्रिया,ಕ್ಯಾನಿಝಾರೋ ಪ್ರತಿಕ್ರಿಯೆ,R1 exact title,0,,1,1,aldehydes,Cannizzaro reaction,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Clemmensen reduction,Clemmensen reduction,Q898480,2069042,क्लीमेन्सन अपचयन,,R1 exact title,0,,1,1,aldehydes,Clemmensen reduction,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Wolff-Kishner reduction,Wolff–Kishner reduction,Q281381,1216247,,,"R2 named concept, different wording",0,,1,1,aldehydes,Wolff–Kishner reduction,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Tollens' test,Tollens' reagent,Q55510187,1416932,,,"R2 named concept, different wording",0,,1,1,aldehydes,Tollens' reagent,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Fehling's test,Fehling's solution,Q750304,422567,,,"R2 named concept, different wording",0,,1,1,aldehydes,Fehling's solution,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Rosenmund reduction,Rosenmund reduction,Q905524,3252738,,,R1 exact title,0,,1,1,aldehydes,Rosenmund reduction,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Hell-Volhard-Zelinsky reaction,Hell–Volhard–Zelinsky halogenation,Q902219,4621238,,,"R2 named concept, different wording",0,,1,1,carboxylic acids,Hell–Volhard–Zelinsky halogenation,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Nucleophilic addition,Nucleophilic addition,Q901669,519841,,,R1 exact title,0,,1,1,nucleophilic addition,Nucleophilic addition,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Haloform reaction,Haloform reaction,Q898447,18698592,,,R1 exact title,0,,1,1,aldehydes,Haloform reaction,0,0,0
+XII-CHE,SCI,"Aldehydes, ketones and carboxylic acids",Friedel-Crafts reaction,Friedel–Crafts reaction,Q649999,454234,फ्रिडेल-क्राफ्ट्स अभिक्रिया,,"R2 named concept, different wording",0,,1,1,haloarenes|aldehydes,Friedel–Crafts reaction,0,0,0
+XII-CHE,SCI,Amines,Amines,Amine,Q167198,1412,एमीन,ಅಮೀನ್‍ಗಳು,"R2 named concept, different wording",0,,1,1,amines,Amine,0,0,0
+XII-CHE,SCI,Amines,Gabriel synthesis,Gabriel synthesis,Q123422,1729818,,,R1 exact title,0,,1,1,amines,Gabriel synthesis,0,0,0
+XII-CHE,SCI,Amines,Hofmann bromamide reaction,Hofmann rearrangement,Q537681,1584889,,,"R2 named concept, different wording",0,,1,1,amines,Hofmann rearrangement,0,0,0
+XII-CHE,SCI,Amines,Carbylamine reaction,Carbylamine reaction,Q3533122,5884317,,,R1 exact title,0,,1,1,amines,Carbylamine reaction,0,0,0
+XII-CHE,SCI,Amines,Diazonium salts,Diazonium compound,Q410255,2531152,,,"R2 named concept, different wording",0,,1,1,diazonium,Diazonium compound,0,0,0
+XII-CHE,SCI,Amines,Hinsberg test,Hinsberg reaction,Q389503,22037631,,,"R2 named concept, different wording",0,,1,1,"identification of primary, secondary",Hinsberg reaction,0,0,0
+XII-CHE,SCI,Amines,Aniline,Aniline,Q186414,299718,,ಅನಿಲಿನ್,R1 exact title,0,,1,1,amines,Aniline,0,0,0
+XII-CHE,SCI,Amines,Coupling reaction,Azo coupling,Q668665,2531376,,,"R2 named concept, different wording",0,,1,1,diazonium,Azo coupling,0,0,0
+XII-CHE,SCI,Biomolecules,Carbohydrates,Carbohydrate,Q11358,5932,कार्बोहाइड्रेट,ಕಾರ್ಬೋಹೈಡ್ರೇಟುಗಳು,"R2 named concept, different wording",0,,1,1,carbohydrates,Carbohydrate,0,0,0
+XII-CHE,SCI,Biomolecules,Glucose,Glucose,Q37525,12950,ग्लूकोज़,ಗ್ಲುಕೋಸ್,R1 exact title,0,,1,1,glucose,Glucose,0,0,0
+XII-CHE,SCI,Biomolecules,Fructose,Fructose,Q122043,50337,फ्रुक्टोज,,R1 exact title,0,,1,1,fructose,Fructose,0,0,0
+XII-CHE,SCI,Biomolecules,Sucrose,Sucrose,Q4027534,50563,इक्षुशर्करा,ಸುಕ್ರೋಸ್,R1 exact title,0,,1,1,sucrose,Sucrose,0,0,0
+XII-CHE,SCI,Biomolecules,Starch,Starch,Q41534,27711,मंड,ಪಿಷ್ಟ,R1 exact title,0,,1,1,starch,Starch,0,0,0
+XII-CHE,SCI,Biomolecules,Cellulose,Cellulose,Q80294,6911,सेलुलोस,ಸೆಲ್ಯುಲೋಸ್,R1 exact title,0,,1,1,cellulose,Cellulose,0,0,0
+XII-CHE,SCI,Biomolecules,Glycogen,Glycogen,Q174936,168986,ग्लाइकोजेन,,R1 exact title,0,,1,1,glycogen,Glycogen,0,0,0
+XII-CHE,SCI,Biomolecules,Proteins,Protein,Q8054,23634,प्रोटीन,ಪ್ರೋಟೀನ್,"R2 named concept, different wording",0,,1,1,proteins,Protein,0,0,0
+XII-CHE,SCI,Biomolecules,Amino acids,Amino acid,Q8066,1207,अमीनो अम्ल,ಅಮಿನೊ ಆಮ್ಲ,"R2 named concept, different wording",0,,1,1,amino acids,Amino acid,0,0,0
+XII-CHE,SCI,Biomolecules,Peptide bond,Peptide bond,Q33293,24446,पेप्टाइड बंध,,R1 exact title,0,,1,1,peptide\ bond,Peptide bond,0,0,0
+XII-CHE,SCI,Biomolecules,Enzymes,Enzyme,Q8047,9257,प्रकिण्व,ಕಿಣ್ವಗಳು,"R2 named concept, different wording",0,,1,1,enzymes,Enzyme,0,0,0
+XII-CHE,SCI,Biomolecules,Vitamins,Vitamin,Q34956,32512,विटामिन,ಜೀವಸತ್ವಗಳು,"R2 named concept, different wording",0,,1,1,vitamins,Vitamin,0,0,0
+XII-CHE,SCI,Biomolecules,Nucleic acids,Nucleic acid,Q123619,21496,नाभिकीय अम्ल,ನ್ಯೂಕ್ಲಿಯಿಕ್ ಆಮ್ಲ,"R2 named concept, different wording",0,,1,1,nucleic acids,Nucleic acid,0,0,0
+XII-CHE,SCI,Biomolecules,DNA,DNA,Q7430,7955,डीऑक्सीराइबो न्यूक्लिक अम्ल,ಡಿಎನ್ಎ -(DNA),R1 exact title,0,,1,1,dna,DNA,0,0,0
+XII-CHE,SCI,Biomolecules,RNA,RNA,Q11053,25758,राइबोज़ न्यूक्लिक अम्ल,ಆರ್.ಎನ್.ಎ,R1 exact title,0,,1,1,rna,RNA,0,0,0
+XII-CHE,SCI,Biomolecules,Denaturation of proteins,Denaturation (biochemistry),Q273186,8456,विकृतीकरण (जैवरसायन),,"R2 named concept, different wording",0,,1,1,denaturation,Denaturation (biochemistry),0,0,0
+XII-CHE,SCI,Biomolecules,Monosaccharides,Monosaccharide,Q133516,19919,एकलशर्करा,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,monosaccha,Monosaccharide,0,0,0
+XII-CHE,SCI,Biomolecules,Polysaccharides,Polysaccharide,Q134219,23978,बहुशर्करा,,"R2 named concept, different wording",0,,1,1,polysaccha,Polysaccharide,0,0,0
+XII-CHE,SCI,Biomolecules,Structure of proteins,Protein structure,Q735188,969126,प्रोटीन संरचना,,"R2 named concept, different wording",0,,1,1,structure of proteins,Protein structure,0,0,0
+XII-CHE,SCI,Biomolecules,Zwitterion,Zwitterion,Q245115,34522,,,R1 exact title,0,,1,1,amino acids,Zwitterion,0,0,0
+XII-CHE,SCI,Polymers,Polymers,Polymer,Q81163,23001,पॉलीमर,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,polymers?,Polymer,0,0,0
+XII-CHE,SCI,Polymers,Polymerisation,Polymerization,Q181898,23872,बहुलकीकरण,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,polymeri[sz]ation,Polymerization,0,0,0
+XII-CHE,SCI,Polymers,Nylon,Nylon,Q177941,21490,नायलॉन,ನೈಲಾನ್,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,nylon,Nylon,0,0,0
+XII-CHE,SCI,Polymers,Bakelite,Bakelite,Q146578,4485,बैकेलाइट,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,bakelite,Bakelite,0,0,0
+XII-CHE,SCI,Polymers,Natural rubber,Natural rubber,Q131877,38393,प्राकृतिक रबर,ರಬ್ಬರು,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,rubber,Natural rubber,0,0,0
+XII-CHE,SCI,Polymers,Vulcanisation,Vulcanization,Q188631,38998,वल्कनीकरण,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,rubber,Vulcanization,0,0,0
+XII-CHE,SCI,Polymers,Polythene,Polyethylene,Q143429,77385,पॉलीएथिलीन,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,polythene,Polyethylene,0,0,0
+XII-CHE,SCI,Polymers,Biodegradable polymers,Biodegradable polymer,Q4119016,14253816,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,biodegradable,Biodegradable polymer,0,0,0
+XII-CHE,SCI,Chemistry in everyday life,Analgesics,Analgesic,Q173235,2246,वेदनाहर,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,analgesics,Analgesic,0,0,0
+XII-CHE,SCI,Chemistry in everyday life,Antibiotics,Antibiotic,Q12187,1805,प्रतिजैविक,ಪ್ರತಿಜೀವಿಕ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,antibiotics,Antibiotic,0,0,0
+XII-CHE,SCI,Chemistry in everyday life,Antiseptics,Antiseptic,Q274493,65555,पूतिरोधी,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,antiseptics,Antiseptic,0,0,0
+XII-CHE,SCI,Chemistry in everyday life,Antacids,Antacid,Q274083,2689,प्रत्यम्ल,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,antacids,Antacid,0,0,0
+XII-CHE,SCI,Chemistry in everyday life,Tranquilizers,Sedative,Q847705,299971,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,tranquili[sz]ers,Tranquilizer,1,0,0
+XII-CHE,SCI,Chemistry in everyday life,Artificial sweetening agents,Sugar substitute,Q626292,58880,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,sweetening,Sugar substitute,0,0,0
+XII-CHE,SCI,Chemistry in everyday life,Preservatives,Food preservation,Q173514,10834,खाद्य परिरक्षण,ಆಹಾರ ಸಂರಕ್ಷಣೆ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,preservatives,Food preservation,0,0,0
+XII-CHE,SCI,Chemistry in everyday life,Antihistamines,Antihistamine,Q324089,12636107,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,antihistamines,Antihistamine,0,0,0
+XII-BIO,SCI,Reproduction,Flower structure,Flower,Q506,4576465,पुष्प,ಹೂವು,"R2 named concept, different wording",0,,1,1,flower structure,Flower,0,0,0
+XII-BIO,SCI,Reproduction,Pollen,Pollen,Q79932,46980,पराग,ಪರಾಗ ಮತ್ತು ಪರಾಗಣ,R1 exact title,0,,1,1,pollen,Pollen,0,0,0
+XII-BIO,SCI,Reproduction,Double fertilization,Double fertilization,Q277657,3757509,दोहरा निषेचन,,R1 exact title,0,,1,1,double fertili[sz]ation,Double fertilization,0,0,0
+XII-BIO,SCI,Reproduction,Ovule,Ovule,Q380138,535937,बीजाण्ड,,R1 exact title,0,,1,1,gametophytes|ovule,Ovule,0,0,0
+XII-BIO,SCI,Reproduction,Apomixis,Apomixis,Q528033,78032,,,R1 exact title,0,,1,1,apomixis,Apomixis,0,0,0
+XII-BIO,SCI,Reproduction,Polyembryony,Polyembryony,Q928363,13262417,,,R1 exact title,0,,1,1,polyembryony,Polyembryony,0,0,0
+XII-BIO,SCI,Reproduction,Endosperm,Endosperm,Q25624,678158,भ्रूणपोष,ಅಂತರ್ಬೀಜ,R1 exact title,0,,1,1,endosperm,Endosperm,0,0,0
+XII-BIO,SCI,Reproduction,Stamen,Stamen,Q103129,193031,पुंकेशर चक्र,ಪುಂಕೇಸರ,R1 exact title,0,,1,1,flower structure|gametophytes,Stamen,0,0,0
+XII-BIO,SCI,Reproduction,Parthenocarpy,Parthenocarpy,Q1383946,341918,,,R1 exact title,0,,1,1,parthenocarpy,Parthenocarpy,0,0,0
+XII-BIO,SCI,Reproduction,Seed,Seed,Q40763,37694,बीज,ಬೀಜ,R1 exact title,0,,1,1,seeds?,Seed,0,0,0
+XII-BIO,SCI,Reproduction,Fruit,Fruit,Q3314483,10843,,,R1 exact title,0,,1,1,fruits?,Fruit,0,0,0
+XII-BIO,SCI,Reproduction,Outbreeding devices,Self-incompatibility,Q2120121,1048987,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,outbreeding,Self-incompatibility,0,0,0
+XII-BIO,SCI,Reproduction,Spermatogenesis,Spermatogenesis,Q36961,505484,,,R1 exact title,0,,1,1,spermatogenesis,Spermatogenesis,0,0,0
+XII-BIO,SCI,Reproduction,Oogenesis,Oogenesis,Q507032,582473,अंडजनन,,R1 exact title,0,,1,1,oogenesis,Oogenesis,0,0,0
+XII-BIO,SCI,Reproduction,Implantation,Implantation (embryology),Q266500,7357937,,,"R2 named concept, different wording",0,,1,1,implantation,Implantation (embryology),0,0,0
+XII-BIO,SCI,Reproduction,Pregnancy,Pregnancy,Q11995,1771587,गर्भावस्था,ಗರ್ಭಧಾರಣೆ,R1 exact title,0,,1,1,pregnancy,Pregnancy,0,0,0
+XII-BIO,SCI,Reproduction,Parturition,Childbirth,Q34581,83449,सन्तान प्रसव,ಶಿಶುಜನನ,"R2 named concept, different wording",0,,1,1,parturition,Childbirth,0,0,0
+XII-BIO,SCI,Reproduction,Lactation,Lactation,Q719426,21496038,दुग्धपायन,,R1 exact title,0,,1,1,lactation,Lactation,0,0,0
+XII-BIO,SCI,Reproduction,Testis,Testicle,Q9384,67193,वृषण,ವೃಷಣ,"R2 named concept, different wording",0,,1,1,testis,Testicle,0,0,0
+XII-BIO,SCI,Reproduction,Ovary,Ovary,Q9631,22710,डिम्बग्रंथि,ಅಂಡಾಶಯ,R1 exact title,0,,1,1,ovary,Ovary,0,0,0
+XII-BIO,SCI,Reproduction,Blastocyst,Blastocyst,Q227717,444337,ब्लास्टोसिस्ट,,R1 exact title,0,,1,1,blastocyst,Blastocyst,0,0,0
+XII-BIO,SCI,Reproduction,Sexually transmitted diseases,Sexually transmitted infection,Q12198,19019270,रतिरोग,ಮೇಹರೋಗ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,sexually transmitted,Sexually transmitted infection,0,0,0
+XII-BIO,SCI,Reproduction,IVF,In vitro fertilisation,Q200117,57880,पात्रे निषेचन,ಪ್ರನಾಳ ಶಿಶು ಸೃಷ್ಟಿ,"R2 named concept, different wording",0,,1,1,ivf,In vitro fertilisation,0,0,0
+XII-BIO,SCI,Reproduction,Amniocentesis,Amniocentesis,Q473768,187698,,,R1 exact title,0,,1,1,amniocentesis,Amniocentesis,0,0,0
+XII-BIO,SCI,Reproduction,Infertility,Infertility,Q179399,179242,अनुर्वरता,ಬಂಜೆತನ,R1 exact title,0,,1,1,infertility,Infertility,0,0,0
+XII-BIO,SCI,Reproduction,Assisted reproductive technologies,Assisted reproductive technology,Q25862,1399190,,,"R2 named concept, different wording",0,,1,1,assisted reproductive,Assisted reproductive technology,0,0,0
+XII-BIO,SCI,Reproduction,Medical termination of pregnancy,Abortion,Q8452,765,गर्भपात,ಪ್ರಚೋದಿತ ಗರ್ಭಪಾತ,"R2 named concept, different wording",0,,1,1,medical termination,Abortion,0,0,0
+XII-BIO,SCI,Genetics and evolution,Punnett square,Punnett square,Q912644,529817,,,R1 exact title,0,,1,1,mendelian inheritance,Punnett square,0,0,0
+XII-BIO,SCI,Genetics and evolution,Co-dominance,Dominance (genetics),Q19615136,68300,,,R3 article broader or narrower than topic,1,broader_or_narrower;only_in_2024_25_text,0,1,co.?dominance,Dominance (genetics),0,0,0
+XII-BIO,SCI,Genetics and evolution,Blood groups,ABO blood group system,Q188010,1586721,एबीओ रक्त समूह प्रणाली,ಎಬಿಒ ರಕ್ತ ಗುಂಪು ವ್ಯವಸ್ಥೆ,"R2 named concept, different wording",0,,1,1,blood groups,ABO blood group system,0,0,0
+XII-BIO,SCI,Genetics and evolution,Pleiotropy,Pleiotropy,Q1134884,1505283,,,R1 exact title,0,,1,1,pleiotropy,Pleiotropy,0,0,0
+XII-BIO,SCI,Genetics and evolution,Polygenic inheritance,Quantitative trait locus,Q853421,623866,,,R3 article broader or narrower than topic,1,broader_or_narrower,1,1,polygenic,Quantitative trait locus,0,0,0
+XII-BIO,SCI,Genetics and evolution,Chromosome theory of inheritance,Boveri–Sutton chromosome theory,Q3984080,14752773,सटन-बोवेरी गुणसूत्री सिद्धांत,,"R2 named concept, different wording",0,,1,1,chromosome theory,Boveri–Sutton chromosome theory,0,0,0
+XII-BIO,SCI,Genetics and evolution,Linkage,Genetic linkage,Q843863,274192,आनुवंशिक सहलग्नता,,"R2 named concept, different wording",0,,1,1,linkage,Genetic linkage,0,0,0
+XII-BIO,SCI,Genetics and evolution,Crossing over,Chromosomal crossover,Q244145,64045,,,"R2 named concept, different wording",0,,1,1,crossing over,Chromosomal crossover,0,0,0
+XII-BIO,SCI,Genetics and evolution,Sex linked inheritance,Sex linkage,Q1142188,1420406,,,"R2 named concept, different wording",0,,1,1,sex.?linked,Sex linkage,0,0,0
+XII-BIO,SCI,Genetics and evolution,Mutation,Mutation,Q42918,19702,उत्परिवर्तन,ವ್ಯತ್ಯಯನ,R1 exact title,0,,1,1,mutation|mendelian disorders,Mutation,0,0,0
+XII-BIO,SCI,Genetics and evolution,Pedigree analysis,Pedigree chart,Q3242583,666695,,,"R2 named concept, different wording",0,,1,1,pedigree|mendelian disorders,Pedigree chart,0,0,0
+XII-BIO,SCI,Genetics and evolution,Haemophilia,Haemophilia,Q134003,14006,हीमोफीलिया,ಹೀಮೊಫಿಲಿಯ,R1 exact title,0,,1,1,ha?emophilia,Haemophilia,0,0,0
+XII-BIO,SCI,Genetics and evolution,Sickle cell anaemia,Sickle cell disease,Q185034,21010263,सिकल-सेल रोग,ಕುಡಗೋಲು-ಕಣ ರೋಗ,"R2 named concept, different wording",0,,1,1,mendelian disorders|sickle,Sickle cell disease,0,0,0
+XII-BIO,SCI,Genetics and evolution,Phenylketonuria,Phenylketonuria,Q194041,23251,फेनिलकेटोनुरिया,,R1 exact title,0,,1,1,mendelian disorders,Phenylketonuria,0,0,0
+XII-BIO,SCI,Genetics and evolution,Thalassemia,Thalassemia,Q185137,285729,थैलासीमिया,ಥಲಸ್ಸಿಮಿಯಾ,R1 exact title,0,,1,1,thalassemia,Thalassemia,0,0,0
+XII-BIO,SCI,Genetics and evolution,Down's syndrome,Down syndrome,Q47715,8303,डाउन सिंड्रोम,ಡೌನ್ ಸಿಂಡ್ರೋಮ್,"R2 named concept, different wording",0,,1,1,down.?s syndrome,Down syndrome,0,0,0
+XII-BIO,SCI,Genetics and evolution,Turner's syndrome,Turner syndrome,Q202849,49364,टर्नर सिंड्रोम,ಟರ್ನರ್ ಸಿಂಡ್ರೋಮ್,"R2 named concept, different wording",0,,1,1,turner,Turner syndrome,0,0,0
+XII-BIO,SCI,Genetics and evolution,Klinefelter's syndrome,Klinefelter syndrome,Q207133,19833554,क्लाइनफेलटर सिंड्रोम,,"R2 named concept, different wording",0,,1,1,klinefelter,Klinefelter syndrome,0,0,0
+XII-BIO,SCI,Genetics and evolution,Colour blindness,Color blindness,Q133696,7397,वर्णान्धता,,"R2 named concept, different wording",0,,1,1,colou?r blindness,Color blindness,0,0,0
+XII-BIO,SCI,Genetics and evolution,DNA replication,DNA replication,Q130996,9015,डीएनए प्रतिकृति,,R1 exact title,0,,1,1,dna\ replication,DNA replication,0,0,0
+XII-BIO,SCI,Genetics and evolution,Transcription,Transcription (biology),Q177900,167544,प्रतिलेखन (जीवविज्ञान),,"R2 named concept, different wording",0,,1,1,transcription,Transcription (biology),0,0,0
+XII-BIO,SCI,Genetics and evolution,Translation,Translation (biology),Q185917,262401,,,"R2 named concept, different wording",0,,1,1,translation,Translation (biology),0,0,0
+XII-BIO,SCI,Genetics and evolution,Genetic code,Genetic code,Q180618,12385,अनुवांशिक कूट,,R1 exact title,0,,1,1,genetic\ code,Genetic code,0,0,0
+XII-BIO,SCI,Genetics and evolution,Lac operon,Lac operon,Q311359,505869,,ಲ್ಯಾಕ್ ಒಪೆರಾನ್,R1 exact title,0,,1,1,lac\ operon,Lac operon,0,0,0
+XII-BIO,SCI,Genetics and evolution,Human genome project,Human Genome Project,Q192446,5219699,,,"R2 named concept, different wording",0,,1,1,human genome project|genome,Human Genome Project,0,0,0
+XII-BIO,SCI,Genetics and evolution,DNA fingerprinting,DNA profiling,Q476697,44290,डी एन ए अंगुली छापन,,"R2 named concept, different wording",0,,1,1,dna finger ?printing,DNA profiling,0,0,0
+XII-BIO,SCI,Genetics and evolution,Central dogma,Central dogma of molecular biology,Q47072,68206,,,"R2 named concept, different wording",0,,1,1,central dogma,Central dogma of molecular biology,0,0,0
+XII-BIO,SCI,Genetics and evolution,Search for genetic material: Griffith,Griffith's experiment,Q151141,12718,,,"R2 named concept, different wording",0,,1,1,search for genetic material,Griffith's experiment,0,0,0
+XII-BIO,SCI,Genetics and evolution,Search for genetic material: Hershey-Chase,Hershey–Chase experiment,Q152561,13928,,,"R2 named concept, different wording",0,,1,1,search for genetic material,Hershey–Chase experiment,0,0,0
+XII-BIO,SCI,Genetics and evolution,Meselson-Stahl experiment,Meselson–Stahl experiment,Q917550,238689,,,"R2 named concept, different wording",0,,1,1,dna replication,Meselson–Stahl experiment,0,0,0
+XII-BIO,SCI,Genetics and evolution,DNA packaging,Nucleosome,Q271794,21843,,,"R2 named concept, different wording",0,,1,1,dna packaging,Nucleosome,0,0,0
+XII-BIO,SCI,Genetics and evolution,Messenger RNA,Messenger RNA,Q188928,20232,दूत आरएनए,,R1 exact title,0,,1,1,transcription,Messenger RNA,0,0,0
+XII-BIO,SCI,Genetics and evolution,Transfer RNA,Transfer RNA,Q201448,532175,अन्तरण आरएनए,,R1 exact title,0,,1,1,translation,Transfer RNA,0,0,0
+XII-BIO,SCI,Genetics and evolution,Operon,Operon,Q139677,176670,,ಓಪರಾನ್,R1 exact title,0,,1,1,lac operon,Operon,0,0,0
+XII-BIO,SCI,Genetics and evolution,Origin of life,Abiogenesis,Q231218,19179706,अजीवात् जीवोत्पत्ति,,"R2 named concept, different wording",0,,1,1,origin of life,Abiogenesis,0,0,0
+XII-BIO,SCI,Genetics and evolution,Miller-Urey experiment,Miller–Urey experiment,Q208625,20821,,,"R2 named concept, different wording",0,,1,1,origin of life,Miller–Urey experiment,0,0,0
+XII-BIO,SCI,Genetics and evolution,Darwin's contribution,Darwinism,Q183493,8411,डार्विनवाद,,"R2 named concept, different wording",0,,1,1,darwin,Darwinism,0,0,0
+XII-BIO,SCI,Genetics and evolution,Hardy-Weinberg principle,Hardy–Weinberg principle,Q49974,230319,हार्डी-वेनबर्ग नियम,,"R2 named concept, different wording",0,,1,1,hardy,Hardy–Weinberg principle,0,0,0
+XII-BIO,SCI,Genetics and evolution,Adaptive radiation,Adaptive radiation,Q216818,1909,,,R1 exact title,0,,1,1,adaptive\ radiation,Adaptive radiation,0,0,0
+XII-BIO,SCI,Genetics and evolution,Human evolution,Human evolution,Q83944,10326,मानव का विकास,ಮಾನವನ ವಿಕಾಸ,R1 exact title,0,,1,1,human\ evolution,Human evolution,0,0,0
+XII-BIO,SCI,Genetics and evolution,Lamarckism,Lamarckism,Q208800,187588,लैमार्कवाद,,R1 exact title,0,,1,1,biological evolution|evolution,Lamarckism,0,0,0
+XII-BIO,SCI,Genetics and evolution,Convergent evolution,Convergent evolution,Q200312,82804,अभिसारी क्रमविकास,,R1 exact title,0,,1,1,evidences for biological evolution|evolution,Convergent evolution,0,0,0
+XII-BIO,SCI,Genetics and evolution,Genetic drift,Genetic drift,Q486420,72016,आनुवंशिक च्युति,,R1 exact title,0,,1,1,genetic\ drift,Genetic drift,0,0,0
+XII-BIO,SCI,Genetics and evolution,Gene flow,Gene flow,Q143089,327061,जीन प्रवाह,,R1 exact title,0,,1,1,gene flow,Gene flow,0,0,0
+XII-BIO,SCI,Biology and human welfare,Malaria,Malaria,Q12156,20423,मलेरिया,ಮಲೇರಿಯಾ,R1 exact title,0,,1,1,malaria,Malaria,0,0,0
+XII-BIO,SCI,Biology and human welfare,Typhoid,Typhoid fever,Q83319,31596,आंत्र ज्वर,ವಿಷಮಶೀತ ಜ್ವರ,"R2 named concept, different wording",0,,1,1,typhoid,Typhoid fever,0,0,0
+XII-BIO,SCI,Biology and human welfare,Pneumonia,Pneumonia,Q12192,52135,न्यूमोनिया,ನ್ಯುಮೋನಿಯ,R1 exact title,0,,1,1,pneumonia,Pneumonia,0,0,0
+XII-BIO,SCI,Biology and human welfare,Common cold,Common cold,Q12125,92693,ज़ुकाम,ನೆಗಡಿ,R1 exact title,0,,1,1,common\ cold,Common cold,0,0,0
+XII-BIO,SCI,Biology and human welfare,Amoebiasis,Amoebiasis,Q949694,20927048,अमीबी प्रवाहिका,,R1 exact title,0,,1,1,amoebiasis,Amoebiasis,0,0,0
+XII-BIO,SCI,Biology and human welfare,Ascariasis,Ascariasis,Q842428,413928,एस्कारियासिस,ಅಸ್ಕಾರಿಯಾಸಿಸ್,R1 exact title,0,,1,1,ascariasis,Ascariasis,0,0,0
+XII-BIO,SCI,Biology and human welfare,Filariasis,Filariasis,Q815753,336866,फाइलेरिया,ಆನೆಕಾಲು ರೋಗ,R1 exact title,0,,1,1,filariasis,Filariasis,0,0,0
+XII-BIO,SCI,Biology and human welfare,Ringworm,Dermatophytosis,Q1909343,2223903,दाद,ಹುಳುಕಡ್ಡಿ,"R2 named concept, different wording",0,,1,1,ring ?worm,Dermatophytosis,0,0,0
+XII-BIO,SCI,Biology and human welfare,Dengue,Dengue fever,Q30953,39669,डेंगू बुख़ार,ಡೆಂಗೇ,"R2 named concept, different wording",0,,1,1,dengue,Dengue fever,0,0,0
+XII-BIO,SCI,Biology and human welfare,Chikungunya,Chikungunya,Q243257,366112,चिकनगुनिया,ಚಿಕೂನ್ ಗುನ್ಯಾ,R1 exact title,0,only_in_2024_25_text,0,1,chikungun[iy]a,Chikungunya,0,0,0
+XII-BIO,SCI,Biology and human welfare,Immunology,Immune system,Q1059,14958,प्रतिरक्षा प्रणाली,ಮಾನವ ದೇಹದಲ್ಲಿ ಪ್ರತಿರಕ್ಷಾ ವ್ಯವಸ್ಥೆಗಳು,"R2 named concept, different wording",0,,1,1,immunology,Immune system,0,0,0
+XII-BIO,SCI,Biology and human welfare,Vaccines,Vaccine,Q134808,32653,टीका (वैक्सीन),ಲಸಿಕೆ,"R2 named concept, different wording",0,,1,1,vaccines,Vaccine,0,0,0
+XII-BIO,SCI,Biology and human welfare,Antibody,Antibody,Q79460,2362,प्रतिपिंड,ಪ್ರತಿಕಾಯ(ಆಂಟಿಬಾಡಿ),R1 exact title,0,,1,1,immunology,Antibody,0,0,0
+XII-BIO,SCI,Biology and human welfare,Allergy,Allergy,Q42982,55313,एलर्जी,ಅಲರ್ಜಿ,R1 exact title,0,,1,1,immunology,Allergy,0,0,0
+XII-BIO,SCI,Biology and human welfare,Autoimmunity,Autoimmunity,Q192360,93842,स्वप्रतिरक्षा,,R1 exact title,0,,1,1,immunology,Autoimmunity,0,0,0
+XII-BIO,SCI,Biology and human welfare,AIDS,HIV/AIDS,Q12199,5069516,एड्स,ಏಡ್ಸ್ ರೋಗ,"R2 named concept, different wording",0,,1,1,aids,HIV/AIDS,0,0,0
+XII-BIO,SCI,Biology and human welfare,Cancer,Cancer,Q12078,105219,कर्कट रोग,ಕ್ಯಾನ್ಸರ್,R1 exact title,0,,1,1,cancer,Cancer,0,0,0
+XII-BIO,SCI,Biology and human welfare,Drug and alcohol abuse,Substance abuse,Q3184856,102959,नशीली दवा का सेवन,,"R2 named concept, different wording",0,,1,1,drug and alcohol abuse,Substance abuse,0,0,0
+XII-BIO,SCI,Biology and human welfare,Plasmodium,Plasmodium,Q130948,287207,प्लास्मोडियम,,R1 exact title,0,,1,1,malaria,Plasmodium,0,0,0
+XII-BIO,SCI,Biology and human welfare,Lymphocyte,Lymphocyte,Q715347,298999,,,R1 exact title,0,,1,1,immunology,Lymphocyte,0,0,0
+XII-BIO,SCI,Biology and human welfare,Innate immunity,Innate immune system,Q428253,3113497,,,"R2 named concept, different wording",0,,1,1,immunology,Innate immune system,0,0,0
+XII-BIO,SCI,Biology and human welfare,Plant breeding,Plant breeding,Q788558,30876044,पादप प्रजनन,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,plant\ breeding,Plant breeding,0,0,0
+XII-BIO,SCI,Biology and human welfare,Tissue culture,Plant tissue culture,Q1549003,21076226,पादप ऊतक संवर्धन,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,tissue culture,Plant tissue culture,0,0,0
+XII-BIO,SCI,Biology and human welfare,Single cell protein,Single-cell protein,Q652439,14981166,एकल कोशी प्रोटीन,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,single cell protein,Single-cell protein,0,0,0
+XII-BIO,SCI,Biology and human welfare,Biofortification,Biofortification,Q864310,18684057,,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,biofortification,Biofortification,0,0,0
+XII-BIO,SCI,Biology and human welfare,Animal husbandry,Animal husbandry,Q80962,219640,पशुपालन,ಪಶುಪಾಲನೆ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,animal\ husbandry,Animal husbandry,0,0,0
+XII-BIO,SCI,Biology and human welfare,Apiculture,Beekeeping,Q176353,322091,मधुमक्खी पालन,ಜೇನುಸಾಕಣೆ,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,apiculture,Beekeeping,0,0,0
+XII-BIO,SCI,Biology and human welfare,Sewage treatment,Sewage treatment,Q221275,16079692,वाहितमल उपचार,,R1 exact title,0,,1,1,sewage\ treatment,Sewage treatment,0,0,0
+XII-BIO,SCI,Biology and human welfare,Biocontrol agents,Biological pest control,Q116890,155739,जैविक नाशीजीव नियंत्रण,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,biocontrol,Biological pest control,0,0,0
+XII-BIO,SCI,Biology and human welfare,Biofertilizers,Biofertilizer,Q3595890,24121546,जैव उर्वरक (बायोफर्टिलाइजर),,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,biofertili[sz]ers,Biofertilizer,0,0,0
+XII-BIO,SCI,Biology and human welfare,Penicillin,Penicillin,Q12190,23312,पेनिसिलिन,ಪೆನ್ಸಿಲಿನ್,R1 exact title,0,,1,1,antibiotics,Penicillin,0,0,0
+XII-BIO,SCI,Biology and human welfare,Fermentation,Fermentation,Q41760,6073894,किण्वन,ಕಿಣ್ವನ,R1 exact title,0,,1,1,industrial production|household food processing,Fermentation,0,0,0
+XII-BIO,SCI,Biology and human welfare,Mycorrhiza,Mycorrhiza,Q99974,59358,सहजीवी संबंध,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,biofertili[sz]ers,Mycorrhiza,0,0,0
+XII-BIO,SCI,Biology and human welfare,Activated sludge,Activated sludge,Q36333,1411188,एक्टिवेटिड स्लज(सक्रिय कीचड़),,R1 exact title,0,,1,1,sewage treatment,Activated sludge,0,0,0
+XII-BIO,SCI,Biology and human welfare,Rhizobium,Rhizobium,Q830142,540385,राइजोबियम,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,biofertili[sz]ers,Rhizobium,0,0,0
+XII-BIO,SCI,Biotechnology,Biotechnology,Biotechnology,Q7108,4502,जैवप्रौद्योगिकी,ಜೈವಿಕತಂತ್ರಜ್ಞಾನ,R1 exact title,0,,1,1,biotechnology,Biotechnology,0,0,0
+XII-BIO,SCI,Biotechnology,Genetic engineering,Genetic engineering,Q159236,12383,अनुवंशिक अभियांत्रिकी,ತಳೀಯ ಎಂಜಿನಿಯರಿಂಗ್,R1 exact title,0,,1,1,genetic\ engineering,Genetic engineering,0,0,0
+XII-BIO,SCI,Biotechnology,Recombinant DNA technology,Recombinant DNA,Q285697,1357514,,,"R2 named concept, different wording",0,,1,1,recombinant dna,Recombinant DNA,0,0,0
+XII-BIO,SCI,Biotechnology,Restriction enzyme,Restriction enzyme,Q219715,26194,,,R1 exact title,0,,1,1,genetic engineering|recombinant dna,Restriction enzyme,0,0,0
+XII-BIO,SCI,Biotechnology,Polymerase chain reaction,Polymerase chain reaction,Q176996,23647,पॉलिमरेज शृंखला अभिक्रिया,,R1 exact title,0,,1,1,genetic engineering|recombinant dna,Polymerase chain reaction,0,0,0
+XII-BIO,SCI,Biotechnology,Gel electrophoresis,Gel electrophoresis,Q48255,12582,,,R1 exact title,0,,1,1,genetic engineering|recombinant dna,Gel electrophoresis,0,0,0
+XII-BIO,SCI,Biotechnology,Cloning vector,Cloning vector,Q1924179,339488,,,R1 exact title,0,,1,1,genetic engineering|recombinant dna,Cloning vector,0,0,0
+XII-BIO,SCI,Biotechnology,Plasmid,Plasmid,Q172778,23974,प्लास्मिड,,R1 exact title,0,,1,1,genetic engineering|recombinant dna,Plasmid,0,0,0
+XII-BIO,SCI,Biotechnology,Bioreactor,Bioreactor,Q864699,746495,जैवसंयत्र,,R1 exact title,0,,1,1,genetic engineering|recombinant dna,Bioreactor,0,0,0
+XII-BIO,SCI,Biotechnology,Bt crops,Bt cotton,Q14319351,6241865,बीटी कपास,,"R2 named concept, different wording",0,,1,1,bt crops,Bt cotton,0,0,0
+XII-BIO,SCI,Biotechnology,Gene therapy,Gene therapy,Q213901,12891,जीन चिकित्सा,ಜೀನ್(ವಂಶವಾಹಿ) ಚಿಕಿತ್ಸೆ,R1 exact title,0,,1,1,gene\ therapy,Gene therapy,0,0,0
+XII-BIO,SCI,Biotechnology,RNA interference,RNA interference,Q201993,29188721,आरएनए हस्तक्षेप,ಆರ್‌ಎನ್‌ಎ ಹಸ್ತಕ್ಷೇಪ,R1 exact title,0,,1,1,genetically modified organisms|bt crops,RNA interference,0,0,0
+XII-BIO,SCI,Biotechnology,Genetically modified organisms,Genetically modified organism,Q182726,12339,आनुवंशिक रूप से परिवर्तित जीव,,"R2 named concept, different wording",0,,1,1,genetically modified organisms,Genetically modified organism,0,0,0
+XII-BIO,SCI,Biotechnology,Biopiracy,Biopiracy,Q864679,69023656,जैवपूर्वेक्षण,,R1 exact title,0,,1,1,biopiracy,Biopiracy,0,0,0
+XII-BIO,SCI,Biotechnology,Human insulin,Insulin (medication),Q2002370,21091725,,,"R2 named concept, different wording",0,,1,1,human insulin,Insulin (medication),0,0,0
+XII-BIO,SCI,Biotechnology,Transgenic animals,Genetically modified animal,Q2850018,22696587,,,"R2 named concept, different wording",0,,1,1,transgenic animals,Genetically modified animal,0,0,0
+XII-BIO,SCI,Biotechnology,ELISA,ELISA,Q332126,95162,,,R1 exact title,0,,1,1,gene therapy|molecular diagnosis|vaccine production,ELISA,0,0,0
+XII-BIO,SCI,Biotechnology,DNA ligase,DNA ligase,Q408483,8697,,,R1 exact title,0,,1,1,genetic engineering|recombinant dna,DNA ligase,0,0,0
+XII-BIO,SCI,Biotechnology,Agrobacterium tumefaciens,Agrobacterium tumefaciens,Q131472,646817,,,R1 exact title,0,,1,1,genetic engineering|recombinant dna,Agrobacterium tumefaciens,0,0,0
+XII-BIO,SCI,Ecology and environment,Ecology,Ecology,Q7150,9630,पारिस्थितिकी,,R1 exact title,0,,1,1,ecolog,Ecology,0,0,0
+XII-BIO,SCI,Ecology and environment,Mutualism,Mutualism (biology),Q186368,51483,सहोपकारिता,,"R2 named concept, different wording",0,,1,1,mutualism,Mutualism (biology),0,0,0
+XII-BIO,SCI,Ecology and environment,Predation,Predation,Q170430,57559,परभक्षण,ಭಕ್ಷಕ,R1 exact title,0,,1,1,predation,Predation,0,0,0
+XII-BIO,SCI,Ecology and environment,Parasitism,Parasitism,Q186517,43937,परजीविता,ಪರಜೀವಿಕೆ,R1 exact title,0,,1,1,parasitism,Parasitism,0,0,0
+XII-BIO,SCI,Ecology and environment,Competition,Competition (biology),Q45767,4715998,प्रतियोगिता (जीव विज्ञान),,"R2 named concept, different wording",0,,1,1,competition,Competition (biology),0,0,0
+XII-BIO,SCI,Ecology and environment,Commensalism,Commensalism,Q191934,72660,सहभोजिता,,R1 exact title,0,,1,1,population interactions,Commensalism,0,0,0
+XII-BIO,SCI,Ecology and environment,Population growth,Population dynamics,Q904564,501466,जनसंख्या गतिशीलता,,"R2 named concept, different wording",0,,1,1,growth,Population dynamics,0,0,0
+XII-BIO,SCI,Ecology and environment,Logistic growth,Logistic function,Q1052379,84563,,,"R2 named concept, different wording",0,,1,1,population attributes|growth,Logistic function,0,0,0
+XII-BIO,SCI,Ecology and environment,Adaptations,Adaptation,Q483921,942048,अनुकूलन,,"R2 named concept, different wording",0,,1,1,adaptations,Adaptation,0,0,0
+XII-BIO,SCI,Ecology and environment,Productivity,Primary production,Q515905,208303,प्राथमिक उत्पादन,,"R2 named concept, different wording",0,only_in_2024_25_text,0,1,productivity,Primary production,0,0,0
+XII-BIO,SCI,Ecology and environment,Decomposition,Decomposition,Q339062,188731,अपघटन,,R1 exact title,0,,1,1,decomposition,Decomposition,0,0,0
+XII-BIO,SCI,Ecology and environment,Energy flow,Energy flow (ecology),Q1341307,321382,ऊर्जा प्रवाह (पारिस्थितिकी),,"R2 named concept, different wording",0,,1,1,energy flow,Energy flow (ecology),0,0,0
+XII-BIO,SCI,Ecology and environment,Ecological pyramids,Ecological pyramid,Q948022,3574959,पारिस्थितिक पिरामिड,,"R2 named concept, different wording",0,,1,1,pyramids,Ecological pyramid,0,0,0
+XII-BIO,SCI,Ecology and environment,Ecological succession,Ecological succession,Q188230,322376,पारिस्थितिक अनुक्रम,,R1 exact title,0,,1,1,ecological succession,Ecological succession,0,0,0
+XII-BIO,SCI,Ecology and environment,Nutrient cycles,Nutrient cycle,Q7070482,32086658,पोषक तत्व चक्र,,"R2 named concept, different wording",0,,1,1,nutrient cycl,Nutrient cycle,0,0,0
+XII-BIO,SCI,Ecology and environment,Carbon cycle,Carbon cycle,Q167751,47503,कार्बन चक्र,ಇಂಗಾಲದ ಕಣಗಳ ಚಕ್ರ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,carbon,Carbon cycle,0,0,0
+XII-BIO,SCI,Ecology and environment,Phosphorus cycle,Phosphorus cycle,Q1140772,9038260,,,R1 exact title,0,,1,1,nutrient cycl|phosphorous,Phosphorus cycle,0,0,0
+XII-BIO,SCI,Ecology and environment,Biodiversity hotspots,Biodiversity hotspot,Q864294,567131,जैवविविधता हॉटस्पॉट,ಜೀವವೈವಿಧ್ಯದ ಸೂಕ್ಷ್ಮ ಪ್ರದೇಶಗಳು,"R2 named concept, different wording",0,,1,1,hotspots,Biodiversity hotspot,0,0,0
+XII-BIO,SCI,Ecology and environment,Endangered organisms,Endangered species,Q11394,20110668,विलुप्तप्राय जाति,ವಿಪತ್ತಿನಲ್ಲಿರುವ ಜೀವಜಾತಿ,"R2 named concept, different wording",0,,1,1,endangered,Endangered species,0,0,0
+XII-BIO,SCI,Ecology and environment,Extinction,Extinction,Q123509,49417,विलुप्ति,,R1 exact title,0,,1,1,extinction,Extinction,0,0,0
+XII-BIO,SCI,Ecology and environment,Red Data Book,IUCN Red List,Q32059,153625,आईयूसीएन लाल सूची,,"R2 named concept, different wording",0,,1,1,red data book,IUCN Red List,0,0,0
+XII-BIO,SCI,Ecology and environment,National parks,National park,Q46169,21818,राष्ट्रीय उद्यान,ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನಗಳು,"R2 named concept, different wording",0,,1,1,national parks,National park,0,0,0
+XII-BIO,SCI,Ecology and environment,Biosphere reserves,Man and the Biosphere Programme,Q14018439,113721,मानव और जैवमंडल कार्यक्रम,,"R2 named concept, different wording",0,,1,1,biosphere reserves,Man and the Biosphere Programme,0,0,0
+XII-BIO,SCI,Ecology and environment,Species-area relationship,Species–area relationship,Q3267118,2376755,,,"R2 named concept, different wording",0,,1,1,patterns|biodiversity,Species–area relationship,0,0,0
+XII-BIO,SCI,Ecology and environment,Sacred groves,Sacred grove,Q811600,1035886,पवित्र उपवन,,"R2 named concept, different wording",0,,1,1,sacred groves|biodiversity conservation,Sacred grove,0,0,0
+XII-BIO,SCI,Ecology and environment,Ramsar sites,Ramsar Convention,Q170170,195228,रामसर अभिसमय,,"R2 named concept, different wording",0,,1,1,ramsar,Ramsar Convention,0,0,0
+XII-BIO,SCI,Ecology and environment,Air pollution,Air pollution,Q131123,10934212,वायु प्रदूषण,ವಾಯು ಮಾಲಿನ್ಯ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,air\ pollution,Air pollution,0,0,0
+XII-BIO,SCI,Ecology and environment,Water pollution,Water pollution,Q183129,312266,जल प्रदूषण,ಜಲ ಮಾಲಿನ್ಯ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,water\ pollution,Water pollution,0,0,0
+XII-BIO,SCI,Ecology and environment,Eutrophication,Eutrophication,Q156698,54840,सुपोषण,ಯೂಟ್ರೋಫಿಕೇಷನ್,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,water pollution,Eutrophication,0,0,0
+XII-BIO,SCI,Ecology and environment,Global warming,Climate change,Q125928,5042951,जलवायु परिवर्तन,ವಾಯುಗುಣ ಬದಲಾವಣೆ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,global warming|green ?house effect,Climate change,0,0,0
+XII-BIO,SCI,Ecology and environment,Greenhouse effect,Greenhouse effect,Q41560,12395,ग्रीनहाउस प्रभाव,ಹಸಿರುಮನೆ ಪರಿಣಾಮ,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,green ?house effect,Greenhouse effect,0,0,0
+XII-BIO,SCI,Ecology and environment,Biochemical oxygen demand,Biochemical oxygen demand,Q215624,420598,,,R1 exact title,0,,1,1,sewage treatment|water pollution,Biochemical oxygen demand,0,0,0
+XII-BIO,SCI,Ecology and environment,Solid waste management,Municipal solid waste,Q18538,2149148,नगरपालिका ठोस अपशिष्ट,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,solid waste,Municipal solid waste,0,0,0
+XII-BIO,SCI,Ecology and environment,Radioactive waste management,Radioactive waste,Q185252,37257,रेडियोधर्मी कचरा,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,radioactive waste,Radioactive waste,0,0,0
+XII-BIO,SCI,Ecology and environment,Montreal Protocol,Montreal Protocol,Q219438,19856,मॉन्ट्रियल प्रोटोकॉल,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,ozone,Montreal Protocol,0,0,0
+XII-MAT,MAT,Relations and functions,Relations,Binary relation,Q130901,3931,द्वयी सम्बन्ध,,"R2 named concept, different wording",0,,1,1,relations,Binary relation,0,0,0
+XII-MAT,MAT,Relations and functions,Equivalence relations,Equivalence relation,Q130998,9259,तुल्यता सम्बन्ध,,"R2 named concept, different wording",0,,1,1,equivalence,Equivalence relation,0,0,0
+XII-MAT,MAT,Relations and functions,One to one functions,Injective function,Q182003,45196,एकैकी फलन,,"R2 named concept, different wording",0,,1,1,one to one,Injective function,0,0,0
+XII-MAT,MAT,Relations and functions,Onto functions,Surjective function,Q229102,27873,,,"R2 named concept, different wording",0,,1,1,onto,Surjective function,0,0,0
+XII-MAT,MAT,Relations and functions,Bijection,Bijection,Q180907,3942,द्विअंतथक्षेपण,,R1 exact title,0,only_in_2024_25_text,0,1,one to one and onto,Bijection,0,0,0
+XII-MAT,MAT,Relations and functions,Composite functions,Function composition,Q244761,195947,फलनों का संयुक्तीकरण,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,composite functions,Function composition,0,0,0
+XII-MAT,MAT,Relations and functions,Inverse of a function,Inverse function,Q191884,14907,प्रतिलोम फलन,ವ್ಯಸ್ತ ಫಲನ,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,inverse of a function,Inverse function,0,0,0
+XII-MAT,MAT,Relations and functions,Binary operations,Binary operation,Q164307,3948,,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,binary operations,Binary operation,0,0,0
+XII-MAT,MAT,Relations and functions,Inverse trigonometric functions,Inverse trigonometric functions,Q674533,374220,प्रतिलोम त्रिकोणमितीय फलन,,R1 exact title,0,,1,1,inverse\ trigonometric\ functions,Inverse trigonometric functions,0,0,0
+XII-MAT,MAT,Algebra,Matrices,Matrix (mathematics),Q44337,20556859,आव्यूह,ಮಾತೃಕೆಗಳು,"R2 named concept, different wording",0,,1,1,matrices,Matrix (mathematics),0,0,0
+XII-MAT,MAT,Algebra,Transpose of a matrix,Transpose,Q223683,173844,,,"R2 named concept, different wording",0,,1,1,transpose,Transpose,0,0,0
+XII-MAT,MAT,Algebra,Symmetric matrices,Symmetric matrix,Q339011,126474,,,"R2 named concept, different wording",0,,1,1,symmetric,Symmetric matrix,0,0,0
+XII-MAT,MAT,Algebra,Skew symmetric matrices,Skew-symmetric matrix,Q526790,174055,,,"R2 named concept, different wording",0,,1,1,skew,Skew-symmetric matrix,0,0,0
+XII-MAT,MAT,Algebra,Multiplication of matrices,Matrix multiplication,Q1049914,125280,,,"R2 named concept, different wording",0,,1,1,multiplication,Matrix multiplication,0,0,0
+XII-MAT,MAT,Algebra,Invertible matrices,Invertible matrix,Q242188,217122,,,"R2 named concept, different wording",0,,1,1,invertible,Invertible matrix,0,0,0
+XII-MAT,MAT,Algebra,Determinants,Determinant,Q178546,8468,सारणिक,ನಿರ್ಧಾರಕ,"R2 named concept, different wording",0,,1,1,determinants?,Determinant,0,0,0
+XII-MAT,MAT,Algebra,Adjoint of a matrix,Adjugate matrix,Q225107,202840,,,"R2 named concept, different wording",0,,1,1,adjoint,Adjugate matrix,0,0,0
+XII-MAT,MAT,Algebra,Minors and cofactors,Minor (linear algebra),Q1341061,262107,,,"R2 named concept, different wording",0,,1,1,minors,Minor (linear algebra),0,0,0
+XII-MAT,MAT,Algebra,Identity matrix,Identity matrix,Q193794,59718,तत्समक आव्यूह,,R1 exact title,0,,1,1,identity,Identity matrix,0,0,0
+XII-MAT,MAT,Algebra,Elementary row and column operations,Elementary matrix,Q609566,5897031,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,elementary,Elementary matrix,0,0,0
+XII-MAT,MAT,Calculus,Continuity,Continuous function,Q170058,6122,सतत फलन,,"R2 named concept, different wording",0,,1,1,continuity,Continuous function,0,0,0
+XII-MAT,MAT,Calculus,Differentiability,Differentiable function,Q783507,330206,,,"R2 named concept, different wording",0,,1,1,differentiability,Differentiable function,0,0,0
+XII-MAT,MAT,Calculus,Derivative,Derivative,Q29175,7921,अवकलज,,R1 exact title,0,,1,1,derivatives?,Derivative,0,0,0
+XII-MAT,MAT,Calculus,Chain rule,Chain rule,Q207455,6113,शृंखला नियम,,R1 exact title,0,,1,1,chain\ rule,Chain rule,0,0,0
+XII-MAT,MAT,Calculus,Derivatives of implicit functions,Implicit function,Q1196523,250896,अस्पष्ट समीकरण,,"R2 named concept, different wording",0,,1,1,implicit,Implicit function,0,0,0
+XII-MAT,MAT,Calculus,Logarithmic differentiation,Logarithmic differentiation,Q2289425,21899466,,,R1 exact title,0,,1,1,logarithmic\ differentiation,Logarithmic differentiation,0,0,0
+XII-MAT,MAT,Calculus,Rolle's theorem,Rolle's theorem,Q193286,200305,रॉल प्रमेय,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,rolle,Rolle's theorem,0,0,0
+XII-MAT,MAT,Calculus,Mean value theorem,Mean value theorem,Q189136,19662,माध्यमान प्रमेय,,R1 exact title,0,dropped_from_syllabus_by_2024_25,1,0,mean value,Mean value theorem,0,0,0
+XII-MAT,MAT,Calculus,Second order derivatives,Second derivative,Q1932744,3224219,,,"R2 named concept, different wording",0,,1,1,second order,Second derivative,0,0,0
+XII-MAT,MAT,Calculus,Maxima and minima,Maximum and minimum,Q845060,298420,उच्चिष्ठ और निम्निष्ठ,ಗರಿಷ್ಠ ಮತ್ತು ಕನಿಷ್ಠ ಮೌಲ್ಯಗಳು,R1 exact title,0,,1,1,maxima\ and\ minima,Maxima and minima,1,0,0
+XII-MAT,MAT,Calculus,Increasing and decreasing functions,Monotonic function,Q194404,48260,,,"R2 named concept, different wording",0,,1,1,increasing,Monotonic function,0,0,0
+XII-MAT,MAT,Calculus,Integration as inverse of differentiation,Antiderivative,Q114326,2823,आद्य समाकल,,"R2 named concept, different wording",0,,1,1,inverse process of differentiation,Antiderivative,0,0,0
+XII-MAT,MAT,Calculus,Integrals,Integral,Q80091,15532,समाकलन,ಅನುಕಲನಶಾಸ್ತ್ರ,"R2 named concept, different wording",0,,1,1,integrals?,Integral,0,0,0
+XII-MAT,MAT,Calculus,Integration by parts,Integration by parts,Q273328,147252,खंडशः समाकलन,,R1 exact title,0,,1,1,by parts,Integration by parts,0,0,0
+XII-MAT,MAT,Calculus,Integration by substitution,Integration by substitution,Q1071270,193748,प्रतिस्थापन द्वारा समाकलन,,R1 exact title,0,,1,1,substitution,Integration by substitution,0,0,0
+XII-MAT,MAT,Calculus,Integration by partial fractions,Partial fraction decomposition,Q431617,247288,आंशिक भिन्न,,"R2 named concept, different wording",0,,1,1,partial fractions,Partial fraction decomposition,0,0,0
+XII-MAT,MAT,Calculus,Fundamental theorem of calculus,Fundamental theorem of calculus,Q1217677,19468696,कलन का मूलभूत प्रमेय,ಕಲನಶಾಸ್ತ್ರದ ಮೂಲಭೂತ ಪ್ರಮೇಯ,R1 exact title,0,,1,1,fundamental\ theorem\ of\ calculus,Fundamental theorem of calculus,0,0,0
+XII-MAT,MAT,Calculus,Differential equations,Differential equation,Q11214,1424309,अवकल समीकरण,,"R2 named concept, different wording",0,,1,1,differential equations?,Differential equation,0,0,0
+XII-MAT,MAT,Calculus,Method of separation of variables,Separation of variables,Q913323,387750,,,"R2 named concept, different wording",0,,1,1,separation of variables,Separation of variables,0,0,0
+XII-MAT,MAT,Calculus,Homogeneous differential equations,Homogeneous differential equation,Q2434565,6954092,,,"R2 named concept, different wording",0,,1,1,homogeneous,Homogeneous differential equation,0,0,0
+XII-MAT,MAT,Calculus,Linear differential equation,Linear differential equation,Q1129902,379868,रैखिक अवकल समीकरण,,R1 exact title,0,,1,1,linear differential equation,Linear differential equation,0,0,0
+XII-MAT,MAT,Calculus,Exponential function,Exponential function,Q168698,9678,,ಘಾತೀಯ ಶ್ರೇಣಿ ಹಾಗೂ ಉತ್ಪನ್ನ,R1 exact title,0,,1,1,exponential,Exponential function,0,0,0
+XII-MAT,MAT,Calculus,Logarithmic function,Logarithm,Q11197,17860,लघुगणक,,"R2 named concept, different wording",0,,1,1,logarithmic,Logarithm,0,0,0
+XII-MAT,MAT,Calculus,Parametric forms,Parametric equation,Q35889,576108,प्राचलिक समीकरण,,"R2 named concept, different wording",0,,1,1,parametric,Parametric equation,0,0,0
+XII-MAT,MAT,Calculus,Definite integral as limit of a sum,Riemann sum,Q1156903,176478,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,limit of a sum,Riemann sum,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Vectors,Euclidean vector,Q44528,32533,सदिश राशि,,"R2 named concept, different wording",0,,1,1,vectors,Euclidean vector,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Scalar (dot) product,Dot product,Q181365,157093,अदिश गुणनफल,,"R2 named concept, different wording",0,,1,1,dot,Dot product,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Vector (cross) product,Cross product,Q178192,157092,सदिश गुणनफल,,"R2 named concept, different wording",0,,1,1,cross,Cross product,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Scalar triple product,Triple product,Q36248,978650,त्रिक गुणनफल,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,triple product,Triple product,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Direction cosines,Direction cosine,Q2518906,2472593,,,"R2 named concept, different wording",0,,1,1,direction cosines,Direction cosine,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Unit vector,Unit vector,Q36255,167053,इकाई सदिश,,R1 exact title,0,,1,1,unit,Unit vector,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Position vector,Position (geometry),Q192388,1345771,स्थिति सदिश,,"R2 named concept, different wording",0,,1,1,position vector,Position (geometry),0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Skew lines,Skew lines,Q668297,1975821,,,R1 exact title,0,,1,1,skew\ lines,Skew lines,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Coplanar lines,Coplanarity,Q543533,1508434,,,"R2 named concept, different wording",0,dropped_from_syllabus_by_2024_25,1,0,coplanar,Coplanarity,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Collinear vectors,Collinearity,Q1419761,3189581,,,"R2 named concept, different wording",0,,1,1,collinear,Collinearity,0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Equation of a plane,Plane (mathematics),Q135218320,19469852,,,"R2 named concept, different wording",0,,1,1,plane,Plane (mathematics),0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Equation of a line,Line (geometry),Q37105,946975,सरल रेखा,ಸರಳರೇಖೆ,"R2 named concept, different wording",0,,1,1,equation of a line,Line (geometry),0,0,0
+XII-MAT,MAT,Vectors and three-dimensional geometry,Projection of a vector,Vector projection,Q2734388,1508507,,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,projection,Vector projection,0,0,0
+XII-MAT,MAT,Linear programming and probability,Linear programming,Linear programming,Q202843,43730,रैखिक क्रमादेशन,,R1 exact title,0,,1,1,linear\ programming,Linear programming,0,0,0
+XII-MAT,MAT,Linear programming and probability,Feasible region,Feasible region,Q17013331,9157119,,,R1 exact title,0,,1,1,feasible,Feasible region,0,0,0
+XII-MAT,MAT,Linear programming and probability,Conditional probability,Conditional probability,Q327069,24104134,,,R1 exact title,0,,1,1,conditional\ probability,Conditional probability,0,0,0
+XII-MAT,MAT,Linear programming and probability,Bayes' theorem,Bayes' theorem,Q182505,49569,बेय का सिद्धांत,ಬೇಯೀಸನ ಸೂತ್ರ,R1 exact title,0,,1,1,baye,Bayes' theorem,0,0,0
+XII-MAT,MAT,Linear programming and probability,Random variable,Random variable,Q176623,25685,यादृच्छिक चर,,R1 exact title,0,,1,1,random\ variable,Random variable,0,0,0
+XII-MAT,MAT,Linear programming and probability,Probability distribution,Probability distribution,Q200726,23543,प्रायिकता बंटन,,R1 exact title,0,,1,1,probability\ distribution,Probability distribution,0,0,0
+XII-MAT,MAT,Linear programming and probability,Binomial distribution,Binomial distribution,Q185547,3876,द्विपद वितरण,,R1 exact title,0,keyword_not_in_syllabus_text,0,0,binomial\ distribution,Binomial distribution,0,0,0
+XII-MAT,MAT,Linear programming and probability,Bernoulli trials,Bernoulli trial,Q1077800,102653,,,"R2 named concept, different wording",0,keyword_not_in_syllabus_text,0,0,bernoulli,Bernoulli trial,0,0,0
+XII-MAT,MAT,Linear programming and probability,Independent events,Independence (probability theory),Q625303,27593,,,"R2 named concept, different wording",0,,1,1,independent events,Independence (probability theory),0,0,0
+XII-MAT,MAT,Linear programming and probability,Mean of random variable,Expected value,Q200125,9653,प्रत्याशा मान,,"R2 named concept, different wording",0,,1,1,mean of random variable|mean and variance,Expected value,0,0,0
+XII-MAT,MAT,Linear programming and probability,Variance,Variance,Q175199,32344,प्रसरण,,R1 exact title,0,,1,1,variance,Variance,0,0,0
+XII-MAT,MAT,Linear programming and probability,Total probability,Law of total probability,Q1989192,312383,,,"R2 named concept, different wording",0,,1,1,total probability,Law of total probability,0,0,0

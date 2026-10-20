@@ -1,0 +1,9 @@
+=== 05-wikipedia-exam-traffic :: master
+  crossref-check 500/576 (0s)
+master: corpus=631 edges=747 refs_labelled=4898 manual_removed=129
+sublit
+C_student_information_seeking    357
+B_wikipedia_pageviews            180
+A_genai_knowledge_platforms       82
+seed                              12
+=== master done in 26s

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Did students stop looking things up? Exam-season Wikipedia traffic for Indian school-syllabus topics before and after ChatGPT"
+type: software
+authors:
+  - family-names: "Solano Paul"
+    given-names: "Sean"
+    affiliation: "Independent researcher"
+license: MIT
+date-released: "2026-10-20"
+abstract: "Code, data and results for a difference-in-differences study of exam-season Wikipedia page views for 711 CBSE syllabus articles against traffic-matched controls, 2016-2026, before and after the release of ChatGPT."
+repository-code: "https://github.com/Bruhmoment2023-real/wikipedia-exam-traffic"

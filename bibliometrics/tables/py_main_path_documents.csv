@@ -1,0 +1,27 @@
+﻿oa_id,year,first_author,title,source,doi,sublit,local_citations,global_citations
+W2027447998,2005,Margaret Markland,Does the student's love of the search engine mean that high quality online academic resources are being missed?,Performance Measurement and Metrics,10.1108/14678040510588562,C_student_information_seeking,2,20
+W109422130,2005,Danny P. Wallace,The Democratization of Information? Wikipedia as a Reference Resource,Reference & User Services Quarterly,,B_wikipedia_pageviews,7,25
+W4235537536,2009,Sook Lim,How and why do college students use Wikipedia?,Journal of the American Society for Information Science and Technology,10.1002/asi.21142,C_student_information_seeking,33,178
+W1971329425,2010,Jim Hahn,Information seeking with Wikipedia on the iPod Touch,Reference Services Review,10.1108/00907321011045043,B_wikipedia_pageviews,2,18
+W2117493442,2010,Terry S. Judd,A five-year study of on-campus Internet use by undergraduate biomedical students,Computers & Education,10.1016/j.compedu.2010.06.022,C_student_information_seeking,1,108
+W2041137300,2013,Helen Susannah Moat,Quantifying Wikipedia Usage Patterns Before Stock Market Moves,Scientific Reports,10.1038/srep01801,B_wikipedia_pageviews,16,317
+W2012967345,2013,Márton Mestyán,Early Prediction of Movie Box Office Success Based on Wikipedia Activity Big Data,PLoS ONE,10.1371/journal.pone.0071226,seed,15,286
+W2109365886,2014,Chitu Okoli,Wikipedia in the eyes of its beholders: A systematic review of scholarly research on Wikipedia readers and readership,Journal of the Association for Information Science and Technology,10.1002/asi.23162,B_wikipedia_pageviews,9,99
+W2136639813,2014,Nicholas Generous,Global Disease Monitoring and Forecasting with Wikipedia,PLoS Computational Biology,10.1371/journal.pcbi.1003892,B_wikipedia_pageviews,11,183
+W2122458119,2015,Kyle S. Hickmann,Forecasting the 2013–2014 Influenza Season Using Wikipedia,PLoS Computational Biology,10.1371/journal.pcbi.1004239,B_wikipedia_pageviews,12,167
+W1427012839,2015,Neil Selwyn,Students' use of Wikipedia as an academic resource — Patterns of use and perceptions of usefulness,The Internet and Higher Education,10.1016/j.iheduc.2015.08.004,C_student_information_seeking,21,129
+W2257386165,2016,Taha Yasseri,Wikipedia traffic data and electoral prediction: towards theoretically informed models,EPJ Data Science,10.1140/epjds/s13688-016-0083-3,B_wikipedia_pageviews,7,33
+W2463349866,2016,Ruth García-Gavilanes,Dynamics and biases of online attention: the case of aircraft crashes,Royal Society Open Science,10.1098/rsos.160460,seed,2,16
+W2520782940,2017,Ruth García-Gavilanes,The memory remains: Understanding collective memory in the digital age,Science Advances,10.1126/sciadv.1602368,seed,1,8
+W2787589059,2018,John C. Garrison,Instructor and peer influence on college student use and perceptions of Wikipedia,The Electronic Library,10.1108/el-02-2017-0034,C_student_information_seeking,4,10
+W3178690957,2021,Đorđe Stakić,Students’ Attitudes Towards the Use of Wikipedia: A Teaching Tool and a Way to Modernize Teaching,Área Abierta,10.5209/arab.72760,C_student_information_seeking,2,8
+W3092497791,2021,Manoel Horta Ribeiro,Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis,Proceedings of the International AAAI Conference on Web and Social Media,10.1609/icwsm.v15i1.18054,seed,1,11
+W3129701920,2021,Thorsten Ruprechter,Volunteer contributions to Wikipedia increased during COVID-19 mobility restrictions,Scientific Reports,10.1038/s41598-021-00789-3,B_wikipedia_pageviews,2,20
+W4383532320,2023,Patrick Gildersleve,Between news and history: identifying networked topics of collective attention on Wikipedia,Journal of Computational Social Science,10.1007/s42001-023-00215-w,B_wikipedia_pageviews,2,14
+W4388489118,2023,Thorsten Ruprechter,Poor attention: The wealth and regional gaps in event attention and coverage on Wikipedia,PLoS ONE,10.1371/journal.pone.0289325,B_wikipedia_pageviews,2,7
+W4380053277,2023,Riina Reinsalu,With or without Wikipedia? Integrating Wikipedia into the Teaching Process in Estonian General Education Schools,Education Sciences,10.3390/educsci13060583,C_student_information_seeking,1,2
+W4390948367,2024,Marvi Remmik,Using Wikipedia to Develop 21st Century Skills: Perspectives from General Education Students,Education Sciences,10.3390/educsci14010101,C_student_information_seeking,0,6
+W4407724631,2025,Matthew A. Vetter,An endangered species: how LLMs threaten Wikipedia’s sustainability,AI & Society,10.1007/s00146-025-02199-9,A_genai_knowledge_platforms,4,8
+W4414535549,2025,Neal Reeves,Exploring the impact of ChatGPT on Wikipedia engagement,Collective Intelligence,10.1177/26339137251372599,A_genai_knowledge_platforms,3,5
+W7160390745,2026,Dariusz Jemielniak,Wikipedia at 25: The Encyclopedia That Might Not Last,Computer,10.1109/mc.2026.3667927,B_wikipedia_pageviews,2,2
+W7212324199,2026,Steve Jankowski,Wikimedia research methodologies: a bibliometric history of peer production and AI (2005–2025),AI & Society,10.1007/s00146-026-03359-1,A_genai_knowledge_platforms,0,0

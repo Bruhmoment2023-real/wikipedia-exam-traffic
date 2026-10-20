@@ -1,0 +1,39 @@
+"vertex","cluster","btw_centrality","clos_centrality","pagerank_centrality"
+"stanford university",1,0,0.032258064516129,0.0136923751679745
+"nanyang technological university",1,0,0.0185185185185185,0.0231402678692959
+"wikimedia foundation",1,27.25,0.037037037037037,0.0405619657498333
+"boston university",1,0,0.0222222222222222,0.0130806183624063
+"harvard university",1,11,0.0294117647058824,0.0214899998620087
+"university of washington",1,0,0.0222222222222222,0.0130806183624063
+"university of wisconsinmadison",1,11,0.0232558139534884,0.0301065089384209
+"ecole polytechnique federale de lausanne",1,25.95,0.0416666666666667,0.056701472842176
+"university college london",1,11,0.0294117647058824,0.0214899998620087
+"graz university of technology",1,0,0.0344827586206897,0.0202180237331332
+"rwth aachen university",1,4.8,0.04,0.0354841714417762
+"university of pennsylvania",1,20,0.0294117647058824,0.015270383125804
+"complexity science hub",1,36,0.04,0.037788857840651
+"johannes gutenberg university mainz",2,0,1,0.0263157894736842
+"university of edinburgh",2,0,1,0.0263157894736842
+"christian doppler klinik",3,0,0.5,0.0263157894736842
+"paracelsus medical university",3,0,0.5,0.0263157894736842
+"university of verona",3,0,0.5,0.0263157894736842
+"the university of melbourne",4,0,0.0526315789473684,0.0263157894736842
+"east kent hospitals university nhs foundation trust",4,0,0.0526315789473684,0.0263157894736842
+"epsom and st helier university hospitals nhs trust",4,0,0.0526315789473684,0.0263157894736842
+"epsom hospital",4,0,0.0526315789473684,0.0263157894736842
+"furtwangen university",4,0,0.0526315789473684,0.0263157894736842
+"gateshead health nhs foundation trust",4,0,0.0526315789473684,0.0263157894736842
+"hochschule aalen",4,0,0.0526315789473684,0.0263157894736842
+"john wiley & sons (united kingdom)",4,0,0.0526315789473684,0.0263157894736842
+"lewisham and greenwich nhs trust",4,0,0.0526315789473684,0.0263157894736842
+"north east london nhs foundation trust",4,0,0.0526315789473684,0.0263157894736842
+"northumbria healthcare nhs foundation trust",4,0,0.0526315789473684,0.0263157894736842
+"nottingham university hospitals nhs trust",4,0,0.0526315789473684,0.0263157894736842
+"royal lancaster infirmary",4,0,0.0526315789473684,0.0263157894736842
+"sherwood forest hospitals nhs foundation trust",4,0,0.0526315789473684,0.0263157894736842
+"the royal melbourne hospital",4,0,0.0526315789473684,0.0263157894736842
+"university hospitals of leicester nhs trust",4,0,0.0526315789473684,0.0263157894736842
+"university of bristol",4,0,0.0526315789473684,0.0263157894736842
+"university of nottingham",4,0,0.0526315789473684,0.0263157894736842
+"university of nottingham ningbo china",4,0,0.0526315789473684,0.0263157894736842
+"wikimedia uk",4,0,0.0526315789473684,0.0263157894736842

@@ -1,0 +1,151 @@
+id	label	description	url	cluster	weight<Citations in corpus>	score<Pub. year>
+1	giles (2005.0)	Internet encyclopaedias go head to head	https://doi.org/10.1038/438900a	1	41	2005.0
+2	head (2010.0)	How today’s college students use Wikipedia for course-related research	https://doi.org/10.5210/fm.v15i3.2830	1	33	2010.0
+3	lim (2009.0)	How and why do college students use Wikipedia?	https://doi.org/10.1002/asi.21142	1	33	2009.0
+4	baidoo-anu (2023.0)	Education in the Era of Generative Artificial Intelligence (AI): Understanding the Potential Benefits of ChatGPT in Promoting Teaching and Learning	https://doi.org/10.61969/jai.1337500	3	24	2023.0
+5	laurent (2009.0)	Seeking Health Information Online: Does Wikipedia Matter?	https://doi.org/10.1197/jamia.m3059	2	22	2009.0
+6	kasneci (2023.0)	ChatGPT for good? On opportunities and challenges of large language models for education	https://doi.org/10.1016/j.lindif.2023.102274	3	21	2023.0
+7	selwyn (2015.0)	Students' use of Wikipedia as an academic resource — Patterns of use and perceptions of usefulness	https://doi.org/10.1016/j.iheduc.2015.08.004	1	21	2015.0
+8	durrance (1994.0)	Seeking Meaning: A Process Approach to Library and Information Services	https://doi.org/10.2307/40323160	4	20	1994.0
+9	burtch (2024.0)	The consequences of generative AI for online knowledge communities	https://doi.org/10.1038/s41598-024-61221-0	5	19	2024.0
+10	ginsberg (2008.0)	Detecting influenza epidemics using search engine query data	https://doi.org/10.1038/nature07634	2	17	2008.0
+11	davis (1989.0)	Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology	https://doi.org/10.2307/249008	3	17	1989.0
+12	heilman (2015.0)	Wikipedia and Medicine: Quantifying Readership, Editors, and the Significance of Natural Language	https://doi.org/10.2196/jmir.4069	2	17	2015.0
+13	moat (2013.0)	Quantifying Wikipedia Usage Patterns Before Stock Market Moves	https://doi.org/10.1038/srep01801	2	16	2013.0
+14	wilson (1999.0)	Models in information behaviour research	https://doi.org/10.1108/eum0000000007145	4	16	1999.0
+15	noy (2023.0)	Experimental evidence on the productivity effects of generative artificial intelligence	https://doi.org/10.1126/science.adh2586	5	16	2023.0
+16	cotton (2023.0)	Chatting and cheating: Ensuring academic integrity in the era of ChatGPT	https://doi.org/10.1080/14703297.2023.2190148	3	15	2023.0
+17	heilman (2011.0)	Wikipedia: A Key Tool for Global Public Health Promotion	https://doi.org/10.2196/jmir.1589	2	15	2011.0
+18	mciver (2014.0)	Wikipedia Usage Estimates Prevalence of Influenza-Like Illness in the United States in Near Real-Time	https://doi.org/10.1371/journal.pcbi.1003581	2	15	2014.0
+19	lo (2023.0)	What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature	https://doi.org/10.3390/educsci13040410	3	15	2023.0
+20	braun (2006.0)	Using thematic analysis in psychology	https://doi.org/10.1191/1478088706qp063oa	3	15	2006.0
+21	mestyán (2013.0)	Early Prediction of Movie Box Office Success Based on Wikipedia Activity Big Data	https://doi.org/10.1371/journal.pone.0071226	2	15	2013.0
+22	mesgari (2014.0)	“The sum of all human knowledge”: A systematic review of scholarly research on the content of W ikipedia	https://doi.org/10.1002/asi.23172	2	14	2014.0
+23	konieczny (2016.0)	Teaching with W ikipedia in a 21 st ‐century classroom: Perceptions of W ikipedia and its educational benefits	https://doi.org/10.1002/asi.23616	1	14	2016.0
+24	kuhlthau (1991.0)	Inside the search process: Information seeking from the user's perspective	https://doi.org/10.1002/(sici)1097-4571(199106)42:5<361::aid-asi6>3.0.co;2-#	4	14	1991.0
+25	a. (2018.0)	Scholarly Use of Information: Graduate Students' Information Seeking Behaviour	https://doi.org/10.1184/r1/6472412	4	14	2018.0
+26	fallis (2008.0)	Toward an epistemology ofWikipedia	https://doi.org/10.1002/asi.20870	1	13	2008.0
+27	nuti (2014.0)	The Use of Google Trends in Health Care Research: A Systematic Review	https://doi.org/10.1371/journal.pone.0109583	2	13	2014.0
+28	eysenbach (2009.0)	Infodemiology and Infoveillance: Framework for an Emerging Set of Public Health Informatics Methods to Analyze Search, Communication and Publication Behavior on the Internet	https://doi.org/10.2196/jmir.1157	2	13	2009.0
+29	lazer (2014.0)	The Parable of Google Flu: Traps in Big Data Analysis	https://doi.org/10.1126/science.1248506	2	12	2014.0
+30	anon. (2016.0)	Looking for Information: A Survey of Research on Information Seeking, Needs, and Behavior	https://doi.org/10.1108/s2055-53772016	4	12	2016.0
+31	hickmann (2015.0)	Forecasting the 2013–2014 Influenza Season Using Wikipedia	https://doi.org/10.1371/journal.pcbi.1004239	2	12	2015.0
+32	metzger (2007.0)	Making sense of credibility on the Web: Models for evaluating online information and recommendations for future research	https://doi.org/10.1002/asi.20672	1	11	2007.0
+33	metzger (2007.0)	Digital Media, Youth, and Credibility	https://openalex.org/W578597219	1	11	2007.0
+34	generous (2014.0)	Global Disease Monitoring and Forecasting with Wikipedia	https://doi.org/10.1371/journal.pcbi.1003892	2	11	2014.0
+35	dwivedi (2023.0)	Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy	https://doi.org/10.1016/j.ijinfomgt.2023.102642	3	11	2023.0
+36	halfaker (2012.0)	The Rise and Decline of an Open Collaboration System	https://doi.org/10.1177/0002764212469365	1	11	2012.0
+37	venkatesh (2003.0)	User Acceptance of Information Technology: Toward A Unified View1	https://doi.org/10.2307/30036540	3	11	2003.0
+38	singer (2017.0)	Why We Read Wikipedia	https://doi.org/10.1145/3038912.3052716	2	11	2017.0
+39	knight (2012.0)	Wikipedia and the University, a case study	https://doi.org/10.1080/13562517.2012.666734	1	11	2012.0
+40	farrokhnia (2023.0)	A SWOT analysis of ChatGPT: Implications for educational practice and research	https://doi.org/10.1080/14703297.2023.2195846	3	10	2023.0
+41	callinan (2005.0)	Information‐seeking behaviour of undergraduate biology students	https://doi.org/10.1108/00242530510583039	4	10	2005.0
+42	smith (2020.0)	Situating Wikipedia as a health information resource in various contexts: A scoping review	https://doi.org/10.1371/journal.pone.0228786	2	10	2020.0
+43	soler-adillón (2017.0)	Wikipedia in higher education: Changes in perceived value through content contribution	https://doi.org/10.3916/c54-2018-04	1	10	2017.0
+44	konieczny (2014.0)	Rethinking Wikipedia for the Classroom	https://doi.org/10.1177/1536504214522017	1	10	2014.0
+45	chan (2023.0)	Students’ voices on generative AI: perceptions, benefits, and challenges in higher education	https://doi.org/10.1186/s41239-023-00411-8	3	10	2023.0
+46	wasko (2005.0)	Why Should I Share? Examining Social Capital and Knowledge Contribution in Electronic Networks of Practice1	https://doi.org/10.2307/25148667	5	10	2005.0
+47	chesney (2006.0)	An empirical examination of Wikipedia's credibility	https://doi.org/10.5210/fm.v11i11.1413	1	9	2006.0
+48	wilson (2000.0)	Human Information Behavior	https://doi.org/10.28945/576	4	9	2000.0
+49	lim (2010.0)	Gender differences in information behavior concerning Wikipedia, an unorthodox information source?	https://doi.org/10.1016/j.lisr.2010.01.003	1	9	2010.0
+50	zhang (2011.0)	Group Size and Incentives to Contribute: A Natural Experiment at Chinese Wikipedia	https://doi.org/10.1257/aer.101.4.1601	5	9	2011.0
+51	nov (2007.0)	What motivates Wikipedians?	https://doi.org/10.1145/1297797.1297798	2	9	2007.0
+52	okoli (2014.0)	Wikipedia in the eyes of its beholders: A systematic review of scholarly research on Wikipedia readers and readership	https://doi.org/10.1002/asi.23162	1	9	2014.0
+53	konieczny (2012.0)	Wikis and Wikipedia as a teaching tool: Five years later	https://doi.org/10.5210/fm.v0i0.3583	1	9	2012.0
+54	cooper (2023.0)	Examining Science Education in ChatGPT: An Exploratory Study of Generative Artificial Intelligence	https://doi.org/10.1007/s10956-023-10039-y	3	9	2023.0
+55	menchen-trevino (2010.0)	YOUNG ADULTS' CREDIBILITY ASSESSMENT OF WIKIPEDIA	https://doi.org/10.1080/13691181003695173	1	9	2010.0
+56	halavais (2008.0)	An Analysis of Topical Coverage of Wikipedia	https://doi.org/10.1111/j.1083-6101.2008.00403.x	2	9	2008.0
+57	rio-chanona (2024.0)	Large language models reduce public knowledge sharing on online Q&A platforms	https://doi.org/10.1093/pnasnexus/pgae400	5	9	2024.0
+58	sallam (2023.0)	ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns	https://doi.org/10.3390/healthcare11060887	3	9	2023.0
+59	rahman (2023.0)	ChatGPT for Education and Research: Opportunities, Threats, and Strategies	https://doi.org/10.3390/app13095783	3	9	2023.0
+60	ford (2017.0)	‘Anyone can edit’, not everyone does: Wikipedia’s infrastructure and the gender gap	https://doi.org/10.1177/0306312717692172	1	9	2017.0
+61	chen (2010.0)	The perspectives of higher education faculty on Wikipedia	https://doi.org/10.1108/02640471011051954	1	8	2010.0
+62	hughes (2009.0)	Junior physician's use of Web 2.0 for information seeking and medical education: A qualitative study	https://doi.org/10.1016/j.ijmedinf.2009.04.008	2	8	2009.0
+63	preis (2013.0)	Quantifying Trading Behavior in Financial Markets Using Google Trends	https://doi.org/10.1038/srep01684	2	8	2013.0
+64	marchionini (1996.0)	Information seeking in electronic environments	https://doi.org/10.5860/choice.33-3366	4	8	1996.0
+65	mellon (2015.0)	Library Anxiety: A Grounded Theory and Its Development	https://doi.org/10.5860/crl.76.3.276	4	8	2015.0
+66	bryant (2005.0)	Becoming Wikipedian	https://doi.org/10.1145/1099203.1099205	1	8	2005.0
+67	shen (2012.0)	What leads students to adopt information from W ikipedia? An empirical investigation into the role of trust and information usefulness	https://doi.org/10.1111/j.1467-8535.2012.01335.x	1	8	2012.0
+68	yılmaz (2023.0)	The effect of generative artificial intelligence (AI)-based tool use on students' computational thinking skills, programming self-efficacy and motivation	https://doi.org/10.1016/j.caeai.2023.100147	3	8	2023.0
+69	azzam (2016.0)	Why Medical Schools Should Embrace Wikipedia: Final-Year Medical Student Contributions to Wikipedia Articles for Academic Credit at One School	https://doi.org/10.1097/acm.0000000000001381	2	8	2016.0
+70	rowlands (2008.0)	The Google generation: the information behaviour of the researcher of the future	https://doi.org/10.1108/00012530810887953	4	8	2008.0
+71	hargittai (2008.0)	Digital Inequality	https://doi.org/10.1177/0093650208321782	3	8	2008.0
+72	gilson (2023.0)	How Does ChatGPT Perform on the United States Medical Licensing Examination (USMLE)? The Implications of Large Language Models for Medical Education and Knowledge Assessment	https://doi.org/10.2196/45312	3	8	2023.0
+73	hill (2013.0)	The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation	https://doi.org/10.1371/journal.pone.0065782	1	8	2013.0
+74	ajzen (1991.0)	The theory of planned behavior	https://doi.org/10.1016/0749-5978(91)90020-t	3	8	1991.0
+75	lehmann (2014.0)	Reader preferences and behavior on Wikipedia	https://doi.org/10.1145/2631775.2631805	2	8	2014.0
+76	kerins (2004.0)	Information seeking and students studying for professional careers: the cases of engineering and law students in Ireland	https://openalex.org/W2992539045	4	8	2004.0
+77	wallace (2005.0)	The Democratization of Information? Wikipedia as a Reference Resource	https://openalex.org/W109422130	1	7	2005.0
+78	tseng (1999.0)	Credibility and computing technology	https://doi.org/10.1145/301353.301402	1	7	1999.0
+79	prensky (2001.0)	Digital Natives, Digital Immigrants Part 2: Do They Really Think Differently?	https://doi.org/10.1108/10748120110424843	3	7	2001.0
+80	spoerri (2007.0)	What is popular on Wikipedia and why?	https://doi.org/10.5210/fm.v12i4.1765	2	7	2007.0
+81	flanagin (2011.0)	FROM ENCYCLOPÆDIA BRITANNICA TO WIKIPEDIA	https://doi.org/10.1080/1369118x.2010.542823	1	7	2011.0
+82	tausczik (2011.0)	Public Anxiety and Information Seeking Following the H1N1 Outbreak: Blogs, Newspaper Articles, and Wikipedia Visits	https://doi.org/10.1080/10410236.2011.571759	2	7	2011.0
+83	kim (2011.0)	Selecting quality sources: Bridging the gap between the perception and use of information sources	https://doi.org/10.1177/0165551511400958	1	7	2011.0
+84	biddix (2011.0)	Convenience or credibility? A study of college student online research behaviors	https://doi.org/10.1016/j.iheduc.2011.01.003	1	7	2011.0
+85	freeman (2018.0)	How Adolescents Search for and Appraise Online Health Information: A Systematic Review	https://doi.org/10.1016/j.jpeds.2017.11.031	4	7	2018.0
+86	park (2018.0)	Health-Related Internet Use by Children and Adolescents: Systematic Review	https://doi.org/10.2196/jmir.7731	4	7	2018.0
+87	reagle (2010.0)	Good Faith Collaboration	https://doi.org/10.7551/mitpress/8051.001.0001	1	7	2010.0
+88	wardat (2023.0)	ChatGPT: A revolutionary tool for teaching and learning mathematics	https://doi.org/10.29333/ejmste/13272	3	7	2023.0
+89	rosenzweig (2006.0)	Can History Be Open Source? Wikipedia and the Future of the Past	https://doi.org/10.2307/4486062	1	7	2006.0
+90	yasseri (2016.0)	Wikipedia traffic data and electoral prediction: towards theoretically informed models	https://doi.org/10.1140/epjds/s13688-016-0083-3	2	7	2016.0
+91	thompson (2017.0)	Science Is Shaped by Wikipedia: Evidence from a Randomized Control Trial	https://doi.org/10.2139/ssrn.3039505	2	7	2017.0
+92	dawe (2017.0)	Wikipedia editing and information literacy: a case study	https://doi.org/10.1108/ils-09-2016-0067	1	7	2017.0
+93	hargittai (2014.0)	Mind the skills gap: the role of Internet know-how and gender in differentiated contributions to Wikipedia	https://doi.org/10.1080/1369118x.2014.957711	1	7	2014.0
+94	iannuzzi (2000.0)	Information Literacy Competency Standards for Higher Education	https://doi.org/10.1300/j107v09n04_09	4	7	2000.0
+95	simon (1955.0)	A BEHAVIORAL MODEL OF RATIONAL CHOICE	https://doi.org/10.2307/1884852	1	7	1955.0
+96	shaw (2018.0)	The Pipeline of Online Participation Inequalities: The Case of Wikipedia Editing	https://doi.org/10.1093/joc/jqx003	1	7	2018.0
+97	wu (2023.0)	Do AI chatbots improve students learning outcomes? Evidence from a meta‐analysis	https://doi.org/10.1111/bjet.13334	3	7	2023.0
+98	jemielniak (2016.0)	Bridging the gap between wikipedia and academia	https://doi.org/10.1002/asi.23691	1	7	2016.0
+99	jemielniak (2014.0)	Common Knowledge?	https://doi.org/10.11126/stanford/9780804789448.001.0001	1	7	2014.0
+100	göbel (2017.0)	Political Advertising on the Wikipedia Marketplace of Information	https://doi.org/10.1177/0894439317703579	2	7	2017.0
+101	pirolli (1999.0)	Information foraging.	https://doi.org/10.1037/0033-295x.106.4.643	5	7	1999.0
+102	west (2012.0)	Human wayfinding in information networks	https://doi.org/10.1145/2187836.2187920	2	7	2012.0
+103	polk (2015.0)	Wikipedia Use in Research: Perceptions in Secondary Schools	https://doi.org/10.1007/s11528-015-0858-6	1	7	2015.0
+104	susarla (2023.0)	The Janus Effect of Generative AI: Charting the Path for Responsible Conduct of Scholarly Activities in Information Systems	https://doi.org/10.1287/isre.2023.ed.v34.n2	5	7	2023.0
+105	shan (2025.0)	Examining the Impact of Generative AI on Users’ Voluntary Knowledge Contribution: Evidence from a Natural Experiment on Stack Overflow	https://doi.org/10.1287/isre.2023.0332	5	7	2025.0
+106	blei (2003.0)	Latent dirichlet allocation	https://doi.org/10.5555/944919.944937	2	7	2003.0
+107	tizzoni (2020.0)	The impact of news exposure on collective attention in the United States during the 2016 Zika epidemic	https://doi.org/10.1371/journal.pcbi.1007633	2	7	2020.0
+108	stvilia (2008.0)	Information quality work organization in wikipedia	https://doi.org/10.1002/asi.20813	1	6	2008.0
+109	prabha (2007.0)	What is enough? Satisficing information needs	https://doi.org/10.1108/00220410710723894	1	6	2007.0
+110	dresang (2005.0)	Access: The Information-Seeking Behavior of Youth in the Digital Environment	https://doi.org/10.1353/lib.2006.0015	4	6	2005.0
+111	waters (2007.0)	Why you can't cite Wikipedia in my class	https://doi.org/10.1145/1284621.1284635	1	6	2007.0
+112	schweitzer (2008.0)	Wikipedia and Psychology: Coverage of Concepts and Its Use by Undergraduate Students	https://doi.org/10.1080/00986280802004594	1	6	2008.0
+113	head (2007.0)	Beyond Google: How do students conduct academic research?	https://doi.org/10.5210/fm.v12i8.1998	2	6	2007.0
+114	clauson (2008.0)	Scope, Completeness, and Accuracy of Drug Information in Wikipedia	https://doi.org/10.1345/aph.1l474	2	6	2008.0
+115	hecht (2009.0)	Measuring self-focus bias in community-maintained knowledge repositories	https://doi.org/10.1145/1556460.1556463	2	6	2009.0
+116	callahan (2011.0)	Cultural bias in Wikipedia content on famous persons	https://doi.org/10.1002/asi.21577	2	6	2011.0
+117	lewoniewski (2017.0)	Analysis of References Across Wikipedia Languages	https://doi.org/10.1007/978-3-319-67642-5_47	2	6	2017.0
+118	teplitskiy (2016.0)	Amplifying the impact of open access: Wikipedia and the diffusion of science	https://doi.org/10.1002/asi.23687	2	6	2016.0
+119	messner (2013.0)	Wikipedia versus Encyclopedia Britannica: A Longitudinal Analysis to Identify the Impact of Social Media on the Standards of Knowledge	https://doi.org/10.1080/15205436.2012.732649	2	6	2013.0
+120	krištoufek (2013.0)	BitCoin meets Google Trends and Wikipedia: Quantifying the relationship between phenomena of the Internet era	https://doi.org/10.1038/srep03415	2	6	2013.0
+121	lim (2011.0)	Credibility judgment and verification behavior of college students concerning Wikipedia	https://doi.org/10.5210/fm.v16i4.3263	1	6	2011.0
+122	head (2011.0)	How college students use the Web to conduct everyday life research	https://doi.org/10.5210/fm.v16i4.3484	1	6	2011.0
+123	kim (2014.0)	Undergraduates’ Use of Social Media as Information Sources	https://doi.org/10.5860/crl.75.4.442	1	6	2014.0
+124	vincent (2021.0)	A Deeper Investigation of the Importance of Wikipedia Links to Search Engine Results	https://doi.org/10.1145/3449078	5	6	2021.0
+125	keegan (2011.0)	Hot off the wiki	https://doi.org/10.1145/2038558.2038577	2	6	2011.0
+126	bates (1989.0)	The design of browsing and berrypicking techniques for the online search interface	https://doi.org/10.1108/eb024320	4	6	1989.0
+127	catalano (2013.0)	Patterns of graduate students' information seeking behavior: a meta‐synthesis of the literature	https://doi.org/10.1108/00220411311300066	4	6	2013.0
+128	kamalov (2023.0)	New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution	https://doi.org/10.3390/su151612451	3	6	2023.0
+129	team (2000.0)	R: A Language and Environment for Statistical Computing	https://doi.org/10.32614/r.manuals	2	6	2000.0
+130	venkatesh (2012.0)	Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acceptance and Use of Technology1	https://doi.org/10.2307/41410412	3	6	2012.0
+131	burtch (2021.0)	How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit	https://doi.org/10.1287/mnsc.2021.4040	5	6	2021.0
+132	sullivan (2023.0)	ChatGPT in higher education: Considerations for academic integrity and student learning	https://doi.org/10.37074/jalt.2023.6.1.17	3	6	2023.0
+133	walter (2024.0)	Embracing the future of Artificial Intelligence in the classroom: the relevance of AI literacy, prompt engineering, and critical thinking in modern education	https://doi.org/10.1186/s41239-024-00448-3	3	6	2024.0
+134	bandura (1999.0)	Self-Efficacy: The Exercise of Control	https://doi.org/10.1891/0889-8391.13.2.158	1	6	1999.0
+135	vygotsky (1978.0)	Mind in Society: The Development of Higher Psychological Processes	https://openalex.org/W2135943618	3	6	1978.0
+136	vetter (2019.0)	From Opportunities to Outcomes: The Wikipedia-Based Writing Assignment	https://doi.org/10.1016/j.compcom.2019.01.008	1	6	2019.0
+137	metzger (2003.0)	College student Web use, perceptions of information credibility, and verification behavior	https://doi.org/10.1016/s0360-1315(03)00049-6	1	6	2003.0
+138	soules (2015.0)	Faculty perception of Wikipedia in the California State University System	https://doi.org/10.1108/nlw-08-2014-0096	1	6	2015.0
+139	wang (2021.0)	Monetary Incentives and Knowledge Spillover: Evidence from a Natural Experiment	https://doi.org/10.1287/mnsc.2021.4048	5	6	2021.0
+140	scoyoc (2006.0)	The Electronic Academic Library: Undergraduate Research Behavior in a Library Without Books	https://doi.org/10.1353/pla.2006.0012	4	6	2006.0
+141	kung (2023.0)	Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models	https://doi.org/10.1371/journal.pdig.0000198	3	6	2023.0
+142	yasseri (2012.0)	Circadian Patterns of Wikipedia Editorial Activity: A Demographic Analysis	https://doi.org/10.1371/journal.pone.0030091	2	6	2012.0
+143	mavragani (2019.0)	Google Trends in Infodemiology and Infoveillance: Methodology Framework	https://doi.org/10.2196/13439	2	6	2019.0
+144	mcmahon (2017.0)	The Substantial Interdependence of Wikipedia and Google: A Case Study on the Relationship Between Peer Production Communities and Information Technologies	https://doi.org/10.1609/icwsm.v11i1.14883	5	6	2017.0
+145	hansen (2003.0)	Adolescents Searching for Health Information on the Internet: An Observational Study	https://doi.org/10.2196/jmir.5.4.e25	4	6	2003.0
+146	fornell (1981.0)	Evaluating Structural Equation Models with Unobservable Variables and Measurement Error	https://doi.org/10.1177/002224378101800104	3	6	1981.0
+147	krejcie (1970.0)	Determining Sample Size for Research Activities	https://doi.org/10.1177/001316447003000308	4	6	1970.0
+148	wilkinson (2007.0)	Cooperation and quality in wikipedia	https://doi.org/10.1145/1296951.1296968	1	6	2007.0
+149	gaziano (1986.0)	Measuring the Concept of Credibility	https://doi.org/10.1177/107769908606300301	1	5	1986.0
+150	lally (2007.0)	Using Wikipedia to Extend Digital Collections	https://doi.org/10.1045/may2007-lally	1	5	2007.0

@@ -1,0 +1,55 @@
+﻿qid,db,sublit,query,total_in_db,retrieved,status,date
+crossref_A_genai_knowledge_platforms_01,crossref,A_genai_knowledge_platforms,ChatGPT impact Wikipedia traffic page views,2000341.0,250,ok,2026-10-17
+crossref_A_genai_knowledge_platforms_02,crossref,A_genai_knowledge_platforms,large language models Stack Overflow activity decline,3406300.0,250,ok,2026-10-17
+crossref_A_genai_knowledge_platforms_03,crossref,A_genai_knowledge_platforms,generative AI online knowledge communities participation,2409507.0,250,ok,2026-10-17
+crossref_A_genai_knowledge_platforms_04,crossref,A_genai_knowledge_platforms,AI Overviews search traffic websites publishers,939155.0,250,ok,2026-10-17
+crossref_A_genai_knowledge_platforms_05,crossref,A_genai_knowledge_platforms,ChatGPT substitution user-generated content platforms,751579.0,250,ok,2026-10-17
+s2_A_genai_knowledge_platforms_01,s2,A_genai_knowledge_platforms,"(ChatGPT | ""generative AI"" | ""large language models"" | LLM | LLMs) + Wikipedia + (traffic | pageviews | ""page views"" | engagement | readership | decline | editing | contributions)",90.0,90,ok,2026-10-17
+s2_A_genai_knowledge_platforms_02,s2,A_genai_knowledge_platforms,"(ChatGPT | ""generative AI"" | ""large language models"" | LLMs) + (""Stack Overflow"" | ""Stack Exchange"") + (decline | activity | questions | traffic | impact)",115.0,115,ok,2026-10-17
+s2_A_genai_knowledge_platforms_03,s2,A_genai_knowledge_platforms,"(ChatGPT | ""generative AI"" | ""AI Overviews"" | ""AI search"") + (""web traffic"" | ""website traffic"" | ""search traffic"" | publishers | ""knowledge platforms"" | ""online communities"" | ""user-generated content"")",469.0,469,ok,2026-10-17
+s2_A_genai_knowledge_platforms_04,s2,A_genai_knowledge_platforms,"(""generative AI"" | ChatGPT | ""large language models"") + (""digital public goods"" | ""knowledge commons"" | ""online knowledge communities"" | ""knowledge sharing"") + (contribution | participation | decline)",40.0,40,ok,2026-10-17
+s2_A_genai_knowledge_platforms_05,s2,A_genai_knowledge_platforms,"(ChatGPT | ""generative AI"") + (""Google Trends"" | ""search interest"" | Chegg | ""homework help"")",168.0,168,ok,2026-10-17
+arxiv_A_genai_knowledge_platforms_01,arxiv,A_genai_knowledge_platforms,all:Wikipedia AND all:ChatGPT AND (all:pageviews OR all:traffic OR all:engagement),3.0,3,ok,2026-10-17
+arxiv_A_genai_knowledge_platforms_02,arxiv,A_genai_knowledge_platforms,"all:""Stack Overflow"" AND (all:ChatGPT OR all:""large language models"") AND (all:decline OR all:activity OR all:impact)",19.0,19,ok,2026-10-17
+arxiv_A_genai_knowledge_platforms_03,arxiv,A_genai_knowledge_platforms,"all:""generative AI"" AND (all:""online communities"" OR all:""knowledge platforms"" OR all:""user-generated content"") AND (all:traffic OR all:participation)",5.0,5,ok,2026-10-17
+arxiv_A_genai_knowledge_platforms_04,arxiv,A_genai_knowledge_platforms,"all:""AI Overviews"" AND (all:traffic OR all:clicks)",9.0,9,ok,2026-10-17
+arxiv_A_genai_knowledge_platforms_05,arxiv,A_genai_knowledge_platforms,"all:Wikipedia AND (all:""large language models"" OR all:""generative AI"") AND (all:readership OR all:traffic OR all:decline OR all:editors)",14.0,14,ok,2026-10-17
+crossref_B_wikipedia_pageviews_01,crossref,B_wikipedia_pageviews,Wikipedia page views analysis,5319396.0,250,ok,2026-10-17
+crossref_B_wikipedia_pageviews_02,crossref,B_wikipedia_pageviews,Wikipedia traffic data forecasting nowcasting,2478633.0,250,ok,2026-10-17
+crossref_B_wikipedia_pageviews_03,crossref,B_wikipedia_pageviews,Wikipedia readers reading behaviour study,5667789.0,250,ok,2026-10-17
+crossref_B_wikipedia_pageviews_04,crossref,B_wikipedia_pageviews,Wikipedia page view statistics collective attention,873600.0,250,ok,2026-10-17
+crossref_B_wikipedia_pageviews_05,crossref,B_wikipedia_pageviews,Wikipedia usage seasonality students academic calendar,1416494.0,250,ok,2026-10-17
+crossref_B_wikipedia_pageviews_06,crossref,B_wikipedia_pageviews,Wikipedia pageviews proxy public interest,1375037.0,250,ok,2026-10-17
+s2_B_wikipedia_pageviews_01,s2,B_wikipedia_pageviews,"Wikipedia + (pageviews | ""page views"" | ""page view"" | ""page-view"" | ""traffic data"" | ""view counts"" | ""access logs"" | clickstream)",360.0,360,ok,2026-10-17
+s2_B_wikipedia_pageviews_02,s2,B_wikipedia_pageviews,"Wikipedia + (readers | readership | ""reading behavior"" | navigation) + (study | analysis | characterization | ""large-scale"")",628.0,628,ok,2026-10-17
+s2_B_wikipedia_pageviews_03,s2,B_wikipedia_pageviews,"Wikipedia + (pageviews | ""page views"" | traffic | views) + (forecasting | nowcasting | predict | surveillance | ""stock market"" | ""box office"" | election | epidemic | influenza | ""collective attention"" | seasonality)",308.0,308,ok,2026-10-17
+arxiv_B_wikipedia_pageviews_01,arxiv,B_wikipedia_pageviews,"all:Wikipedia AND (all:pageviews OR all:""page views"" OR all:""page view"")",48.0,48,ok,2026-10-17
+arxiv_B_wikipedia_pageviews_02,arxiv,B_wikipedia_pageviews,ti:Wikipedia AND (ti:readers OR ti:reading OR ti:navigation OR ti:traffic OR ti:attention),22.0,22,ok,2026-10-17
+crossref_C_student_information_seeking_01,crossref,C_student_information_seeking,students use of Wikipedia academic information seeking,4651664.0,250,ok,2026-10-17
+crossref_C_student_information_seeking_02,crossref,C_student_information_seeking,high school students information seeking behaviour internet search engines homework,370171.0,250,ok,2026-10-17
+crossref_C_student_information_seeking_03,crossref,C_student_information_seeking,ChatGPT use by secondary school students homework survey,3458110.0,250,ok,2026-10-17
+crossref_C_student_information_seeking_04,crossref,C_student_information_seeking,generative AI adoption teenagers schoolwork,681933.0,250,ok,2026-10-17
+s2_C_student_information_seeking_01,s2,C_student_information_seeking,"(students | undergraduates | pupils) + Wikipedia + (use | usage | ""information seeking"" | credibility | academic)",1707.0,800,ok,2026-10-17
+s2_C_student_information_seeking_02,s2,C_student_information_seeking,"(students | adolescents | teenagers) + (""information seeking"" | ""information-seeking"" | ""information behavior"" | ""information behaviour"") + (school | homework | academic | ""search engines"" | Google)",2105.0,800,ok,2026-10-17
+s2_C_student_information_seeking_03,s2,C_student_information_seeking,"(ChatGPT | ""generative AI"") + (homework | schoolwork | ""high school"" | ""secondary school"" | ""K-12"" | teenagers | adolescents) + (use | usage | adoption | survey)",1663.0,800,ok,2026-10-17
+eric_C_student_information_seeking_01,eric,C_student_information_seeking,"Wikipedia AND students AND (""information seeking"" OR ""use studies"" OR credibility)",33.0,33,ok,2026-10-17
+eric_C_student_information_seeking_02,eric,C_student_information_seeking,"""information seeking"" AND (""secondary school students"" OR ""high school students"") AND (internet OR ""search engines"")",43.0,35,ok,2026-10-17
+eric_C_student_information_seeking_03,eric,C_student_information_seeking,"(ChatGPT OR ""generative artificial intelligence"") AND (homework OR ""high school students"" OR ""secondary school students"") AND (use OR usage)",67.0,67,ok,2026-10-17
+seed_title,seed,,Large language models reduce public knowledge sharing on online Q&A platforms,,1,matched 10.1093/pnasnexus/pgae400,2026-10-17
+seed_title,seed,,The consequences of generative AI for online knowledge communities,,1,matched 10.1038/s41598-024-61221-0,2026-10-17
+seed_title,seed,,Why We Read Wikipedia,,1,matched 10.1145/3038912.3052716,2026-10-17
+seed_title,seed,,Wikipedia Usage Estimates Prevalence of Influenza-Like Illness in the United States in Near Real-Time,,1,matched 10.1371/journal.pcbi.1003581,2026-10-17
+seed_title,seed,,Quantifying Wikipedia Usage Patterns Before Stock Market Moves,,1,matched 10.1038/srep01801,2026-10-17
+seed_title,seed,,Early Prediction of Movie Box Office Success Based on Wikipedia Activity Big Data,,1,matched 10.1371/journal.pone.0071226,2026-10-17
+seed_title,seed,,Forecasting the 2013-2014 Influenza Season Using Wikipedia,,1,matched 10.1371/journal.pcbi.1004239,2026-10-17
+seed_title,seed,,Global Disease Monitoring and Forecasting with Wikipedia,,1,matched 10.5210/ojphi.v8i1.6530,2026-10-17
+seed_title,seed,,Wikipedia traffic data and electoral prediction: towards theoretically informed models,,1,matched 10.1140/epjds/s13688-016-0083-3,2026-10-17
+seed_title,seed,,Dynamics and biases of online attention: the case of aircraft crashes,,1,matched 10.1098/rsos.160460,2026-10-17
+seed_title,seed,,The memory remains: Understanding collective memory in the digital age,,1,matched 10.1126/sciadv.1602368,2026-10-17
+seed_title,seed,,How today's college students use Wikipedia for course-related research,,1,matched 10.5210/fm.v15i3.2830,2026-10-17
+seed_title,seed,,Death by AI: Will large language models diminish Wikipedia?,,1,matched 10.1002/asi.24975,2026-10-17
+seed_title,seed,,Wikipedia in the eyes of its beholders: A systematic review of scholarly research on Wikipedia readers and readership,,1,matched 10.1002/asi.23162,2026-10-17
+seed_title,seed,,The Substantial Interdependence of Wikipedia and Google: A Case Study on the Relationship Between Peer Production Communities and Information Technologies,,1,matched 10.1609/icwsm.v11i1.14883,2026-10-17
+seed_title,seed,,Measuring the Importance of User-Generated Content to Search Engines,,1,matched 10.1609/icwsm.v13i01.3248,2026-10-17
+seed_title,seed,,Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis,,1,matched 10.1609/icwsm.v15i1.18054,2026-10-17
+seed_title,seed,,Exploring the impact of ChatGPT on Wikipedia engagement,,1,matched 10.1177/26339137251372599,2026-10-17

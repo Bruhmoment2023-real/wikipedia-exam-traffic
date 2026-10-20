@@ -1,0 +1,7 @@
+ exam_year                                             regime  days_exam  days_base  n_syllabus  n_control  uplift_syllabus  uplift_control   gap  ci_lo  ci_hi  n_syllabus_any_exam_day
+      2018                         historical (>450, Laplace)          6          6          46         17            0.076          -0.003 0.079 -0.080  0.238                      153
+      2019                         historical (>450, Laplace)          6          6          44         21           -0.022          -0.169 0.147  0.009  0.289                      155
+      2020                         historical (>450, Laplace)          6          6          38         19            0.072          -0.134 0.207  0.064  0.374                      142
+      2024 current (>90, Gaussian, first 10 pages per device)          6          6          12         17            0.169          -0.039 0.209 -0.010  0.423                       69
+      2025 current (>90, Gaussian, first 10 pages per device)          6          6           4          2           -0.066           0.194   NaN    NaN    NaN                       20
+      2026 current (>90, Gaussian, first 10 pages per device)          6          6           1          2           -0.417           0.165   NaN    NaN    NaN                        5

@@ -1,0 +1,22 @@
+tier sizes: [1509, 1105, 515, 1509, 733, 457, 318]
+full: 4192 articles, 4319 titles (incl. redirects), 6146 series, 5781 still to fetch
+  fetched 250 / 5781 new series, 429 s elapsed, about 158 min left
+  fetched 500 / 5781 new series, 857 s elapsed, about 151 min left
+  fetched 750 / 5781 new series, 1265 s elapsed, about 141 min left
+  fetched 1000 / 5781 new series, 1698 s elapsed, about 135 min left
+tier sizes: [1509, 1105, 515, 1509, 733, 457, 318]
+full: 4192 articles, 4319 titles (incl. redirects), 6146 series, 4746 still to fetch
+Traceback (most recent call last):
+  File "D:\Research-Publishing\05-wikipedia-exam-traffic\code\03_pull_pageviews.py", line 169, in <module>
+    main()
+  File "D:\Research-Publishing\05-wikipedia-exam-traffic\code\03_pull_pageviews.py", line 158, in main
+    if pull(*x, counter) and counter[0] % 250 == 0:
+       ^^^^^^^^^^^^^^^^^
+  File "D:\Research-Publishing\05-wikipedia-exam-traffic\code\03_pull_pageviews.py", line 84, in pull
+    os.replace(tmp, p)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Research-Publishing\\05-wikipedia-exam-traffic\\data\\cache\\pv\\en.wikipedia\\all-access\\a3\\Neptunium_a39e39dbb4.json.gz.tmp' -> 'D:\\Research-Publishing\\05-wikipedia-exam-traffic\\data\\cache\\pv\\en.wikipedia\\all-access\\a3\\Neptunium_a39e39dbb4.json.gz'
+tier sizes: [1509, 1105, 515, 1509, 733, 457, 318]
+full: 4192 articles, 4319 titles (incl. redirects), 6146 series, 4725 still to fetch
+  fetched 250 / 4725 new series, 1497 s elapsed, about 447 min left
+  fetched 500 / 4725 new series, 3467 s elapsed, about 488 min left
+stopped by agent 17 Oct 2026 to leave no job running; resume: cd code; ../.venv/Scripts/python.exe 03_pull_pageviews.py --full

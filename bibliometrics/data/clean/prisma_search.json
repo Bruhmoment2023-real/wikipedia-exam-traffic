@@ -1,0 +1,25 @@
+{
+ "date": "2026-10-17",
+ "records_identified": 8631,
+ "by_db": {
+  "s2": 4578,
+  "crossref": 3750,
+  "eric": 135,
+  "arxiv": 120,
+  "seed": 48
+ },
+ "duplicates_removed_identifiers": 1033,
+ "unique_records": 7598,
+ "removed_title_prescreen": 6322,
+ "sent_to_openalex": 1276,
+ "duplicates_removed_openalex": 27,
+ "excluded_reasons": {
+  "type_excluded": 239,
+  "offtopic_fails_inclusion_rule": 219,
+  "no_openalex_record (no DOI / not indexed)": 56,
+  "year_out_of_range": 17,
+  "language_not_english": 7,
+  "paratext_or_container_record": 1
+ },
+ "included_after_search_screen": 710
+}

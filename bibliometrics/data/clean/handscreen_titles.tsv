@@ -1,0 +1,761 @@
+oa_id	year	cites	origin	sublit	source	title
+W4390908403	2024	91	search	A_genai_knowledge_platforms	F1000Research	Academic publisher guidelines on AI usage: A ChatGPT supported thematic analysis
+W4396674231	2024	80	seed	A_genai_knowledge_platforms	Scientific Reports	The consequences of generative AI for online knowledge communities
+W4405822361	2024	63	search	A_genai_knowledge_platforms	Administrative Science Quarterly	Resisting the Algorithmic Management of Science: Craft and Community After Generative AI
+W4388909126	2023	55	search	A_genai_knowledge_platforms	World Neurosurgery	Information Quality and Readability: ChatGPT's Responses to the Most Common Questions About Spinal Cord Injury
+W4402462263	2024	36	seed	A_genai_knowledge_platforms	PNAS Nexus	Large language models reduce public knowledge sharing on online Q&A platforms
+W4411527444	2025	35	search	A_genai_knowledge_platforms	Journal of Management Information System	Heterogeneous Effects of Generative artificial intelligence (GenAI) on Knowledge Seeking in Online Communities
+W4414472860	2025	35	search	A_genai_knowledge_platforms	Information Systems Research	Examining the Impact of Generative AI on Users’ Voluntary Knowledge Contribution: Evidence from a Natural Experiment on Stack Overflow
+W4416589843	2025	34	search	A_genai_knowledge_platforms	Serials Review	Utilizing Generative AI Responsibly and Ethically for Research Purposes in Higher Education: A Policy Analysis
+W4385384800	2023	28	search	A_genai_knowledge_platforms	SSRN Electronic Journal	The Consequences of Generative AI for UGC and Online Community Engagement
+W4376226527	2023	26	search	A_genai_knowledge_platforms	New Zealand Medical Journal	The impact of AI and ChatGPT on research reporting
+W4399276821	2024	24	search	A_genai_knowledge_platforms	Sexual Medicine	Evaluation of information accuracy and clarity: ChatGPT responses to the most frequently asked questions about premature ejaculation
+W4403622041	2024	24	search	A_genai_knowledge_platforms	SSRN Electronic Journal	Who is AI Replacing? The Impact of Generative AI on Online Freelancing Platforms
+W4384615850	2023	22	seed	A_genai_knowledge_platforms	arXiv (Cornell University)	Are Large Language Models a Threat to Digital Public Goods? Evidence from Activity on Stack Overflow
+W4366158488	2023	20	search	A_genai_knowledge_platforms	SSRN Electronic Journal	AI-Driven Labor Substitution: Evidence from Google Translate and ChatGPT
+W4410091675	2025	18	search	A_genai_knowledge_platforms	International Journal of Human-Computer 	ChatGPT as an Academic Writing Tool: Factors Influencing Researchers’ Intention to Write Manuscripts Using Generative Artificial Intelligence
+W4411873649	2025	16	search	A_genai_knowledge_platforms	Humanities and Social Sciences Communica	Negotiating identity in the age of ChatGPT: non-native English researchers’ experiences with AI-assisted academic writing
+W4393190288	2024	15	snowball_backward	A_genai_knowledge_platforms	bioRxiv (Cold Spring Harbor Laboratory)	Have AI-Generated Texts from LLM Infiltrated the Realm of Scientific Writing? A Large-Scale Analysis of Preprint Platforms
+W7119521646	2026	14	search	A_genai_knowledge_platforms	British Food Journal	Generative artificial intelligence and ChatGPT in agriculture supply chain management: a systematic literature review and future research agenda
+W4406051438	2025	13	seed	A_genai_knowledge_platforms	Journal of the Association for Informati	Death by AI : Will large language models diminish Wikipedia?
+W4402781947	2024	13	search	A_genai_knowledge_platforms	Marketing Letters	Impacts of generative AI on user contributions: evidence from a coding Q &A platform
+W4411993048	2025	12	search	A_genai_knowledge_platforms	Journal of Systems and Software	LLMs and Stack Overflow discussions: Reliability, impact, and challenges
+W4405419049	2024	12	search	A_genai_knowledge_platforms	Higher Education for the Future	Generative AI and Academic Research: A Review of the Policies from Selected HEIs
+W4410525751	2025	9	search	A_genai_knowledge_platforms	Computer Methods and Programs in Biomedi	Investigating the interpretability of ChatGPT in mental health counseling: An analysis of artificial intelligence generated content differentiation
+W4410047133	2025	9	search	A_genai_knowledge_platforms	Blockchain Artificial Intelligence and F	Post-Launch Public Interest in DeepSeek vs. ChatGPT: A Comparative Google Trends Analysis in Indonesia and the Philippines
+W4407724631	2025	8	search	A_genai_knowledge_platforms	AI & Society	An endangered species: how LLMs threaten Wikipedia’s sustainability
+W4415149087	2025	8	search	A_genai_knowledge_platforms	AI and Ethics	Core principles of responsible generative AI usage in research
+W4413132605	2025	7	search	A_genai_knowledge_platforms	AI & Society	The rise of the research automaton: science as process or product in the era of generative AI?
+W4417280344	2025	6	search	A_genai_knowledge_platforms	AI Magazine	The ETHICAL Protocol for Responsible Use of Generative AI for Research Purposes in Higher Education
+W4401907881	2024	6	search	A_genai_knowledge_platforms	GRURRR. Gewerblicher Rechtsschutz und Ur	Protection of Press Publishers in the Age of Generative AI – In Search of Legal Remedies to Adapt to the Pace of Technology
+W7118198201	2026	6	search	A_genai_knowledge_platforms	Information Technology and People	Human–generative AI cooperation and knowledge collaboration in online knowledge communities: an analysis based on adaptive structuration theory for individuals
+W4386150291	2023	6	search	A_genai_knowledge_platforms	RePEc: Research Papers in Economics	From Mundane to Meaningful: AI's Influence on Work Dynamics -- evidence from ChatGPT and Stack Overflow
+W4414602872	2025	5	search	A_genai_knowledge_platforms	Transnational Legal Theory	Platforms as architects of AI influence: rethinking moderation in the age of hybrid expression
+W4414535549	2025	5	seed	A_genai_knowledge_platforms	Collective Intelligence	Exploring the impact of ChatGPT on Wikipedia engagement
+W4406232708	2024	5	search	A_genai_knowledge_platforms	Middle East Research Journal of Economic	Students Perception of Using AI Tools as a Research Work or Course Work Assistant
+W4389124919	2023	5	snowball_forward	A_genai_knowledge_platforms	SSRN Electronic Journal	Generative AI and Human Knowledge Sharing: Evidence from A Natural Experiment
+W4393285829	2024	4	search	A_genai_knowledge_platforms	SSRN Electronic Journal	Safeguarding Marketing Research: The Generation, Identification, and Mitigation of AI-Fabricated Disinformation
+W4396688518	2024	4	search	A_genai_knowledge_platforms	International Journal on Semantic Web an	Examining the Influence of AI Chatbots on Semantic Web-Based Global Information Management in Various Industries
+W4399553990	2024	4	search	A_genai_knowledge_platforms	arXiv (Cornell University)	The Impact of AI on Academic Research and Publishing
+W4378422000	2023	3	snowball_backward	A_genai_knowledge_platforms	SSRN Electronic Journal	Engagement or Entanglement? The Dual Impact of Generative Artificial Intelligence in Online Knowledge Exchange Platforms
+W4409758035	2025	3	snowball_forward	A_genai_knowledge_platforms	SSRN Electronic Journal	Empowering or Eroding Contributions? How Generative AI Impacts User-Generated Content Across Diverse Communities
+W4405613011	2024	2	search	A_genai_knowledge_platforms	The International Spectator	Challenges and Opportunities of Using Generative AI for Research: Opening the Discussion
+W7158493745	2026	2	search	A_genai_knowledge_platforms	PLoS ONE	Social friction vs. cognitive efficiency: A comparative analysis of help-seeking behaviors in human communities and generative AI
+W4410100000	2025	2	search	A_genai_knowledge_platforms	ASEAN Artificial Intelligence Journal	Unveiling AI in Education: A Global Bibliometric Review of Research Trends, Key Theories, and Innovations
+W4400130281	2024	2	search	A_genai_knowledge_platforms	EAI Endorsed Transactions on Internet of	A Multifaceted Approach at Discerning Redditors Feelings Towards ChatGPT
+W4380136620	2023	2	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Can AI Moderate Online Communities?
+W4403363889	2024	2	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Examining the Prevalence and Dynamics of AI-Generated Media in Art Subreddits
+W4406231614	2025	2	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Knowledge Retrieval Based on Generative AI
+W4415083061	2025	2	seed	A_genai_knowledge_platforms	arXiv (Cornell University)	Wikipedia Contributions in the Wake of ChatGPT
+W7117370045	2025	2	search	A_genai_knowledge_platforms	Culture, education and future.	AI in education, ChatGPT, and personalized learning: Measuring public attention in Pakistan through Google Trends
+W4409411296	2024	2	snowball_backward	A_genai_knowledge_platforms	Stockholm Intellectual Property Law Revi	The Use of Wikipedia, Wikimedia, and Open Access Content for Artificial Intelligence and Text and Data Mining
+W4409681273	2025	1	search	A_genai_knowledge_platforms	Information Services & Use	Generative AI for content discovery in academic publishing: A content provider’s perspective
+W7164167809	2026	1	search	A_genai_knowledge_platforms	BMC Psychiatry	Quality and readability of AI-generated information on bipolar disorder: a cross-sectional content analysis
+W7162000424	2026	1	search	A_genai_knowledge_platforms	Information Systems Research	Can ChatGPT Kill User-Generated Q&A Platforms?
+W4412553441	2025	1	search	A_genai_knowledge_platforms	Humanities and Social Science Research	Knowledge Production and Dissemination in Human-AI Collaboration: Generative AI as Travel Consultants
+W4376850506	2023	1	search	A_genai_knowledge_platforms	SSRN Electronic Journal	An Exploratory Analysis of Community-Based Question-Answering Platforms and Gpt-3-Driven Generative Ai: Is it the End of Online Community-Based Learning?
+W4404988278	2024	1	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Teaching Smaller Language Models To Generalise To Unseen Compositional Questions (Full Thesis)
+W6948381719	2025	1	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Llamarine: Open-source Maritime Industry-specific Large Language Model
+W7077854831	2025	1	search	A_genai_knowledge_platforms	arXiv (Cornell University)	UQ: Assessing Language Models on Unsolved Questions
+W4405591617	2024	1	search	A_genai_knowledge_platforms	Applied marketing analytics	How to retain website traffic in a generative AI world
+W4416055451	2025	1	search	A_genai_knowledge_platforms	Cureus	Evaluation of the Quality and Readability of ChatGPT Responses to Toothache Queries: A Study Based on Google Trends
+W4385339927	2023	1	snowball_forward	A_genai_knowledge_platforms	SSRN Electronic Journal	Heterogeneous Effects of Generative AI on Knowledge Seeking in Online Communities
+W4415303490	2025	0	search	A_genai_knowledge_platforms	Proceedings of the Association for Infor	AI for Instructional Design: Understanding Discourse and Community Trends from an Online Forum
+W7155613445	2026	0	search	A_genai_knowledge_platforms	AI & Society	Failed comprehensiveness, successful minimalism: Wikipedia’s 3-year struggle to govern AI-generated content (2022–2025)
+W7212324199	2026	0	search	A_genai_knowledge_platforms	AI & Society	Wikimedia research methodologies: a bibliometric history of peer production and AI (2005–2025)
+W7162245079	2026	0	search	A_genai_knowledge_platforms	International Journal for Educational In	Contract cheating websites in Spain (2019–2024): web traffic trends during COVID-19 and the rise of generative AI
+W7212264744	2026	0	search	A_genai_knowledge_platforms	AI and Ethics	Towards a practice of knowledge commoning: academics’ ethical duties to defend Wikipedia in the age of generative AI
+W7167337748	2026	0	search	A_genai_knowledge_platforms	Decision Support Systems	Socializing online knowledge platforms: How social post features influence user knowledge contribution and mitigate the adverse impact of generative AI
+W4416028999	2025	0	search	A_genai_knowledge_platforms	Information and Software Technology	A topic-oriented trend analysis framework for Stack Exchange questions: Case study on ChatGPT related queries on Stack Overflow
+W4409040944	2025	0	search	A_genai_knowledge_platforms	Applied Economics Letters	Investments in human talent in the Age of AI: the impact of ChatGPT on search volume for coding education platforms
+W4414520451	2025	0	search	A_genai_knowledge_platforms	Data Technologies and Applications	Substitution or complementarity? Understanding the role of ChatGPT in transforming news media traffic in the United States and Taiwan
+W7203880180	2026	0	search	A_genai_knowledge_platforms	Internet Research	When platforms integrate generative AI: the dynamics of professional contribution in artist communities
+W7213558564	2026	0	search	A_genai_knowledge_platforms	Internet Research	When AI summarizes the community: how generative AI summaries shape users’ intention to engage with original content
+W7204870209	2026	0	search	A_genai_knowledge_platforms	VINE Journal of Information and Knowledg	From compliance to strategy: artificial intelligence as a knowledge translation infrastructure in business ecosystems
+W7167577835	2026	0	search	A_genai_knowledge_platforms	VINE Journal of Information and Knowledg	From substitution to complementarity: long-run dynamics of knowledge curation after generative AI
+W7126051982	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Dynamics of Human-AI Collective Knowledge on the Web: A Scalable Model and Insights for Sustainable Growth
+W7125800578	2026	0	search	A_genai_knowledge_platforms	Proceedings of the ACM on Human-Computer	Bridging Instead of Replacing Online Coding Communities with AI through Community-Enriched Chatbot Designs CSCW008
+W4416068462	2026	0	search	A_genai_knowledge_platforms	Proceedings of the ACM on Human-Computer	LLMs in Wikipedia: Investigating How LLMs Impact Participation in Knowledge Communities
+W7214069679	2026	0	search	A_genai_knowledge_platforms	Proceedings of the ACM on Human-Computer	Rule Development in Online Communities Amidst Growth and Generative AI
+W7214119576	2026	0	search	A_genai_knowledge_platforms	Proceedings of the ACM on Human-Computer	The Generative AI Divide: A Descriptive Analysis of Heterogeneous Adaptation Among Knowledge Contributors
+W7204235437	2026	0	search	A_genai_knowledge_platforms	Work	Artificial intelligence responses to toilet training questions: A reliability and readability analysis of ChatGPT and gemini applications
+W7170483989	2026	0	search	A_genai_knowledge_platforms	Information Systems Research	Unraveling the Impact: An Empirical Investigation of ChatGPT’s Exclusion from Stack Overflow
+W7135088866	2026	0	search	A_genai_knowledge_platforms	PLoS ONE	Evaluating others’ well-being: Survey experiment on fictional Japanese celebrities generated from wikipedia articles and ChatGPT
+W4409416706	2025	0	search	A_genai_knowledge_platforms	Trends in Business and Economics	A Netnographic Analysis of ChatGPT Usage in Technology Forums in The Context of Society 5.0
+W7206174580	2026	0	search	A_genai_knowledge_platforms	Evidence Based Library and Information P	Changing Patterns of Research Guide Use in the Era of Generative AI
+W7117465440	2025	0	search	A_genai_knowledge_platforms	Revista E-Tech Tecnologias para Competit	USER PERCEPTION OF BIAS IN ARTIFICIAL INTELLIGENCE: INSIGHTS FROM THE R/CHATGPT SUBREDDIT DISCUSSIONS
+W7154721300	2026	0	search	A_genai_knowledge_platforms	SSRN Electronic Journal	The Disruption of Search Engine Optimization by Large Language Models: A Mixed-Methods Analysis of the Evolving Search Landscape
+W7169729626	2026	0	search	A_genai_knowledge_platforms	Informing Science and IT Education Confe	Artificial Intelligence, Knowledge Sharing, and Organizational Performance: A Systematic Literature Review
+W7202186210	2026	0	search	A_genai_knowledge_platforms	CogITo Smart Journal	HTIX: Hate Speech Detection Using Vector Search and Generative AI
+W7212053273	2026	0	search	A_genai_knowledge_platforms	Frontiers in Psychiatry	Artificial intelligence as a source of psychotherapy-related psychoeducation: a cross-sectional content analysis of information on eye movement desensitization 
+W7165191262	2026	0	search	A_genai_knowledge_platforms	Algorithms	Publisher-Built Generative AI Assistants in U.S. Higher Education: A Critical Review and a Reproducible TRIAD–JTBD Evaluation Framework
+W7213358851	2026	0	search	A_genai_knowledge_platforms	Education Sciences	From Digital Infrastructure to Teacher Competence: The Mediating Roles of Information Competence and Knowledge Sharing in AI-Era Schools
+W4417251608	2025	0	search	A_genai_knowledge_platforms	International Journal of Business Ecosys	Evaluation of digital advancements in education and training: Incorporating generative artificial intelligence (GENAI), digital video educational platforms, and
+W4415990668	2025	0	search	A_genai_knowledge_platforms	International Journal of Interactive Mob	The Potential of Generative AI in Scientific Publishing: Exploration of Researchers' Journeys from Draft to Publication
+W7148974934	2026	0	search	A_genai_knowledge_platforms	Journal of Fiber Bioengineering and Info	Temporal Dynamics of Academic Research and Public Attention Toward Generative AI in Fashion Design
+W6910437467	2024	0	search	A_genai_knowledge_platforms	European Society for Socially Embedded T	Exploring the Ethical Dilemmas of Generative AI in Chinese Cyberspace: A Case Study of the “Cyber 10” Online Community
+W4415335859	2025	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Wikipedia in the Era of LLMs: Evolution and Risks
+W4415182296	2025	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	BLOCKS: Blockchain-supported Cross-Silo Knowledge Sharing for Efficient LLM Services
+W7118007976	2025	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Strategic Response of News Publishers to Generative AI
+W7128640141	2026	0	seed	A_genai_knowledge_platforms	arXiv (Cornell University)	From Search to GenAI Queries: Global Trends in Physics Information-Seeking Across Topics and Regions
+W7131314544	2026	0	seed	A_genai_knowledge_platforms	arXiv (Cornell University)	Impact of AI Search Summaries on Website Traffic: Evidence from Google AI Overviews and Wikipedia
+W7134073423	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Why Do You Contribute to Stack Overflow? Understanding Cross-Cultural Motivations and Usage Patterns before the Age of LLMs
+W7148376317	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	When AI Improves Answers but Slows Knowledge Creation: Matching and Dynamic Knowledge Creation in Digital Public Goods
+W7162405850	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	PAIRED: A Process-Anchored Framework for Transparent Reporting of AI Contributions in Scientific Research
+W7167643947	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	AI Overviews in Academic Search: Evaluating AI-generated Summaries of Search Results in a Domain-specific Search Engine
+W7167629921	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	The Double-edged Effect of Banning Generative AI on Online Question-and-Answer Communities: Evidence from Stack Exchange
+W7167813029	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	Answering Without Referring: How AI Search Rewrites the Web's Economic Bargain
+W7203917671	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence
+W7213412984	2026	0	search	A_genai_knowledge_platforms	arXiv (Cornell University)	The Evolution of Coordination in a Collective Intelligence System: 25 Years of English Wikipedia and the Emergence of Generative AI
+W7214935170	2026	0	seed	A_genai_knowledge_platforms	arXiv (Cornell University)	The Uneven Decline of Collective Knowledge Production: Evidence from Stack Overflow After Generative AI
+W7215065034	2026	0	seed	A_genai_knowledge_platforms	arXiv (Cornell University)	Navigating the Changing Landscape of Online Knowledge Consumption and Production in the Age of Generative AI: Evidence from Stack Overflow
+W4413207050	2025	0	search	A_genai_knowledge_platforms	UC Riverside Undergraduate Research Jour	Indigenous (Mis)Representation in Emerging LLM Research Methodologies
+W7143300165	2026	0	search	A_genai_knowledge_platforms	Journal of Information Systems Engineeri	Dropbox Dash and the Transformation of Knowledge Work: An AI‑Native Architecture for Enterprise Search, Answers, and Productivity
+W4408677219	2025	0	search	A_genai_knowledge_platforms	International Journal of Innovative Rese	Powered SQL education: Automating SQL/PLSQL question classification with LLMs and machine learning
+W7106000461	2025	0	search	A_genai_knowledge_platforms	Communications in Humanities Research	Generative AIDriven Intelligent Distribution Mechanisms in the Publishing IndustryFrom the Perspective of Cross-Platform Content Distribution
+W7148628375	2026	0	search	A_genai_knowledge_platforms	International Scientific Journal of Engi	An Exploratory Study on the Impact of Generative AI (Search Generative Experience - SGE) on Traditional SEO Strategies
+W7139135183	2026	0	search	A_genai_knowledge_platforms	Journal of Intelligent Decision Making a	AI Pair Programming and Knowledge Sharing in Developer Communities
+W7213659047	2026	0	search	A_genai_knowledge_platforms	International Journal of Modern Science 	Responsible Generative AI in Doctoral Education: Balancing Innovation, Academic Integrity, and Researcher Autonomy
+W4410208090	2025	0	snowball_forward	A_genai_knowledge_platforms	SSRN Electronic Journal	Effects of GenAI on Programming-Focused Online Knowledge Communities: A Network Science Approach
+W4401505451	2024	0	snowball_forward	A_genai_knowledge_platforms	SSRN Electronic Journal	How Generative AI Transforms Questioning Behavior on Q&A Platforms: Evidence from A Natural Experiment with Pilot Usage of ChatGPT
+W7130538413	2026	0	snowball_forward	A_genai_knowledge_platforms	Information & Management	Impact of AI-generated content restriction policy on user contribution: Evidence from an online knowledge-sharing platform
+W1994081067	2006	318	search	B_wikipedia_pageviews	Journal of American History	Can History Be Open Source? Wikipedia and the Future of the Past
+W2041137300	2013	317	seed	B_wikipedia_pageviews	Scientific Reports	Quantifying Wikipedia Usage Patterns Before Stock Market Moves
+W2038012469	2013	300	search	B_wikipedia_pageviews	PLoS ONE	The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation
+W2116190778	2009	297	search	B_wikipedia_pageviews	Journal of the American Medical Informat	Seeking Health Information Online: Does Wikipedia Matter?
+W2039986564	2011	200	snowball_forward	B_wikipedia_pageviews	Health Communication	Public Anxiety and Information Seeking Following the H1N1 Outbreak: Blogs, Newspaper Articles, and Wikipedia Visits
+W2136639813	2014	183	seed	B_wikipedia_pageviews	PLoS Computational Biology	Global Disease Monitoring and Forecasting with Wikipedia
+W2122458119	2015	167	seed	B_wikipedia_pageviews	PLoS Computational Biology	Forecasting the 2013–2014 Influenza Season Using Wikipedia
+W3084408270	2020	160	search	B_wikipedia_pageviews	Journal of Medical Internet Research	Collective Response to Media Coverage of the COVID-19 Pandemic on Reddit and Wikipedia: Mixed-Methods Analysis
+W2124563368	2015	134	search	B_wikipedia_pageviews	Journal of Medical Internet Research	Wikipedia and Medicine: Quantifying Readership, Editors, and the Significance of Natural Language
+W1969046122	2010	106	search	B_wikipedia_pageviews	Library & Information Science Research	Gender differences in information behavior concerning Wikipedia, an unorthodox information source?
+W2346262149	2016	101	search	B_wikipedia_pageviews	Biological Conservation	Using Wikipedia page views to explore the cultural importance of global reptiles
+W2109365886	2014	99	seed	B_wikipedia_pageviews	Journal of the Association for Informati	Wikipedia in the eyes of its beholders: A systematic review of scholarly research on Wikipedia readers and readership
+W2343771692	2016	98	search	B_wikipedia_pageviews	bepress Legal Repository	Chilling Effects: Online Surveillance and Wikipedia Use
+W2163799046	2010	82	search	B_wikipedia_pageviews	Information Communication & Society	YOUNG ADULTS' CREDIBILITY ASSESSMENT OF WIKIPEDIA
+W2964032223	2012	73	search	B_wikipedia_pageviews	arXiv (Cornell University)	Enhancing Navigation on Wikipedia with Social Tags
+W3044875688	2020	68	search	B_wikipedia_pageviews	Quantitative Science Studies	COVID-19 research in Wikipedia
+W3138919075	2021	60	search	B_wikipedia_pageviews	Conservation Biology	Using Wikipedia to measure public interest in biodiversity and conservation
+W2081179379	2007	58	snowball_backward	B_wikipedia_pageviews	First Monday	What is popular on Wikipedia and why?
+W2920761016	2019	54	seed	B_wikipedia_pageviews	PLoS Biology	A season for all things: Phenological imprints in Wikipedia usage and their relevance to conservation
+W2044724753	2012	53	search	B_wikipedia_pageviews	The Journal of Academic Librarianship	“You Just Type in What You Are Looking For”: Undergraduates' Use of Library Resources vs. Wikipedia
+W2738721587	2017	50	search	B_wikipedia_pageviews	Management Science	Does Copyright Affect Reuse? Evidence from Google Books and Wikipedia
+W2100265051	2007	50	search	B_wikipedia_pageviews	First Monday	What open access research can do for Wikipedia
+W2583784126	2017	45	search	B_wikipedia_pageviews	PLoS ONE	Search strategies of Wikipedia readers
+W2358000107	2016	39	search	B_wikipedia_pageviews	New Review of Hypermedia and Multimedia	How the structure of Wikipedia articles influences user navigation
+W2142854083	2014	37	search	B_wikipedia_pageviews	Journal of Medical Internet Research	Motivations for Contributing to Health-Related Articles on Wikipedia: An Interview Study
+W3088663535	2020	35	search	B_wikipedia_pageviews	Intelligent systems in accounting, finan	A Google–Wikipedia–Twitter Model as a Leading Indicator of the Numbers of Coronavirus Deaths
+W4386002539	2023	35	search	B_wikipedia_pageviews	Journal of Outdoor Recreation and Touris	Use of social media data, online reviews and wikipedia page views to measure visitation patterns of outdoor attractions
+W2027297236	2015	35	snowball_backward	B_wikipedia_pageviews	Information Communication & Society	Big data and Wikipedia research: social science knowledge across disciplinary divides
+W2754214987	2017	33	search	B_wikipedia_pageviews	International Journal of Medical Informa	What can Google and Wikipedia can tell us about a disease? Big Data trends analysis in Systemic Lupus Erythematosus
+W2257386165	2016	33	seed	B_wikipedia_pageviews	EPJ Data Science	Wikipedia traffic data and electoral prediction: towards theoretically informed models
+W2901078024	2018	32	search	B_wikipedia_pageviews	Journal of Medical Internet Research	Improving the Quality of Consumer Health Information on Wikipedia: Case Series
+W3040153984	2020	30	snowball_backward	B_wikipedia_pageviews	Social Media + Society	It Takes a Village to Combat a Fake News Army: Wikipedia’s Community and Policies for Information Literacy
+W2021150440	2015	30	snowball_backward	B_wikipedia_pageviews	Journal of Clinical Neuroscience	Wikipedia and neurological disorders
+W2210190034	2015	27	search	B_wikipedia_pageviews	PLoS ONE	The Detection of Emerging Trends Using Wikipedia Traffic Data and Context Networks
+W2403207697	2016	26	snowball_backward	B_wikipedia_pageviews	Public Understanding of Science	Temporal patterns of scientific information-seeking on Google and Wikipedia
+W109422130	2005	25	snowball_backward	B_wikipedia_pageviews	Reference & User Services Quarterly	The Democratization of Information? Wikipedia as a Reference Resource
+W3034536451	2020	25	snowball_forward	B_wikipedia_pageviews	Information Systems Research	Content Growth and Attention Contagion in Information Networks: Addressing Information Poverty on Wikipedia
+W3185329530	2021	23	search	B_wikipedia_pageviews	Journal of the Association for Informati	Information asymmetry in Wikipedia across different languages: A statistical analysis
+W3185940666	2021	22	search	B_wikipedia_pageviews	Journal for Nature Conservation	Evaluating public interest in protected areas using Wikipedia page views
+W2952239097	2017	22	search	B_wikipedia_pageviews	PLoS ONE	Wikipedia as a gateway to biomedical research: The relative distribution and use of citations in the English Wikipedia
+W2126948215	2009	22	snowball_backward	B_wikipedia_pageviews	New Media & Society	Wikipedia leeches? The promotion of traffic through a collaborative web format
+W2537164838	2016	22	snowball_forward	B_wikipedia_pageviews	Cultural Trends	Changes in cultural consumption: ethnographic collections in Wikipedia
+W3196200569	2021	21	search	B_wikipedia_pageviews	Chaos Solitons & Fractals	Multifractal behavior relationship between crypto markets and Wikipedia-Reddit online platforms
+W4224246449	2022	21	search	B_wikipedia_pageviews	Frontiers in Oncology	Brain Tumor Infodemiology: Worldwide Online Health-Seeking Behavior Using Google Trends and Wikipedia Pageviews
+W3190992863	2010	21	snowball_backward	B_wikipedia_pageviews	DOAJ (DOAJ: Directory of Open Access Jou	Forced Transparency: Corporate Image on Wikipedia and What it Means for Public Relations
+W3129701920	2021	20	search	B_wikipedia_pageviews	Scientific Reports	Volunteer contributions to Wikipedia increased during COVID-19 mobility restrictions
+W2252809934	2015	20	search	B_wikipedia_pageviews	New Media & Society	The interplay between media-for-monitoring and media-for-searching: How news media trigger searches and edits in Wikipedia
+W2980180716	2019	19	search	B_wikipedia_pageviews	Frontiers in Blockchain	Wikipedia and Cryptocurrencies: Interplay Between Collective Attention and Market Performance
+W1971329425	2010	18	search	B_wikipedia_pageviews	Reference Services Review	Information seeking with Wikipedia on the iPod Touch
+W4403750696	2024	18	search	B_wikipedia_pageviews	Science Advances	Architectural styles of curiosity in global Wikipedia mobile app readership
+W2158629579	2011	18	search	B_wikipedia_pageviews	Journal of the Royal Society of Medicine	Should doctors spurn Wikipedia?
+W1988116007	2013	18	search	B_wikipedia_pageviews	Reference & User Services Quarterly	Wikipedia: Librarians’ Perspectives on Its Use as a Reference Source
+W3203971426	2021	17	search	B_wikipedia_pageviews	Medical Science Educator	Wikipedia in Health Professional Schools: from an Opponent to an Ally
+W2756606889	2017	17	snowball_forward	B_wikipedia_pageviews	Public Opinion Quarterly	Using Wikipedia to Predict Election Outcomes
+W3017984126	2020	16	search	B_wikipedia_pageviews	Information	Cryptocurrencies Perception Using Wikipedia and Google Trends
+W4308554578	2022	15	search	B_wikipedia_pageviews	Journal of Nursing Scholarship	Global utilization of online information for substance use disorder: An infodemiological study of Google and Wikipedia from 2004 to 2022
+W2942520006	2019	15	search	B_wikipedia_pageviews	Journal of the American Musicological So	Review: Wikipedia: The Free Encyclopedia
+W4317930654	2023	15	search	B_wikipedia_pageviews	International Journal of Environmental R	Using Google Trends and Wikipedia to Investigate the Global Public’s Interest in the Pancreatic Cancer Diagnosis of a Celebrity
+W2607005852	2017	14	search	B_wikipedia_pageviews	Psychological Research	Biases in the production and reception of collective knowledge: the case of hindsight bias in Wikipedia
+W4383532320	2023	14	search	B_wikipedia_pageviews	Journal of Computational Social Science	Between news and history: identifying networked topics of collective attention on Wikipedia
+W2786411673	2018	14	search	B_wikipedia_pageviews	Multiple Sclerosis and Related Disorders	Why do people search Wikipedia for information on multiple sclerosis?
+W2969250723	2019	14	search	B_wikipedia_pageviews	PLoS ONE	Sepsis information-seeking behaviors via Wikipedia between 2015 and 2018: A mixed methods retrospective observational study
+W2023099277	2009	13	search	B_wikipedia_pageviews	Disability and Rehabilitation Assistive 	Editing Wikipedia content by screen reader: Easier interaction with the Accessible Rich Internet Applications suite
+W3007034213	2020	13	search	B_wikipedia_pageviews	BMJ Open	Adding evidence of the effects of treatments into relevant Wikipedia pages: a randomised trial
+W4210509862	2022	13	snowball_forward	B_wikipedia_pageviews	NeoBiota	Blacklists do not necessarily make people curious about invasive alien species. A case study with Bayesian structural time series and Wikipedia searches about i
+W4315977505	2023	12	search	B_wikipedia_pageviews	ACM Transactions on the Web	A Large-Scale Characterization of How Readers Browse Wikipedia
+W3035455168	2020	12	search	B_wikipedia_pageviews	arXiv (Cornell University)	Collective response to the media coverage of COVID-19 Pandemic on Reddit and Wikipedia
+W1972837018	2014	11	search	B_wikipedia_pageviews	Pennsylvania Libraries Research & Practi	Increasing the Discoverability of Digital Collections Using Wikipedia: The Pitt Experience
+W2098637096	2012	11	search	B_wikipedia_pageviews	arXiv (Cornell University)	Modeling and predicting page-view dynamics on Wikipedia
+W3167053432	2021	10	search	B_wikipedia_pageviews	Journal of Pragmatics	Popular digital knowledge dissemination platforms: Evaluating the pragmatic professional credibility from Wikipedia to Academia.edu and ResearchGate
+W2792309544	2018	10	search	B_wikipedia_pageviews	Epilepsy & Behavior	Italian Wikipedia and epilepsy: An infodemiological study of online information-seeking behavior
+W4225151150	2022	10	search	B_wikipedia_pageviews	International Interactions	Click, click boom: Using Wikipedia data to predict changes in battle-related deaths
+W4306319149	2022	10	snowball_forward	B_wikipedia_pageviews	Data & Knowledge Engineering	Wikipedia searches and the epidemiology of infectious diseases: A systematic review
+W2765562208	2017	10	snowball_forward	B_wikipedia_pageviews	First Monday	Wikipedia: An opportunity to rethink the links between sources' credibility, trust, and authority
+W1970609011	2012	9	search	B_wikipedia_pageviews	Proceedings of the American Society for 	“I just Wikipedia it”: Information behavior of first‐year writing students
+W4200634498	2022	9	search	B_wikipedia_pageviews	EPJ Data Science	A large scale study of reader interactions with images on Wikipedia
+W3158094656	2021	9	search	B_wikipedia_pageviews	Proceedings of the ACM on Human-Computer	Understanding Wikipedia Practices Through Hindi, Urdu, and English Takes on an Evolving Regional Conflict
+W2093796725	2011	9	search	B_wikipedia_pageviews	First Monday	Evaluating WikiTrust: A trust support tool for Wikipedia
+W2013033002	2010	9	snowball_backward	B_wikipedia_pageviews	Libri	Librarian Perception of Wikipedia: Threats or Opportunities for Librarianship?
+W3012173651	2020	9	snowball_forward	B_wikipedia_pageviews	Environmental Communication	Eyeing CRISPR on Wikipedia: Using Eye Tracking to Assess What Lay Audiences Look for to Learn about CRISPR and Genetic Engineering
+W3175544000	2021	9	snowball_forward	B_wikipedia_pageviews	Information Communication & Society	Wikipedia: a challenger’s best friend? Utilizing information-seeking behaviour patterns to predict US congressional elections
+W4246642413	2010	8	search	B_wikipedia_pageviews	Science & Technology Libraries	Wikipedia, Scholarpedia , and References to Books in the Brainand Behavioral Sciences: A Comparison of Cited Sourcesand Recommended Readings in Matching Free On
+W2021131071	2014	8	search	B_wikipedia_pageviews	Journal of Documentation	Supporting navigation in Wikipedia by information visualization: extended evaluation measures
+W1492279633	2012	8	search	B_wikipedia_pageviews	Canadian Journal of Learning and Technol	Cognitive and Social Factors Affecting the Use of Wikipedia and Information Seeking / Les facteurs cognitifs et sociaux déterminant l'utilisation de Wikipedia e
+W4224141692	2022	8	search	B_wikipedia_pageviews	Journal of Medical Internet Research	Readability of English, German, and Russian Disease-Related Wikipedia Pages: Automated Computational Analysis
+W2766568549	2017	8	search	B_wikipedia_pageviews	Statistical Journal of the IAOS	Using big data from Wikipedia page views for official tourism statistics
+W4383104450	2023	8	search	B_wikipedia_pageviews	Frontiers in Big Data	Wikipedia page views for health research: a review
+W2610678223	2017	8	search	B_wikipedia_pageviews	Online Journal of Public Health Informat	Wikipedia: a tool to monitor seasonal diseases trends?
+W3193846972	2021	8	snowball_forward	B_wikipedia_pageviews	Journal of Documentation	Wikipedia: an unexplored resource for understanding consumer health information behaviour in library and information science scholarship
+W4224128924	2022	7	search	B_wikipedia_pageviews	Intelligent systems in accounting, finan	Wikipedia pageviews as investors’ attention indicator for Nasdaq
+W3167530318	2021	7	search	B_wikipedia_pageviews	Journal of Political Science Education	Does a Wikipedia-based assignment increase self-efficacy among female students? A qualified maybe
+W2263727516	2010	7	search	B_wikipedia_pageviews	Journal of Forestry	Wikipedia as a Tool for Forestry Outreach
+W4327677047	2023	7	search	B_wikipedia_pageviews	JMIR Formative Research	Public Awareness of the Fencing Response as an Indicator of Traumatic Brain Injury: Quantitative Study of Twitter and Wikipedia Data
+W3042619955	2020	7	search	B_wikipedia_pageviews	Informatics	Investigation of Women’s Health on Wikipedia—A Temporal Analysis of Women’s Health Topic
+W2408019826	2014	7	search	B_wikipedia_pageviews		{{citation needed}}: Filling in Wikipedia's Citation Shaped Holes.
+W4388489118	2023	7	snowball_backward	B_wikipedia_pageviews	PLoS ONE	Poor attention: The wealth and regional gaps in event attention and coverage on Wikipedia
+W4388991208	2023	6	search	B_wikipedia_pageviews	Journal of the Association for Informati	From academic to media capital: To what extent does the scientific reputation of universities translate into Wikipedia attention?
+W1950041595	2013	6	search	B_wikipedia_pageviews	Proceedings of the American Society for 	Does formal authority still matter in the age of wisdom of crowds?: Perceived credibility, peer and professor endorsement in relation to college students' wikip
+W4327907394	2023	6	search	B_wikipedia_pageviews	Issues in Mental Health Nursing	The Worldwide Utilization of Online Information about Dementia from 2004 to 2022: An Infodemiological Study of Google and Wikipedia
+W3043881508	2020	6	search	B_wikipedia_pageviews	Global Knowledge, Memory and Communicati	Usage of and learning from Wikipedia: a study of university students in Pakistan
+W3107394260	2020	6	search	B_wikipedia_pageviews	Journal of Information Science	Testing the validity of Wikipedia categories for subject matter labelling of open-domain corpus data
+W4291221205	2022	6	search	B_wikipedia_pageviews	Research & Politics	Using party press releases and Wikipedia page view data to analyse developments and determinants of parties’ issue prevalence: Evidence for the right-wing popul
+W3095165476	2021	6	search	B_wikipedia_pageviews	PLoS ONE	A general method for estimating the prevalence of influenza-like-symptoms with Wikipedia data
+W3092976828	2020	6	search	B_wikipedia_pageviews	Comparative Critical Studies	World Literature According to Wikipedia Popularity and Book Translations: The Case of Modern Italian Poets
+W2951465152	2018	6	seed	B_wikipedia_pageviews	arXiv (Cornell University)	Why the World Reads Wikipedia: Beyond English Speakers
+W2964721827	2020	6	search	B_wikipedia_pageviews	The MIT Press eBooks	Why Do I Have Authority to Edit the Page? The Politics of User Agency and Participation on Wikipedia
+W2977590229	2020	6	snowball_forward	B_wikipedia_pageviews		Wikipedia and Wikis
+W4200212040	2021	5	search	B_wikipedia_pageviews	Journal of Elections Public Opinion and 	Measuring the name recognition of politicians through Wikipedia
+W2076439536	2014	5	search	B_wikipedia_pageviews	Culture Unbound Journal of Current Cultu	How Readers Shape the Content of an Encyclopedia: A Case Study Comparing the German Meyers Konversationslexikon (1885-1890) with Wikipedia (2002-2013)
+W2916878779	2019	5	search	B_wikipedia_pageviews	Entropy	Multiscale Entropy Analysis of Page Views: A Case Study of Wikipedia
+W2955617503	2020	5	search	B_wikipedia_pageviews	RWTH Publications (RWTH Aachen)	Different Topic, Different Traffic: How Search and Navigation Interplay on Wikipedia
+W2082442149	2008	5	snowball_backward	B_wikipedia_pageviews	Theatre history studies	eBay, Wikipedia, and the Future of the Footnote
+W3159349753	2021	4	search	B_wikipedia_pageviews	Food Culture & Society	Mining halal food search pathways down the Wikipedia’s rabbit hole
+W4385767521	2023	4	search	B_wikipedia_pageviews	Journal of Librarianship and Information	Wikipedia and academia: University faculty patterns of use and perceptions of credibility
+W2269962106	2014	4	search	B_wikipedia_pageviews	HortTechnology	Wikipedia As a Tool for Disseminating Knowledge of (Agro)Biodiversity
+W2942566708	2019	4	search	B_wikipedia_pageviews	First Monday	Breaking news on Wikipedia: collaborating, collating and competing
+W3121869888	2019	4	snowball_forward	B_wikipedia_pageviews	SSRN Electronic Journal	Wikipedia and Digital Currencies: Interplay Between Collective Attention and Market Performance
+W3093937638	2020	3	search	B_wikipedia_pageviews	Journal of Documentation	Image-based information: paintings in Wikipedia
+W2938084301	2019	3	search	B_wikipedia_pageviews	ACM Transactions on Interactive Intellig	Toward Universal Spatialization Through Wikipedia-Based Semantic Enhancement
+W4220732864	2022	3	search	B_wikipedia_pageviews	Communication & Society	The role of Wikipedia in the dissemination of new knowledge: Analysis of the entry «desinformación» as a changeable concept
+W3126611926	2021	3	search	B_wikipedia_pageviews	Neurology International	Public Interest in Neurological Diseases on Wikipedia during Coronavirus Disease (COVID-19) Pandemic
+W3179007895	2021	3	search	B_wikipedia_pageviews	Área Abierta	The Role of Local Content in Wikipedia: A Study on Reader and Editor Engagement
+W2019416304	2012	3	search	B_wikipedia_pageviews	International Convention on Information 	Analyzing user click paths in a Wikipedia navigation game
+W388023341	2012	3	search	B_wikipedia_pageviews	ProQuest LLC eBooks	High tempo knowledge collaboration in wikipedia's coverage of breaking news events
+W4390938975	2024	3	snowball_backward	B_wikipedia_pageviews	Civic Sociology	Wikipedia and the Outsider Within: Black Feminism and Social Inequality in Knowledge Sharing
+W3207641192	2021	2	search	B_wikipedia_pageviews	Proceedings of the Association for Infor	Seeking Health Information in Wikipedia and Readers' Satisfaction
+W4282927794	2022	2	search	B_wikipedia_pageviews	Journal of Consumer Health on the Intern	Health Information on Wikipedia: Can You Trust It?
+W2791172637	2011	2	search	B_wikipedia_pageviews	Journal of Advertising Education	Wikipedia's Role and Value in the Advertising Classroom
+W2942100100	2018	2	search	B_wikipedia_pageviews	Memoria di Shakespeare. A Journal of Sha	The Global Popularity of William Shakespeare in 303 Wikipedias
+W4392550754	2024	2	search	B_wikipedia_pageviews	Biblioteka	The Most Cited Scientific Information Sources in Wikipedia Articles Across Various Languages
+W1590612941	2012	2	search	B_wikipedia_pageviews	Text and Talk	Lay metalanguage on grammatical variation and neutrality in Wikipedia's entry for Che Guevara
+W3118139055	2020	2	search	B_wikipedia_pageviews	MIDDLE BLACK SEA JOURNAL OF HEALTH SCIEN	The Role of Wikipedia in providing information on coronavirus to Societies during the COVID-19 Pandemic
+W4379795066	2023	2	search	B_wikipedia_pageviews	Journal of Medical Internet Research	A Study on User-Oriented Subjects of Child Abuse on Wikipedia: Temporal Analysis of Wikipedia History Versions and Traffic Data
+W4389831585	2023	2	search	B_wikipedia_pageviews	El Profesional de la Informacion	Wikipedia gender gap: a scoping review
+W2972273131	2019	2	search	B_wikipedia_pageviews	Известия Русского географического общест	Wikipedia as a data source for studies of collective mental representations of geographical objects (examplified by the cities of the Russian Arctic zone)
+W3096912097	2020	2	search	B_wikipedia_pageviews	SSRN Electronic Journal	Wikipedia: A Challenger’s Best Friend? Utilising Information-seeking Behaviour Patterns to Predict US Congressional Elections
+W3081957140	2020	2	search	B_wikipedia_pageviews	First Monday	A decade of writing on Wikipedia
+W2286208781	2012	2	search	B_wikipedia_pageviews		OpenGeist: Insight in the Stream of Page Views on Wikipedia
+W3088727439	2020	2	search	B_wikipedia_pageviews		Public Subject Attention via Wikipedia Page View Statistics [R package wikipediatrend version 2.1.6]
+W7160390745	2026	2	snowball_backward	B_wikipedia_pageviews	Computer	Wikipedia at 25: The Encyclopedia That Might Not Last
+W1978598836	2012	2	snowball_forward	B_wikipedia_pageviews	Proceedings of the American Society for 	Gender differences concerning Wikipedia: A follow‐up study
+W2013265081	2007	1	search	B_wikipedia_pageviews	Eos	Wikipedia's role in science education and outreach
+W3004860590	2020	1	search	B_wikipedia_pageviews	Quarterly Journal of Speech	Textual Curation: Authorship, Agency, and Technology in Wikipedia and Chambers’s Cyclopædia
+W2488464821	2012	1	search	B_wikipedia_pageviews	Cutting-edge technologies in higher educ	Writing Radical Lives: Undergraduates Publishing Activist Biographies on Wikipedia
+W4416008394	2025	1	search	B_wikipedia_pageviews	Social Science Computer Review	Media Visibility and Information-Seeking: Analyzing the Impact of News Coverage on Wikipedia Pageviews of Estonian MPs (2015–2023)
+W4312683544	2022	1	search	B_wikipedia_pageviews	James Joyce quarterly	The Wikipedia Popularity of James Joyce
+W4396953587	2024	1	search	B_wikipedia_pageviews	Advances in IT personnel and project man	A Wikipedia Narration of the GameStop Short Squeeze
+W2981896332	2019	1	search	B_wikipedia_pageviews	Information	Analysis of Data Persistence in Collaborative Content Creation Systems: The Wikipedia Case
+W2954434739	2019	1	search	B_wikipedia_pageviews	Biodiversity Information Science and Sta	Wikipedia, a Tool for Knowledge Dissemination on Invasive Species
+W4394657423	2012	1	search	B_wikipedia_pageviews	arXiv (Cornell University)	Modeling page-view dynamics on Wikipedia
+W2560824749	2016	1	search	B_wikipedia_pageviews	arXiv (Cornell University)	Wikiwhere: An interactive tool for studying the geographical provenance of Wikipedia references
+W4386392002	2023	1	search	B_wikipedia_pageviews	arXiv (Cornell University)	Publishing Wikipedia usage data with strong privacy guarantees
+W2469333040	2016	1	search	B_wikipedia_pageviews	ISPRS annals of the photogrammetry, remo	WIKIPEDIA ENTRIES AS A SOURCE OF CAR NAVIGATION LANDMARKS
+W1847566543	2015	1	search	B_wikipedia_pageviews	Online Journal of Public Health Informat	Wikipedia Usage Estimates Prevalence of Influenza-like Illness in Near Real-Time
+W1957247480	2013	1	search	B_wikipedia_pageviews	Polymath	Wikipedia and American Women Writers: Closing the Gender Gap through Collaborative Learning
+W70177204	2013	1	search	B_wikipedia_pageviews		Maintaining the efficiency of open production systems at scale: a case study of wikipedia
+W3210839044	2021	1	snowball_forward	B_wikipedia_pageviews	Kazan medical journal	Improving the Russian-language Wikipedia articles on medicines using new knowledge Cochrane
+W4405807748	2024	1	snowball_forward	B_wikipedia_pageviews	Computers in Human Behavior Reports	A dual-focus analysis of wikipedia traffic and linguistic patterns in public risk awareness Post-Charlie Hebdo
+W4417477073	2025	0	search	B_wikipedia_pageviews	Journal of Chemical Information and Mode	Molecules in Wikipedia: Analysis of Their Chemical Diversity, Functional Roles, and Popularity
+W7220662193	2026	0	search	B_wikipedia_pageviews	Scientific Reports	Time series modeling and anomaly removal for Wikipedia web traffic prediction
+W4398161507	2024	0	search	B_wikipedia_pageviews	postmedieval a journal of medieval cultu	Forging the medieval on Wikipedia
+W4411054845	2025	0	search	B_wikipedia_pageviews	Holocaust Studies	Fake news, an internet troll, and a conspiracy theory about ‘Wikipedia's Intentional Distortion of the History of the Holocaust’
+W4387098963	2023	0	search	B_wikipedia_pageviews	Journal of Documentation	Grappling with polarization on Wikipedia: the case of the biography of Ferdinand E. Marcos
+W4407267034	2025	0	search	B_wikipedia_pageviews	The Journal of Mental Health Training Ed	Utilization of online information about schizophrenia from 2004 to 2022: an infodemiological analysis of Google and Wikipedia
+W4401343475	2024	0	search	B_wikipedia_pageviews	Library Hi Tech News	Transforming Wikipedia text into audio through machine learning
+W7083191469	2026	0	search	B_wikipedia_pageviews	Proceedings of the ACM on Human-Computer	The Persistence of Retracted Papers on Wikipedia
+W4404555612	2024	0	search	B_wikipedia_pageviews	SAGE Open	Global Utilization of Online Information for Anxiety Disorders From 2004 to 2022: An Infodemiological Study of Google and Wikipedia
+W2270341003	2015	0	search	B_wikipedia_pageviews	International Journal of Advanced Comput	Quantifying the Relationship between Hit Count Estimates and Wikipedia Article Traffic
+W4416448102	2025	0	search	B_wikipedia_pageviews	Libri	Perceived Quality of Health Information on Wikipedia: A Sociodemographic Perspective
+W4412615257	2025	0	search	B_wikipedia_pageviews	Вестник Пермского университета. Российск	Linguistic Manipulations Used to Create a Negative Image of Russia in the Mass Consciousness of European Residents: Using the Example of a Wikipedia Text
+W3126200538	2020	0	search	B_wikipedia_pageviews		Web usage Mining on usage Patterns of Wikipedia Users
+W4411494191	2025	0	search	B_wikipedia_pageviews	Journal of Information and Knowledge	Revision Trends and Quality Analysis of Articles on National Libraries of G20 Countries in Wikipedia
+W4396875638	2024	0	search	B_wikipedia_pageviews	International Journal of Science and Res	The Role of Wikipedia as a Reference for Students: A Critical Examination
+W4382629066	2023	0	search	B_wikipedia_pageviews	Journal of Cultural Analytics	The Wikipedia Republic of Literary Characters
+W4406244913	2025	0	search	B_wikipedia_pageviews	ACTA Pharmaceutica Sciencia	What can google trends and wikipedia- pageview analysis tell US about sustainability and sustainable diets?
+W7126417828	2025	0	search	B_wikipedia_pageviews	Naukovì zapiski Nacìonalʹnogo unìversite	TEXT AND NARRATIVE: COSSACK RULERS IN UKRAINIAN AND POLISH WIKIPEDIA
+W4200534475	2021	0	search	B_wikipedia_pageviews	Scientific journal “Library Science Reco	Promotion of the specialty "Information, library and archival affairs" in the german Wikipedia.
+W4414264215	2025	0	search	B_wikipedia_pageviews	Informatics	The Impact of the 2023 Wikipedia Redesign on User Experience
+W7154968731	2026	0	search	B_wikipedia_pageviews	Tourism and Hospitality	Open-Data Nowcasting of Ecuador’s International Tourist Arrivals: Regularized Dynamic Regression with Wikipedia Attention and Copernicus Land Reanalysis Climate
+W2795714725	2018	0	search	B_wikipedia_pageviews	arXiv (Cornell University)	A Wikipedia-based approach to profiling activities on social media
+W2994720866	2019	0	search	B_wikipedia_pageviews	arXiv (Cornell University)	Dynamical systems' models for the prediction of multi-variable time series. Wikipedia's traffic example
+W3115275775	2020	0	search	B_wikipedia_pageviews	arXiv (Cornell University)	Measuring University Impact: Wikipedia approach
+W4321392366	2023	0	search	B_wikipedia_pageviews	arXiv (Cornell University)	The role of online attention in the supply of disinformation in Wikipedia
+W7119840780	2025	0	search	B_wikipedia_pageviews	Edward Elgar Publishing eBooks	Navigating knowledge: patterns and insights from Wikipedia consumption
+W4416255835	2025	0	search	B_wikipedia_pageviews	arXiv (Cornell University)	WikiGap: Promoting Epistemic Equity by Surfacing Knowledge Gaps Between English Wikipedia and other Language Editions
+W7110894059	2025	0	search	B_wikipedia_pageviews	arXiv (Cornell University)	"Having Confidence in My Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data
+W7166661378	2026	0	search	B_wikipedia_pageviews	arXiv (Cornell University)	Behind the Content: Wikipedia Mobile Views and Tourism Activity
+W4409820297	2025	0	search	B_wikipedia_pageviews	EDU-KATA	Linguistic Analysis of Soekarno's Biography on Wikipedia
+W4400174052	2024	0	search	B_wikipedia_pageviews	Journal of Educational Research and Poli	The Role of Wikipedia as a Student Reference: A Critical Examination
+W4405974105	2024	0	search	B_wikipedia_pageviews	International Journal for Electronic Cri	A Novel Methodology for Classifying Wikipedia Articles: Insights into Digital Forensics and Content Integrity
+W3173854571	2021	0	search	B_wikipedia_pageviews	Discourse and Interaction	IN VARIETATE CONCORDIA? WIKIPEDIA EDITOR DEBATES ABOUT EU CULTURE
+W1898692486	2015	0	search	B_wikipedia_pageviews	Arrow - TU Dublin (Technological Univers	Can Wikipedia Article Traffic Statistics be Used to Verify a Technical Indicator? An Exploration into the Correlation Between Wikipedia Article Traffic Statisti
+W2607495222	2007	0	search	B_wikipedia_pageviews		Supporting navigation in large document corpora of online communities: A case-study on the categorization of the english wikipedia
+W2737554305	2009	0	search	B_wikipedia_pageviews		Willinsky on Wikipedia
+W2910213180	2018	0	search	B_wikipedia_pageviews	CentAUR (University of Reading)	Consensus Theory and relevance judgment Model : a test case of English Wikipedia
+W379864350	2008	0	search	B_wikipedia_pageviews	Institutional Repositories DataBase (IRD	Shards, Shells, and Wikipediasts : The Virtual Fate of Japan Archaeology
+W4323304667	2023	0	search	B_wikipedia_pageviews	Research Square	Generalization in human pathfinding as a stochastic navigation process on Wikipedia
+W4304607633	2022	0	snowball_forward	B_wikipedia_pageviews	Current Psychology	What’s hot and what's not in lay psychology: Wikipedia’s most-viewed articles
+W4398254506	2024	0	snowball_forward	B_wikipedia_pageviews	Clinical and Experimental Emergency Medi	Wikipedia is a highly accessed although unreliable source of knowledge on cardiopulmonary resuscitation
+W3171009139	2020	0	snowball_forward	B_wikipedia_pageviews	Springer eBooks	This Chapter Is a Stub: Wikipedia as a Disruptive Innovation
+W4413544064	2024	0	snowball_forward	B_wikipedia_pageviews		Going down a Wikipedia rabbit hole? Science says you’re one of these three types
+W3112046458	2020	387	search	C_student_information_seeking	Journal of Medical Internet Research	Digital Health Literacy and Web-Based Information-Seeking Behaviors of University Students in Germany During the COVID-19 Pandemic: Cross-sectional Survey Study
+W2172171860	2005	305	search	C_student_information_seeking	Illinois Digital Environment for Access 	Student Searching Behavior and the Web: Use of Academic Resources and Google
+W2008301065	2011	293	search	C_student_information_seeking	Journal of School Health	Adolescent Health Literacy: The Importance of Credible Sources for Online Health Information
+W2079239760	2010	244	seed	C_student_information_seeking	First Monday	How today’s college students use Wikipedia for course-related research
+W2132668619	2014	189	search	C_student_information_seeking	College & Research Libraries	Undergraduates’ Use of Social Media as Information Sources
+W1596369084	2013	179	search	C_student_information_seeking	SSRN Electronic Journal	Lessons Learned: How College Students Seek Information in the Digital Age
+W4235537536	2009	178	search	C_student_information_seeking	Journal of the American Society for Info	How and why do college students use Wikipedia?
+W4399604220	2024	129	search	C_student_information_seeking	Computers and Education Artificial Intel	Cheating in the age of generative AI: A high school survey study of cheating behaviors before and after the release of ChatGPT
+W1427012839	2015	129	search	C_student_information_seeking	The Internet and Higher Education	Students' use of Wikipedia as an academic resource — Patterns of use and perceptions of usefulness
+W1973353931	2011	126	search	C_student_information_seeking	The Internet and Higher Education	Convenience or credibility? A study of college student online research behaviors
+W2077370236	2008	117	search	C_student_information_seeking	Computers & Education	Youth and the Internet: Uses and practices in the home
+W1835842472	2012	111	search	C_student_information_seeking	British Journal of Educational Technolog	What leads students to adopt information from W ikipedia? An empirical investigation into the role of trust and information usefulness
+W2117493442	2010	108	search	C_student_information_seeking	Computers & Education	A five-year study of on-campus Internet use by undergraduate biomedical students
+W2192632730	2015	108	search	C_student_information_seeking	Cyberpsychology Behavior and Social Netw	Relationship Between Parental and Adolescent eHealth Literacy and Online Health Information Seeking in Taiwan
+W4238399542	2009	107	search	C_student_information_seeking	Journal of the American Society for Info	Cognitive economy and satisficing in information seeking: A longitudinal study of undergraduate information behavior
+W4416008628	2025	106	search	C_student_information_seeking	JAMA Network Open	Use of Generative AI for Mental Health Advice Among US Adolescents and Young Adults
+W2269052535	2015	103	search	C_student_information_seeking	Computers in Human Behavior	Predicting adolescent Internet addiction: The roles of demographics, technology accessibility, unwillingness to communicate and sought Internet gratifications
+W3107442636	2020	103	search	C_student_information_seeking	International Journal of Environmental R	Associations between COVID-19-Related Digital Health Literacy and Online Information-Seeking Behavior among Portuguese University Students
+W3154752404	2021	99	search	C_student_information_seeking	BMC Public Health	Online health information-seeking behaviors and skills of Chinese college students
+W2007956785	2011	97	search	C_student_information_seeking	First Monday	How college students use the Web to conduct everyday life research
+W1873831729	2009	91	snowball_backward	C_student_information_seeking	Borås Academic Digital Archive (Universi	In Search of Credibility: Pupils' Information Practices in Learning Environments.
+W3192965526	2021	89	search	C_student_information_seeking	International Journal of Environmental R	Facing the Growing COVID-19 Infodemic: Digital Health Literacy and Information-Seeking Behaviour of University Students in Slovenia
+W2051296455	2011	88	search	C_student_information_seeking	Proceedings of the American Society for 	Social media as information source: Undergraduates' use and evaluation behavior
+W2297449322	2015	84	search	C_student_information_seeking	Computers & Education	Without a map: College access and the online practices of youth from low-income communities
+W2045998736	2007	84	search	C_student_information_seeking	BMC Public Health	The Internet as a source of reproductive health information among adolescent girls in an urban city in Nigeria
+W4400982693	2024	81	search	C_student_information_seeking	Journal of Adolescent & Adult Literacy	How do students use ChatGPT as a writing support?
+W1498721655	2013	78	search	C_student_information_seeking	Journal of the American Society for Info	Adolescents' information‐creating behavior embedded in digital M edia practice using scratch
+W4224076430	2022	75	search	C_student_information_seeking	PLoS ONE	Digital health literacy, online information-seeking behaviour, and satisfaction of Covid-19 information among the university students of East and South-East Asi
+W4406474705	2025	71	search	C_student_information_seeking	Interactive Learning Environments	The effectiveness of ChatGPT in assisting high school students in programming learning: evidence from a quasi-experimental research
+W2144701351	2007	71	search	C_student_information_seeking	The turkish online journal of educatio	University Undergraduate Students' Information Seeking Behaviour: Implications for Quality in Higher Education in Africa.
+W2150430548	2007	69	search	C_student_information_seeking	Health Education Research	Health information seeking among Mbararan adolescents: results from the Uganda Media and You survey
+W2028012421	2012	67	search	C_student_information_seeking	Journal of Documentation	Modelling information‐seeking behaviour of graduate students at Kuwait University
+W4401966855	2024	67	search	C_student_information_seeking	Frontiers in Artificial Intelligence	Adolescents’ use and perceived usefulness of generative AI for schoolwork: exploring their relationships with executive functioning and academic achievement
+W2157814774	2015	66	search	C_student_information_seeking	The Journal of Academic Librarianship	Demographic Differences in International Students' Information Source Uses and Everyday Information Seeking Challenges
+W2900446172	2018	66	search	C_student_information_seeking	PLoS ONE	A survey on adolescent health information seeking behavior related to high-risk behaviors in a selected educational district in Isfahan
+W2013267138	2013	64	search	C_student_information_seeking	Journal of Health Communication	Online Health Information Seeking Among Jewish and Arab Adolescents in Israel: Results From a National School Survey
+W4367330207	2023	64	search	C_student_information_seeking	IEEE Intelligent Systems	Rethinking Homework in the Age of Artificial Intelligence
+W4220726929	2022	64	search	C_student_information_seeking	International Journal of Environmental R	Digital Health Literacy and Information-Seeking Behavior among University College Students during the COVID-19 Pandemic: A Cross-Sectional Study from Denmark
+W1591079225	2012	64	search	C_student_information_seeking	The international journal of education	Student Perceptions of Wikipedia as a Learning Tool for Educational Leaders
+W2082259901	2014	62	search	C_student_information_seeking	Computers & Education	Actual friends matter: An internet skills perspective on teens' informal academic collaboration on Facebook
+W1981218307	2008	60	search	C_student_information_seeking	Journal of Consumer Health on the Intern	Reaching and Teaching Teens: Adolescent Health Literacy and the Internet
+W1854537555	2014	60	search	C_student_information_seeking	The Florida AI Research Society	Automated Classification of Stance in Student Essays: An Approach Using Stance Target Information and the Wikipedia Link-Based Measure
+W2469780537	2015	56	search	C_student_information_seeking	Emerald Group Publishing Limited eBooks	What is New in the Digital Divide? Understanding Internet Use by Teenagers from Different Social Backgrounds
+W4391545751	2024	56	search	C_student_information_seeking	International Journal of Advanced Comput	Students' Perception of ChatGPT Usage in Education
+W2052029271	2014	55	search	C_student_information_seeking	portal Libraries and the Academy	Google vs. the Library (Part II): Student Search Patterns and Behaviors when Using Google and a Federated Search Tool
+W2319964538	2008	55	search	C_student_information_seeking	College & Research Libraries	Information Seeking through Students’ Eyes: The MIT Photo Diary Study
+W4408053264	2025	53	search	C_student_information_seeking	Behavioral Sciences	AI as the Therapist: Student Insights on the Challenges of Using Generative AI for School Mental Health Frameworks
+W42851664	2006	52	search	C_student_information_seeking		Assessing Online Learning: What One University Learned about Student Success, Persistence, and Satisfaction
+W2884487981	2018	51	search	C_student_information_seeking	Higher Education	Information-seeking behaviour and academic success in higher education: Which search strategies matter for grade differences among university students and how d
+W4376117451	2023	50	search	C_student_information_seeking	International Journal of Advanced Natura	ChatGPT: A new study tool shaping the future for high school students
+W4409524257	2025	49	search	C_student_information_seeking	British Journal of Educational Technolog	Development of a generative AI ‐powered teachable agent for middle school mathematics learning: A design‐based research study
+W3202901477	2021	49	search	C_student_information_seeking	Frontiers in Digital Health	Digital Health Literacy About COVID-19 as a Factor Mediating the Association Between the Importance of Online Information Search and Subjective Well-Being Among
+W2109486592	2012	48	search	C_student_information_seeking	Information Processing & Management	College students’ credibility judgments and heuristics concerning Wikipedia
+W4399665471	2024	48	search	C_student_information_seeking	Evidence Based Library and Information P	A Survey on Student Use of Generative AI Chatbots for Academic Research
+W3037980804	2020	47	search	C_student_information_seeking	International Journal of Information Man	The role of digital information use on student performance and collaboration in marginal universities
+W3099932286	2020	46	search	C_student_information_seeking	Frontiers in Education	How Do University Students’ Web Search Behavior, Website Characteristics, and the Interaction of Both Influence Students’ Critical Online Reasoning?
+W4409352105	2025	46	search	C_student_information_seeking	Journal of Educational Computing Researc	Effects of Generative Artificial Intelligence on K-12 and Higher Education Students’ Learning Outcomes: A Meta-Analysis
+W2076439854	2008	45	search	C_student_information_seeking	Teaching of Psychology	Wikipedia and Psychology: Coverage of Concepts and Its Use by Undergraduate Students
+W4396525721	2024	45	search	C_student_information_seeking	JMIR Medical Education	Understanding Health Care Students’ Perceptions, Beliefs, and Attitudes Toward AI-Powered Language Models: Cross-Sectional Study
+W4296965649	2022	43	search	C_student_information_seeking	The Journal of Academic Librarianship	Online health information seeking and digital health literacy among information and learning resources undergraduate students
+W2936472711	2019	42	search	C_student_information_seeking	Journal of the Association for Informati	Modeling the online health information seeking process: Information channel selection among university students
+W2119143017	2013	42	search	C_student_information_seeking	Computers in Human Behavior	Millennial engineers: Digital media and information ecology of engineering students
+W3195758245	2021	42	search	C_student_information_seeking	AERA Open	Associations Between Online Instruction in Lateral Reading Strategies and Fact-Checking COVID-19 News Among College Students
+W2028803091	2005	41	search	C_student_information_seeking	Research Strategies	The information behaviors and preferences of undergraduate students
+W1922316564	2015	41	search	C_student_information_seeking	Scandinavian Journal of Educational Rese	“You get what you need” : A study of students’ attitudes towards using Wikipedia when doing school assignments
+W2010612940	2008	41	search	C_student_information_seeking	New Review of Children s Literature and 	Children as information seekers: what researchers tell us
+W2253794382	2008	41	search	C_student_information_seeking	Communications in Information Literacy	Research Students in the Electronic Age: Impacts of Changing Information Behavior on Information Literacy Needs
+W4406241185	2025	40	search	C_student_information_seeking	Digital Experiences in Mathematics Educa	Teachers’ Beliefs and Practices About the Potential of ChatGPT in Teaching Mathematics in Secondary Schools
+W4407750016	2025	39	search	C_student_information_seeking	Education and Information Technologies	A cross-sectional look at teacher reactions, worries, and professional development needs related to generative AI in an urban school district
+W2912288336	2018	39	search	C_student_information_seeking	Comunicar	Google or Gutenberg Generation: Chilean university students’ reading habits and reading purposes
+W4403140518	2024	38	search	C_student_information_seeking	Computer Assisted Language Learning	Instructors’ and learners’ perspectives on using ChatGPT in English as a foreign language courses and its effect on academic integrity
+W3155221627	2021	38	search	C_student_information_seeking	Health Information & Libraries Journal	Study of health information needs among adolescents in Croatia shows distinct gender differences in information seeking behaviour
+W324823477	2009	38	search	C_student_information_seeking	Harvard Educational Review	High School Research and Critical Literacy: Social Studies With and Despite Wikipedia
+W2184188874	2009	38	search	C_student_information_seeking		How College Students Seek Information in the Digital Age
+W2120700416	2013	37	search	C_student_information_seeking	Computers & Education	Children's Internet information seeking, life satisfaction, and loneliness: The mediating and moderating role of self-esteem
+W1802543616	2013	37	search	C_student_information_seeking	Child Care Health and Development	Why go online when you have pain? A qualitative analysis of teenagers’ use of the Internet for pain management advice
+W2901193866	2018	36	search	C_student_information_seeking	Health Information & Libraries Journal	Use of the Internet as a source for reproductive health information seeking among adolescent girls in secondary schools in Enugu, Nigeria
+W2124191461	2011	36	search	C_student_information_seeking	First Monday	Credibility judgment and verification behavior of college students concerning Wikipedia
+W2965584831	2019	35	search	C_student_information_seeking	Aslib Journal of Information Management	“Hard to find”: information barriers among LGBT college students
+W2043822706	2012	34	search	C_student_information_seeking	British Journal of Health Psychology	Searching the Internet for help with pain: Adolescent search, coping, and medication behaviour
+W4410187407	2025	34	search	C_student_information_seeking	Smart Learning Environments	Using ChatGPT is easy, using it effectively is tough? A mixed methods study on K-12 students’ perceptions, interaction patterns, and support for learning with g
+W2324780741	2016	33	search	C_student_information_seeking	Journal of Librarianship and Information	Are social networking sites information sources? Informational purposes of high-school students in using SNSs
+W2101845605	2014	33	search	C_student_information_seeking	Universal Journal of Educational Researc	Undergraduates and Their Use of Social Media: Assessing Influence on Research Skills
+W3082136860	2020	32	search	C_student_information_seeking	International Journal of Public Health	Searching for online health information instead of seeing a physician: a cross-sectional study among high school students in Belgrade, Serbia
+W1527067802	2009	32	search	C_student_information_seeking	Aslib Journal of Information Management	Student information behaviours during group projects
+W2338181180	2016	32	search	C_student_information_seeking	The Electronic Library	Use of smartphone apps among library and information science students at South Valley University, Egypt
+W4380994371	2023	32	search	C_student_information_seeking	arXiv (Cornell University)	Can ChatGPT pass the Vietnamese National High School Graduation Examination?
+W2133385319	2010	32	search	C_student_information_seeking	South African Journal of Libraries and I	Information seeking behaviour of undergraduate students in the humanities in three universities in Nigeria
+W2802315828	2018	31	search	C_student_information_seeking	Computers in Human Behavior	Does school-related Internet Information seeking improve academic self-efficacy? The moderating role of internet information seeking styles
+W1991123256	2015	31	search	C_student_information_seeking	Global Knowledge, Memory and Communicati	The information practices of Business PhD students
+W4416204925	2025	30	search	C_student_information_seeking	BMC Psychology	What makes university students accept generative artificial intelligence? A moderated mediation model
+W4413314384	2025	30	search	C_student_information_seeking	JMIR Mental Health	The Ability of AI Therapy Bots to Set Limits With Distressed Adolescents: Simulation-Based Comparison Study
+W2034438296	2013	30	search	C_student_information_seeking	First Monday	Assigning Wikipedia editing: Triangulation toward understanding university student engagement
+W2035756169	2015	29	search	C_student_information_seeking	Social Science Computer Review	The Effects of Demographics, Technology Accessibility, and Unwillingness to Communicate in Predicting Internet Gratifications and Heavy Internet Use Among Adole
+W4412749148	2025	29	search	C_student_information_seeking	Behavioral Sciences	Teens, Tech, and Talk: Adolescents’ Use of and Emotional Reactions to Snapchat’s My AI Chatbot
+W2273209090	2010	29	search	C_student_information_seeking	Teaching English in the Two-Year College	What about the “Google Effect”? Improving the Library Research Habits of First-Year Composition Students
+W4403840274	2024	28	search	C_student_information_seeking	Education and Information Technologies	AI ChatBots’ solutions to mathematical problems in interactive e-textbooks: Affordances and constraints from the eyes of students and teachers
+W2918467496	2019	26	search	C_student_information_seeking	Journal of Chemical Education	“I Wanna Just Google It and Find the Answer”: Student Information Searching in a Problem-Based Inorganic Chemistry Laboratory Experiment
+W2737751399	2017	26	search	C_student_information_seeking	Libri	International Students’ Information Needs and Seeking Behaviours throughout the Settlement Stages
+W2559730391	2016	25	search	C_student_information_seeking	Health Education & Behavior	Source of Sex Information and Condom Use Intention Among Latino Adolescents
+W2118510974	2013	25	search	C_student_information_seeking	New Media & Society	Freeways, detours, and dead ends: Search journeys among disadvantaged youth
+W2276332103	2014	25	search	C_student_information_seeking	Malaysian Journal of Library & Informati	How graduate students seek for information: Convenience or guaranteed result?
+W2043761021	2015	24	search	C_student_information_seeking	TechTrends	Wikipedia Use in Research: Perceptions in Secondary Schools
+W2755906194	2017	24	search	C_student_information_seeking	Journal of Substance Use	Motives of excessive Internet use and its impact on the academic performance of business students in Pakistan
+W3153498599	2021	24	search	C_student_information_seeking	The Library Quarterly	Impact of the COVID-19 Pandemic on Chinese College Students’ Information Behavior and Library Needs: A Qualitative Study
+W170860547	2010	24	search	C_student_information_seeking	Teaching English in the Two-Year College	Meeting Student Writers Where They Are: Using Wikipedia to Teach Responsible Scholarship.
+W2158207394	2014	24	search	C_student_information_seeking	Malaysian Journal of Library & Informati	The prevalence and correlates of information seeking anxiety in postgraduate students
+W1976714631	2013	23	search	C_student_information_seeking	The Journal of Academic Librarianship	Information needs of students in Israel — A case study of a multicultural society
+W1963570340	2011	23	search	C_student_information_seeking	Journal of Chemical Education	Using Wikipedia To Develop Students’ Critical Analysis Skills in the Undergraduate Chemistry Curriculum
+W2992401924	2019	23	search	C_student_information_seeking	Journal of Consumer Health on the Intern	Internet Usage within Healthcare: How College Students Use the Internet to Obtain Health Information
+W4402616553	2024	23	search	C_student_information_seeking	Journal of Research in Innovative Teachi	Integrating Tam and UGT to explore students’ motivation for using ChatGPT for learning in Vietnam
+W4413821400	2025	22	search	C_student_information_seeking	European Journal of Pediatrics	Development of the generative artificial intelligence awareness scale for secondary school students in Türkiye
+W4404598560	2024	22	search	C_student_information_seeking	TechTrends	K-12 Educators’ Reactions and Responses to ChatGPT and GenAI During the 2022–2023 School Year
+W1509152682	2013	22	search	C_student_information_seeking	Evidence Based Library and Information P	Meta-synthesis of the Research on Information Seeking Behaviour of Graduate Students Highlights Different Library Resource Needs Across Disciplines and Cultures
+W4396747405	2024	22	search	C_student_information_seeking	Nordic Journal of Comparative and Intern	High School Teachers’ Adoption of Generative AI
+W1982362341	2012	21	search	C_student_information_seeking	Proceedings of the American Society for 	Youth identities as remixers in an online community of storytellers: Attitudes, strategies, and values
+W4391031064	2024	21	search	C_student_information_seeking	Decision Sciences Journal of Innovative 	ChatGPT and Python programming homework
+W4385582789	2023	21	search	C_student_information_seeking	ShodhKosh Journal of Visual and Performi	UNVEILING STUDENT MOTIVATIONS: A STUDY OF CHATGPT USAGE IN EDUCATION
+W4390697671	2024	21	search	C_student_information_seeking	Discover Education	Academic writing and ChatGPT: Students transitioning into college in the shadow of the COVID-19 pandemic
+W4403609028	2024	20	search	C_student_information_seeking	Education and Information Technologies	Exploring interactions between learners and ChatGPT from a learner agency perspective: A multiple case study on historical Inquiry
+W2079690941	2015	20	search	C_student_information_seeking	International Journal of Computer-Suppor	The new information literate: Open collaboration and information production in schools
+W2027447998	2005	20	search	C_student_information_seeking	Performance Measurement and Metrics	Does the student's love of the search engine mean that high quality online academic resources are being missed?
+W2239222182	2015	20	search	C_student_information_seeking	The Australian journal of teacher educ	Teachers' use of Wikipedia with their Students
+W2144387259	2011	20	search	C_student_information_seeking	Journal of Veterinary Medical Education	Information-Seeking Behaviors of First-Semester Veterinary Students: A Preliminary Report
+W2794787700	2018	19	search	C_student_information_seeking	Open Archive Toulouse Archive Ouverte (U	How trust in Wikipedia evolves: a survey of students aged 11 to 25
+W2040334696	2014	18	search	C_student_information_seeking	Journal of Computers in Education	A cooperative computerized concept-mapping approach to improving students’ learning performance in web-based information-seeking activities
+W4409616742	2025	18	search	C_student_information_seeking	Humanities and Social Sciences Communica	Improving students’ programming performance: an integrated mind mapping and generative AI chatbot learning approach
+W2527760259	2016	18	search	C_student_information_seeking	Information Technology and People	How do students trust Wikipedia? An examination across genders
+W2044398427	2015	18	search	C_student_information_seeking	Global Knowledge, Memory and Communicati	Wikipedia and undergraduate research trajectories
+W4226315439	2022	18	search	C_student_information_seeking	Disciplinary and Interdisciplinary Scien	Student interest, concerns, and information-seeking behaviors related to COVID-19
+W4404225258	2024	18	search	C_student_information_seeking	International Journal of Education in Ma	The Contribution That Utilizing Generative AI for Problem Posing Makes to Pre-Service High School Mathematics Teachers' TPACK
+W2268067892	2014	18	search	C_student_information_seeking	Jagiellonian University Repository (Jagi	Information seeking behaviour of mathematicians: scientists and students
+W2963778643	2019	17	search	C_student_information_seeking	Universal Access in the Information Soci	The educative model is changing: toward a student participative learning framework 3.0—editing Wikipedia in the higher education
+W2017032388	2012	17	search	C_student_information_seeking	Educational Media International	Undergraduate students searching and reading Web sources for writing
+W4404620298	2024	17	search	C_student_information_seeking	Technology Pedagogy and Education	Teachers’ pedagogical beliefs for Gen AI use in secondary school
+W2156360260	2008	17	search	C_student_information_seeking	The Open Communication Journal	Communicating Authority Online: Perceptions and Interpretations of Internet Credibility among College Students
+W2139119474	2012	17	search	C_student_information_seeking	E-Learning and Digital Media	Assigning Students to Edit Wikipedia: Four Case Studies
+W4387518830	2023	17	search	C_student_information_seeking	Technium Romanian Journal of Applied Sci	A Survey to Understand the experience of ChatGPT Usage among Engineering University Students in Bangladesh
+W4392501940	2010	17	search	C_student_information_seeking	Teaching English in the Two-Year College	Instructional Note: Meeting Student Writers Where They Are: Using Wikipedia to Teach Responsible Scholarship
+W4413005903	2025	16	search	C_student_information_seeking	Journal of Adolescent Health	Adolescents' Health Information–Seeking Behavior: A Scoping Review
+W2048350894	2009	16	search	C_student_information_seeking	New Review of Academic Librarianship	Use of the University Library, Elibrary, VLE, and Other Information Sources by Distance Learning Students in University College Dublin: Implications for Academi
+W2007978004	2008	16	search	C_student_information_seeking	Libri	Students' Attitudes Towards Web Search Engines – Increasing Appreciation of Sophisticated Search Strategies
+W4386222048	2023	16	search	C_student_information_seeking	Belitung Nursing Journal	The role of academic procrastination on Internet addiction among Thai university students: A cross-sectional study
+W4414742751	2025	16	search	C_student_information_seeking	Frontiers in Education	Student engagement with AI tools in learning: evidence from a large-scale Estonian survey
+W2947722708	2019	16	search	C_student_information_seeking	South African journal of information man	Information-seeking behaviour of security studies students: A case study
+W4386441137	2023	16	search	C_student_information_seeking	Journal of Artificial Intelligence Machi	The Acceptability of Generative AI Tools of Selected Senior High School Teachers in Schools Divisions Office-Manila, Philippines
+W2911694709	2019	15	search	C_student_information_seeking	The Journal of Academic Librarianship	Chinese College Students' Health Information Seeking Behavior: Implications for Academic Libraries
+W1977316537	2006	15	search	C_student_information_seeking	Global Knowledge, Memory and Communicati	The public library and students' information needs
+W2559466824	2016	15	search	C_student_information_seeking	Journal of Information Literacy	School libraries, political information and information literacy provision:
+W2472060482	2016	15	search	C_student_information_seeking	Journal of Librarianship and Information	Undergraduate information behaviors in thesis writing: A study using the Information Search Process model
+W4409039025	2025	15	search	C_student_information_seeking	Journal of Education	Secondary school students' perceptions of their usage of artificial intelligence-based ChatGPT in mathematics learning
+W2763004467	2017	15	search	C_student_information_seeking	Voprosy Obrazovaniya/ Educational Studie	Online Educational Resources for Schoolchildren and the Digital Divide
+W3098099638	2020	15	search	C_student_information_seeking	Frontiers in Education	Narratives and Their Impact on Students’ Information Seeking and Critical Online Reasoning in Higher Education Economics and Medicine
+W4401519477	2024	15	search	C_student_information_seeking	International Journal of Interactive Mob	Vietnamese University Students’ Perceptions of ChatGPT for Homework Assistance
+W2602318586	2016	15	search	C_student_information_seeking	Journal of behavioural sciences	Information seeking anxiety among postgraduate students of university
+W4410916398	2025	14	search	C_student_information_seeking	The Journal of Educational Research	Generative AI-powered arts-based learning in middle school history: Impact on achievement, motivation, and cognitive load
+W2024537840	2012	14	search	C_student_information_seeking	Sociological Focus	From Dot-Edu to Dot-Com: Predictors of College Students' Job and Career Information Seeking Online
+W4404956628	2024	14	search	C_student_information_seeking	Advances in Mobile Learning Educational 	Exploring user perceptions: The impact of ChatGPT on high school students' physics understanding and learning
+W2144820150	2014	14	search	C_student_information_seeking	RUSC Universities and Knowledge Society 	Learning by comparing with Wikipedia: the value to students' learning
+W1606468432	2006	14	search	C_student_information_seeking	Medical Entomology and Zoology	Youth Information Seeking Behavior II: Context, Theories, Models, and Issues
+W2396298714	2015	14	search	C_student_information_seeking	Charles Sturt University Research Output	Learning from student experiences for online assessment tasks
+W1895708297	2013	14	snowball_forward	C_student_information_seeking	Proceedings of the American Society for 	Wikipedians from Mars: Female students' perceptions toward wikipedia
+W2084758213	2007	13	search	C_student_information_seeking	Proceedings of the American Society for 	International students' information needs and use of technology
+W4414032540	2025	13	search	C_student_information_seeking	Reading and Writing	High school students’ use and beliefs about generative artificial intelligence and writing in school
+W4399460014	2024	13	search	C_student_information_seeking	Journal of English Language Teaching and	Impact of ChatGPT on the Academic Writing Quality of Senior High School Students
+W2042066995	2011	13	search	C_student_information_seeking	International Journal of Information and	Adolescents Seeking Nutrition Information
+W2594011633	2016	13	search	C_student_information_seeking	Lincoln (University of Nebraska)	Information Seeking Behaviour of Graduate Students of the University of Professional Studies, Accra (Upsa)
+W2911753672	2019	13	snowball_forward	C_student_information_seeking	The Journal of Academic Librarianship	A Perspective on Wikipedia: Your Students Are Here, Why Aren't You?
+W3124078822	2014	12	search	C_student_information_seeking	Education and Information Technologies	Using Wikipedia to enhance student learning: A case study in economics
+W3090469229	2020	12	search	C_student_information_seeking	Aslib Journal of Information Management	Impact of contexts, resource types and perceptions on information management within the personal domain among college students
+W4409435267	2025	12	search	C_student_information_seeking	Journal of Educational Computing Researc	Effects of ChatGPT-Based Human–Computer Dialogic Interaction Programming Activities on Student Engagement
+W2068541931	2015	12	search	C_student_information_seeking	Libellarium journal for research in the 	Students' information behaviour and the role of academic library
+W4402074613	2024	12	search	C_student_information_seeking	IAFOR Journal of Education	Perception of ChatGPT Usage for Homework Assignments: Students’ and Professors’ Perspectives
+W4403275786	2024	12	search	C_student_information_seeking	International Journal of Learning Teachi	The Changing Educational Landscape for Sustainable Online Experiences: Implications of ChatGPT in Arab Students’ Learning Experience
+W3141219696	2021	12	search	C_student_information_seeking	Sustainability	Everyday Life Information Seeking Patterns of Resident Female University Students in Pakistan
+W1897994465	2015	12	search	C_student_information_seeking	First Monday	Getting a “quick fix”: First-year college students’ use of Wikipedia
+W108356926	2012	12	search	C_student_information_seeking		Information Seeking Behaviour of Students in Digital Environment: A Case Study
+W2104867047	2007	11	search	C_student_information_seeking	Proceedings of the American Society for 	Toward an integrated framework of information and communication behavior: College students' information resources and media selection
+W2921769049	2019	11	search	C_student_information_seeking	Journal of Adolescent Health	“Is It Really Confidential?” A Content Analysis of Online Information About Sexual and Reproductive Health Services for Adolescents
+W2948193822	2019	11	search	C_student_information_seeking	Library & Information Science Research	Mobile information behavior of Warner Pacific University students
+W4410916249	2025	11	search	C_student_information_seeking	The Journal of Educational Research	Middle school students’ perspectives on adopting generative AI in K-12 education
+W2007392187	2012	11	search	C_student_information_seeking	Interactive Learning Environments	Changes in college students' perceptions of use of web-based resources for academic tasks with Wikipedia projects: a preliminary exploration
+W3043086429	2020	11	search	C_student_information_seeking	Journal of Library & Information Service	Information Seeking Behavior of Distance Learners: What has Changed in Twenty Years?
+W2559146102	2016	11	search	C_student_information_seeking	AAOU Journal/AAOU journal	Profiling information-seeking behaviour of distance learning students in Wawasan Open University
+W2782936421	2018	11	search	C_student_information_seeking	Health Information & Libraries Journal	Peer teaching and information retrieval: the role of the NICE Evidence search student champion scheme in enhancing students’ confidence
+W2796540448	2018	11	search	C_student_information_seeking	Libri	Information Behavior of Electrical Engineering and Computing Doctoral Students and Their Perception of the Academic Library’s Role: A Case Study in Croatia
+W1524997083	2011	11	search	C_student_information_seeking	Evidence Based Library and Information P	Millennial Students’ Online Search Strategies are Associated With Their Mental Models of Search
+W1514632265	2006	11	search	C_student_information_seeking	Evidence Based Library and Information P	Information Seeking Behaviours of Business Students and the Development of Academic Digital Libraries
+W4412604321	2025	11	search	C_student_information_seeking	Frontiers in Psychology	Fostering adolescent engagement in generative AI art therapy: a dual SEM-ANN analysis of emotional
+W4407294620	2025	11	search	C_student_information_seeking	International Journal of Research and In	Exploring the Impact and Ethical Implications of Integrating AI-Powered Writing Tools in Junior High School English Instruction: Enhancing Creativity, Proficien
+W4248852615	2019	11	search	C_student_information_seeking	The Radical Teacher	Democratizing Knowledge: Using Wikipedia for Inclusive Teaching and Research in Four Undergraduate Classes
+W7154244448	2026	11	search	C_student_information_seeking	Educational Psychology Review	Enhancing School Students’ Self-Regulated Learning through Generative AI Support: A Randomized Controlled Trial
+W1935909907	2014	10	search	C_student_information_seeking	Proceedings of the American Society for 	Impacts of social media usage on the outcomes of students’ everyday life information seeking
+W2006818002	2014	10	search	C_student_information_seeking	Music Reference Services Quarterly	Information-Seeking Behavior and Library Use by Distance Education Graduate Music Education Students
+W2787589059	2018	10	search	C_student_information_seeking	The Electronic Library	Instructor and peer influence on college student use and perceptions of Wikipedia
+W4281856707	2022	10	search	C_student_information_seeking	Communications in Information Literacy	Meet Students Where They Are: Centering Wikipedia in the Classroom
+W4376956740	2023	10	search	C_student_information_seeking	어학연구	A Case Study on English Test Item Development Training for Secondary School Teachers Using AI Tools: Focusing on ChatGPT
+W4378771612	2023	10	search	C_student_information_seeking	arXiv (Cornell University)	HowkGPT: Investigating the Detection of ChatGPT-generated University Student Homework through Context-Aware Perplexity Analysis
+W2097650258	2012	10	search	C_student_information_seeking	Covenant University Repository (Covenant	A Survey of Library and Information Services to Physically-Challenged Students in Academic Libraries in Ogun State, Nigeria
+W2150328807	2010	10	search	C_student_information_seeking	University of Huddersfield Repository (U	Do students want a One-stop-shop to help them navigate their way around the maze of library resources? A Usability Study looking at the beta version of Summon, 
+W4220996741	2022	9	search	C_student_information_seeking	PS Political Science & Politics	Wikipedia and Political Science: Addressing Systematic Biases with Student Initiatives
+W4415836779	2025	9	search	C_student_information_seeking	Educational Psychology	Exploring students’ perceptions of generative AI-generated feedback in learning programming
+W3108942647	2020	9	search	C_student_information_seeking	The International Information & Library 	Health Information-Seeking Behavior of Students at Kuwait University
+W3153592210	2021	9	search	C_student_information_seeking	Evidence Based Library and Information P	Information Seeking Anxiety and Preferred Information Sources of First-Generation College Students
+W4408687309	2025	9	search	C_student_information_seeking	International e-Journal of Educational S	Investigation of Secondary School Students' and Teachers' Opinions on the Use of ChatGPT Artificial Intelligence Application in Mathematics Education
+W3043406609	2020	9	search	C_student_information_seeking	South African journal of information man	Gender and cognitive factors influencing information seeking of graduate students at Kenyatta University Library
+W4412519929	2025	9	search	C_student_information_seeking	Acta Orthopaedica et Traumatologica Turc	Assessing the role of large language models in adolescent idiopathic scoliosis care: a comparison between ChatGPT and Google Gemini
+W4402825537	2024	9	search	C_student_information_seeking	Journal of the American Academy of Ortho	Artificial Intelligence Promotes the Dunning Kruger Effect: Evaluating ChatGPT Answers to Frequently Asked Questions About Adolescent Idiopathic Scoliosis
+W2097301888	2013	9	search	C_student_information_seeking	INTERNATIONAL JOURNAL OF LIBRARY AND INF	Information seeking behaviour of business school students: A special study of universities and colleges located in Academic City, Dubai, UAE.
+W4406080212	2025	9	search	C_student_information_seeking	International Journal of Advanced Multid	Comparative Analysis of ChatGPT and Gemini; Implications for Junior High School Physics Education: Opportunities and Ethical Challenges
+W123497174	2008	9	search	C_student_information_seeking		Exploring the information-seeking behavior of the staff and students of the Florida Virtual School: A case study
+W2106617038	2010	9	search	C_student_information_seeking		A COMPARATIVE ANALYSIS OF THE WEB INFORMATION: SEEKING BEHAVIOUR OF STUDENTS AND STAFF AT THE UNIVERSITY OF ZULULAND AND THE DURBAN UNIVERSITY OF TECHNOLOGY
+W4224289671	2021	9	snowball_forward	C_student_information_seeking	Journal of the Medical Library Associati	Library instruction and Wikipedia: investigating students’ perceived information literacy, lifelong learning, and social responsibility through Wikipedia editin
+W2056692304	2012	8	search	C_student_information_seeking	Proceedings of the American Society for 	First‐generation college students' information seeking: Their personality traits and source use behavior in coursework‐related context
+W2983345741	2019	8	search	C_student_information_seeking	The Journal of Academic Librarianship	A Different Ball Game: Physical Education Students' Experiences in Librarian-led Wikipedia Assignments
+W4220817671	2022	8	search	C_student_information_seeking	Interactive Learning Environments	Research on information searching strategies in high school students’ quality of argumentative essay writing
+W3094579854	2020	8	search	C_student_information_seeking	Family Practice	Patterns of online health information seeking after visiting a physician: perceptions of adolescents from high schools in central Belgrade, Serbia
+W2981725084	2019	8	search	C_student_information_seeking	Journal of Librarianship and Information	The use of mobile devices and applications for health information: A survey of Croatian students
+W4414367231	2025	8	search	C_student_information_seeking	PLoS ONE	Performance of large language models ChatGPT and Gemini in child and adolescent psychiatry knowledge assessment
+W2190405042	2013	8	search	C_student_information_seeking	Nordic Journal of Information Literacy i	Communicating the relevance of the library in the age of Google: Improving undergraduate research skills and information literacy though new models of library i
+W4408537185	2025	8	search	C_student_information_seeking	International Journal of Information and	ChatGPT in Education: Investigating Students Online Learning Behaviors
+W6888022849	2023	8	search	C_student_information_seeking	Gesellschaft für Informatik (GI)	Exploring Initial Interactions: High School Students and Generative AI Chatbots for Relationship Development
+W2766626970	2017	8	search	C_student_information_seeking	Interdisciplinary Journal of e-Skills an	Making Sense of the Information Seeking Process of Undergraduates in a Specialised University: Revelations from Dialogue Journaling on WhatsApp Messenger
+W2625398131	2015	8	search	C_student_information_seeking	School Libraries Worldwide	Information and Digital Literacy in a High-Poverty Urban School: An I-LEARN Project
+W4392650533	2024	8	search	C_student_information_seeking	Future	Dialogues with AI: Comparing ChatGPT, Bard, and Human Participants’ Responses in In-Depth Interviews on Adolescent Health Care
+W4386548690	2023	8	search	C_student_information_seeking	Journal of Education and Health Promotio	Information-seeking behavior of reproductive health based on socio-demographic among adolescents in Jakarta, Indonesia
+W3178690957	2021	8	search	C_student_information_seeking	Área Abierta	Students’ Attitudes Towards the Use of Wikipedia: A Teaching Tool and a Way to Modernize Teaching
+W4394008791	2024	8	search	C_student_information_seeking		Exploring Secondary School Students’ Interest and Mastery of Atomic Structure and Chemical Bonding through ChatGPT
+W1537724852	2006	8	search	C_student_information_seeking		Studying Law Students’ Information Seeking Behaviour to Inform the Design of Digital Law Libraries
+W2603051404	2016	8	search	C_student_information_seeking	Lincoln (University of Nebraska)	Information Needs and Seeking Behaviour of Masters' Students in the Faculty of Communication and Information Sciences, University of Ilorin, Kwara State
+W2059081739	2010	7	search	C_student_information_seeking	Proceedings of the American Society for 	Deep, efficient, and dialogic study of undergraduate information seeking and use: A methodological exploration
+W1494224734	2014	7	search	C_student_information_seeking	Proceedings of the American Society for 	Active and passive acquisition of health‐related information on the Web by college students
+W4385837278	2023	7	search	C_student_information_seeking	International Journal on Digital Librari	Graduate student search strategies within academic digital libraries
+W1988894032	2012	7	search	C_student_information_seeking	Journal of Business & Finance Librarians	You Can Lead Students to the Library, but Can You Make Them Do Research? The Effect of Syllabus Design and Content on Undergraduates’ Perceptions and Use of the
+W7125604980	2026	7	search	C_student_information_seeking	British Journal of Educational Technolog	Can Generative AI support the learning agency of students with disability? A case study of an Australian secondary school
+W4409605446	2025	7	search	C_student_information_seeking	International Journal of Educational Tec	Leveraging Wikipedia for educational innovation: a higher education course model for enhancing students’ competencies and collaborative knowledge creation
+W2489361328	2012	7	search	C_student_information_seeking	Saur eBooks	Wikipedia and Wikis as Forums of Information Literacy Instruction in Schools
+W4409145947	2025	7	search	C_student_information_seeking	Media and Communication	Motivations and Affordances of ChatGPT Usage for College Students’ Learning
+W4392584033	2024	7	search	C_student_information_seeking	Journal of Baltic Science Education	PARENTS’ VIEWS ON THE USE OF AI-BASED CHATBOTS SUCH AS ChatGPT IN HIGH SCHOOL (STEM) EDUCATION
+W3003456060	2018	7	search	C_student_information_seeking	Przegląd Biblioteczny	Students’ Information Needs and Digital Technologies in Academic Libraries
+W2026418835	2013	7	search	C_student_information_seeking	INTERNATIONAL JOURNAL OF KNOWLEDGE CONTE	Individuality and Diversity among Undergraduates' Academic Information Behaviors: An Exploratory Study
+W4399094203	2024	7	search	C_student_information_seeking	International Journal of Advanced Multid	The Use of Generative AI in Learning and Its Influence on Students’ Academic Engagement in Noveleta Senior High School
+W1510805805	2006	7	search	C_student_information_seeking	DSpace@MIT (Massachusetts Institute of T	User Needs Assessment of Information Seeking Activities of MIT Students - Spring 2006
+W237284182	2009	7	search	C_student_information_seeking	Journal on excellence in college teachin	Who Writes the Past? Student Perceptions of Wikipedia Knowledge and Credibility in a World History Classroom.
+W2585815422	2017	7	search	C_student_information_seeking	Educational Technology & Society	Online research behaviors of engineering graduate students in Taiwan
+W4410759644	2025	6	search	C_student_information_seeking	Technology Knowledge and Learning	Secondary School Teachers’ Experiences with Generative AI in Maltese Language Teaching
+W4410872446	2025	6	search	C_student_information_seeking	International Journal of Mathematical Ed	Using ChatGPT errors to encourage student exploration and self-learning in mathematics
+W2067149053	2014	6	search	C_student_information_seeking	Art Documentation Journal of the Art Lib	Collecting Library Resources for Video Game Design Students: An Information Behavior Study
+W2113527655	2012	6	search	C_student_information_seeking	Journal of Microbiology and Biology Educ	Motivating Students to Learn Biology Vocabulary with Wikipedia
+W4415250152	2025	6	search	C_student_information_seeking	Proceedings of the ACM on Human-Computer	Learning AI Auditing: A Case Study of Teenagers Auditing a Generative AI Model
+W4415369592	2025	6	search	C_student_information_seeking	Journal of Medical Internet Research	Using Generative AI to Co-Design Digital Mental Health Interventions With Adolescents in Rural South Africa: Qualitative Thematic Analysis of Participatory Work
+W4412426921	2025	6	search	C_student_information_seeking	Eurasia Journal of Mathematics Science a	Improving biology learning in high school with ChatGPT: A case study in Morocco
+W4390948367	2024	6	search	C_student_information_seeking	Education Sciences	Using Wikipedia to Develop 21st Century Skills: Perspectives from General Education Students
+W4405069903	2024	6	search	C_student_information_seeking	Knowledge	Use of ChatGPT as a Virtual Mentor on K-12 Students Learning Science in the Fourth Industrial Revolution
+W4408072938	2025	6	search	C_student_information_seeking	International Journal of Research in Edu	How Gifted Students Harness AI: Opportunities, Challenges, and Future Prospects
+W4388830605	2023	6	search	C_student_information_seeking	Lecture Notes in Education Psychology an	The Influence of Generative Artificial Intelligence on High School Students’ Academic Planning – ChatGPT
+W1537604594	2008	6	search	C_student_information_seeking	E-LIS Repository (University of Naples F	Empowering students in information literacy practices using a collaborative digital library for school projects
+W2194510187	2011	6	search	C_student_information_seeking	HAL (Le Centre pour la Communication Sci	Information behaviour and practices of PhD students
+W2198893294	2009	6	search	C_student_information_seeking	Legal Education Review	Engaging with the World: Students of Comparative Law Write for Wikipedia
+W2535946478	2016	6	search	C_student_information_seeking	Information Research	Strategies, Obstacles, and Attitudes: Student Collaboration in Information Seeking and Synthesis Projects.
+W31081593	2010	6	search	C_student_information_seeking	Journal of the Association for Informati	Wikipedia as an Academic Reference: Faculty and Student Viewpoints
+W4416202583	2025	5	search	C_student_information_seeking	Journal of Adolescent Health	Evaluation of the Quality, Reliability, and Readability of ChatGPT-4 Responses on Exercise and Rehabilitation Strategies for Adolescent Myositis
+W4220751113	2022	5	search	C_student_information_seeking	PS Political Science & Politics	Improving Open-Source Information on African Politics, One Student at a Time
+W4206277544	2022	5	search	C_student_information_seeking	The Journal of Economic Education	Wikipedagogy: Enhancing student motivation and collaboration in an economics class with Wikipedia
+W4412677216	2025	5	search	C_student_information_seeking	International Journal of Science Educati	Bugbear or surefire success? Secondary school students’ conceptual learning about evolution with ChatGPT
+W4415833369	2025	5	search	C_student_information_seeking	Interactive Learning Environments	Exploring the influential factors and key dimensions of AI information literacy among high school students: a social-ecological perspective
+W3033743699	2020	5	search	C_student_information_seeking	The International Information & Library 	Web Information Seeking Behavior of Undergraduate Students in Kwara State Nigeria
+W3208931471	2021	5	search	C_student_information_seeking	Community College Journal of Research an	Finding the Answers: Community College Students’ Non-Academic Information Behaviors
+W4319442979	2023	5	search	C_student_information_seeking	International Journal of Science Educati	Adolescents’ evaluation of online scientific information in daily life contexts: when sourcing matters
+W4388187786	2023	5	search	C_student_information_seeking	Harvard Data Science Review	Perils and Opportunities of ChatGPT: A High School Perspective
+W4402546704	2024	5	search	C_student_information_seeking	American Journal of Educational Research	Student Perceptions and Attitudes About the Usage of Chatgpt in Online K-12 Education and Student Preferences About Learning to Use Artificial Intelligence from
+W4405955214	2024	5	search	C_student_information_seeking	International Journal on Advanced Scienc	Effect of Artificial Intelligence Convergence Education Using ChatGPT on Computational Thinking of High School Students in Korea
+W2921468791	2019	5	search	C_student_information_seeking	Mousaion South African Journal of Inform	Information-Seeking Behaviour of First-Year Undergraduate Students at Mzuzu University, Malawi
+W4407254891	2025	5	search	C_student_information_seeking	Eurasia Journal of Mathematics Science a	Evaluating artificial intelligence large language models’ performances in a South African high school chemistry exam
+W4416337310	2025	5	search	C_student_information_seeking	Pedagogical Research	How college students use ChatGPT
+W7118271596	2026	5	search	C_student_information_seeking	Frontiers in Public Health	The impact of generative AI health knowledge acquisition on adolescents’ physical activity: the mediating role of exercise self-efficacy and the moderating effe
+W7147320584	2026	5	search	C_student_information_seeking	AI	Artificial Intelligence and Youth: Cognitive, Educational, and Behavioral Impacts
+W4403170264	2024	5	search	C_student_information_seeking	International Journal For Multidisciplin	The Use of Artificial Intelligence in Teaching and Learning: Opportunities and Challenges. Students Vs Lecturers Perception
+W4414756883	2026	5	search	C_student_information_seeking	SSRN Electronic Journal	How students (really) use ChatGPT: Uncovering experiences among undergraduate students
+W4402604833	2024	5	search	C_student_information_seeking	Zeszyty Teoretyczne Rachunkowości	The determinants of ChatGPT usage among accounting students: the role of habit, social influence and facilitating conditions
+W7211953833	2024	5	search	C_student_information_seeking		The Dawn of the AI Era: Teens, Parents, and the Adoption of Generative AI at Home and School
+W25238889	2009	5	search	C_student_information_seeking		Making sense of Web 2.0 technology : do European students use the social meida applications for educational goals?
+W4405649097	2024	4	search	C_student_information_seeking	Journal of Adolescence	Distinct Social Factors Are Linked to Epistemic Curiosity and Digital Information‐Seeking Among Adolescents: Generalizability Across 41 Countries
+W1545430036	2014	4	search	C_student_information_seeking	Proceedings of the American Society for 	Collaborative information seeking (CIS) behavior of LIS students and undergraduate students: An exploratory case study
+W4407069078	2025	4	search	C_student_information_seeking	Education and Information Technologies	What are the differences between student and ChatGPT-generated pseudocode? Detecting AI-generated pseudocode in high school programming using explainable machin
+W7127392638	2026	4	search	C_student_information_seeking	Educational Technology Research and Deve	Cheating in the second year of generative AI chatbots: a follow-up study on high school student cheating behaviors
+W4385752268	2023	4	search	C_student_information_seeking	Medical Education Online	ChatGPT has the potential to enhance antiretroviral therapy adherence among adolescents with HIV in sub-Saharan Africa
+W4285363609	2021	4	search	C_student_information_seeking	Digital Library Perspectives	Use and trustworthiness of Wikipedia information: students’ perceptions and reflections
+W4366088786	2023	4	search	C_student_information_seeking	Global Knowledge, Memory and Communicati	Information seeking, sharing behaviour, and copyright violations among students in India in the digital age
+W4413304110	2025	4	search	C_student_information_seeking	Drug and Alcohol Review	Co‐Designing AI ‐Generated Vaping Awareness Materials With Adolescents and Young Adults: A Qualitative Study
+W7155687869	2026	4	search	C_student_information_seeking	Journal of Librarianship and Information	Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources amo
+W4410777756	2025	4	search	C_student_information_seeking	Global Health Promotion	Online information seeking about sex and sexually transmitted infections among high school adolescents in Belgrade (Serbia)
+W2162494722	2013	4	search	C_student_information_seeking	DergiPark (Istanbul University)	Information-Seeking Behaviour On Internet: A Comparison Between Arts And Science Undergraduate Students In Iran
+W4407365319	2025	4	search	C_student_information_seeking	International Journal of Information and	Compliance and Enforcement of AI Text Generator Usage Policies in German Grammar Schools: Insights from Teenagers
+W2713837844	2017	4	search	C_student_information_seeking	Innovations in Global Health Professions	Embracing Wikipedia as a teaching and learning tool benefits health professional schools and the populations they serve
+W3007553575	2020	4	search	C_student_information_seeking	Social and Management Research Journal	Information Seeking Behaviour among Millennial Students in Higher Education
+W4406317936	2024	4	search	C_student_information_seeking	Jurnal Kajian Informasi & Perpustakaan	Exploring adolescents’ digital information-seeking patterns and religious behavior
+W4410508444	2025	4	search	C_student_information_seeking	Advances in Mobile Learning Educational 	From the Gender Lens: Student Perceptions of ChatGPT in Higher Education
+W7135077595	2026	4	search	C_student_information_seeking	Frontiers in Nutrition	Artificial intelligence diet plans underestimate nutrient intake compared to dietitians in adolescents
+W7132845434	2026	4	search	C_student_information_seeking	Future Internet	Perceived Learning vs. Engagement in AI-Assisted Homework: A Comparative Study of ChatGPT Use Across High School, University, and Teachers in Sonora, Mexico (20
+W1984529791	2011	4	search	C_student_information_seeking	Information Technologist (The)	Use of Internet and Electronic Resources amongst Postgraduate Students of a Nigerian Private University
+W7117712299	2025	4	search	C_student_information_seeking	International Journal of Education in Ma	Learning Quadratic Functions with ChatGPT: An Innovative Experience in High School Mathematics Education
+W4225140023	2022	4	search	C_student_information_seeking	Asian Journal of Information Science and	Information Needs and Information Seeking Behaviour of Secondary School Students in Mysore North Block: A Study
+W4411498139	2025	4	search	C_student_information_seeking	Asian Research Journal of Arts & Social 	Usage of AI Based ChatGPT, Students’ Self Efficacy and Engagement in Mathematics
+W1588526731	2013	4	search	C_student_information_seeking	International journal on e-learning	Wikipedia in the Academic Environment: Faculty and Student Perspectives.
+W1905411184	2014	4	search	C_student_information_seeking	Tampere University Institutional Reposit	Guiding Students in Collaborative Writing of Wikipedia Articles – How to Get Beyond the Black Box Practice in Information Literacy Instruction?
+W2168906072	2013	4	search	C_student_information_seeking	International journal of scientific and 	Exploring The Information Seeking Behaviour Of Final Year Law Students In Ekiti State University.
+W2886296053	2011	4	search	C_student_information_seeking	International journal of instructional m	Trust Me! Wikipedia's Credibility among College Students
+W2912100702	2018	4	search	C_student_information_seeking	The University of Malaya Research Reposi	Modelling the Information-Seeking Behaviour of International Students in Their Use of Social Media in Malaysia.
+W4395014092	2024	4	search	C_student_information_seeking	Journal of Media Literacy Education	Can I trust this information? Using adolescent narratives to uncover online information seeking processes
+W4401214941	2024	3	search	C_student_information_seeking	SN Computer Science	Leveraging AI in the Classroom to Transform Adolescent Dietary Habits Through Innovative Nutritional Education
+W3015204377	2020	3	search	C_student_information_seeking	Studies in Higher Education	A new frontier: developing an undergraduate assessment task aimed at improving the representation of biomedical scientific information on Wikipedia
+W2034862931	2014	3	search	C_student_information_seeking	Library Hi Tech	Targeting users in information provision – more than researchers, students and professionals
+W4416939255	2025	3	search	C_student_information_seeking	Child and Adolescent Mental Health	How do Artificial Intelligence chatbots respond to questions from adolescent personas about their eating, body weight or appearance?
+W4416503120	2025	3	search	C_student_information_seeking	BMC Nursing	Relationships between ChatGPT use with self-directed learning and critical thinking among school and university nurses in Taiwan
+W4410188472	2024	3	search	C_student_information_seeking	Kreano Jurnal Matematika Kreatif-Inovati	The Role and Evaluation of ChatGPT as a Virtual Tutor in Improving Students' Creative and Critical Abilities Reviewed from Probing-Prompting Abilities
+W7131382098	2026	3	search	C_student_information_seeking	JMIR Cancer	Quality, Empathy, and Readability of AI Chatbot Responses to the Survivorship Needs of Adolescents and Young Adults With Melanoma: Evaluation Study
+W7167273468	2026	3	search	C_student_information_seeking	Frontiers in Education	Generative AI-supported instruction as a cognitive scaffold: effects on senior high school students’ geometric reasoning and proof construction
+W4416403097	2025	3	search	C_student_information_seeking	Frontiers in Psychology	Enhancing adolescents’ exercise motivation management with generative AI anthropomorphism: a chain-mediated model of technology acceptance and self-efficacy
+W4416396264	2025	3	search	C_student_information_seeking	Scholars Journal of Medical Case Reports	Adolescent Addiction to Conversational AI: An overview
+W4396653599	2024	3	search	C_student_information_seeking	Academic Journal of Interdisciplinary St	Employment of Generative Artificial Intelligence in Classroom Environments to Improve Financial Education in Secondary School Students
+W4394971480	2024	3	search	C_student_information_seeking	British Journal of Multidisciplinary and	Influence of Information Needs and Information Seeking Behavior on Graduate School Students' Literacy Skills
+W2761258954	2017	3	search	C_student_information_seeking	Journal of the University Librarians Ass	Digital information resources preferences and evaluation criteria used by the final year engineering undergraduates: a case study
+W7111359805	2025	3	search	C_student_information_seeking	The Qualitative Report	A Teacher, a Tutor, a Friend: ChatGPT and the High School Experience
+W4404340370	2024	3	search	C_student_information_seeking	International Journal on E-Learning Prac	TEACHERS’ AND STUDENTS’ PERCEPTIONS TOWARDS THE USE OF CHATGPT TO IMPROVE WRITING IN THE MALAYSIAN SECONDARY SCHOOL CONTEXT
+W4402906235	2024	3	search	C_student_information_seeking	International Journal of Research and St	Using ChatGPT to Enrich Children Literature and Enhance their Vocabulary Repertoire
+W7140325623	2026	3	search	C_student_information_seeking	International Journal of Contemporary Ed	AI-Facilitated Self-Directed Learning and Mathematics Performance: A Mixed-Methods Study on ChatGPT Use among Generation Z Students
+W2261574823	2014	3	search	C_student_information_seeking	Malaysian Online Journal of Educational 	Wikipedia in Promoting Science Literary Skills in Primary Schools
+W4405142715	2024	3	search	C_student_information_seeking	STUDIES IN EDUCATION SCIENCES	Changes in homework submission patterns with the advent of AI tools: a high school perspective
+W4405518363	2024	3	search	C_student_information_seeking	Journal of interdisciplinary perspective	Student’s Experiences Using ChatGPT for Academic Purposes
+W1561640191	2008	3	search	C_student_information_seeking	University of Southern Queensland ePrint	Using an Authentic Learning Environment to Help Students See That There's More to Research than Google and Wikipedia: A Reflection
+W1568826815	2014	3	search	C_student_information_seeking	Research on humanities and social scienc	Information Seeking Behaviour Model of Senior High School Students
+W1792044808	2013	3	search	C_student_information_seeking		Information Seeking Behaviour of Final Year Law Students in South Western Nigerian Universities.
+W2185018692	2015	3	search	C_student_information_seeking		IDENTIFYING THE INFORMATION-SEEKING BEHAVIOURS AMONG SCHOOL OF COMPUTING UNDERGRADUATE STUDENTS
+W71433705	2012	3	search	C_student_information_seeking		Trust in online information - A comparison among high school students, college students and PhD students with regard to trust in Wikipedia
+W4409592657	2025	3	search	C_student_information_seeking	Information Systems Education Journal	The Rapid Rise of Generative AI Adoption among First-Year College Students
+W2839831252	2018	3	snowball_forward	C_student_information_seeking	Advanced Education	WHAT LEADS UKRAINIAN UNIVERSITY STUDENTS TO USE WIKIPEDIA?
+W2085820690	2010	2	search	C_student_information_seeking	Proceedings of the American Society for 	Information anxiety, information behavior, and minority graduate students
+W7159958446	2026	2	search	C_student_information_seeking	European Journal of Pediatrics	Metaphorical perceptions of secondary school students regarding the concept of generative artificial intelligence
+W7162434486	2026	2	search	C_student_information_seeking	ZDM	AI-powered learning: exploring secondary school students’ use of ChatGPT for solving mathematical modelling problems
+W4411228269	2025	2	search	C_student_information_seeking	Social Sciences & Humanities Open	The role of ChatGPT in junior high school physics education: Insights from teachers and students and guidelines for optimal use
+W4379883520	2023	2	search	C_student_information_seeking	Asia Pacific Journal of Education	Information literacy in South Korea: similarities and differences between Korean and international students’ research trajectories
+W7117593708	2025	2	search	C_student_information_seeking	Interactive Learning Environments	Navigating GenAI: A participatory narrative inquiry into a teenager's experiences with ChatGPT in informal learning environments
+W7165617278	2026	2	search	C_student_information_seeking	European Journal of Public Health	Beyond social media: public health governance of artificial intelligence-based chatbots used by adolescents
+W7143339189	2026	2	search	C_student_information_seeking	Improving Schools	Innovation Culture in Schools, School Leaders’ Openness to Experience, and the Integration of Generative AI in School Leadership Work: A UTAUT Based Model
+W2171214516	2013	2	search	C_student_information_seeking	Evidence Based Library and Information P	Millennial Generation Students Search the Web Erratically, with Minimal Evaluation of Information Quality
+W7117765246	2025	2	search	C_student_information_seeking	Journal of Education and e-Learning Rese	Students’ behavioral intentions toward generative AI in education: Task-technology fit and moral obligations
+W4367557701	2023	2	search	C_student_information_seeking	Indonesian Journal Of Educational Resear	Students’ Perception of Wikipedia as an Academic Information Source
+W4415706578	2025	2	search	C_student_information_seeking	Jurnal Pendidikan Sains Indonesia	Artificial Intelligence Awareness and Utilization Among Junior High School Science Teachers: A Descriptive Study from the Philippines
+W4389239995	2023	2	search	C_student_information_seeking	조형교육	A Reflective Analysis on High School Art Lessons Using Generative AI Focused on Critical Recognition and Creative Use of AI Technology
+W4417050025	2025	2	search	C_student_information_seeking	Contemporary Educational Technology	Portuguese secondary school students’ perceptions regarding the use of ChatGPT
+W4410797789	2025	2	search	C_student_information_seeking	RIGGS Journal of Artificial Intelligence	Utilization of Generative AI in High School Learning: Opportunities and Challenges Analysis
+W4380053277	2023	2	search	C_student_information_seeking	Education Sciences	With or without Wikipedia? Integrating Wikipedia into the Teaching Process in Estonian General Education Schools
+W4413990556	2025	2	search	C_student_information_seeking	Education Sciences	Investigation of Generative AI Adoption in IT-Focused Vocational Secondary School Programming Education
+W7127649749	2026	2	search	C_student_information_seeking	Education Sciences	School-Level and Demographic Differences in the Use of Artificial Intelligence Among Hungarian Elementary and High School Students
+W7161775118	2026	2	search	C_student_information_seeking	Sustainability	Emotional Reliance on Generative AI Among Vocational High School Students: An AEDTAM-Based Analysis
+W4415064976	2025	2	search	C_student_information_seeking	Journal of Basic Education Research	ChatGPT in STEM Classrooms: Students’ Perceptions of Interest, Academic Proficiency, and Learning Independence
+W4412956568	2025	2	search	C_student_information_seeking		The Impact of Artificial Intelligence Interventions on Adolescent Mental Health: A Multidimensional Study Using ChatGPT, Gemini, and DeepSeek
+W2295733683	2015	2	search	C_student_information_seeking	Journal of the University Librarians Ass	Information-seeking Behaviour and Issues of Agriculture Undergraduates of University of Peradeniya
+W4404900607	2024	2	search	C_student_information_seeking	European Journal of Education Studies	CHATGPT AS AI ASSISTANT IN THE PRE-SERVICE TEACHERS TRAINING AND THEIR FUTURE ROLE IN SECONDARY SCHOOLS: RESEARCH IN PROGRESS
+W4403754903	2024	2	search	C_student_information_seeking	arXiv (Cornell University)	Choosing Between an LLM versus Search for Learning: A HigherEd Student Perspective
+W7077857649	2024	2	search	C_student_information_seeking	arXiv (Cornell University)	The Impact of Generative AI on Student Churn and the Future of Formal Education
+W7125224637	2025	2	search	C_student_information_seeking	Computer-Assisted Language Learning Elec	Behind my Students’ Cover Email: the Role of ChatGPT in Homework Writing Tasks
+W3170054105	2021	2	search	C_student_information_seeking	INTERNATIONAL JOURNAL OF KNOWLEDGE CONTE	Assessment of Academic Utilization of Online Information Resources by Undergraduate Students in University of Nigeria, Nsukka
+W4414770092	2025	2	search	C_student_information_seeking	Faculty of Natural and Applied Sciences 	Awareness and Utilization of Artificial Intelligence Among Secondary School Biology Students in Lere, Kaduna State
+W7106612183	2025	2	search	C_student_information_seeking	Journal of Cultural Analysis and Social 	Exploring Sociocultural Patterns in Evolving Educational Practices: Arab Students’ Use of Generative AI in Accomplishing Academic Assignments
+W1883291643	2015	2	search	C_student_information_seeking		Information resources usage by the agriculture undergraduates of University of Peradeniya, Sri Lanka
+W7134906592	2026	1	search	C_student_information_seeking	Journal of Computer Assisted Learning	Comparing the Impact of Individual‐ and Team‐Based ChatGPT Collaboration on High School Students' Cognitive Competencies in Programming Education
+W4415303539	2025	1	search	C_student_information_seeking	Proceedings of the Association for Infor	Understanding Teenagers’ Mental Models of Generative AI : Insights from Drawings and Interviews
+W7161430575	2026	1	search	C_student_information_seeking	Technology Knowledge and Learning	Opportunities and Challenges of Generative AI in STEAM Education: A Thematic Co-occurrence Network Analysis of Primary and Secondary School Leaders’ Perspective
+W4415606364	2025	1	search	C_student_information_seeking	Psychiatric Quarterly	Cognitive-Behavioral and Psychodynamic Lenses on Adolescent Gaming Disorder Through AI-Generated Case Formulations: A Qualitative Analysis
+W4413258167	2025	1	search	C_student_information_seeking	Journal of Adolescent Health	ChatGPT's Role in Addressing the Real-World Concerns of Adolescents With Hearing Loss: Insights From Otolaryngologists With Lived Experience
+W7161813681	2026	1	search	C_student_information_seeking	Bioinformatics Advances	The 15th ISCB Student Wikipedia Competition: past, present and future perspectives
+W7212012713	2026	1	search	C_student_information_seeking	International Journal of Applied Linguis	Generative AI as a Learning Companion for Self‐Directed Second Language Learning Among Secondary School Students: A Mixed‐Methods Study
+W7127413259	2026	1	search	C_student_information_seeking	International Journal of Mechanical Engi	Rethinking homework in the AI era: A shift to in-class collaborative problem solving
+W7134808221	2026	1	search	C_student_information_seeking	International Journal of Information and	Cross-National Perceptions of Generative AI in Higher Education: A Comparative Study of University Students in the UK and Turkey
+W7158894645	2026	1	search	C_student_information_seeking	JMIR AI	A New Model for Youth-Driven Community Change: Exploratory Testing of Artificial Intelligence–Supported Citizen Science
+W7143993182	2025	1	search	C_student_information_seeking	Jurnal Sendratasik	Intermedial Transformation: Generative Artificial Intelligence-Based Choreography Learning Strategies for Students at Parongpong 1 Public High School
+W4391113281	2023	1	search	C_student_information_seeking	Jurnal Kajian Informasi & Perpustakaan	Ellis's model of student information-seeking behavior on Google Scholar
+W7155527045	2026	1	search	C_student_information_seeking	Pedagogy Theory & Practice	Developing a critical attitude in middle and high school students toward generative artificial intelligence responses
+W7117748746	2025	1	search	C_student_information_seeking	Teaching English as Foreign Language Lit	Gamified Listening Activities Powered by Artificial Intelligence: Impact on Secondary Student Engagement and Performance
+W7165201276	2026	1	search	C_student_information_seeking	Frontiers in Psychology	The adaptive ecological trap: a grounded theory study of adolescent AI dependency
+W4414552139	2025	1	search	C_student_information_seeking	Frontiers in Psychiatry	From promise to practice: insights into ChatGPT-4o use in child and adolescent mental health from professionals
+W7124738225	2026	1	search	C_student_information_seeking	Education Sciences	Teacher Professional Development: A Workshop Proposal for High School–University Collaboration Using Technology and AI
+W4415814292	2025	1	search	C_student_information_seeking	Psychiatry International	Can AI Models like ChatGPT and Gemini Dispel Myths About Children’s and Adolescents’ Mental Health? A Comparative Brief Report
+W4389937615	2023	1	search	C_student_information_seeking	International Journal of Emerging Techno	Developing Students’ Scientific Literacy through Wikipedia Digital Library
+W2331445324	2016	1	search	C_student_information_seeking	Journal of the University Librarians Ass	A Comparative Analysis of the Information Resource Usage of the Agriculture Students
+W7133203152	2026	1	search	C_student_information_seeking	International Journal of Technology in E	AI Literacy and Academic Performance: A Cross-Sectional Analysis of Senior High School Students
+W4410939844	2025	1	search	C_student_information_seeking	International Journal of Technology in E	Perspective of Science Educators and Students on the Use of ChatGPT: A Study of Artificial Intelligence
+W4411164103	2025	1	search	C_student_information_seeking	Retos	Accelerating students’ expository text writing ability in Physical Education utilizing ChatGPT
+W4413565095	2025	1	search	C_student_information_seeking	Journal of Student Research	Use of Generative AI among High School Students
+W4413745780	2025	1	search	C_student_information_seeking	International Journal of Research and In	Teaching Secondary School Essay Writing Using Generative AI
+W4404340364	2024	1	search	C_student_information_seeking	International Journal on E-Learning Prac	COGNITIVE STYLES ON STUDENTS’ ACCEPTANCE OF ARTIFICIAL INTELLIGENCE-BASED TECHNOLOGY (CHATGPT AND KAHOOT!) FOR LANGUAGE LEARNING
+W4417070708	2025	1	search	C_student_information_seeking	International Journal of Research and Re	Perceptions and Self-Regulation on the Role of Artificial Intelligence in Science Learning of Science, Technology and Engineering (STE) Students of Dasmariñas I
+W4413937847	2025	1	search	C_student_information_seeking	Advances in Engineering Innovation	Exploring the application of AIGC in high school information technology programming instructionA case study of Python Programming: Conditional Structures
+W4414557168	2025	1	search	C_student_information_seeking	International Journal of Social Science 	ChatGPT in High School Learning: Exploring Student Perceptions, Uses and Ethical Implications
+W4409439581	2025	1	search	C_student_information_seeking	Psychology and Education A Multidiscipli	Perceptions, Benefits, and Challenges of Students in SMU Senior High School on the Integration of Generative AI
+W1542941125	2010	1	search	C_student_information_seeking	Massey Research Online (Massey Universit	The information seeking behaviours of Māori secondary school students : a thesis presented in partial fulfilment of the requirements for the degree of Doctor of
+W2228318450	2014	1	search	C_student_information_seeking	University of the Western Cape Electroni	Information behaviour of fourth year students of Mzuzu University in Malawi
+W2999027162	2019	1	search	C_student_information_seeking	RePEc: Research Papers in Economics	Searching for answers : the impact of student access to Wikipedia
+W3201428140	2021	1	search	C_student_information_seeking	Public & Access Services Quarterly	How international students use library resources and conduct research
+W2472099938	2016	1	snowball_forward	C_student_information_seeking	Joho Chishiki Gakkaishi	How do Japanese students think about the credibility of Wikipedia and use Wikipedia in their learning?
+W4398782536	2024	1	snowball_forward	C_student_information_seeking	Journal of Political Science Education	Facilitating Knowledge Exchange, Knowledge Building, Research Competence, and Digital Literacy: Student-Led Wikipedia Group Project in an Undergraduate Class of
+W7204795545	2026	0	search	C_student_information_seeking	Archives of Pediatrics and Adolescent Me	Affective Generative Artificial Intelligence Use and Youth Mental Health
+W7170166281	2026	0	search	C_student_information_seeking	BMJ Public Health	Generative AI-enhanced ensemble model for predicting adolescent obesity in India: a school-based study in two southern districts of Karnataka
+W4407283269	2025	0	search	C_student_information_seeking	XLinguae	Towards the Modelling of a Writing Process Integrating Generative AI to Develop the Argumentative Skills of Secondary School Writers
+W4407204168	2024	0	search	C_student_information_seeking	International Journal of Community Servi	Teacher Competence in the Use of ChatGPT for Developing Learning Media in Vocational High Schools
+W4411376317	2025	0	search	C_student_information_seeking	Athens Journal of Education	Using Classical Rhetoric in the Age of AI: A Study on Waltzer, Cox, and Heyman’s Study “Testing the Ability of Teachers and Students to Differentiate between Es
+W4411832059	2025	0	search	C_student_information_seeking	AI	Leveraging ChatGPT in K-12 School Discipline: Potential Applications and Ethical Considerations
+W7150962425	2026	0	search	C_student_information_seeking	Prima Magistra Jurnal Ilmiah Kependidika	EXPLORING THE USE OF CHATGPT IN DEVELOPING INSTRUCTIONAL MATERIALS BY SENIOR HIGH SCHOOL INDONESIAN LANGUAGE TEACHERS IN MALUKU: A MIXED-METHODS STUDY
+W2915964790	2019	0	search	C_student_information_seeking	Advances in educational technologies and	Students' Formal and Informal Information Sources
+W7155183378	2026	0	search	C_student_information_seeking	International Journal of Social Science 	Evaluating the Impact of Personalized Adaptive AI vs. Standardized ChatGPT on the Short-Term Academic Performance in Adolescents
+W7160140003	2025	0	search	C_student_information_seeking	Jurnal Pemberdayaan Masyarakat	Enhancing English Reading Skills through ChatGPT-OpenAI: A Study on Vocational High School Students
+W7131413107	2026	0	search	C_student_information_seeking	arXiv (Cornell University)	Rapid Testing, Duck Lips, and Tilted Cameras: Youth Everyday Algorithm Auditing Practices with Generative AI Filters
+W7141163892	2026	0	search	C_student_information_seeking	arXiv (Cornell University)	Group-Differentiated Discourse on Generative AI in High School Education: A Case Study of Reddit Communities
+W3157569406	2018	0	search	C_student_information_seeking		Information Seeking Behaviour of Students of Ajayi Crowther University, Oyo, Oyo State, Nigeria.
+W7167830394	2026	0	search	C_student_information_seeking	EDU-RELIGIA Jurnal Keagamaan dan Pembela	Renegotiating Academic Integrity in the Age of Generative AI: A Case Study of the “Thinking Partner” Model in High School Learning
+W7165885034	2026	0	search	C_student_information_seeking	EDUSOSHUM Journal of Islamic Education a	Developing AI-Based Educational Animated Videos for Islamic Religious Education in Junior High Schools
+W4411086039	2025	0	search	C_student_information_seeking	Global Education Journal	Students' Perception towards the Use of ChatGPT as a Tool for Learning English
+W7130718277	2026	0	search	C_student_information_seeking	JINEA Journal of Innovation in Education	The Effect of Artificial Intelligence–Based Learning on Students’ Mathematical Thinking in Secondary Education
+W7133297476	2026	0	search	C_student_information_seeking	Journal of Contemporary Education Resear	Relationship between the Levels of Familiarity with Generative AI Tools and Content Generation in Essay Writing Achievement among Secondary School Students in N
+W4404762982	2024	0	search	C_student_information_seeking	Cureus	Categorization of Novel Research Ideas Regarding Adolescent Idiopathic Scoliosis Generated by Artificial Intelligence
+W7153549998	2026	0	search	C_student_information_seeking	European Journal of Education	ChatGPT Practices of High School Students in Programming Education: Experiences, Perceptions and Challenges
+W7162253895	2026	0	search	C_student_information_seeking	Culture and Education	Digital-Age Youth’s Reading Practices, Online Activities, and Metacognitive Assumptions About Learning / Prácticas de lectura, actividades en línea y supuestos 
+W7160303582	2026	0	search	C_student_information_seeking	Discover Education	Perspectives of secondary school students toward using generative AI as a summative assessment tool of social studies courses in Thailand
+W4414787000	2025	0	snowball_forward	C_student_information_seeking	Journal of Transformative Education	Waking Students Up to Systemic Bias: Using Wikipedia From a Critical Pedagogy Perspective
+W4417422323	2025	0	snowball_forward	C_student_information_seeking	Research Square	Evaluation of a Wikipedia Editing Assignment with Undergraduate Audiology Students
+W2012967345	2013	286	seed	seed	PLoS ONE	Early Prediction of Movie Box Office Success Based on Wikipedia Activity Big Data
+W3091616849	2020	236	seed	seed	Journal of Economic Behavior & Organizat	Online cheating amid COVID-19
+W2070272165	2014	197	seed	seed	PLoS Computational Biology	Wikipedia Usage Estimates Prevalence of Influenza-Like Illness in the United States in Near Real-Time
+W2620867994	2017	95	seed	seed	Proceedings of the International AAAI Co	The Substantial Interdependence of Wikipedia and Google: A Case Study on the Relationship Between Peer Production Communities and Information Technologies
+W2590878907	2017	86	seed	seed	International World Wide Web Conference 	Why We Read Wikipedia
+W2950771458	2019	27	seed	seed	Proceedings of the International AAAI Co	Measuring the Importance of User-Generated Content to Search Engines
+W2463349866	2016	16	seed	seed	Royal Society Open Science	Dynamics and biases of online attention: the case of aircraft crashes
+W3092497791	2021	11	seed	seed	Proceedings of the International AAAI Co	Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis
+W2520782940	2017	8	seed	seed	Science Advances	The memory remains: Understanding collective memory in the digital age
+W4414814005	2026	4	seed	seed	Journal of Systems and Software	Stack Overflow is not dead yet: Crowd answers still matter
+W4286221696	2022	3	seed	seed	JMIR Infodemiology	Confounding Effect of Undergraduate Semester–Driven “Academic" Internet Searches on the Ability to Detect True Disease Seasonality in Google Trends Data: Fourie
+W3046916467	2020	1	seed	seed	ACM Conference on Learning @ Scale (L@S)	Using Google Search Trends to Estimate Global Patterns in Learning

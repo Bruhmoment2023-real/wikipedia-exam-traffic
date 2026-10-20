@@ -1,0 +1,70 @@
+=== 05-wikipedia-exam-traffic :: search
+  crossref_A_genai_knowledge_platforms_01: total=2000341 retrieved=250 ok
+  crossref_A_genai_knowledge_platforms_02: total=3406300 retrieved=250 ok
+  crossref_A_genai_knowledge_platforms_03: total=2409507 retrieved=250 ok
+  crossref_A_genai_knowledge_platforms_04: total=939155 retrieved=250 ok
+  crossref_A_genai_knowledge_platforms_05: total=751579 retrieved=250 ok
+  s2_A_genai_knowledge_platforms_01: total=90 retrieved=90 ok
+  s2_A_genai_knowledge_platforms_02: total=115 retrieved=115 ok
+  s2_A_genai_knowledge_platforms_03: total=469 retrieved=469 ok
+  s2_A_genai_knowledge_platforms_04: total=40 retrieved=40 ok
+  s2_A_genai_knowledge_platforms_05: total=168 retrieved=168 ok
+  arxiv_A_genai_knowledge_platforms_01: total=3 retrieved=3 ok
+  arxiv_A_genai_knowledge_platforms_02: total=19 retrieved=19 ok
+  arxiv_A_genai_knowledge_platforms_03: total=5 retrieved=5 ok
+  arxiv_A_genai_knowledge_platforms_04: total=9 retrieved=9 ok
+  arxiv_A_genai_knowledge_platforms_05: total=14 retrieved=14 ok
+  crossref_B_wikipedia_pageviews_01: total=5319396 retrieved=250 ok
+  crossref_B_wikipedia_pageviews_02: total=2478633 retrieved=250 ok
+  crossref_B_wikipedia_pageviews_03: total=5667789 retrieved=250 ok
+  crossref_B_wikipedia_pageviews_04: total=873600 retrieved=250 ok
+  crossref_B_wikipedia_pageviews_05: total=1416494 retrieved=250 ok
+  crossref_B_wikipedia_pageviews_06: total=1375037 retrieved=250 ok
+  s2_B_wikipedia_pageviews_01: total=360 retrieved=360 ok
+  s2_B_wikipedia_pageviews_02: total=628 retrieved=628 ok
+  s2_B_wikipedia_pageviews_03: total=308 retrieved=308 ok
+  arxiv_B_wikipedia_pageviews_01: total=48 retrieved=48 ok
+  arxiv_B_wikipedia_pageviews_02: total=22 retrieved=22 ok
+  crossref_C_student_information_seeking_01: total=4651664 retrieved=250 ok
+  crossref_C_student_information_seeking_02: total=370171 retrieved=250 ok
+  crossref_C_student_information_seeking_03: total=3458110 retrieved=250 ok
+  crossref_C_student_information_seeking_04: total=681933 retrieved=250 ok
+  s2_C_student_information_seeking_01: total=1707 retrieved=800 ok
+  s2_C_student_information_seeking_02: total=2105 retrieved=800 ok
+  s2_C_student_information_seeking_03: total=1663 retrieved=800 ok
+  eric_C_student_information_seeking_01: total=33 retrieved=33 ok
+  eric_C_student_information_seeking_02: total=43 retrieved=35 ok
+  eric_C_student_information_seeking_03: total=67 retrieved=67 ok
+search: 8631 hits from 54 queries
+=== search done in 68s
+=== 05-wikipedia-exam-traffic :: enrich
+enrich: hits=8631 unique=7598 pass title pre-screen=1276
+  openalex 400/1276 (38s)
+  openalex 800/1276 (63s)
+  openalex 1200/1276 (88s)
+enrich: {"date": "2026-10-17", "records_identified": 8631, "by_db": {"s2": 4578, "crossref": 3750, "eric": 135, "arxiv": 120, "seed": 48}, "duplicates_removed_identifiers": 1033, "unique_records": 7598, "removed_title_prescreen": 6322, "sent_to_openalex": 1276, "duplicates_removed_openalex": 27, "excluded_reasons": {"type_excluded": 239, "offtopic_fails_inclusion_rule": 219, "no_openalex_record (no DOI / not indexed)": 56, "year_out_of_range": 17, "language_not_english": 7, "paratext_or_container_record": 1}, "included_after_search_screen": 710}
+=== enrich done in 129s
+=== 05-wikipedia-exam-traffic :: snowball
+snowball: central=28 backward candidates=1064 forward candidates=1305
+  snowball 400/2327 (86s)
+  snowball 800/2327 (160s)
+  snowball 1200/2327 (225s)
+  snowball 1600/2327 (293s)
+  snowball 2000/2327 (358s)
+snowball: {'central_papers': 28, 'backward_candidates': 1064, 'forward_candidates': 1263, 'snowball_screened': 2327, 'snowball_duplicates': 10, 'snowball_excluded_reasons': {'offtopic_fails_inclusion_rule': 1534, 'type_excluded': 274, 'no_openalex_record': 157, 'offtopic_exclusion_term_in_title': 125, 'year_out_of_range': 122, 'language_not_english': 44, 'paratext_or_container_record': 11}, 'snowball_included': 50, 'backward_included': 17, 'forward_included': 33, 'final_corpus': 760}
+=== snowball done in 449s
+=== 05-wikipedia-exam-traffic :: refs
+refs: distinct cited works=16727 to resolve=5000 (cap 5000)
+  refs 2000/5000 (413s)
+  refs 4000/5000 (920s)
+refs: resolved 4268/5000
+=== refs done in 1149s
+=== 05-wikipedia-exam-traffic :: master
+  crossref-check 500/700 (101s)
+master: corpus=760 edges=812 refs_labelled=5027 manual_removed=0
+sublit
+C_student_information_seeking    427
+B_wikipedia_pageviews            201
+A_genai_knowledge_platforms      120
+seed                              12
+=== master done in 167s

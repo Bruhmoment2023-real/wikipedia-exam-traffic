@@ -1,0 +1,29 @@
+﻿oa_id,doi,first_author,year,title,source,sublit,local_citations,cited_by_count
+W109422130,,Danny P. Wallace,2005,The Democratization of Information? Wikipedia as a Reference Resource,Reference & User Services Quarterly,B_wikipedia_pageviews,7,25
+W1994081067,10.2307/4486062,R. Rosenzweig,2006,Can History Be Open Source? Wikipedia and the Future of the Past,Journal of American History,B_wikipedia_pageviews,7,318
+W2081179379,10.5210/fm.v12i4.1765,Anselm Spoerri,2007,What is popular on Wikipedia and why?,First Monday,B_wikipedia_pageviews,7,58
+W4235537536,10.1002/asi.21142,Sook Lim,2009,How and why do college students use Wikipedia?,Journal of the American Society for Information Science and Technology,C_student_information_seeking,33,178
+W2116190778,10.1197/jamia.m3059,Michaël R. Laurent,2009,Seeking Health Information Online: Does Wikipedia Matter?,Journal of the American Medical Informatics Association,B_wikipedia_pageviews,21,297
+W1969046122,10.1016/j.lisr.2010.01.003,Sook Lim,2010,"Gender differences in information behavior concerning Wikipedia, an unorthodox information source?",Library & Information Science Research,B_wikipedia_pageviews,9,106
+W2079239760,10.5210/fm.v15i3.2830,Alison J. Head,2010,How today’s college students use Wikipedia for course-related research,First Monday,C_student_information_seeking,33,244
+W2163799046,10.1080/13691181003695173,Ericka Menchen-Trevino,2010,YOUNG ADULTS' CREDIBILITY ASSESSMENT OF WIKIPEDIA,Information Communication & Society,B_wikipedia_pageviews,9,82
+W1973353931,10.1016/j.iheduc.2011.01.003,J. Patrick Biddix,2011,Convenience or credibility? A study of college student online research behaviors,The Internet and Higher Education,C_student_information_seeking,7,126
+W2007956785,10.5210/fm.v16i4.3484,Alison J. Head,2011,How college students use the Web to conduct everyday life research,First Monday,C_student_information_seeking,6,97
+W2039986564,10.1080/10410236.2011.571759,Yla Tausczik,2011,"Public Anxiety and Information Seeking Following the H1N1 Outbreak: Blogs, Newspaper Articles, and Wikipedia Visits",Health Communication,B_wikipedia_pageviews,7,200
+W1835842472,10.1111/j.1467-8535.2012.01335.x,Xiao‐Liang Shen,2012,What leads students to adopt information from W ikipedia? An empirical investigation into the role of trust and information usefulness,British Journal of Educational Technology,C_student_information_seeking,8,111
+W2038012469,10.1371/journal.pone.0065782,Benjamin Mako Hill,2013,The Wikipedia Gender Gap Revisited: Characterizing Survey Response Bias with Propensity Score Estimation,PLoS ONE,B_wikipedia_pageviews,8,300
+W2012967345,10.1371/journal.pone.0071226,Márton Mestyán,2013,Early Prediction of Movie Box Office Success Based on Wikipedia Activity Big Data,PLoS ONE,seed,15,286
+W2041137300,10.1038/srep01801,Helen Susannah Moat,2013,Quantifying Wikipedia Usage Patterns Before Stock Market Moves,Scientific Reports,B_wikipedia_pageviews,16,317
+W2070272165,10.1371/journal.pcbi.1003581,David J. McIver,2014,Wikipedia Usage Estimates Prevalence of Influenza-Like Illness in the United States in Near Real-Time,PLoS Computational Biology,seed,15,197
+W2132668619,10.5860/crl.75.4.442,Kyung‐Sun Kim,2014,Undergraduates’ Use of Social Media as Information Sources,College & Research Libraries,C_student_information_seeking,6,189
+W2109365886,10.1002/asi.23162,Chitu Okoli,2014,Wikipedia in the eyes of its beholders: A systematic review of scholarly research on Wikipedia readers and readership,Journal of the Association for Information Science and Technology,B_wikipedia_pageviews,9,99
+W2136639813,10.1371/journal.pcbi.1003892,Nicholas Generous,2014,Global Disease Monitoring and Forecasting with Wikipedia,PLoS Computational Biology,B_wikipedia_pageviews,11,183
+W2043761021,10.1007/s11528-015-0858-6,Tracy Polk,2015,Wikipedia Use in Research: Perceptions in Secondary Schools,TechTrends,C_student_information_seeking,7,24
+W2124563368,10.2196/jmir.4069,James Heilman,2015,"Wikipedia and Medicine: Quantifying Readership, Editors, and the Significance of Natural Language",Journal of Medical Internet Research,B_wikipedia_pageviews,17,134
+W1427012839,10.1016/j.iheduc.2015.08.004,Neil Selwyn,2015,Students' use of Wikipedia as an academic resource — Patterns of use and perceptions of usefulness,The Internet and Higher Education,C_student_information_seeking,21,129
+W2122458119,10.1371/journal.pcbi.1004239,Kyle S. Hickmann,2015,Forecasting the 2013–2014 Influenza Season Using Wikipedia,PLoS Computational Biology,B_wikipedia_pageviews,12,167
+W2257386165,10.1140/epjds/s13688-016-0083-3,Taha Yasseri,2016,Wikipedia traffic data and electoral prediction: towards theoretically informed models,EPJ Data Science,B_wikipedia_pageviews,7,33
+W2590878907,10.1145/3038912.3052716,Philipp Singer,2017,Why We Read Wikipedia,International World Wide Web Conference (WWW),seed,11,86
+W4396674231,10.1038/s41598-024-61221-0,Gordon Burtch,2024,The consequences of generative AI for online knowledge communities,Scientific Reports,A_genai_knowledge_platforms,19,80
+W4402462263,10.1093/pnasnexus/pgae400,R. Maria del Rio-Chanona,2024,Large language models reduce public knowledge sharing on online Q&A platforms,PNAS Nexus,A_genai_knowledge_platforms,9,36
+W4414472860,10.1287/isre.2023.0332,Guohou Shan,2025,Examining the Impact of Generative AI on Users’ Voluntary Knowledge Contribution: Evidence from a Natural Experiment on Stack Overflow,Information Systems Research,A_genai_knowledge_platforms,7,35

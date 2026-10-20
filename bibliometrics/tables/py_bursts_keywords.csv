@@ -1,0 +1,40 @@
+﻿kind,term,start,end,weight,total_records
+keyword,chatgpt,2023,2026,48.43,148
+keyword,generative ai,2024,2026,31.09,103
+keyword,information seeking,2005,2016,25.13,138
+keyword,information literacy,2008,2016,14.88,67
+keyword,high school students,2024,2026,11.85,85
+keyword,large language models,2023,2026,11.41,46
+keyword,generative ai in education,2024,2025,11.39,35
+keyword,artificial intelligence in education,2023,2025,10.22,37
+keyword,wikipedia,2009,2012,10.2,215
+keyword,wikipedia,2017,2022,8.9,215
+keyword,university students,2009,2013,8.61,53
+keyword,wikipedia page views,2016,2023,7.49,38
+keyword,ai literacy,2025,2026,7.42,21
+keyword,information sources,2010,2019,7.37,25
+keyword,covid-19 pandemic,2020,2022,6.96,17
+keyword,undergraduate students,2005,2019,6.86,33
+keyword,critical thinking,2024,2026,6.09,22
+keyword,academic libraries,2005,2015,5.99,25
+keyword,student perceptions,2024,2025,5.43,40
+keyword,information behavior,2005,2014,5.31,20
+keyword,search engines,2011,2019,5.16,30
+keyword,online encyclopedias,2006,2010,4.87,18
+keyword,stack overflow,2023,2026,4.68,20
+keyword,google,2005,2017,4.67,20
+keyword,internet use,2005,2015,4.3,10
+keyword,ai ethics,2025,2026,4.26,12
+keyword,ai-generated content,2025,2026,4.26,12
+keyword,page views,2017,2021,4.04,23
+keyword,ai-assisted learning,2024,2026,3.95,13
+keyword,personalized learning,2023,2025,3.94,13
+keyword,source evaluation,2009,2016,3.88,15
+keyword,academic integrity,2024,2026,3.59,21
+keyword,library use,2009,2020,3.56,12
+keyword,wikipedia editing,2019,2022,3.43,17
+keyword,online information sources,2012,2016,3.4,8
+keyword,information evaluation,2008,2013,3.39,14
+keyword,source credibility,2015,2017,3.23,10
+keyword,ai chatbots,2024,2025,3.14,9
+keyword,teacher professional development,2025,2026,3.12,11
