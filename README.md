@@ -50,6 +50,11 @@ Step 1 needs the CBSE syllabus text (see "Not included"). Random seed 20261013.
 `docs/appendix/rerun.ps1` shows the order used on the author's machine; its paths are the author's
 and need editing. See `code/README.md` for exact arguments.
 
+The paper's Figures 1 and 2 (English, single panel) are drawn by `code/make_figs_v10.py` (numpy and Pillow) from
+`data/panel_full_en.npz`, `data/panel_full_en_index.csv` and `results/yearly_gaps_full_all.csv`; set `PACK` and
+`PAPER` at the top of the script to the repository root. Outputs: `results/fig1_seasonal_profile_en_v10.png`,
+`results/fig2_yearly_gap_en_v10.png` and the plotted Figure 1 values `results/fig1_profile_values_v10.csv`.
+
 ## Data sources and licences
 
 | Source | Used for | Licence / status |
