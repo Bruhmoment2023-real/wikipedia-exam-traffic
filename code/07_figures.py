@@ -108,25 +108,32 @@ def fig_levels(name):
 
 
 def fig_eve(name):
+    # sized for print at the paper's text width (6.5 in): two rows of panels so every label is 8 pt or larger
     S = pd.read_csv(RESULTS / ("secondary_eve_of_paper_%s_all.csv" % name))
     if S.empty:
         return
     subs = sorted(S.subject.unique())
-    fig, axes = plt.subplots(1, len(subs), figsize=(2.5 * len(subs), 3.6), sharey=True)
-    for ax, s in zip(np.atleast_1d(axes), subs):
+    ncol = min(4, len(subs)); nrow = int(np.ceil(len(subs) / ncol))
+    fig, axes = plt.subplots(nrow, ncol, figsize=(6.5, 2.1 * nrow + 0.5), sharey=True, squeeze=False)
+    flat = axes.ravel()
+    for ax, s in zip(flat, subs):
         d = S[S.subject == s].sort_values("year")
         ax.axhline(0, color=MUTED, lw=0.8)
         ax.axvspan(2022.4, 2026.6, color=GRID, alpha=0.5, lw=0)
-        ax.vlines(d.year, d.ci_lo, d.ci_hi, color=BLUE, lw=2)
-        ax.plot(d.year, d.gap, "o", color=BLUE, ms=6)
-        ax.set_title(s, fontsize=10)
+        ax.vlines(d.year, d.ci_lo, d.ci_hi, color=BLUE, lw=1.6)
+        ax.plot(d.year, d.gap, "o", color=BLUE, ms=4.5)
+        ax.set_title(s, fontsize=9)
         ax.set_xticks([2017, 2020, 2023, 2026])
+        ax.tick_params(labelsize=8)
         ax.grid(axis="y", color=GRID, lw=0.6)
-    np.atleast_1d(axes)[0].set_ylabel("Eve-of-paper spike, syllabus minus control\n(log points)")
-    fig.suptitle("Views on the three days before a subject's CBSE paper, relative to the surrounding weeks (English)",
-                 x=0.01, ha="left", color=INK, fontsize=10, fontweight="bold")
+    for ax in flat[len(subs):]:
+        ax.set_visible(False)
+    for r in range(nrow):
+        axes[r, 0].set_ylabel("Eve-of-paper spike,\nsyllabus minus control\n(log points)", fontsize=8)
+    fig.suptitle("Views on the three days before a subject's CBSE paper,\nrelative to the surrounding weeks (English)",
+                 x=0.01, ha="left", color=INK, fontsize=9.5, fontweight="bold")
     fig.tight_layout()
-    fig.savefig(RESULTS / "fig4_eve_of_paper_spike.png", dpi=160)
+    fig.savefig(RESULTS / "fig4_eve_of_paper_spike.png", dpi=300)
     plt.close(fig)
 
 
