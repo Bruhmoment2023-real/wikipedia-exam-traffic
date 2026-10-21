@@ -19,6 +19,10 @@ step resumes where it stopped.
 | 5 | `05_analyze.py <name> pre` then `05_analyze.py <name> all` | panels, `data\exam_dates.csv` | `results\*.csv` | none |
 | 6 | `06_india_country.py download` then `analyze` | steps 1-2 | `data\cache\country_in\`, `results\R10_india_only.csv` | 72 files, about 410 MB transferred, India rows kept (27 MB) |
 | 7 | `07_figures.py <name>` | panels, results | `results\fig*.png` | none |
+| 8 | `make_figs_v10.py` (the paper's Figures 1 and 2; set `PACK` and `PAPER` at the top first) | `data\panel_full_en.npz`, `data\panel_full_en_index.csv`, `results\yearly_gaps_full_all.csv` (under `PACK`) | `<PAPER>\figures\fig1_seasonal_profile_en_v10.png`, `fig2_yearly_gap_en_v10.png`, `<PAPER>\analysis\fig1_profile_values_v10.csv` (copies in `results\`) | none |
+
+Step 8 was re-run on 21 Oct 2026 from the committed panel and results (`PACK` = repository root); its three
+outputs were byte-identical to the copies in `results\`.
 
 `pre` in step 5 masks every day after 30 June 2020 before any number is computed; it was run first,
 to validate the design, before the `all` stage was run (see `02a-analysis-plan-FROZEN.md` and
