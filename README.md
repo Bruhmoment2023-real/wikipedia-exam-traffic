@@ -1,5 +1,7 @@
 # Did students stop looking things up? Exam-season Wikipedia traffic for Indian school-syllabus topics before and after ChatGPT
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537761 (this DOI always points to the latest version).
+
 Sean Solano Paul, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
 ## Summary

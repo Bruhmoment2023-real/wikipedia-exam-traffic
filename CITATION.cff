@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "Did students stop looking things up? Exam-season Wikipedia traffic for Indian school-syllabus topics before and after ChatGPT"
+doi: 10.5281/zenodo.23537761
 type: software
 authors:
   - family-names: "Solano Paul"
