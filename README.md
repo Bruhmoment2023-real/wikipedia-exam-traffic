@@ -14,7 +14,11 @@ CBSE science and mathematics syllabi are matched to non-syllabus control article
 2016-2019 traffic, and each article's views in a seven-week exam window are compared with its views in
 the previous July to October. The analysis plan was frozen before the post-period data were
 downloaded (`docs/02a-analysis-plan-FROZEN.md`, `results/plan_freeze.txt`). The Hindi and Kannada
-editions are pulled but not yet tested.
+editions were tested in version 2.
+
+## Version 2 (November 2026): completed analysis and extensions in `v17/`
+
+The folder `v17/` holds the November 2026 rerun on the completed page-view pull (Hindi and Kannada editions tested, desktop and mobile views on 155 pairs) and the exploratory extensions with their time-stamped plan: placebo windows and placebo pages, platform-labelled automated traffic, desktop and mobile views, clickstream data on how readers reach the articles, baseline levels, and season-level intervals. The English main result is unchanged (711 pairs, D = -0.046, permutation p = 0.129). See `v17/README.md` for contents and reproduction. The material outside `v17/` is the earlier version and is unchanged.
 
 ## Layout
 
@@ -81,4 +85,4 @@ The paper's Figures 1 and 2 (English, single panel) are drawn by `code/make_figs
 
 ## Citation
 
-See `CITATION.cff`. Solano Paul, S. (2026). *Did students stop looking things up? Exam-season Wikipedia traffic for Indian school-syllabus topics before and after ChatGPT* (code and data). Independent researcher. A Zenodo DOI will be added when the repository is made public.
+See `CITATION.cff`. Solano Paul, S. (2026). *Did students stop looking things up? Exam-season Wikipedia traffic for Indian school-syllabus topics before and after ChatGPT* (code and data). Independent researcher.

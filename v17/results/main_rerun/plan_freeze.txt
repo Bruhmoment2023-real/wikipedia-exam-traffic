@@ -1,0 +1,7 @@
+Plan frozen: 2026-10-13T16:47:14Z UTC
+2b3fd663e887ed6563f3b0cc4b5a9d4ceb5ee8ef505676a9a49244029b8a140b *02a-analysis-plan-FROZEN.md
+Files in data/cache/pv at freeze: 0
+Amendment A1 added: 2026-10-13T17:44:40Z UTC (before any post-2020 result was computed)
+580862cf409fc78b666c646fd7f7cc22ef13a2b96e8330e175ab08d034f9d8e6 *02a-analysis-plan-FROZEN.md
+panel_full files existing at this time: 0
+--- run started 2026-10-16T21:54:00Z (post-2020 data first examined here; plan hash in results/plan_freeze.txt)

@@ -1,0 +1,12 @@
+SCI vital-list links: 3341 | not a syllabus article: 3084 | title not in syllabus text: 2677
+MAT vital-list links: 300 | not a syllabus article: 256 | title not in syllabus text: 209
+SST vital-list links: 2841 | not a syllabus article: 2809 | title not in syllabus text: 2610
+OFF vital-list links: 1623 | not a syllabus article: 1618 | title not in syllabus text: 1553
+candidates to screen: 2259
+('A_same_area', 'MAT') n=121 median |log gap|=0.015 share within 0.25: 0.98 hi:89 kn:21
+('A_same_area', 'SCI') n=597 median |log gap|=0.002 share within 0.25: 1.00 hi:475 kn:263
+('A_same_area', 'SST') n=141 median |log gap|=0.007 share within 0.25: 0.99 hi:131 kn:66
+('B_other_area', 'MAT') n=61 median |log gap|=0.005 share within 0.25: 0.92 hi:43 kn:22
+('B_other_area', 'SCI') n=294 median |log gap|=0.005 share within 0.25: 0.96 hi:211 kn:80
+('B_other_area', 'SST') n=76 median |log gap|=0.004 share within 0.25: 0.93 hi:62 kn:27
+syllabus n per area: {'MAT': 122, 'SCI': 600, 'SST': 146}

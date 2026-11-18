@@ -1,0 +1,6 @@
+spec,n_pairs,D,D_lo,D_hi,perm_p_one_sided,perm_splits,share_pairs_negative
+E1 placebo window F-77,711,-0.0114,-0.0234,0.0006,0.3143,70.0,0.5246
+E1 placebo window F+77,711,-0.0554,-0.0707,-0.0394,0.1286,70.0,0.609
+E1 placebo window F+126,711,-0.0175,-0.034,-0.0007,0.4714,70.0,0.5443
+MAIN (true window),711,-0.0455,-0.0593,-0.0326,0.1286,70.0,0.616
+"E1a within-pre break: mean(2019,2020) - mean(2017,2018)",711,-0.0335,-0.0543,-0.0142,,,

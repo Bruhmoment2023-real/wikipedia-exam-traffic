@@ -1,0 +1,34 @@
+spec,year,role,n_pairs,uplift_syllabus,uplift_control,gap,ci_lo,ci_hi,median_gap
+E2a(i) control A minus placebo C,2016,set aside,283,0.0909,0.0824,0.0073,-0.0329,0.0512,-0.0105
+E2a(i) control A minus placebo C,2017,pre,285,0.1226,0.1429,-0.0203,-0.0578,0.02,-0.0148
+E2a(i) control A minus placebo C,2018,pre,285,0.0991,0.1084,-0.0092,-0.0454,0.0259,-0.0094
+E2a(i) control A minus placebo C,2019,pre,285,0.0354,0.026,0.0093,-0.0336,0.0551,-0.0083
+E2a(i) control A minus placebo C,2020,pre,285,0.016,0.0159,0.0001,-0.0378,0.0409,-0.0021
+E2a(i) control A minus placebo C,2021,set aside,285,0.0041,0.046,-0.0418,-0.0836,-0.0015,-0.0172
+E2a(i) control A minus placebo C,2022,set aside,285,-0.0402,-0.0195,-0.0207,-0.0536,0.0134,-0.0142
+E2a(i) control A minus placebo C,2023,post,285,0.0976,0.0753,0.0223,-0.01,0.0577,0.007
+E2a(i) control A minus placebo C,2024,post,285,0.0502,0.0527,-0.0025,-0.0346,0.029,-0.0181
+E2a(i) control A minus placebo C,2025,post,285,-0.0262,-0.0434,0.0172,-0.0159,0.0502,0.0111
+E2a(i) control A minus placebo C,2026,post,285,-0.0719,-0.0764,0.0045,-0.0261,0.0377,-0.0147
+E2a(ii) syllabus minus placebo C as control,2016,set aside,284,0.2286,0.0818,0.1466,0.1095,0.1821,0.133
+E2a(ii) syllabus minus placebo C as control,2017,pre,285,0.2556,0.1417,0.1139,0.0761,0.1502,0.1025
+E2a(ii) syllabus minus placebo C as control,2018,pre,285,0.2289,0.1069,0.122,0.0896,0.1531,0.11
+E2a(ii) syllabus minus placebo C as control,2019,pre,285,0.1026,0.0238,0.0788,0.0473,0.1086,0.0689
+E2a(ii) syllabus minus placebo C as control,2020,pre,285,0.1476,0.0146,0.133,0.1004,0.1662,0.1092
+E2a(ii) syllabus minus placebo C as control,2021,set aside,285,-0.0366,0.0441,-0.0808,-0.1199,-0.0418,-0.0616
+E2a(ii) syllabus minus placebo C as control,2022,set aside,285,-0.0632,-0.0204,-0.0427,-0.0748,-0.012,-0.02
+E2a(ii) syllabus minus placebo C as control,2023,post,285,0.1626,0.0747,0.0879,0.0558,0.1217,0.0695
+E2a(ii) syllabus minus placebo C as control,2024,post,285,0.1949,0.0515,0.1434,0.1117,0.1739,0.1034
+E2a(ii) syllabus minus placebo C as control,2025,post,285,-0.0204,-0.045,0.0245,-0.005,0.0532,0.0044
+E2a(ii) syllabus minus placebo C as control,2026,post,285,-0.0484,-0.0769,0.0285,-0.0026,0.0598,0.0088
+"E2a(iii) same syllabus articles, original control A",2016,set aside,281,0.2284,0.0909,0.1371,0.099,0.1725,0.1076
+"E2a(iii) same syllabus articles, original control A",2017,pre,284,0.2556,0.1226,0.1331,0.0929,0.1726,0.1036
+"E2a(iii) same syllabus articles, original control A",2018,pre,284,0.229,0.0995,0.1294,0.094,0.1657,0.0942
+"E2a(iii) same syllabus articles, original control A",2019,pre,284,0.1026,0.0349,0.0677,0.0283,0.105,0.0726
+"E2a(iii) same syllabus articles, original control A",2020,pre,284,0.1477,0.0161,0.1316,0.0933,0.1698,0.1163
+"E2a(iii) same syllabus articles, original control A",2021,set aside,284,-0.0369,0.002,-0.0389,-0.075,-0.0002,-0.0618
+"E2a(iii) same syllabus articles, original control A",2022,set aside,284,-0.0634,-0.0404,-0.023,-0.0552,0.009,-0.0109
+"E2a(iii) same syllabus articles, original control A",2023,post,284,0.1628,0.0976,0.0652,0.0364,0.0924,0.0547
+"E2a(iii) same syllabus articles, original control A",2024,post,284,0.1955,0.05,0.1455,0.1106,0.179,0.1337
+"E2a(iii) same syllabus articles, original control A",2025,post,284,-0.0204,-0.0267,0.0062,-0.0263,0.0385,-0.0085
+"E2a(iii) same syllabus articles, original control A",2026,post,284,-0.0482,-0.0719,0.0237,-0.0058,0.0514,0.0076

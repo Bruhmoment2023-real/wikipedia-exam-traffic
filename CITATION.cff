@@ -9,6 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-8465-4468"
     affiliation: "Independent researcher"
 license: MIT
-date-released: "2026-10-20"
+version: "2.0"
+date-released: "2026-11-18"
 abstract: "Code, data and results for a difference-in-differences study of exam-season Wikipedia page views for 711 CBSE syllabus articles against traffic-matched controls, 2016-2026, before and after the release of ChatGPT."
 repository-code: "https://github.com/Bruhmoment2023-real/wikipedia-exam-traffic"

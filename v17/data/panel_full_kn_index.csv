@@ -1,0 +1,672 @@
+article,group,en_title,matched_to,area,fetched,n_redirect_titles,total_views,share_on_current_title
+ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ,syllabus,Chemical reaction,Chemical reaction,SCI,True,0,17917.0,1.0
+ಉತ್ಕರ್ಷಣ - ಅಪಕರ್ಷಣ,syllabus,Redox,Redox,SCI,True,0,13549.0,1.0
+ಆಮ್ಲ,syllabus,Acid,Acid,SCI,True,0,38348.0,1.0
+ಪ್ರತ್ಯಾಮ್ಲ,syllabus,Base (chemistry),Base (chemistry),SCI,True,0,7701.0,1.0
+ಪಿ ಹೆಚ್,syllabus,PH,PH,SCI,True,0,14751.0,1.0
+ಸೋಡಿಯಂ ಬೈ ಕಾರ್ಬೋನೇಟ್,syllabus,Sodium bicarbonate,Sodium bicarbonate,SCI,True,0,12003.0,1.0
+ಸೋಡಿಯಂ ಕಾರ್ಬೋನೇಟ್,syllabus,Sodium carbonate,Sodium carbonate,SCI,True,0,3989.0,1.0
+ಲೋಹ,syllabus,Metal,Metal,SCI,True,0,96590.0,1.0
+ಅಲೋಹಗಳು,syllabus,Nonmetal,Nonmetal,SCI,True,0,44369.0,1.0
+ಲೋಹಶಾಸ್ತ್ರ,syllabus,Metallurgy,Metallurgy,SCI,True,0,3698.0,1.0
+ಮಿಶ್ರ ಲೋಹ,syllabus,Alloy,Alloy,SCI,True,0,18511.0,1.0
+ಗ್ಯಾಲ್ವನೀಕರಣ,syllabus,Galvanization,Galvanization,SCI,True,0,3211.0,1.0
+ವಿದ್ಯುದ್ವಿಭಜನೆ (ಎಲೆಕ್ಟ್ರೋಲೈಸಿಸ್),syllabus,Electrolysis,Electrolysis,SCI,True,0,9937.0,1.0
+ಅನೂರೂಪ ಶ್ರೇಣಿಗಳು,syllabus,Homologous series,Homologous series,SCI,True,0,1289.0,1.0
+ಹೈಡ್ರೊಕಾರ್ಬನ್ನುಗಳು,syllabus,Hydrocarbon,Hydrocarbon,SCI,True,0,4296.0,1.0
+ಆಲ್ಕೇನ್‌ಗಳು,syllabus,Alkane,Alkane,SCI,True,0,578.0,1.0
+ಆಲ್ಕೀನ್,syllabus,Alkene,Alkene,SCI,True,0,1546.0,1.0
+ಈಥೈಲ್ ಆಲ್ಕೋಹಾಲ್,syllabus,Ethanol,Ethanol,SCI,True,0,4375.0,1.0
+ಅಸಿಟಿಕ್ ಆಮ್ಲ,syllabus,Acetic acid,Acetic acid,SCI,True,0,7622.0,1.0
+ಸಾಬೂನು,syllabus,Soap,Soap,SCI,True,0,6959.0,1.0
+ಮಾರ್ಜಕ,syllabus,Detergent,Detergent,SCI,True,0,4837.0,1.0
+ಐಸೋಮರ್,syllabus,Isomer,Isomer,SCI,True,0,2179.0,1.0
+ಉಷ್ಣ ವಿಕಸನ,syllabus,Combustion,Combustion,SCI,True,0,3903.0,1.0
+ಆವರ್ತ ಕೋಷ್ಟಕ,syllabus,Periodic table,Periodic table,SCI,True,0,47438.0,1.0
+ದಿಮಿತ್ರಿ ಮೆಂಡಲೀವ್,syllabus,Dmitri Mendeleev,Dmitri Mendeleev,SCI,True,0,8688.0,1.0
+ಪರಮಾಣು ಸಂಖ್ಯೆ,syllabus,Atomic number,Atomic number,SCI,True,0,42173.0,1.0
+ಪೋಷಣಶಾಸ್ತ್ರ,syllabus,Nutrition,Nutrition,SCI,True,0,38543.0,1.0
+ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ,syllabus,Photosynthesis,Photosynthesis,SCI,True,0,68549.0,1.0
+ಮಾನವನ ಪಚನ ವ್ಯವಸ್ಥೆ,syllabus,Human digestive system,Human digestive system,SCI,True,0,84170.0,1.0
+ರಕ್ತಪರಿಚಲನೆಯ ವ್ಯವಸ್ಥೆ,syllabus,Circulatory system,Circulatory system,SCI,True,0,25675.0,1.0
+ವಿಸರ್ಜನೆ,syllabus,Excretion,Excretion,SCI,True,0,1548.0,1.0
+ಪತ್ರರಂಧ್ರ,syllabus,Stoma,Stoma,SCI,True,0,10193.0,1.0
+ಬಾಷ್ಪೀಕರಣ,syllabus,Transpiration,Transpiration,SCI,True,0,21821.0,1.0
+ಹೃದಯ,syllabus,Heart,Heart,SCI,True,0,88858.0,1.0
+ಪರಪೋಶಕಗಳು,syllabus,Heterotroph,Heterotroph,SCI,True,0,20819.0,1.0
+ನರಮಂಡಲ,syllabus,Nervous system,Nervous system,SCI,True,0,7203.0,1.0
+ಮಾನವ ಮಿದುಳು,syllabus,Human brain,Human brain,SCI,True,0,5518.0,1.0
+ಹಾರ್ಮೋನ್,syllabus,Hormone,Hormone,SCI,True,0,18203.0,1.0
+ಇನ್ಸುಲಿನ್,syllabus,Insulin,Insulin,SCI,True,0,10326.0,1.0
+ಅಬೀಜೋತ್ಪಾದನೆ,syllabus,Asexual reproduction,Asexual reproduction,SCI,True,0,1476.0,1.0
+ಮಾನವನ ಸಂತಾನೋತ್ಪತ್ತಿವ್ಯೂಹ,syllabus,Human reproductive system,Human reproductive system,SCI,True,0,5062.0,1.0
+ಸಂತಾನ ನಿಯಂತ್ರಣ,syllabus,Birth control,Birth control,SCI,True,0,3850.0,1.0
+ಋತುಚಕ್ರ,syllabus,Menstrual cycle,Menstrual cycle,SCI,True,0,37537.0,1.0
+ಜರಾಯು (ಪ್ಲೆಸೆಂಟಾ),syllabus,Placenta,Placenta,SCI,True,0,1066.0,1.0
+ಅನುವಂಶಿಕತೆ,syllabus,Heredity,Heredity,SCI,True,0,2755.0,1.0
+ಮೆಂಡಲನ ನಿಯಮಗಳು,syllabus,Mendelian inheritance,Mendelian inheritance,SCI,True,0,2185.0,1.0
+ಗ್ರೆಗರ್ ಮೆಂಡೆಲ್,syllabus,Gregor Mendel,Gregor Mendel,SCI,True,0,7871.0,1.0
+ವಿಕಾಸ,syllabus,Evolution,Evolution,SCI,True,0,6103.0,1.0
+ಜಾತೀಕರಣ,syllabus,Speciation,Speciation,SCI,True,0,3023.0,1.0
+ನೈಸರ್ಗಿಕ ಆಯ್ಕೆ,syllabus,Natural selection,Natural selection,SCI,True,0,8832.0,1.0
+ಪಳೆಯುಳಿಕೆ,syllabus,Fossil,Fossil,SCI,True,0,14541.0,1.0
+ಪ್ರತಿಫಲನ,syllabus,Reflection (physics),Reflection (physics),SCI,True,0,30398.0,1.0
+ವಕ್ರೀಭವನ,syllabus,Refraction,Refraction,SCI,True,0,20675.0,1.0
+ವಕ್ರೀಭವನ ಸೂಚ್ಯಂಕ,syllabus,Refractive index,Refractive index,SCI,True,0,7067.0,1.0
+ಮಾನವನ ಕಣ್ಣು,syllabus,Human eye,Human eye,SCI,True,0,39635.0,1.0
+ದೂರದೃಷ್ಟಿ,syllabus,Farsightedness,Farsightedness,SCI,True,0,8790.0,1.0
+ಅಶ್ರಕ,syllabus,Prism (optics),Prism (optics),SCI,True,0,1217.0,1.0
+ಟಿಂಡಲ್ ಪರಿಣಾಮ,syllabus,Tyndall effect,Tyndall effect,SCI,True,0,8364.0,1.0
+ಮಳೆಬಿಲ್ಲು,syllabus,Rainbow,Rainbow,SCI,True,0,62989.0,1.0
+ವಿದ್ಯುತ್ ಪ್ರವಾಹ,syllabus,Electric current,Electric current,SCI,True,0,47041.0,1.0
+ವಿದ್ಯುತ್ ರೋಧ ಮತ್ತು ವಿದ್ಯುತ್ ವಾಹಕತೆ,syllabus,Electrical resistivity and conductivity,Electrical resistivity and conductivity,SCI,True,0,21611.0,1.0
+ವಿದ್ಯುದಾವೇಶ,syllabus,Electric charge,Electric charge,SCI,True,0,12806.0,1.0
+ಸೊಲೆನಾಯ್ಡ್,syllabus,Solenoid,Solenoid,SCI,True,0,5256.0,1.0
+ವಿದ್ಯುತ್ ಮೋಟಾರ್,syllabus,Electric motor,Electric motor,SCI,True,0,14864.0,1.0
+ವಿದ್ಯುತ್ಕಾಂತೀಯ ಪ್ರೇರಣೆ,syllabus,Electromagnetic induction,Electromagnetic induction,SCI,True,0,10771.0,1.0
+ವಿದ್ಯುತ್ ಜನಕ,syllabus,Electric generator,Electric generator,SCI,True,0,23831.0,1.0
+ಪರ್ಯಾಯ(ಸರದಿಯಂತೆ ಬರುವ) ವಿದ್ಯುತ್ ಪ್ರವಾಹ,syllabus,Alternating current,Alternating current,SCI,True,0,9119.0,1.0
+ಎಲೆಕ್ಟ್ರಿಕ್ ಫ್ಯೂಸ್,syllabus,Fuse (electrical),Fuse (electrical),SCI,True,0,5339.0,1.0
+ವಿದ್ಯುತ್ಕಾಂತ,syllabus,Electromagnet,Electromagnet,SCI,True,0,8216.0,1.0
+ಪಳೆಯುಳಿಕೆಯ ಇಂಧನ,syllabus,Fossil fuel,Fossil fuel,SCI,True,0,33641.0,1.0
+ಸೌರ ಶಕ್ತಿ,syllabus,Solar energy,Solar energy,SCI,True,0,77296.0,1.0
+ಜೈವಿಕ ಅನಿಲ,syllabus,Biogas,Biogas,SCI,True,0,478.0,1.0
+ಗಾಳಿ ಶಕ್ತಿ,syllabus,Wind power,Wind power,SCI,True,0,18438.0,1.0
+ಜಲವಿದ್ಯುತ್,syllabus,Hydroelectricity,Hydroelectricity,SCI,True,0,25197.0,1.0
+ಭರತಶಕ್ತಿ,syllabus,Tidal power,Tidal power,SCI,True,0,5350.0,1.0
+ಪರಮಾಣು ಶಕ್ತಿ,syllabus,Nuclear power,Nuclear power,SCI,True,0,35396.0,1.0
+ಭೂಶಾಖದ ಶಕ್ತಿ,syllabus,Geothermal energy,Geothermal energy,SCI,True,0,8245.0,1.0
+ಪರಿಸರ ವ್ಯವಸ್ಥೆ,syllabus,Ecosystem,Ecosystem,SCI,True,0,162529.0,1.0
+ಆಹಾರ ಸರಪಳಿ,syllabus,Food chain,Food chain,SCI,True,0,40045.0,1.0
+ಓಝೋನ್ ಪದರು ಸವಕಳಿ(ಸಾಮರ್ಥ್ಯ ಕುಂದು),syllabus,Ozone depletion,Ozone depletion,SCI,True,0,58456.0,1.0
+ಬಯೋಮ್ಯಾಗ್ನಿಫಿಕೇಶನ್,syllabus,Biomagnification,Biomagnification,SCI,True,0,832.0,1.0
+ಓಝೋನ್ ಪದರ,syllabus,Ozone layer,Ozone layer,SCI,True,0,72149.0,1.0
+ಮಳೆನೀರು ಕೊಯ್ಲು,syllabus,Rainwater harvesting,Rainwater harvesting,SCI,True,0,145409.0,1.0
+ಚಿಪ್ಕೊ ಚಳುವಳಿ,syllabus,Chipko movement,Chipko movement,SCI,True,0,115566.0,1.0
+ಕಟ್ಟೆ,syllabus,Dam,Dam,SCI,True,0,8875.0,1.0
+ನೈಸರ್ಗಿಕ ಸಂಪನ್ಮೂಲ,syllabus,Natural resource,Natural resource,SCI,True,0,175575.0,1.0
+ನೈಜ ಸಂಖ್ಯೆ,syllabus,Real number,Real number,MAT,True,0,711.0,1.0
+ಅಂಕಗಣಿತದ ಮೂಲಭೂತ ಪ್ರಮೇಯ,syllabus,Fundamental theorem of arithmetic,Fundamental theorem of arithmetic,MAT,True,0,4040.0,1.0
+ಗರಿಷ್ಟ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ(ಗ.ಸಾ.ಅ ),syllabus,Greatest common divisor,Greatest common divisor,MAT,True,0,574.0,1.0
+ಲಘುತಮ ಸಾಮಾನ್ಯ ಅಪವರ್ತ್ಯ (ಲ.ಸಾ.ಅ),syllabus,Least common multiple,Least common multiple,MAT,True,0,5265.0,1.0
+ವೃತ್ತ,syllabus,Circle,Circle,MAT,True,0,20096.0,1.0
+ಶಂಕು,syllabus,Cone,Cone,MAT,True,0,994.0,1.0
+ಉರುಳೆ,syllabus,Cylinder,Cylinder,MAT,True,0,1178.0,1.0
+ಗೋಳ,syllabus,Sphere,Sphere,MAT,True,0,11636.0,1.0
+ಸಂಖ್ಯಾಶಾಸ್ತ್ರ,syllabus,Statistics,Statistics,MAT,True,0,61791.0,1.0
+ಸಂಭಾವ್ಯತೆ,syllabus,Probability,Probability,MAT,True,0,3068.0,1.0
+ರಾಷ್ಟ್ರೀಯತೆ,syllabus,Nationalism,Nationalism,SST,False,0,0.0,
+ಫ್ರೆಂಚ್ ಕ್ರಾಂತಿ,syllabus,French Revolution,French Revolution,SST,False,0,0.0,
+ಮ್ಯಾಝಿನಿ,syllabus,Giuseppe Mazzini,Giuseppe Mazzini,SST,False,0,0.0,
+ಒಟ್ಟೊ ವಾನ್ ಬಿಸ್ಮಾರ್ಕ್,syllabus,Otto von Bismarck,Otto von Bismarck,SST,False,0,0.0,
+ಜೂಸೆಪ್ಪೆ ಗಾರಿಬಾಲ್ಡಿ,syllabus,Giuseppe Garibaldi,Giuseppe Garibaldi,SST,False,0,0.0,
+"ರೊಮ್ಯಾಂಟಿಸಿಸಂ(ಭಾವಪ್ರಧಾನತೆ ತತ್ವ,ಸಿದ್ದಾಂತ)",syllabus,Romanticism,Romanticism,SST,False,0,0.0,
+ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿ,syllabus,Indian independence movement,Indian independence movement,SST,False,0,0.0,
+ಅಸಹಕಾರ ಚಳುವಳಿ,syllabus,Non-cooperation movement (1919–1922),Non-cooperation movement (1919–1922),SST,False,0,0.0,
+ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ,syllabus,Salt March,Salt March,SST,False,0,0.0,
+ಜಲಿಯನ್‍ವಾಲಾ ಬಾಗ್ ಹತ್ಯಾಕಾಂಡ,syllabus,Jallianwala Bagh massacre,Jallianwala Bagh massacre,SST,False,0,0.0,
+ರೌಲತ್ ಕಾಯ್ದೆ,syllabus,Rowlatt Act,Rowlatt Act,SST,True,0,27493.0,1.0
+ಖಿಲಾಫತ್ ಚಳವಳಿ,syllabus,Khilafat Movement,Khilafat Movement,SST,True,0,2125.0,1.0
+ಸೈಮನ್ ಆಯೋಗ,syllabus,Simon Commission,Simon Commission,SST,False,0,0.0,
+ಸತ್ಯಾಗ್ರಹ,syllabus,Satyagraha,Satyagraha,SST,False,0,0.0,
+ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ ಚಳುವಳಿ,syllabus,Quit India Movement,Quit India Movement,SST,False,0,0.0,
+ಪೂನಾ ಒಪ್ಪಂದ,syllabus,Poona Pact,Poona Pact,SST,False,0,0.0,
+ಮಹಾತ್ಮ ಗಾಂಧಿ,syllabus,Mahatma Gandhi,Mahatma Gandhi,SST,False,0,0.0,
+ಚಂಪಾರಣ್ ಸತ್ಯಾಗ್ರಹ,syllabus,Champaran Satyagraha,Champaran Satyagraha,SST,False,0,0.0,
+ಚೌರಿ ಚೌರಾ ಘಟನೆ,syllabus,Chauri Chaura incident,Chauri Chaura incident,SST,False,0,0.0,
+ಸ್ವದೇಶಿ ಚಳುವಳಿ,syllabus,Swadeshi movement,Swadeshi movement,SST,False,0,0.0,
+ಜಾಗತೀಕರಣ,syllabus,Globalization,Globalization,SST,False,0,0.0,
+ರೇಷ್ಮೆ ಮಾರ್ಗ,syllabus,Silk Road,Silk Road,SST,False,0,0.0,
+ರಿಂಡ್ರ್ಪೇಸ್ಟ್ ವೈರಸ್,syllabus,Rinderpest,Rinderpest,SST,False,0,0.0,
+ಭಾರತೀಯ ಒಪ್ಪಂದ ವ್ಯವಸ್ಥೆ,syllabus,Indian indenture system,Indian indenture system,SST,False,0,0.0,
+ಕೈಗಾರಿಕಾ ಕ್ರಾಂತಿ,syllabus,Industrial Revolution,Industrial Revolution,SST,False,0,0.0,
+ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯ ಕಂಪನಿ,syllabus,East India Company,East India Company,SST,False,0,0.0,
+ಮುದ್ರಣ ಯಂತ್ರ,syllabus,Printing press,Printing press,SST,False,0,0.0,
+ಯೋಹಾನ್ ಗೂಟೆನ್ಬರ್ಗ್,syllabus,Johannes Gutenberg,Johannes Gutenberg,SST,False,0,0.0,
+ಮಣ್ಣು,syllabus,Soil,Soil,SST,False,0,0.0,
+ಮೆಕ್ಕಲು,syllabus,Alluvium,Alluvium,SST,False,0,0.0,
+ಮುರಕಲ್ಲು,syllabus,Laterite,Laterite,SST,False,0,0.0,
+ಮಣ್ಣಿನ ಸವಕಳಿ,syllabus,Soil erosion,Soil erosion,SST,True,0,58823.0,1.0
+ಅರಣ್ಯನಾಶ,syllabus,Deforestation,Deforestation,SST,False,0,0.0,
+ಹುಲಿ ಪರಿಯೋಜನೆ,syllabus,Project Tiger,Project Tiger,SST,False,0,0.0,
+ಜೀವವೈವಿಧ್ಯ,syllabus,Biodiversity,Biodiversity,SST,False,0,0.0,
+ಭಾರತದಲ್ಲಿ ಕೃಷಿ,syllabus,Agriculture in India,Agriculture in India,SST,False,0,0.0,
+ನೆಡುತೋಪು,syllabus,Plantation,Plantation,SST,False,0,0.0,
+ಅಕ್ಕಿ,syllabus,Rice,Rice,SST,False,0,0.0,
+ಗೋಧಿ,syllabus,Wheat,Wheat,SST,False,0,0.0,
+ಕಿರುಧಾನ್ಯಗಳು,syllabus,Millet,Millet,SST,False,0,0.0,
+ಚಹಾ,syllabus,Tea,Tea,SST,False,0,0.0,
+ಕಾಫಿ,syllabus,Coffee,Coffee,SST,False,0,0.0,
+ಕಬ್ಬು,syllabus,Sugarcane,Sugarcane,SST,False,0,0.0,
+ಹತ್ತಿ,syllabus,Cotton,Cotton,SST,False,0,0.0,
+ಸೆಣಬು,syllabus,Jute,Jute,SST,False,0,0.0,
+ಖನಿಜ,syllabus,Mineral,Mineral,SST,False,0,0.0,
+ಕಬ್ಬಿಣದ ಅದಿರು,syllabus,Iron ore,Iron ore,SST,False,0,0.0,
+ಬಾಕ್ಸೈಟ್,syllabus,Bauxite,Bauxite,SST,False,0,0.0,
+ಮ್ಯಾಂಗನೀಸ್,syllabus,Manganese,Manganese,SST,False,0,0.0,
+ಅಭ್ರಕ,syllabus,Mica,Mica,SST,False,0,0.0,
+ಕಲ್ಲಿದ್ದಲು,syllabus,Coal,Coal,SST,False,0,0.0,
+ಪೆಟ್ರೋಲಿಯಮ್,syllabus,Petroleum,Petroleum,SST,False,0,0.0,
+ನಿಸರ್ಗಾನಿಲ,syllabus,Natural gas,Natural gas,SST,False,0,0.0,
+ಭಾರತದಲ್ಲಿ ಜವಳಿ ಉದ್ಯಮ,syllabus,Textile industry in India,Textile industry in India,SST,False,0,0.0,
+ಚಿನ್ನದ ಚತುಷ್ಪಥ (ಚತುರ್ಭುಜಾಕೃತಿ ),syllabus,Golden Quadrilateral,Golden Quadrilateral,SST,False,0,0.0,
+ಭಾರತೀಯ ರೈಲ್ವೆ,syllabus,Indian Railways,Indian Railways,SST,False,0,0.0,
+ಭಾರತದ ಬಂದರುಗಳು,syllabus,List of ports in India,List of ports in India,SST,False,0,0.0,
+ಭಾರತದಲ್ಲಿ ಪ್ರವಾಸೋದ್ಯಮ,syllabus,Tourism in India,Tourism in India,SST,False,0,0.0,
+ಅಂತರಾಷ್ಟ್ರೀಯ ವ್ಯಾಪಾರ,syllabus,International trade,International trade,SST,True,0,27790.0,1.0
+ಬೆಲ್ಜಿಯಂ,syllabus,Belgium,Belgium,SST,False,0,0.0,
+ಶ್ರೀಲಂಕಾದ ಆಂತರಿಕ ಯುದ್ಧ,syllabus,Sri Lankan civil war,Sri Lankan civil war,SST,False,0,0.0,
+ಸಂಯುಕ್ತ ವ್ಯವಸ್ಥೆ,syllabus,Federalism,Federalism,SST,False,0,0.0,
+ವಿಕೇಂದ್ರೀಕರಣ,syllabus,Decentralization,Decentralization,SST,False,0,0.0,
+ಪಂಚಾಯತ್ ರಾಜ್ಯ,syllabus,Panchayati raj,Panchayati raj,SST,True,0,93203.0,1.0
+ಭಾರತೀಯ ಭಾಷೆಗಳು,syllabus,Languages of India,Languages of India,SST,False,0,0.0,
+ಕೇಂದ್ರ ಪಟ್ಟಿ,syllabus,Union List,Union List,SST,False,0,0.0,
+ಕೋಮು ಹಿಂಸಾಚಾರ,syllabus,Communal violence,Communal violence,SST,False,0,0.0,
+ರಾಜಕೀಯ ಪಕ್ಷ,syllabus,Political party,Political party,SST,False,0,0.0,
+ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್,syllabus,Indian National Congress,Indian National Congress,SST,False,0,0.0,
+ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ,syllabus,Bharatiya Janata Party,Bharatiya Janata Party,SST,False,0,0.0,
+ಭಾರತೀಯ ಕಮ್ಯುನಿಷ್ಟ್ ಪಕ್ಷ (ಮಾರ್ಕ್ಸ್ ವಾದಿ),syllabus,Communist Party of India (Marxist),Communist Party of India (Marxist),SST,False,0,0.0,
+ಭಾರತದ ಚುನಾವಣಾ ಆಯೋಗ,syllabus,Election Commission of India,Election Commission of India,SST,False,0,0.0,
+ಪ್ರಜಾಪ್ರಭುತ್ವ,syllabus,Democracy,Democracy,SST,False,0,0.0,
+ಮಾನವ ಅಭಿವೃದ್ಧಿ ಸೂಚ್ಯಂಕ,syllabus,Human Development Index,Human Development Index,SST,False,0,0.0,
+ರಾಷ್ಟ್ರೀಯ ಉತ್ಪನ್ನ,syllabus,Gross domestic product,Gross domestic product,SST,False,0,0.0,
+ಸೇವಾ ವಲಯ ಮತ್ತು ವ್ಯವಹಾರ(ವ್ಯಾಪಾರ),syllabus,Tertiary sector,Tertiary sector,SST,False,0,0.0,
+ನಿರುದ್ಯೋಗ,syllabus,Unemployment,Unemployment,SST,False,0,0.0,
+ಹಣ,syllabus,Money,Money,SST,False,0,0.0,
+ವಿನಿಮಯ,syllabus,Barter,Barter,SST,False,0,0.0,
+ಭಾರತೀಯ ರಿಸರ್ವ್ ಬ್ಯಾಂಕ್,syllabus,Reserve Bank of India,Reserve Bank of India,SST,False,0,0.0,
+ಉದ್ದರಿ,syllabus,Credit,Credit,SST,False,0,0.0,
+ಸ್ವ-ಸಹಾಯ ಗುಂಪು (ಹಣಕಾಸು ವ್ಯವಸ್ಥೆ),syllabus,Self-help group (finance),Self-help group (finance),SST,False,0,0.0,
+ಮೇಲಾಧಾರ (ಹಣಕಾಸು),syllabus,Collateral (finance),Collateral (finance),SST,False,0,0.0,
+ಮಲ್ಟಿನ್ಯಾಷನಲ್ ಕಾರ್ಪೋರೇಷನ್,syllabus,Multinational corporation,Multinational corporation,SST,False,0,0.0,
+ವಿದೇಶಿ ನೇರ ಹೂಡಿಕೆ,syllabus,Foreign direct investment,Foreign direct investment,SST,False,0,0.0,
+ವಿಶ್ವ ವ್ಯಾಪಾರ ಸಂಸ್ಥೆ,syllabus,World Trade Organization,World Trade Organization,SST,False,0,0.0,
+ವಿಶೇಷ ಆರ್ಥಿಕ ವಲಯ,syllabus,Special economic zone,Special economic zone,SST,False,0,0.0,
+ಗ್ರಾಹಕರ ಸಂರಕ್ಷಣೆ,syllabus,Consumer protection,Consumer protection,SST,False,0,0.0,
+"ಭಾರತೀಯ ಮಾಹಿತಿ ಹಕ್ಕು ಕಾಯಿದೆ, ೨೦೦೫",syllabus,"Right to Information Act, 2005","Right to Information Act, 2005",SST,False,0,0.0,
+ಭಾರತೀಯ ಮಾನಕ ಬ್ಯೂರೋ,syllabus,Bureau of Indian Standards,Bureau of Indian Standards,SST,False,0,0.0,
+ವಿದ್ಯುತ್ ಕ್ಷೇತ್ರ,syllabus,Electric field,Electric field,SCI,True,0,986.0,1.0
+ಹ್ವೀಟ್ಸ್ಟೋನ್ ಬ್ರಿಜ್,syllabus,Wheatstone bridge,Wheatstone bridge,SCI,True,0,44.0,1.0
+ಸೈಕ್ಲೊಟ್ರಾನ್,syllabus,Cyclotron,Cyclotron,SCI,True,0,274.0,1.0
+ಗ್ಯಾಲ್ವನೊಮೀಟರ್,syllabus,Galvanometer,Galvanometer,SCI,True,0,358.0,1.0
+ವೋಲ್ಟ್ಮೀಟರ್,syllabus,Voltmeter,Voltmeter,SCI,True,0,54.0,1.0
+ವಿದ್ಯುತ್ ಪರಿವರ್ತಕ,syllabus,Transformer,Transformer,SCI,True,0,7346.0,1.0
+ಆವರ್ತಕ (ಆಲ್ಟರ್ನೇಟರ್),syllabus,Alternator,Alternator,SCI,True,0,1061.0,1.0
+ವಿದ್ಯುತ್ಕಾಂತ ತರಂಗ,syllabus,Electromagnetic radiation,Electromagnetic radiation,SCI,True,0,1748.0,1.0
+ಮ್ಯಾಕ್ಸ್ವೆಲ್ನ ಸಮೀಕರಣಗಳು,syllabus,Maxwell's equations,Maxwell's equations,SCI,True,0,109.0,1.0
+ಕ್ಷ-ಕಿರಣ,syllabus,X-ray,X-ray,SCI,True,0,12061.0,1.0
+ಅವಗೆಂಪು,syllabus,Infrared,Infrared,SCI,True,0,945.0,1.0
+ನೇರಳಾತೀತ,syllabus,Ultraviolet,Ultraviolet,SCI,True,0,2773.0,1.0
+ಗ್ಯಾಮಾ ಕಿರಣ,syllabus,Gamma ray,Gamma ray,SCI,True,0,174.0,1.0
+ಸಂಪೂರ್ಣ ಆಂತರಿಕ ಪ್ರತಿಫಲನ,syllabus,Total internal reflection,Total internal reflection,SCI,True,0,4914.0,1.0
+ಆಪ್ಟಿಕಲ್ ಫೈಬರ್,syllabus,Optical fiber,Optical fiber,SCI,True,0,490.0,1.0
+ದೂರದರ್ಶಕ,syllabus,Telescope,Telescope,SCI,True,0,12442.0,1.0
+ವ್ಯತಿಕರಣ,syllabus,Wave interference,Wave interference,SCI,True,0,880.0,1.0
+ದ್ಯುತಿವಿದ್ಯುತ್ ಪರಿಣಾಮ,syllabus,Photoelectric effect,Photoelectric effect,SCI,True,0,6021.0,1.0
+ಫೋಟಾನ್,syllabus,Photon,Photon,SCI,True,0,3558.0,1.0
+ಬೈಜಿಕ ಕೇಂದ್ರ,syllabus,Atomic nucleus,Atomic nucleus,SCI,True,0,2282.0,1.0
+ಪರಮಾಣು ವಿದಳನ ಕ್ರಿಯೆ,syllabus,Nuclear fission,Nuclear fission,SCI,True,0,3992.0,1.0
+ಬೈಜಿಕ ಸಂಲಯನ,syllabus,Nuclear fusion,Nuclear fusion,SCI,True,0,5045.0,1.0
+ಅರ್ಧಾಯುಷ್ಯ,syllabus,Half-life,Half-life,SCI,True,0,2208.0,1.0
+ಅರೆವಾಹಕ,syllabus,Semiconductor,Semiconductor,SCI,True,0,10603.0,1.0
+ಡಯೋಡ್,syllabus,Diode,Diode,SCI,True,0,4284.0,1.0
+ಝೀನರ್ ಡಯೋಡ್,syllabus,Zener diode,Zener diode,SCI,True,0,124.0,1.0
+ಎಲ್.ಇ.ಡಿ,syllabus,Light-emitting diode,Light-emitting diode,SCI,True,0,4690.0,1.0
+ಸೌರ ವಿದ್ಯುತ್ಕೋಶ,syllabus,Solar cell,Solar cell,SCI,True,0,3085.0,1.0
+ಟ್ರಾನ್ಸಿಸ್ಟರ್,syllabus,Transistor,Transistor,SCI,True,0,6016.0,1.0
+ಡೋಪಿಂಗ್,syllabus,Doping (semiconductor),Doping (semiconductor),SCI,True,0,1186.0,1.0
+ಆಸ್ಮಾಸಿಸ್,syllabus,Osmosis,Osmosis,SCI,True,0,1470.0,1.0
+ಹಿಮ್ಮುಖ ಪರಾಸರಣ,syllabus,Reverse osmosis,Reverse osmosis,SCI,True,0,1521.0,1.0
+ಇಂಧನಕೋಶ,syllabus,Fuel cell,Fuel cell,SCI,True,0,1811.0,1.0
+ಬ್ಯಾಟರಿ,syllabus,Dry cell,Dry cell,SCI,True,0,366.0,1.0
+ವೇಗವರ್ಧನೆ,syllabus,Catalysis,Catalysis,SCI,True,0,4458.0,1.0
+ಅಧಿಶೋಷಣೆ ಮತ್ತು ಅಧಿಶೋಷಕಗಳು,syllabus,Adsorption,Adsorption,SCI,True,0,747.0,1.0
+ಎಮಲ್ಷನ್,syllabus,Emulsion,Emulsion,SCI,True,0,507.0,1.0
+ಬ್ರೌನಿಯನ್ ಚಲನೆ,syllabus,Brownian motion,Brownian motion,SCI,True,0,3197.0,1.0
+ಅಮೊನಿಯ,syllabus,Ammonia,Ammonia,SCI,True,0,6220.0,1.0
+ನೈಟ್ರಿಕ್ ಆಮ್ಲ,syllabus,Nitric acid,Nitric acid,SCI,True,0,3313.0,1.0
+ಸಲ್ಫ್ಯೂರಿಕ್ ಆಮ್ಲ,syllabus,Sulfuric acid,Sulfuric acid,SCI,True,0,2659.0,1.0
+ಓಝೋನ್,syllabus,Ozone,Ozone,SCI,True,0,110616.0,1.0
+ರಂಜಕ,syllabus,Phosphorus,Phosphorus,SCI,True,0,15485.0,1.0
+ಶ್ರೇಷ್ಠಾನಿಲಗಳು,syllabus,Noble gas,Noble gas,SCI,True,0,901.0,1.0
+ಪೊಟ್ಯಾಶಿಯಮ್ ಪರ್ಮಾಂಗನೇಟ್,syllabus,Potassium permanganate,Potassium permanganate,SCI,True,0,1154.0,1.0
+ಆಲ್ಪ್ರೆಡ್ ವೆರ್ನೆರ್,syllabus,Alfred Werner,Alfred Werner,SCI,True,0,670.0,1.0
+ಕ್ಲೋರೋ ಪ್ಲೋರೋ ಕಾರ್ಬನ್,syllabus,Chlorofluorocarbon,Chlorofluorocarbon,SCI,True,0,5685.0,1.0
+ಆಲ್ಕೋಹಾಲ್,syllabus,Alcohol (chemistry),Alcohol (chemistry),SCI,True,0,8117.0,1.0
+ಈಥರ್ಗಳು,syllabus,Ether,Ether,SCI,True,0,47.0,1.0
+ಆಲ್ಡಿಹೈಡುಗಳು,syllabus,Aldehyde,Aldehyde,SCI,True,0,1282.0,1.0
+ಕ್ಯಾನಿಝಾರೋ ಪ್ರತಿಕ್ರಿಯೆ,syllabus,Cannizzaro reaction,Cannizzaro reaction,SCI,True,0,24.0,1.0
+ಅಮೀನ್‍ಗಳು,syllabus,Amine,Amine,SCI,True,0,391.0,1.0
+ಅನಿಲಿನ್,syllabus,Aniline,Aniline,SCI,True,0,1008.0,1.0
+ಕಾರ್ಬೋಹೈಡ್ರೇಟುಗಳು,syllabus,Carbohydrate,Carbohydrate,SCI,True,0,15435.0,1.0
+ಗ್ಲುಕೋಸ್,syllabus,Glucose,Glucose,SCI,True,0,17103.0,1.0
+ಸುಕ್ರೋಸ್,syllabus,Sucrose,Sucrose,SCI,True,0,2727.0,1.0
+ಪಿಷ್ಟ,syllabus,Starch,Starch,SCI,True,0,4446.0,1.0
+ಸೆಲ್ಯುಲೋಸ್,syllabus,Cellulose,Cellulose,SCI,True,0,1404.0,1.0
+ಪ್ರೋಟೀನ್,syllabus,Protein,Protein,SCI,True,0,23702.0,1.0
+ಅಮಿನೊ ಆಮ್ಲ,syllabus,Amino acid,Amino acid,SCI,True,0,11569.0,1.0
+ಕಿಣ್ವಗಳು,syllabus,Enzyme,Enzyme,SCI,True,0,197.0,1.0
+ಜೀವಸತ್ವಗಳು,syllabus,Vitamin,Vitamin,SCI,True,0,69028.0,1.0
+ನ್ಯೂಕ್ಲಿಯಿಕ್ ಆಮ್ಲ,syllabus,Nucleic acid,Nucleic acid,SCI,True,0,5598.0,1.0
+ಡಿಎನ್ಎ -(DNA),syllabus,DNA,DNA,SCI,True,0,36107.0,1.0
+ಆರ್.ಎನ್.ಎ,syllabus,RNA,RNA,SCI,True,0,10159.0,1.0
+ನೈಲಾನ್,syllabus,Nylon,Nylon,SCI,True,0,10294.0,1.0
+ರಬ್ಬರು,syllabus,Natural rubber,Natural rubber,SCI,True,0,15862.0,1.0
+ಪ್ರತಿಜೀವಿಕ,syllabus,Antibiotic,Antibiotic,SCI,True,0,3872.0,1.0
+ಆಹಾರ ಸಂರಕ್ಷಣೆ,syllabus,Food preservation,Food preservation,SCI,True,0,23540.0,1.0
+ಹೂವು,syllabus,Flower,Flower,SCI,True,0,92662.0,1.0
+ಪರಾಗ ಮತ್ತು ಪರಾಗಣ,syllabus,Pollen,Pollen,SCI,True,0,4193.0,1.0
+ಅಂತರ್ಬೀಜ,syllabus,Endosperm,Endosperm,SCI,True,0,1527.0,1.0
+ಪುಂಕೇಸರ,syllabus,Stamen,Stamen,SCI,True,0,924.0,1.0
+ಬೀಜ,syllabus,Seed,Seed,SCI,True,0,7143.0,1.0
+ಗರ್ಭಧಾರಣೆ,syllabus,Pregnancy,Pregnancy,SCI,True,0,181011.0,1.0
+ಶಿಶುಜನನ,syllabus,Childbirth,Childbirth,SCI,True,0,2458.0,1.0
+ವೃಷಣ,syllabus,Testicle,Testicle,SCI,True,0,14478.0,1.0
+ಅಂಡಾಶಯ,syllabus,Ovary,Ovary,SCI,True,0,10797.0,1.0
+ಮೇಹರೋಗ,syllabus,Sexually transmitted infection,Sexually transmitted infection,SCI,True,0,2201.0,1.0
+ಪ್ರನಾಳ ಶಿಶು ಸೃಷ್ಟಿ,syllabus,In vitro fertilisation,In vitro fertilisation,SCI,True,0,11103.0,1.0
+ಬಂಜೆತನ,syllabus,Infertility,Infertility,SCI,True,0,24213.0,1.0
+ಪ್ರಚೋದಿತ ಗರ್ಭಪಾತ,syllabus,Abortion,Abortion,SCI,True,0,7441.0,1.0
+ಎಬಿಒ ರಕ್ತ ಗುಂಪು ವ್ಯವಸ್ಥೆ,syllabus,ABO blood group system,ABO blood group system,SCI,True,0,9130.0,1.0
+ವ್ಯತ್ಯಯನ,syllabus,Mutation,Mutation,SCI,True,0,3414.0,1.0
+ಹೀಮೊಫಿಲಿಯ,syllabus,Haemophilia,Haemophilia,SCI,True,0,3852.0,1.0
+ಕುಡಗೋಲು-ಕಣ ರೋಗ,syllabus,Sickle cell disease,Sickle cell disease,SCI,True,0,5041.0,1.0
+ಥಲಸ್ಸಿಮಿಯಾ,syllabus,Thalassemia,Thalassemia,SCI,True,0,8396.0,1.0
+ಡೌನ್ ಸಿಂಡ್ರೋಮ್,syllabus,Down syndrome,Down syndrome,SCI,True,0,10152.0,1.0
+ಟರ್ನರ್ ಸಿಂಡ್ರೋಮ್,syllabus,Turner syndrome,Turner syndrome,SCI,True,0,3663.0,1.0
+ಲ್ಯಾಕ್ ಒಪೆರಾನ್,syllabus,Lac operon,Lac operon,SCI,True,0,1035.0,1.0
+ಓಪರಾನ್,syllabus,Operon,Operon,SCI,True,0,695.0,1.0
+ಮಾನವನ ವಿಕಾಸ,syllabus,Human evolution,Human evolution,SCI,True,0,85204.0,1.0
+ಮಲೇರಿಯಾ,syllabus,Malaria,Malaria,SCI,True,0,85446.0,1.0
+ವಿಷಮಶೀತ ಜ್ವರ,syllabus,Typhoid fever,Typhoid fever,SCI,True,0,12251.0,1.0
+ನ್ಯುಮೋನಿಯ,syllabus,Pneumonia,Pneumonia,SCI,True,0,27504.0,1.0
+ನೆಗಡಿ,syllabus,Common cold,Common cold,SCI,True,0,28562.0,1.0
+ಅಸ್ಕಾರಿಯಾಸಿಸ್,syllabus,Ascariasis,Ascariasis,SCI,True,0,1571.0,1.0
+ಆನೆಕಾಲು ರೋಗ,syllabus,Filariasis,Filariasis,SCI,True,0,11783.0,1.0
+ಹುಳುಕಡ್ಡಿ,syllabus,Dermatophytosis,Dermatophytosis,SCI,True,0,24447.0,1.0
+ಡೆಂಗೇ,syllabus,Dengue fever,Dengue fever,SCI,True,0,54800.0,1.0
+ಚಿಕೂನ್ ಗುನ್ಯಾ,syllabus,Chikungunya,Chikungunya,SCI,True,0,15536.0,1.0
+ಮಾನವ ದೇಹದಲ್ಲಿ ಪ್ರತಿರಕ್ಷಾ ವ್ಯವಸ್ಥೆಗಳು,syllabus,Immune system,Immune system,SCI,True,0,17051.0,1.0
+ಲಸಿಕೆ,syllabus,Vaccine,Vaccine,SCI,True,0,16426.0,1.0
+ಪ್ರತಿಕಾಯ(ಆಂಟಿಬಾಡಿ),syllabus,Antibody,Antibody,SCI,True,0,5880.0,1.0
+ಅಲರ್ಜಿ,syllabus,Allergy,Allergy,SCI,True,0,36224.0,1.0
+ಏಡ್ಸ್ ರೋಗ,syllabus,HIV/AIDS,HIV/AIDS,SCI,True,0,418864.0,1.0
+ಕ್ಯಾನ್ಸರ್,syllabus,Cancer,Cancer,SCI,True,0,111688.0,1.0
+ಪಶುಪಾಲನೆ,syllabus,Animal husbandry,Animal husbandry,SCI,True,0,8044.0,1.0
+ಜೇನುಸಾಕಣೆ,syllabus,Beekeeping,Beekeeping,SCI,True,0,21927.0,1.0
+ಪೆನ್ಸಿಲಿನ್,syllabus,Penicillin,Penicillin,SCI,True,0,5854.0,1.0
+ಕಿಣ್ವನ,syllabus,Fermentation,Fermentation,SCI,True,0,2057.0,1.0
+ಜೈವಿಕತಂತ್ರಜ್ಞಾನ,syllabus,Biotechnology,Biotechnology,SCI,True,0,24127.0,1.0
+ತಳೀಯ ಎಂಜಿನಿಯರಿಂಗ್,syllabus,Genetic engineering,Genetic engineering,SCI,True,0,547.0,1.0
+ಜೀನ್(ವಂಶವಾಹಿ) ಚಿಕಿತ್ಸೆ,syllabus,Gene therapy,Gene therapy,SCI,True,0,117.0,1.0
+ಆರ್‌ಎನ್‌ಎ ಹಸ್ತಕ್ಷೇಪ,syllabus,RNA interference,RNA interference,SCI,True,0,2207.0,1.0
+ಭಕ್ಷಕ,syllabus,Predation,Predation,SCI,True,0,2247.0,1.0
+ಪರಜೀವಿಕೆ,syllabus,Parasitism,Parasitism,SCI,True,0,2173.0,1.0
+ಇಂಗಾಲದ ಕಣಗಳ ಚಕ್ರ,syllabus,Carbon cycle,Carbon cycle,SCI,True,0,11979.0,1.0
+ಜೀವವೈವಿಧ್ಯದ ಸೂಕ್ಷ್ಮ ಪ್ರದೇಶಗಳು,syllabus,Biodiversity hotspot,Biodiversity hotspot,SCI,True,0,9390.0,1.0
+ವಿಪತ್ತಿನಲ್ಲಿರುವ ಜೀವಜಾತಿ,syllabus,Endangered species,Endangered species,SCI,True,0,5226.0,1.0
+ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನಗಳು,syllabus,National park,National park,SCI,True,0,7827.0,1.0
+ವಾಯು ಮಾಲಿನ್ಯ,syllabus,Air pollution,Air pollution,SCI,True,0,421170.0,1.0
+ಜಲ ಮಾಲಿನ್ಯ,syllabus,Water pollution,Water pollution,SCI,True,0,529187.0,1.0
+ಯೂಟ್ರೋಫಿಕೇಷನ್,syllabus,Eutrophication,Eutrophication,SCI,True,0,823.0,1.0
+ವಾಯುಗುಣ ಬದಲಾವಣೆ,syllabus,Climate change,Climate change,SCI,True,0,23855.0,1.0
+ಹಸಿರುಮನೆ ಪರಿಣಾಮ,syllabus,Greenhouse effect,Greenhouse effect,SCI,True,0,79450.0,1.0
+ವ್ಯಸ್ತ ಫಲನ,syllabus,Inverse function,Inverse function,MAT,True,0,149.0,1.0
+ಮಾತೃಕೆಗಳು,syllabus,Matrix (mathematics),Matrix (mathematics),MAT,True,0,4186.0,1.0
+ನಿರ್ಧಾರಕ,syllabus,Determinant,Determinant,MAT,True,0,874.0,1.0
+ಗರಿಷ್ಠ ಮತ್ತು ಕನಿಷ್ಠ ಮೌಲ್ಯಗಳು,syllabus,Maximum and minimum,Maximum and minimum,MAT,True,0,562.0,1.0
+ಅನುಕಲನಶಾಸ್ತ್ರ,syllabus,Integral,Integral,MAT,True,0,2146.0,1.0
+ಕಲನಶಾಸ್ತ್ರದ ಮೂಲಭೂತ ಪ್ರಮೇಯ,syllabus,Fundamental theorem of calculus,Fundamental theorem of calculus,MAT,True,0,585.0,1.0
+ಘಾತೀಯ ಶ್ರೇಣಿ ಹಾಗೂ ಉತ್ಪನ್ನ,syllabus,Exponential function,Exponential function,MAT,True,0,184.0,1.0
+ಸರಳರೇಖೆ,syllabus,Line (geometry),Line (geometry),MAT,True,0,1378.0,1.0
+ಬೇಯೀಸನ ಸೂತ್ರ,syllabus,Bayes' theorem,Bayes' theorem,MAT,True,0,297.0,1.0
+ಬುಧ,A_same_area,Mercury (planet),Malaria,SCI,True,0,49149.0,1.0
+ಶುಕ್ರ,A_same_area,Venus,Air pollution,SCI,True,0,56071.0,1.0
+ಆರ್ಕೀಡ್,A_same_area,Orchid,Rhizobium,SCI,True,0,7480.0,1.0
+ಮಲೆಟ್,A_same_area,Mullet (fish),Freezing-point depression,SCI,True,0,199.0,1.0
+ಸ್ಟ್ರಾನ್ಶಿಯಮ್,A_same_area,Strontium,Plasmid,SCI,True,0,2147.0,1.0
+ವಯಸ್ಸಾಗುವಿಕೆ,A_same_area,Ageing,Gel electrophoresis,SCI,True,0,1728.0,1.0
+ಬ್ರಾಂಕೈಟಿಸ್,A_same_area,Bronchitis,Human brain,SCI,True,0,2904.0,1.0
+ಲಂಗ್ ಫಿಶ್,A_same_area,Lungfish,Fertilisation,SCI,True,0,362.0,1.0
+ಜೀನು,A_same_area,Saddle,Energy flow (ecology),SCI,True,0,5603.0,1.0
+ಕೊವಾಲಾ,A_same_area,Koala,Evolution,SCI,True,0,3149.0,1.0
+ಆಕಾಶ ಬಾಣ (ರಾಕೆಟ್ ),A_same_area,Rocket,Polysaccharide,SCI,True,0,22926.0,1.0
+ದೃಷ್ಟಿ ಹಾನಿ,A_same_area,Visual impairment,Protein structure,SCI,True,0,2627.0,1.0
+ಸಾಪೇಕ್ಷತ ಸಿದ್ಧಾಂತ,A_same_area,Theory of relativity,Fruit,SCI,True,0,22378.0,1.0
+ಅಳಿಲು,A_same_area,Squirrel,Power factor,SCI,True,0,22329.0,1.0
+ಹೊಲ್ಮಿಯಮ್,A_same_area,Holmium,Spectrochemical series,SCI,True,0,1877.0,1.0
+ಪ್ರೊಟಿಸ್ಟ್,A_same_area,Protist,Logistic function,SCI,True,0,1861.0,1.0
+ಪೀಡನ,A_same_area,Stress (mechanics),Henry's law,SCI,True,0,1343.0,1.0
+ಸಮುದ್ರಶಾಸ್ತ್ರ,A_same_area,Oceanography,Anaerobic respiration,SCI,True,0,4962.0,1.0
+ಭೂಮಿಯ ವಾಯುಮಂಡಲ,A_same_area,Atmosphere of Earth,Pregnancy,SCI,True,0,46591.0,1.0
+ಜೈವಿಕ ಇಂಧನ,A_same_area,Biofuel,Glycogen,SCI,True,0,57077.0,1.0
+ಮಸೂರ ಅವರೆ,A_same_area,Lentil,Polymer,SCI,True,0,14756.0,1.0
+ಇರುವೆ,A_same_area,Ant,Infrared,SCI,True,0,42149.0,1.0
+ಉಡ್ಡಯನ ವಾಹನಗಳು,A_same_area,Launch vehicle,Insulin (medication),SCI,True,0,2905.0,1.0
+ಅತಿವೇಗ ರೈಲು,A_same_area,High-speed rail,Dielectric,SCI,True,0,298.0,1.0
+ರೇಡಿಯಮ್,A_same_area,Radium,Chemical reaction,SCI,True,0,4200.0,1.0
+ಹಡಗು,A_same_area,Ship,Translation (biology),SCI,True,0,18080.0,1.0
+ರೇಷ್ಮೆ,A_same_area,Silk,Sodium carbonate,SCI,True,0,45616.0,1.0
+ಸೀಮೆಎಣ್ಣೆ,A_same_area,Kerosene,Brownian motion,SCI,True,0,2913.0,1.0
+ಪಾತ್ರೆ ತೊಳೆಯುವ ಯಂತ್ರ,A_same_area,Dishwasher,Chromosomal crossover,SCI,True,0,2344.0,1.0
+ಚಿನ್ನ,A_same_area,Gold,Heart,SCI,True,0,68223.0,1.0
+ಹಿಮನದಿ,A_same_area,Glacier,Ketone,SCI,True,0,10984.0,1.0
+ಅಂತರ್ದಹನ ಇಂಜಿನ್,A_same_area,Internal combustion engine,Ozone depletion,SCI,True,0,5584.0,1.0
+ಸಂತಾನೋತ್ಪತ್ತಿ ಅಂಗ,A_same_area,Sex organ,Substance abuse,SCI,True,0,4482.0,1.0
+ಜೈವಿಕ ಯುದ್ಧ,A_same_area,Biological warfare,Ligand,SCI,True,0,1109.0,1.0
+ಶ್ವಾಸಕೋಶ,A_same_area,Lung,Nuclear fission,SCI,True,0,21179.0,1.0
+ಗಾಳಗಾರ ಮೀನು,A_same_area,Anglerfish,Double-slit experiment,SCI,True,0,2852.0,1.0
+ಲಿಕ್ವಿಡ್ ಕ್ರಿಸ್ಟಲ್ ಡಿಸ್ಪ್ಲೆ (ಎಲ್ಸಿಡಿ),A_same_area,Liquid-crystal display,Carboxylic acid,SCI,True,0,129.0,1.0
+ಗರಗಸ ಮೀನು,A_same_area,Sawfish,Colligative properties,SCI,True,0,1485.0,1.0
+ಕೈಪರ್ ಪಟ್ಟಿ,A_same_area,Kuiper belt,Dam,SCI,True,0,5443.0,1.0
+ಕ್ರಿಪ್ಟಾನ್,A_same_area,Krypton,Allergy,SCI,True,0,2516.0,1.0
+ಸಸ್ಯಾಹಾರಿಗಳು,A_same_area,Herbivore,Lenz's law,SCI,True,0,23280.0,1.0
+ಬಿಳಿ,A_same_area,White,Recombinant DNA,SCI,True,0,9921.0,1.0
+ಗುಲಾಬಿ,A_same_area,Rose,Nervous system,SCI,True,0,61387.0,1.0
+ಮಾಕಸಿನ್ ಹಾವು,A_same_area,Agkistrodon piscivorus,Potassium permanganate,SCI,True,0,250.0,1.0
+ಮನೋವೈದ್ಯಶಾಸ್ತ್ರ (ಸೈಕಿಯಾಟ್ರಿ),A_same_area,Psychiatry,Restriction enzyme,SCI,True,0,14190.0,1.0
+ಮಹಾಸ್ಫೋಟ,A_same_area,Big Bang,Cancer,SCI,True,0,13376.0,1.0
+ಅಜಮೋದ,A_same_area,Parsley,Birth control,SCI,True,0,3756.0,1.0
+ದ್ವೀಪಸಮೂಹ,A_same_area,Archipelago,Ether,SCI,True,0,4331.0,1.0
+ಗಿಬನ್,A_same_area,Gibbon,Radioactive waste,SCI,True,0,551.0,1.0
+ಅಂತರರಾಷ್ಟ್ರೀಯ ಬಾಹ್ಯಾಕಾಶ ನಿಲ್ದಾಣ,A_same_area,International Space Station,Dengue fever,SCI,True,0,20289.0,1.0
+ಎಪಿಜೆನೆಟಿಕ್ಸ್,A_same_area,Epigenetics,Analgesic,SCI,True,0,187.0,1.0
+ವಾಯುಭಾರ ಕುಸಿತ,A_same_area,Low-pressure area,Work function,SCI,True,0,21682.0,1.0
+ಚಲುವೆ ಕ್ರಿಯೆ,A_same_area,Bleach,Rainwater harvesting,SCI,True,0,88.0,1.0
+ದೀಪವ್ಯವಸ್ಥೆ,A_same_area,Lighting,Excretion,SCI,True,0,1603.0,1.0
+ಶಿಲೀಂಧ್ರಶಾಸ್ತ್ರ,A_same_area,Mycology,Actinide,SCI,True,0,342.0,1.0
+ಪ್ರಾಣಿಶಾಸ್ತ್ರ,A_same_area,Zoology,Curved mirror,SCI,True,0,8045.0,1.0
+ತಂಬಾಕು ಸೇವನೆ(ಧೂಮಪಾನ),A_same_area,Tobacco smoking,Mycorrhiza,SCI,True,0,113353.0,1.0
+ಡೈನೋಸಾರ್,A_same_area,Dinosaur,Down syndrome,SCI,True,0,9976.0,1.0
+ಗುಹೆ,A_same_area,Cave,Alkene,SCI,True,0,8652.0,1.0
+ಜಲ್ಲಿ,A_same_area,Gravel,Biodegradation,SCI,True,0,889.0,1.0
+ಗೋಸುಂಬೆ,A_same_area,Chameleon,Biogas,SCI,True,0,6738.0,1.0
+ಮೂಲಸೌಕರ್ಯ,A_same_area,Infrastructure,Diffraction,SCI,True,0,74658.0,1.0
+ಕಾಂಡ,A_same_area,Plant stem,Allotropes of carbon,SCI,True,0,14438.0,1.0
+ಎತ್ತುಗ,A_same_area,Elevator,Carbon cycle,SCI,True,0,2213.0,1.0
+ನೇತ್ರಶಾಸ್ತ್ರ (ನೇತ್ರವಿಜ್ಞಾನ),A_same_area,Ophthalmology,DDT,SCI,True,0,4922.0,1.0
+ಗ್ಯಾಲಿಯಮ್,A_same_area,Gallium,Hydrocarbon,SCI,True,0,2521.0,1.0
+ಆನೆಹುಣಿಸೆ,A_same_area,Adansonia,Chirality (chemistry),SCI,True,0,1899.0,1.0
+ಸದ್ದು,A_same_area,Noise,Molality,SCI,True,0,5277.0,1.0
+ಗತಿವಿಜ್ಞಾನ,A_same_area,Classical mechanics,Antiseptic,SCI,True,0,438.0,1.0
+ಗಾಲಿ,A_same_area,Wheel,Crystal structure,SCI,True,0,3446.0,1.0
+ಶಾಯಿ,A_same_area,Ink,Precipitation (chemistry),SCI,True,0,1945.0,1.0
+ರೀನಿಯಮ್,A_same_area,Rhenium,Aldol condensation,SCI,True,0,1449.0,1.0
+ಬೆನ್ನು ಹುರಿ,A_same_area,Spinal cord,Extinction,SCI,True,0,9707.0,1.0
+ಡಿಸ್ಟಲೇಶನ,A_same_area,Distillation,Ozone,SCI,True,0,1818.0,1.0
+ಕುದುರೆಬಾಲದ ಗಿಡ,A_same_area,Equisetum,Biomagnification,SCI,True,0,1134.0,1.0
+ಬುಟೇನ್,A_same_area,Butane,Sex-determination system,SCI,True,0,3565.0,1.0
+ಸೂರ್ಯ ಗ್ರಹಣ,A_same_area,Solar eclipse,Ohm's law,SCI,True,0,59927.0,1.0
+ಅಖ್ರೋಟ್,A_same_area,Walnut,Fossil,SCI,True,0,9423.0,1.0
+ಪಾರ್ಸ್ನಿಪ್,A_same_area,Parsnip,Lorentz force,SCI,True,0,302.0,1.0
+ಫನೆರೊಜೋಯಿಕ್ ಕಲ್ಪ,A_same_area,Phanerozoic,Bioreactor,SCI,True,0,2042.0,1.0
+ಲೇಸರ್,A_same_area,Laser,Kidney,SCI,True,0,8911.0,1.0
+ಸಹಜೀವನ,A_same_area,Symbiosis,Asexual reproduction,SCI,True,0,7873.0,1.0
+ರಾಸ್‍ಬೆರಿ,A_same_area,Raspberry,Electrical wiring,SCI,True,0,1271.0,1.0
+ಬಾಯಿ,A_same_area,Mouth,Standard hydrogen electrode,SCI,True,0,3770.0,1.0
+ನುಸಿ,A_same_area,Mite,Protein,SCI,True,0,3033.0,1.0
+ಕತ್ತೆ,A_same_area,Donkey,Dmitri Mendeleev,SCI,True,0,24758.0,1.0
+ಸಿಹಿ ಗೆಣಸು,A_same_area,Sweet potato,Chloroform,SCI,True,0,14773.0,1.0
+ಯೂರಿಪ್ಟರಿಡ,A_same_area,Eurypterid,Stamen,SCI,True,0,115.0,1.0
+ನವಿಲು,A_same_area,Peafowl,Enzyme,SCI,True,0,243490.0,1.0
+ನೀಲಿ ಪಾರಿವಾಳ,A_same_area,Rock dove,Municipal solid waste,SCI,True,0,10473.0,1.0
+ಡೊಲ್ಪಿನ್,A_same_area,Dolphin,Vitamin,SCI,True,0,6599.0,1.0
+ಅಪಸ್ಮಾರ,A_same_area,Epilepsy,Insulin,SCI,True,0,6050.0,1.0
+ಕಕ್ಕಸು,A_same_area,Toilet,Eddy current,SCI,True,0,1196.0,1.0
+ಫರ್ಮಿಯಾನ್,A_same_area,Fermion,Blastocyst,SCI,True,0,1948.0,1.0
+ಲೀಟರ್,A_same_area,Litre,Filariasis,SCI,True,0,16996.0,1.0
+ಗೀಳು ಮನೋರೋಗ,A_same_area,Obsessive–compulsive disorder,Photosynthesis,SCI,True,0,17933.0,1.0
+ಕಳಿಂಗ ಪಕ್ಷಿ,A_same_area,Shrike,Periodic trends,SCI,True,0,2243.0,1.0
+ನಿಯೊಡೈಮಿಯಮ್,A_same_area,Neodymium,Valence (chemistry),SCI,True,0,1604.0,1.0
+ವಿಶ್ಲೇಷಕ ರಸಾಯನಶಾಸ್ತ್ರ,A_same_area,Analytical chemistry,Lamarckism,SCI,True,0,1826.0,1.0
+ಸಿಗರೇಟ್,A_same_area,Cigarette,Gamma ray,SCI,True,0,4401.0,1.0
+ರೇಡಾರ್,A_same_area,Radar,Haemophilia,SCI,True,0,6698.0,1.0
+ಸೇವಂತಿಗೆ,A_same_area,Chrysanthemum,Sewage treatment,SCI,True,0,25578.0,1.0
+ವಿದ್ಯುತ್ ಹೃಲ್ಲೇಖನ,A_same_area,Electrocardiography,Menstrual cycle,SCI,True,0,4563.0,1.0
+ದ್ರವ್ಯ ಹಂತಗಳು,A_same_area,Phase (matter),Boiling-point elevation,SCI,True,0,3276.0,1.0
+ಅಮೃತಶಿಲೆ,A_same_area,Marble,Electrolysis,SCI,True,0,8153.0,1.0
+ಜೀವಕಣದ ಬೀಜಕಣ,A_same_area,Cell nucleus,Immune system,SCI,True,0,6003.0,1.0
+ಬಾತುಕೋಳಿ,A_same_area,Duck,Voltage,SCI,True,0,30328.0,1.0
+ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮಿಂಗ್,A_same_area,Computer programming,Sucrose,SCI,True,0,13676.0,1.0
+ಪರ್ಚ್,A_same_area,Perch,Operon,SCI,True,0,286.0,1.0
+ಸ್ಲಾತ್,A_same_area,Sloth,Greenhouse effect,SCI,True,0,2767.0,1.0
+ಗಗನಚುಂಬಿ ಕಟ್ಟಡ,A_same_area,Skyscraper,Hormone,SCI,True,0,289.0,1.0
+ಸ್ಪಂಜು ಪ್ರಾಣಿಗಳು,A_same_area,Sponge,Atomic number,SCI,True,0,4524.0,1.0
+ಕಪೈಬರಾ,A_same_area,Capybara,Polymerase chain reaction,SCI,True,0,1206.0,1.0
+ಪ್ರತಿದ್ರವ್ಯ,A_same_area,Antimatter,Semiconductor,SCI,True,0,1780.0,1.0
+ಕರಡಿ,A_same_area,Bear,Respiratory system,SCI,True,0,36526.0,1.0
+ಕಡಲ್ಗುದುರೆ,A_same_area,Seahorse,Osmosis,SCI,True,0,3232.0,1.0
+ಮ್ಯಾಪಲ್,A_same_area,Maple,Electric potential,SCI,True,0,1443.0,1.0
+ತೋಪಡ,A_same_area,Plane (tool),Apomixis,SCI,True,0,432.0,1.0
+ಇಂಡಿಯಮ್,A_same_area,Indium,Hydrogen spectral series,SCI,True,0,1856.0,1.0
+ಯಂತ್ರ ಕಲಿಕೆ,A_same_area,Machine learning,HIV/AIDS,SCI,True,0,11929.0,1.0
+ಸಂಧಿಪದಿಗಳು,A_same_area,Arthropod,Solar energy,SCI,True,0,3597.0,1.0
+ಕುರಿ,A_same_area,Sheep,Cellular respiration,SCI,True,0,45264.0,1.0
+ಜ್ವಾಲಾಮುಖಿ,A_same_area,Volcano,Human evolution,SCI,True,0,73606.0,1.0
+ಕಾಗೆ,A_same_area,Corvus,Predation,SCI,True,0,65850.0,1.0
+ಬುದ್ಧಿಮಾಂದ್ಯ,A_same_area,Dementia,Ammonia,SCI,True,0,2269.0,1.0
+ಬೂದು,A_same_area,Grey,P–n junction,SCI,True,0,3974.0,1.0
+ವ್ಯಾಕ್ಸಿನೇಷನ್ (ಲಸಿಕೆ ಹಾಕುವುದು),A_same_area,Vaccination,Alkane,SCI,True,0,12960.0,1.0
+ಗೊರಿಲ್ಲ,A_same_area,Gorilla,Human digestive system,SCI,True,0,9435.0,1.0
+ಓಯಸಿಸ್,A_same_area,Oasis,LC circuit,SCI,True,0,5034.0,1.0
+ಪ್ರೋಟೊಜ಼ೋವ,A_same_area,Protozoa,Series and parallel circuits,SCI,True,0,379.0,1.0
+ಮುಳ್ಳುಹಂದಿ,A_same_area,Porcupine,Hydroelectricity,SCI,True,0,15253.0,1.0
+ಮಾಲ್ವೇಸೀ,A_same_area,Malvaceae,SN1 reaction,SCI,True,0,425.0,1.0
+ರೀಸಸ್ ಮಂಗ,A_same_area,Rhesus macaque,Voltmeter,SCI,True,0,314.0,1.0
+ಹೈನುಗಾರಿಕೆ,A_same_area,Dairy,Galvanometer,SCI,True,0,65633.0,1.0
+ಬೇಲಿಹಂದಿ,A_same_area,Hedgehog,X-ray,SCI,True,0,342.0,1.0
+ಮೋಟಾರು ವಾಹನ,A_same_area,Car,Capacitor,SCI,True,0,14626.0,1.0
+ವೀರ್ಯ,A_same_area,Semen,Renewable energy,SCI,True,0,8728.0,1.0
+ಕೆಫೀನ್,A_same_area,Caffeine,Climate change,SCI,True,0,8341.0,1.0
+ಸ್ಟೀರಾಯ್ಡ್,A_same_area,Steroid,Photoelectric effect,SCI,True,0,568.0,1.0
+ಕನ್ನಡಕ,A_same_area,Glasses,Transition metal,SCI,True,0,5958.0,1.0
+ಬಾಯಾಪ್ಸಿ,A_same_area,Biopsy,Amniocentesis,SCI,True,0,1533.0,1.0
+ವನ್ಯಜೀವಿ ಸಂರಕ್ಷಣೆ,A_same_area,Wildlife conservation,DNA profiling,SCI,True,0,20150.0,1.0
+ಸೂಜಿ ಚಿಕಿತ್ಸೆ,A_same_area,Acupuncture,Reverse osmosis,SCI,True,0,4435.0,1.0
+ಮೋಲ್,A_same_area,Mole (unit),Nuclear fusion,SCI,True,0,5062.0,1.0
+ನೆಪ್ಚೂನಿಯಮ್,A_same_area,Neptunium,Cloning vector,SCI,True,0,2256.0,1.0
+ಅಂತರರಾಷ್ಟ್ರೀಯ ಏಕಮಾನ ವ್ಯವಸ್ಥೆ,A_same_area,International System of Units,Endocrine system,SCI,True,0,50317.0,1.0
+ಮಾಹಿತಿ ತಂತ್ರಜ್ಞಾನ,A_same_area,Information technology,Abortion,SCI,True,0,61068.0,1.0
+ಕಾಲೆರಾ,A_same_area,Cholera,Transformer,SCI,True,0,10757.0,1.0
+ದೇವಯಾನಿ ಬ್ರಹ್ಮಾಂಡ,A_same_area,Andromeda Galaxy,Chipko movement,SCI,True,0,786.0,1.0
+ಐಫೋನ್,A_same_area,IPhone,Pneumonia,SCI,True,0,473.0,1.0
+ಬಾಗಿಲು,A_same_area,Door,Messenger RNA,SCI,True,0,10365.0,1.0
+ನದೀಮುಖ,A_same_area,Estuary,Radio wave,SCI,True,0,1934.0,1.0
+ಬಾರ್ಕೋಡ್,A_same_area,Barcode,Metal,SCI,True,0,212.0,1.0
+ಆಸ್ಪಿರಿನ್,A_same_area,Aspirin,Sodium bicarbonate,SCI,True,0,344.0,1.0
+ಡೀಸೆಲ್ ಇಂಜಿನ್,A_same_area,Diesel engine,Diode,SCI,True,0,2959.0,1.0
+ನಿಮಿಷ,A_same_area,Minute,Wave interference,SCI,True,0,2208.0,1.0
+ಮಾಂಸಾಹಾರಿ ಸಸ್ಯ,A_same_area,Carnivorous plant,Ground (electricity),SCI,True,0,12191.0,1.0
+ಲೋಕೋಪಯೋಗಿ ಶಿಲ್ಪ ವಿಜ್ಞಾನ,A_same_area,Civil engineering,Electromagnetic radiation,SCI,True,0,5281.0,1.0
+ಬ್ರೋಮಿನ್,A_same_area,Bromine,Covalent bond,SCI,True,0,3701.0,1.0
+ಉಣ್ಣಿ,A_same_area,Tick,Human eye,SCI,True,0,6509.0,1.0
+ಶುಂಠಿ,A_same_area,Ginger,Genetic engineering,SCI,True,0,28015.0,1.0
+ಕಾಮಕಸ್ತೂರಿ,A_same_area,Basil,Antihistamine,SCI,True,0,20191.0,1.0
+ಸ್ಫೀತಾತ್ಮಕ ವಿಶ್ವ,A_same_area,Cosmic inflation,Biofortification,SCI,True,0,227.0,1.0
+ಚಿರತೆ,A_same_area,Leopard,Sodium hydroxide,SCI,True,0,17509.0,1.0
+ಲಿಚ್ಚಿ,A_same_area,Lychee,Electrical resistivity and conductivity,SCI,True,0,6115.0,1.0
+ಮದ್ಯದ ಗೀಳು,A_same_area,Alcoholism,Optical fiber,SCI,True,0,49239.0,1.0
+ಚೀನೀ ಮಣ್ಣು,A_same_area,Kaolinite,Atomic nucleus,SCI,True,0,761.0,1.0
+ಮೆಟ್ಟಲು ಸಾಲು,A_same_area,Stairs,Vegetative reproduction,SCI,True,0,1520.0,1.0
+ವಿಶ್ವಕಿರಣ,A_same_area,Cosmic ray,Haber process,SCI,True,0,7030.0,1.0
+ರಕ್ತನಾಳದ ಉಬ್ಬು ಗುಳ್ಳೆ (ಅಗಲುಬ್ಬು),A_same_area,Aneurysm,Endangered species,SCI,True,0,248.0,1.0
+ಸೆಕ್ರೆಟರಿ ಹಕ್ಕಿ,A_same_area,Secretarybird,Ovule,SCI,True,0,150.0,1.0
+ಹಬಲ್ಲನ ನಿಯಮ,A_same_area,Hubble's law,Biodiversity hotspot,SCI,True,0,1527.0,1.0
+ಗ್ಲಾಬರ್ ಲವಣ,A_same_area,Sodium sulfate,Ferromagnetism,SCI,True,0,9.0,1.0
+ಕಂದು ಆಲ್ಗೆ,A_same_area,Brown algae,DNA ligase,SCI,True,0,1255.0,1.0
+ಸೌರಮಂಡಲ,A_same_area,Solar System,Periodic table,SCI,True,0,188642.0,1.0
+ಲಿನಕ್ಸ್,A_same_area,Linux,Water pollution,SCI,True,0,13336.0,1.0
+ನಿಯಾನ್,A_same_area,Neon,RNA,SCI,True,0,7392.0,1.0
+ಹೈಡ್ರೊಫ್ಲೋರಿಕ್ ಆಮ್ಲ,A_same_area,Hydrofluoric acid,RLC circuit,SCI,True,0,501.0,1.0
+ಕಡಲುಕೋಳಿ ಆಲ್ಬಟ್ರಾಸ್,A_same_area,Albatross,Human Genome Project,SCI,True,0,5538.0,1.0
+ರೋಗವಿಜ್ಞಾನ,A_same_area,Pathology,Rectifier,SCI,True,0,484.0,1.0
+ಸಾರುವೆ,A_same_area,Scaffolding,Miller–Urey experiment,SCI,True,0,621.0,1.0
+ಸ್ಫಟಿಕ ಶಿಲೆ,A_same_area,Quartz,Ultraviolet,SCI,True,0,9331.0,1.0
+ಪರಮಾಣು ಗಡಿಯಾರ,A_same_area,Atomic clock,Corrosion,SCI,True,0,2511.0,1.0
+ಜಲಜಶಿಲೆ,A_same_area,Sedimentary rock,Phenol,SCI,True,0,2663.0,1.0
+ಕ್ಷುದ್ರಗ್ರಹ ಹೊನಲು,A_same_area,Asteroid belt,Electromotive force,SCI,True,0,7614.0,1.0
+ಸೀರಿಯಮ್,A_same_area,Cerium,Amorphous solid,SCI,True,0,1419.0,1.0
+ಎಕರೆ,A_same_area,Acre,Ozone layer,SCI,True,0,72608.0,1.0
+ಸಂತಾನೋತ್ಪತ್ತಿಯ ವ್ಯವಸ್ಥೆ,A_same_area,Reproductive system,Amplitude modulation,SCI,True,0,28283.0,1.0
+ವಲಸೆ,A_same_area,Animal migration,Contact process,SCI,True,0,15443.0,1.0
+ರುಬೆಲ್ಲಾ,A_same_area,Rubella,Ecology,SCI,True,0,6507.0,1.0
+ಜಾಪತ್ರೆ,A_same_area,Nutmeg,Radioactive decay,SCI,True,0,12819.0,1.0
+ಔಷಧ,A_same_area,Medication,Coordination complex,SCI,True,0,11240.0,1.0
+ಪರಮಾಣು ಭೌತಶಾಸ್ತ್ರ,A_same_area,Atomic physics,Internal resistance,SCI,True,0,2878.0,1.0
+ಯಕ್ಕ,A_same_area,Yucca,Food web,SCI,True,0,414.0,1.0
+ಅಂಚೆ ಚೀಟಿ,A_same_area,Postage stamp,Biological pest control,SCI,True,0,9048.0,1.0
+ಕಲ್ಲಂಗಡಿ,A_same_area,Watermelon,Redox,SCI,True,0,30214.0,1.0
+ಸ್ಟಿಂಗ್ರೇ,A_same_area,Stingray,Cellulose,SCI,True,0,114.0,1.0
+ರಿಕ್ಷಾ,A_same_area,Rickshaw,Griffith's experiment,SCI,True,0,1812.0,1.0
+ಕಲ್ಲು,A_same_area,Rock (geology),Earth's magnetic field,SCI,True,0,13972.0,1.0
+ಲವಂಗ,A_same_area,Clove,Food chain,SCI,True,0,19510.0,1.0
+ಗಾಂಜಾ,A_same_area,Cannabis (drug),DNA,SCI,True,0,14496.0,1.0
+ಫಾಸ್ಫಾರಿಕ್ ಆಮ್ಲ,A_same_area,Phosphoric acid,Electric field,SCI,True,0,76.0,1.0
+ಡೇಲಿಯ,A_same_area,Dahlia,Synapse,SCI,True,0,5160.0,1.0
+ಕೆಲೊರಿ,A_same_area,Calorie,Logic gate,SCI,True,0,2458.0,1.0
+ಗಿಡತಿಗಣೆಗಳು,A_same_area,Hemiptera,Electron mobility,SCI,True,0,158.0,1.0
+ಲಾರ್ಜ್ ಹ್ಯಾಡ್ರಾನ್ ಕೊಲೈಡರ್,A_same_area,Large Hadron Collider,Maxwell's equations,SCI,True,0,3171.0,1.0
+ತೋಟ,A_same_area,Garden,Polymerization,SCI,True,0,7784.0,1.0
+ಭೂಕುಸಿತ,A_same_area,Landslide,Refraction,SCI,True,0,27974.0,1.0
+ಇಂಗಾಲದ ನ್ಯಾನೊಟ್ಯೂಬ್,A_same_area,Carbon nanotube,Non-renewable resource,SCI,True,0,268.0,1.0
+ಮಂಗಳ ಗ್ರಹದ ಅನ್ವೇಷಣೆ,A_same_area,Exploration of Mars,Galvanic cell,SCI,True,0,10631.0,1.0
+ಸರೋವರ,A_same_area,Lake,Seed,SCI,True,0,30015.0,1.0
+ಮೆಣಸಿನಕಾಯಿ,A_same_area,Chili pepper,Refractive index,SCI,True,0,28635.0,1.0
+ಏಣಿ,A_same_area,Ladder,Fragmentation (reproduction),SCI,True,0,12243.0,1.0
+ಹೇಸರಗತ್ತೆ,A_same_area,Mule,Chikungunya,SCI,True,0,3864.0,1.0
+ಅಂಟು,A_same_area,Adhesive,Raoult's law,SCI,True,0,32049.0,1.0
+ಮೀಟುಗೋಲು,A_same_area,Lever,Animal husbandry,SCI,True,0,1000.0,1.0
+ಆರೋರೂಟ್,A_same_area,Arrowroot,Electric dipole moment,SCI,True,0,1323.0,1.0
+ಆಮ್ಲಗಳು ಮತ್ತು ಪ್ರತ್ಯಾಮ್ಲಗಳು,A_same_area,Acid–base reaction,Auxin,SCI,True,0,52274.0,1.0
+ಟೈಟೇನಿಯಮ್,A_same_area,Titanium,Rainbow,SCI,True,0,4411.0,1.0
+ಚಿಪ್ಪುಹಂದಿ,A_same_area,Pangolin,Transistor,SCI,True,0,4029.0,1.0
+ಕುಕರ್ಬಿಟೇಸೀ,A_same_area,Cucurbitaceae,Joule heating,SCI,True,0,1044.0,1.0
+ಯುಏವಿ,A_same_area,Unmanned aerial vehicle,Color blindness,SCI,True,0,5391.0,1.0
+ಮರಸೇಬು,A_same_area,Pear,Monosaccharide,SCI,True,0,9303.0,1.0
+ಜರಿ,A_same_area,Centipede,Electric motor,SCI,True,0,9512.0,1.0
+ಚಪ್ಪಟೆ ಹುಳುಗಳು,A_same_area,Flatworm,Dominance (genetics),SCI,True,0,4212.0,1.0
+ಇಬ್ಬನಿ,A_same_area,Dew,Adaptive radiation,SCI,True,0,6408.0,1.0
+ಜಲಾಶಯ,A_same_area,Reservoir,Homology (biology),SCI,True,0,7683.0,1.0
+ಕಂದು (ಬಣ್ಣ),A_same_area,Brown,Bravais lattice,SCI,True,0,6726.0,1.0
+ಮ್ಯಾಗ್ನೆಟ್ರಾನ್,A_same_area,Cavity magnetron,Sex linkage,SCI,True,0,285.0,1.0
+ಏಡಿ,A_same_area,Brachyura,Solution (chemistry),SCI,True,0,10589.0,1.0
+ಹೊಲಿಗೆಯಂತ್ರ,A_same_area,Sewing machine,Focal length,SCI,True,0,19062.0,1.0
+ದೃಕ್ ದೂರದರ್ಶಕ,A_same_area,Optical telescope,Diazonium compound,SCI,True,0,584.0,1.0
+ಆರ್ಡ್ವಾರ್ಕ್,A_same_area,Aardvark,Testicle,SCI,True,0,1557.0,1.0
+ಹಲ್ಲು,A_same_area,Tooth,Rancidification,SCI,True,0,6571.0,1.0
+ಧೂಮಕೇತು,A_same_area,Comet,Sexual reproduction,SCI,True,0,24946.0,1.0
+ಗ್ರೌಸ್,A_same_area,Grouse,Fleming's right-hand rule,SCI,True,0,15.0,1.0
+ಸುನಾಮಿ,A_same_area,Tsunami,Amino acid,SCI,True,0,72310.0,1.0
+ಶನಿ (ಗ್ರಹ),A_same_area,Saturn,Typhoid fever,SCI,True,0,52715.0,1.0
+ಲರ್ನಿಂಗ್ ಡಿಸೆಬಿಲಿಟೀ,A_same_area,Learning disability,Electrochemistry,SCI,True,0,4305.0,1.0
+ಬಾಹ್ಯಾಕಾಶ ನಿಲ್ದಾಣ,A_same_area,Space station,Heterotroph,SCI,True,0,2924.0,1.0
+ಕಣ ವೇಗೋತ್ಕರ್ಷಕ,A_same_area,Particle accelerator,Total internal reflection,SCI,True,0,499.0,1.0
+ಸೌರಾತೀತ ಗ್ರಹ,A_same_area,Exoplanet,Alloy,SCI,True,0,2779.0,1.0
+ದಡಾರ,A_same_area,Measles,Penicillin,SCI,True,0,21604.0,1.0
+ಅಂಚೆ ವ್ಯವಸ್ಥೆ,A_same_area,Mail,Autotroph,SCI,True,0,52103.0,1.0
+ಮರುಬಳಕೆ,A_same_area,Recycling,Puberty,SCI,True,0,56415.0,1.0
+ಡಯಾಟಮ್,A_same_area,Diatom,Bakelite,SCI,True,0,2120.0,1.0
+ಒರಾಂಗೂಟಾನ್,A_same_area,Orangutan,Alternating current,SCI,True,0,2275.0,1.0
+ಕೊಕ್ಸಿನೆಲ್ಲಿಡೇ,A_same_area,Coccinellidae,Acid,SCI,True,0,74.0,1.0
+ಗುರಾಣಿ,A_same_area,Shield,Brewster's angle,SCI,True,0,2950.0,1.0
+ಗಿನಿಯಿಲಿ,A_same_area,Guinea pig,Flower,SCI,True,0,16969.0,1.0
+ನೆರಡಿ,A_same_area,Anthrax,Glucose,SCI,True,0,1097.0,1.0
+ಜೀವಕೋಶ,A_same_area,Cell (biology),Electromagnetic spectrum,SCI,True,0,155256.0,1.0
+ಯಂತ್ರಮಾನವಶಾಸ್ತ್ರ,A_same_area,Robotics,Electric charge,SCI,True,0,1516.0,1.0
+ಹವಳ,A_same_area,Coral,Abiogenesis,SCI,True,0,20933.0,1.0
+ನಾಯಿಕೆಮ್ಮು,A_same_area,Whooping cough,Ammeter,SCI,True,0,5137.0,1.0
+ಕ್ಯಾನ್ವಾಸ್,A_same_area,Canvas,Matter wave,SCI,True,0,637.0,1.0
+ಗಿಡಮೂಲಿಕೆಗಳ ಔಷಧಿ,A_same_area,Herbal medicine,Man and the Biosphere Programme,SCI,True,0,107244.0,1.0
+ನೆಯ್ಗೆ,A_same_area,Weaving,Magnetic flux,SCI,True,0,1633.0,1.0
+ಹೊಲಿಗೆ,A_same_area,Sewing,Zwitterion,SCI,True,0,4747.0,1.0
+ಚಪ್ಪಟೆ ಮೀನುಗಳು,A_same_area,Flatfish,Regeneration (biology),SCI,True,0,79.0,1.0
+ಅತಿಸಾರ,A_same_area,Diarrhea,Klinefelter syndrome,SCI,True,0,8100.0,1.0
+ಮೊಸಳೆ,A_same_area,Crocodile,Phosphorus,SCI,True,0,11796.0,1.0
+ರೇಷ್ಮೆಹುಳು,A_same_area,Bombyx mori,Punnett square,SCI,True,0,2155.0,1.0
+ಕ್ರಮಪಲ್ಲಟನೆ,A_same_area,Permutation,Euclidean distance,MAT,True,0,3993.0,1.0
+ಆಧುನಿಕ ಬೀಜಗಣಿತ,A_same_area,Abstract algebra,Line (geometry),MAT,True,0,3343.0,1.0
+ಗ್ರಾಫ್ ಸಿದ್ಧಾಂತ,A_same_area,Graph theory,Sphere,MAT,True,0,137.0,1.0
+ಡೇಟಾ ಸ್ಟ್ರಕ್ಚರ್ಸ್,A_same_area,Data structure,Differential equation,MAT,True,0,1716.0,1.0
+ಫ್ರಾಕ್ಟಲ್,A_same_area,Fractal,Cartesian coordinate system,MAT,True,0,63.0,1.0
+ಗಣ (ಗಣಿತ),A_same_area,Set (mathematics),Expected value,MAT,True,0,8411.0,1.0
+ಶ್ರೇಢಿಗಳು (ಗಣಿತ),A_same_area,Series (mathematics),System of linear equations,MAT,True,0,27334.0,1.0
+ಫೋರ್ಯೇ ಶ್ರೇಣಿಗಳು,A_same_area,Fourier series,Integration by parts,MAT,True,0,154.0,1.0
+ದ್ವಿಮಾನ ಸಂಖ್ಯಾ ಪದ್ಧತಿ,A_same_area,Binary number,Matrix multiplication,MAT,True,0,6285.0,1.0
+ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ,A_same_area,Prime number,List of trigonometric identities,MAT,True,0,52389.0,1.0
+ಅನಂತ,A_same_area,Infinity,Median,MAT,True,0,6186.0,1.0
+ಭಿನ್ನಾಂಕ,A_same_area,Fraction,Position (geometry),MAT,True,0,2193.0,1.0
+ಸಮೀಕರಣದ ಮೂಲ,A_same_area,Equation solving,Cone,MAT,True,0,212.0,1.0
+ಗ್ರೂಪ್,A_same_area,Group (mathematics),Random variable,MAT,True,0,254.0,1.0
+ಗ್ಯಾಮ ಉತ್ಪನ್ನ,A_same_area,Gamma function,Derivative,MAT,True,0,165.0,1.0
+ಘನಕೋನ,A_same_area,Solid angle,Function composition,MAT,True,0,237.0,1.0
+ವಿಮಿತಿ,A_same_area,Dimension,Chain rule,MAT,True,0,1788.0,1.0
+ಅಂಕಿ,A_same_area,Numerical digit,Linear differential equation,MAT,True,0,17791.0,1.0
+ಬೂಲಿಯನ್ ಬೀಜಗಣಿತ,A_same_area,Boolean algebra,Linear programming,MAT,True,0,373.0,1.0
+ಸಂಸ್ಥಿತಿವಿಜ್ಞಾನ,A_same_area,Topology,Inverse trigonometric functions,MAT,True,0,347.0,1.0
+ಗಣ ಸಿದ್ಧಾಂತ,A_same_area,Set theory,Volume,MAT,True,0,1010.0,1.0
+ಜೋಧಪುರ್,A_same_area,Jodhpur,Special economic zone,SST,False,0,0.0,
+ಅಂಡಮಾನ್ ಮತ್ತು ನಿಕೊಬಾರ್ ದ್ವೀಪಗಳು,A_same_area,Andaman and Nicobar Islands,Federalism,SST,False,0,0.0,
+ಯಮನ್,A_same_area,Yemen,Feminism,SST,False,0,0.0,
+ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ,A_same_area,Vijayanagara Empire,Unification of Germany,SST,False,0,0.0,
+ಮಾಧ್ಯಮ,A_same_area,Mass media,Printing press,SST,False,0,0.0,
+ಪೂರ್ವ ಇತಿಹಾಸ,A_same_area,Prehistory,Jute,SST,False,0,0.0,
+ಗೀಜ,A_same_area,Giza,State List,SST,True,0,1527.0,1.0
+ಸಂದೇಹ,A_same_area,Doubt,Demand deposit,SST,False,0,0.0,
+ಕಂದಹಾರ್,A_same_area,Kandahar,Self-help group (finance),SST,False,0,0.0,
+ಮೆಕಾಂಗ್ ನದಿ,A_same_area,Mekong,Public sector,SST,False,0,0.0,
+ಏಷ್ಯ ಮೈನರ್,A_same_area,Anatolia,Millet,SST,False,0,0.0,
+ಬ್ರೆಸಿಲಿಯಾ,A_same_area,Brasília,Giuseppe Garibaldi,SST,False,0,0.0,
+ಬಾಂಗ್ಲಾದೇಶದ ಇತಿಹಾಸ,A_same_area,History of Bangladesh,Concurrent List,SST,False,0,0.0,
+ಪ್ರಯಾಗ್ ರಾಜ್,A_same_area,Prayagraj,Primary sector,SST,False,0,0.0,
+ಸ್ಪಾರ್ಟಾ,A_same_area,Sparta,Languages of India,SST,False,0,0.0,
+ಡೊಮಿನಿಕ ಗಣರಾಜ್ಯ,A_same_area,Dominican Republic,Bharatiya Janata Party,SST,False,0,0.0,
+ಮ್ಯಾಂಡರಿನ್ ಭಾಷೆ,A_same_area,Mandarin Chinese,Agenda 21,SST,False,0,0.0,
+ಇಸ್ಲಾಮಾಬಾದ್,A_same_area,Islamabad,Salt March,SST,False,0,0.0,
+ಅಮೇರಿಕಾದ ಅಂತಃಕಲಹ,A_same_area,American Civil War,Mahatma Gandhi,SST,False,0,0.0,
+ಸೇಂಟ್ ವಿನ್ಸೆಂಟ್ ಮತ್ತು ಗ್ರೆನಡೀನ್ಸ್,A_same_area,Saint Vincent and the Grenadines,Quit India Movement,SST,False,0,0.0,
+ಗ್ಯಾಬೆರೋಹ್ನಿ,A_same_area,Gaborone,Laterite,SST,False,0,0.0,
+ಇಂಡೊನೇಷ್ಯ ಭಾಷೆ,A_same_area,Indonesian language,Congress of Vienna,SST,False,0,0.0,
+ವಿಪತ್ತು ಸನ್ನದ್ಧತೆ,A_same_area,Emergency management,Consumer protection,SST,False,0,0.0,
+ದೊಹಾ,A_same_area,Doha,Natural gas,SST,False,0,0.0,
+ಅಸ್ಸೀರಿಯ,A_same_area,Assyria,Indian independence movement,SST,False,0,0.0,
+ಎಡಿನ್ಬರ್ಗ್,A_same_area,Edinburgh,Indian Railways,SST,False,0,0.0,
+ಬೆಲಾರುಸ್,A_same_area,Belarus,East India Company,SST,False,0,0.0,
+ಪೋರ್ಚುಗೀಯ ಭಾಷೆ,A_same_area,Portuguese language,Coal,SST,False,0,0.0,
+ಉರ್ದೂ,A_same_area,Urdu,Biodiversity,SST,False,0,0.0,
+ರಜಾದಿನ,A_same_area,Holiday,Information technology in India,SST,False,0,0.0,
+ನಂಬಿಕೆ,A_same_area,Trust (social science),Tertiary sector,SST,False,0,0.0,
+ಬೆಲೆ,A_same_area,Price,Spinning jenny,SST,False,0,0.0,
+ಮೊಹೆಂಜೊ-ದಾರೋ,A_same_area,Mohenjo-daro,Reserve Bank of India,SST,False,0,0.0,
+ಫ್ರೆಂಚ್ ಭಾಷೆ,A_same_area,French language,Silk Road,SST,False,0,0.0,
+ವಿಯೆಟ್ನಾಮ್,A_same_area,Vietnam,Belgium,SST,False,0,0.0,
+ಇಸ್ರೇಲಿನ ಇತಿಹಾಸ,A_same_area,History of Israel,Johannes Gutenberg,SST,False,0,0.0,
+ಕಂಪಾಲ,A_same_area,Kampala,Napoleonic Code,SST,False,0,0.0,
+ಜರ್ಮನ್ ಭಾಷೆ,A_same_area,German language,Coffee,SST,False,0,0.0,
+ಸ್ಟಾಕ್ ಎಕ್ಸ್ಚೇಂಜ್,A_same_area,Stock exchange,Bretton Woods system,SST,False,0,0.0,
+ಜಾರ್ಡನ್ ನದಿ,A_same_area,Jordan River,Project Tiger,SST,False,0,0.0,
+ಬೇಟೆ,A_same_area,Hunting,Decentralization,SST,False,0,0.0,
+ಮಾರ್ಕ್ಸ್ವಾದ,A_same_area,Marxism,Democracy,SST,False,0,0.0,
+ಇಗುವಾಸ್ಸು ಜಲಪಾತ,A_same_area,Iguazu Falls,Mica,SST,False,0,0.0,
+ನೇಪಾಳಿ ಭಾಷೆ,A_same_area,Nepali language,Sardar Sarovar Dam,SST,False,0,0.0,
+ಬಕ್ರೀದ್,A_same_area,Eid al-Adha,World Trade Organization,SST,False,0,0.0,
+ಕಳ್ಳತನ,A_same_area,Theft,Rinderpest,SST,False,0,0.0,
+ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನದ ಸಂವಿಧಾನ,A_same_area,Constitution of the United States,Barter,SST,False,0,0.0,
+ರಿಯಾಧ್,A_same_area,Riyadh,Multinational corporation,SST,False,0,0.0,
+ಮೈಕ್ರೋಸಾಫ್ಟ್,A_same_area,Microsoft,French Revolution,SST,False,0,0.0,
+ಶಾತವಾಹನರು,A_same_area,Satavahana dynasty,Corn Laws,SST,False,0,0.0,
+ಕೊಲೊಂಬಿಯ,A_same_area,Colombia,Gross domestic product,SST,False,0,0.0,
+ಲಿಸ್ಬನ್,A_same_area,Lisbon,Wheat,SST,False,0,0.0,
+ಬಾಗ್ದಾದ್,A_same_area,Baghdad,Communist Party of India (Marxist),SST,False,0,0.0,
+ಕೇಮನ್ ದ್ವೀಪಗಳು,A_same_area,Cayman Islands,Petroleum,SST,False,0,0.0,
+ಆಗ್ನೇಯ ಏಷ್ಯಾ ರಾಷ್ಟ್ರಗಳ ಸಂಘ,A_same_area,ASEAN,Federalism in India,SST,False,0,0.0,
+ಒಡಿಯಾ,A_same_area,Odia language,Soil erosion,SST,True,0,2533.0,1.0
+ಇಜ್ಮಿರ್,A_same_area,İzmir,Rabi crop,SST,True,0,1404.0,1.0
+ಟಿಬಿಲಿಸಿ,A_same_area,Tbilisi,Agriculture in India,SST,False,0,0.0,
+ಯುಗೊಸ್ಲಾವಿಯ,A_same_area,Yugoslavia,Great Depression,SST,False,0,0.0,
+ಮಧ್ಯ ಪ್ರಾಚ್ಯ,A_same_area,Middle East,Romanticism,SST,False,0,0.0,
+ಅಮೆರಿಕದ ಸ್ವಾತಂತ್ರ್ಯ,A_same_area,United States Declaration of Independence,Human Development Index,SST,False,0,0.0,
+ಟೀಮಾರ್,A_same_area,Timor,Shifting cultivation,SST,False,0,0.0,
+ಕಾಂಬೋಡಿಯ,A_same_area,Cambodia,Industrial Revolution,SST,False,0,0.0,
+ಸೇಂಟ್ ಪೀಟರ್ಸ್‌ಬರ್ಗ್,A_same_area,Saint Petersburg,Globalization,SST,False,0,0.0,
+ಪೂರ್ವ ಯುರೋಪ್,A_same_area,Eastern Europe,Tea,SST,False,0,0.0,
+ಗುವಾಹಾಟಿ,A_same_area,Guwahati,Per capita income,SST,False,0,0.0,

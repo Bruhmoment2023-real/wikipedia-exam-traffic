@@ -1,0 +1,5 @@
+spec,n_pairs,D,D_lo,D_hi,perm_p_one_sided,perm_splits,share_pairs_negative
+E3 user (current title only),104,-0.0398,-0.0727,-0.0087,0.1286,70.0,0.5673
+E3 all-agents,104,-0.0203,-0.0585,0.0186,0.3143,70.0,0.5577
+E3 automated only,0,,,,,,
+E3 spider+other = all-agents - user - automated,104,-0.0273,-0.0771,0.0209,0.3143,70.0,0.5

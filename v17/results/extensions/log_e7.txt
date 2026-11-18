@@ -1,0 +1,14 @@
+main pairs 718 D -0.0455 p 0.1286
+D:\Research-Publishing\05-wikipedia-exam-traffic\rework-v3\code\ext_analysis.py:248: RuntimeWarning: divide by zero encountered in log
+  w, b = an.windows(y); L[:, j] = np.log(m["all"][:, b].mean(1))
+   exam_year      baseline  syllabus_change_vs_2017  control_change_vs_2017  relative_level_syl_minus_ctl   ci_lo   ci_hi
+0       2017  Jul-Oct 2016                   0.0000                  0.0000                        0.0000  0.0000  0.0000
+1       2018  Jul-Oct 2017                   0.0145                 -0.0068                        0.0213 -0.0007  0.0469
+2       2019  Jul-Oct 2018                   0.0222                 -0.0047                        0.0269 -0.0029  0.0592
+3       2020  Jul-Oct 2019                  -0.0795                 -0.0611                       -0.0184 -0.0488  0.0143
+4       2021  Jul-Oct 2020                  -0.1293                 -0.1146                       -0.0147 -0.0573  0.0271
+5       2022  Jul-Oct 2021                  -0.2568                 -0.1822                       -0.0746 -0.1179 -0.0313
+6       2023  Jul-Oct 2022                  -0.4702                 -0.2191                       -0.2510 -0.2971 -0.2053
+7       2024  Jul-Oct 2023                  -0.5014                 -0.1536                       -0.3478 -0.3971 -0.2992
+8       2025  Jul-Oct 2024                  -0.6328                 -0.3055                       -0.3272 -0.3784 -0.2769
+9       2026  Jul-Oct 2025                  -1.0117                 -0.5456                       -0.4660 -0.5248 -0.4078

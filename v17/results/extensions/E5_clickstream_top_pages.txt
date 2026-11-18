@@ -1,0 +1,228 @@
+== 2019-10 in
+prev
+Freddie_Mercury                      28677
+List_of_systems_of_the_human_body    13916
+Periodic_table                       12226
+Sex                                  12029
+Albert_Einstein                      11664
+William_Ramsay                        9631
+Brittany_Murphy                       8818
+HIV                                   7663
+Pollution                             7553
+Electromagnetic_spectrum              7377
+Electromagnetic_radiation             7340
+Light                                 6291
+Greenhouse_gas                        6243
+Chrissy_Teigen                        5913
+Nikola_Tesla                          5897
+== 2019-10 share_from_syllabus
+0.1526
+== 2019-10 out
+curr
+Electromagnetic_radiation           6939
+Sexual_intercourse                  6640
+Oganesson                           6316
+Faraday's_law_of_induction          6110
+Light                               5758
+Chemical_element                    5651
+Trigonometric_functions             5442
+IUCN_Red_List_of_extinct_species    5320
+Gamma_ray                           4744
+Magnetic_field                      4607
+Alexander_Fleming                   4547
+Minor_(linear_algebra)              4435
+Glucose                             4358
+Extinct_in_the_wild                 4326
+HIV                                 4168
+== 2019-10 out_share_to_syllabus
+0.1581
+== 2020-02 in
+prev
+Water_treatment                      36535
+Coronavirus                          27357
+Freddie_Mercury                      18432
+Sex                                  14172
+Linda_Hunt                           13550
+Periodic_table                       13162
+List_of_systems_of_the_human_body    12737
+HIV                                  10745
+Brittany_Murphy                      10627
+Albert_Einstein                      10590
+Mary_Mallon                           9304
+Virus                                 8579
+Electromagnetic_spectrum              6723
+Pollution                             6297
+Electromagnetic_radiation             6073
+== 2020-02 share_from_syllabus
+0.1460
+== 2020-02 out
+curr
+Parasite_(2019_film)                15481
+Rhinovirus                          14562
+Parasite_(disambiguation)           12013
+Coronavirus                         10139
+Chemical_element                     6431
+Electromagnetic_radiation            6239
+HIV                                  6072
+Faraday's_law_of_induction           5653
+Influenza                            5291
+Light                                5261
+Alexander_Fleming                    4989
+DNA                                  4817
+Oganesson                            4815
+IUCN_Red_List_of_extinct_species     4810
+Trigonometric_functions              4797
+== 2020-02 out_share_to_syllabus
+0.1551
+== 2023-10 in
+prev
+Sex                             15874
+Lessons_in_Chemistry_(novel)    12733
+Albert_Einstein                 12172
+John_von_Neumann                10660
+Mary_Lou_Retton                  7727
+Periodic_table                   7169
+Maxwell's_equations              6092
+Human                            5903
+Electromagnetic_radiation        5644
+Electromagnetic_spectrum         4985
+Light                            4968
+Fentanyl                         4923
+Conservation_status              4861
+HIV                              4782
+DNA                              4736
+== 2023-10 share_from_syllabus
+0.1462
+== 2023-10 out
+curr
+Thylacine                           6877
+Electromagnetic_radiation           6590
+Sexual_intercourse                  5442
+Chinese_paddlefish                  5314
+Extinct_in_the_wild                 5144
+Dodo                                4536
+Faraday's_law_of_induction          4464
+IUCN_Red_List_of_extinct_species    4382
+Gamma_ray                           3994
+Trigonometric_functions             3896
+Electromagnetic_field               3816
+John_Langdon_Down                   3769
+Magnetic_field                      3769
+Great_auk                           3762
+Chemical_element                    3694
+== 2023-10 out_share_to_syllabus
+0.1546
+== 2024-02 in
+prev
+Albert_Einstein              23972
+Casimir_Funk                 13639
+Sex                          11044
+Shuji_Nakamura               11004
+Periodic_table                7180
+Electromagnetic_spectrum      5862
+Electromagnetic_radiation     5781
+Maxwell's_equations           5371
+Light                         5292
+Fentanyl                      5145
+Ricardo_López_(stalker)       4825
+Conservation_status           4725
+Human                         4675
+HIV                           4572
+DNA                           4298
+== 2024-02 share_from_syllabus
+0.1465
+== 2024-02 out
+curr
+Electromagnetic_radiation           6711
+Shuji_Nakamura                      6071
+Thylacine                           5834
+Sexual_intercourse                  5245
+Chinese_paddlefish                  4491
+Extinct_in_the_wild                 4300
+Gamma_ray                           4213
+Faraday's_law_of_induction          4110
+Dodo                                4085
+John_Langdon_Down                   4029
+IUCN_Red_List_of_extinct_species    4001
+Magnetic_field                      3909
+Trigonometric_functions             3866
+Electromagnetic_field               3664
+Periodic_table                      3606
+== 2024-02 out_share_to_syllabus
+0.1525
+== 2025-02 in
+prev
+Barbie_Hsu                  16280
+Albert_Einstein             11906
+Elon_Musk                    9666
+Periodic_table               6985
+Fentanyl                     6198
+Sex                          5996
+Shivon_Zilis                 5996
+The_Gorge_(film)             5261
+Electromagnetic_spectrum     4983
+HIV                          4944
+Human                        4821
+Maxwell's_equations          4748
+Conservation_status          4692
+Light                        4602
+Sex_organ                    4561
+== 2025-02 share_from_syllabus
+0.1410
+== 2025-02 out
+curr
+John_Langdon_Down             6617
+Thylacine                     5938
+Electromagnetic_radiation     5460
+Sexual_intercourse            5216
+Faraday's_law_of_induction    3688
+Gamma_ray                     3605
+Periodic_table                3551
+Chinese_paddlefish            3518
+Dodo                          3511
+Magnetic_field                3441
+Trigonometric_functions       3441
+Chemical_element              3392
+Electromagnetic_field         3346
+Passenger_pigeon              3333
+Extinct_in_the_wild           3218
+== 2025-02 out_share_to_syllabus
+0.1517
+== 2026-02 in
+prev
+Albert_Einstein              9279
+Anne_Burrell                 7206
+Periodic_table               5612
+Sex_organ                    4522
+HIV                          4181
+Electromagnetic_spectrum     3945
+Claudia_Winkleman            3919
+Grigori_Rasputin             3915
+Light                        3874
+Conservation_status          3838
+Sex                          3593
+DNA                          3402
+Sugar                        3288
+Maxwell's_equations          3249
+Electromagnetic_radiation    3242
+== 2026-02 share_from_syllabus
+0.1436
+== 2026-02 out
+curr
+Electromagnetic_radiation     4739
+Sexual_intercourse            4009
+Thylacine                     3689
+Fritz_Haber                   3204
+Scrotum                       3033
+Gamma_ray                     2970
+Plasmodium                    2824
+John_Langdon_Down             2801
+Periodic_table                2761
+Extinct_in_the_wild           2759
+Vagina                        2690
+Sperm                         2682
+Ejaculation                   2639
+Faraday's_law_of_induction    2630
+Oganesson                     2616
+== 2026-02 out_share_to_syllabus
+0.1511

@@ -1,0 +1,31 @@
+main pairs 718 D -0.0455 p 0.1286
+                                                      spec  n_pairs      D   D_lo   D_hi  perm_p_one_sided  perm_splits  share_pairs_negative
+0                                   E1 placebo window F-77      711 -0.011 -0.023  0.001             0.314         70.0                 0.525
+1                                   E1 placebo window F+77      711 -0.055 -0.071 -0.039             0.129         70.0                 0.609
+2                                  E1 placebo window F+126      711 -0.017 -0.034 -0.001             0.471         70.0                 0.544
+3                                       MAIN (true window)      711 -0.046 -0.059 -0.033             0.129         70.0                 0.616
+4  E1a within-pre break: mean(2019,2020) - mean(2017,2018)      711 -0.034 -0.054 -0.014               NaN          NaN                   NaN
+   dropped_year      D  perm_p_one_sided  splits
+0          2017 -0.038             0.200      35
+1          2018 -0.042             0.200      35
+2          2019 -0.057             0.114      35
+3          2020 -0.045             0.200      35
+4          2023 -0.049             0.143      35
+5          2024 -0.069             0.057      35
+6          2025 -0.029             0.257      35
+7          2026 -0.035             0.257      35
+{'observed_D': np.float64(-0.045510502230600734), 'share_draws_le_observed': 0.0, 'draw_sd': 0.0068664681347283705, 'draw_p2_5': -0.013567579989891004, 'draw_p97_5': 0.013402566345316821}
+                                          0       1
+estimator            article-level mean gap  pooled
+D                                    -0.046  -0.049
+welch_se                               0.03   0.029
+welch_df                              4.162   4.384
+welch_lo                             -0.126  -0.128
+welch_hi                              0.035    0.03
+perm_inversion_lo                    -0.117   -0.12
+perm_inversion_hi                     0.059   0.052
+perm_p_two_sided                      0.257     0.2
+pre_mean_gap                          0.092   0.062
+post_mean_gap                         0.047   0.013
+D_over_pre_gap                       -0.492  -0.791
+pct_change_in_ratio                  -4.449  -4.806

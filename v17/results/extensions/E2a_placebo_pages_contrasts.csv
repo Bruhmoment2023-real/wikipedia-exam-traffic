@@ -1,0 +1,4 @@
+spec,n_pairs,D,D_lo,D_hi,perm_p_one_sided,perm_splits,share_pairs_negative
+E2a(i) control A minus placebo C,285,0.0154,-0.0079,0.0395,0.9429,70,0.4526
+E2a(ii) syllabus vs control C,285,-0.0408,-0.0596,-0.0206,0.1286,70,0.6526
+"E2a(iii) same syllabus articles, original control A",284,-0.0553,-0.0756,-0.035,0.1143,70,0.6373
