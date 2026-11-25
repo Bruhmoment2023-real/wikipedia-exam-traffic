@@ -5,7 +5,7 @@ Data-driven map of the literature around: *Did exam-season Wikipedia traffic for
 - **Corpus size:** 631 records (Students' information-seeking and AI tools for schoolwork: 357; Wikipedia page-view research / behavioural signal: 180; Generative AI / AI search and knowledge platforms: 82; seed: 12)
 - **Date of pull:** 2026-10-17
 - **Sources:** discovery in Crossref, Semantic Scholar, ERIC and arXiv; metadata from OpenAlex; forward citations from OpenCitations. No Scopus/WoS data (EMPTY - no Scopus/WoS export to merge; corpus is OpenAlex-only).
-- **Made by:** an AI agent (Claude). It contains data, figures, tables and bullet-point analysis only - no manuscript prose.
+- **Contents:** data, figures, tables and bullet-point analysis only - no manuscript prose.
 
 ## What is here
 
